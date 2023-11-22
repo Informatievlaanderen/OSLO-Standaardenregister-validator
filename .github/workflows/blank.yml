@@ -6,13 +6,13 @@ name: CI
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
-    branches: [ "main" ]
+    branches: ["main"]
     paths-ignore:
-      - '**/README.md'
+      - "**/README.md"
   pull_request:
-    branches: [ "main" ]
+    branches: ["main"]
     paths-ignore:
-      - '**/README.md'
+      - "**/README.md"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -27,7 +27,6 @@ jobs:
       matrix:
         os: [ubuntu-latest]
         node-version:
-          - 14.x
           - 16.x
           - 18.x
     steps:
@@ -35,25 +34,8 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
-       # Runs a single command using the runners shell
+        # Runs a single command using the runners shell
       - name: Check out repository
         uses: actions/checkout@v3
       - name: Run a one-line script
         run: echo Hello, world!
-
-      # - name: Use Node.js ${{ matrix.node-version }}
-      #   uses: actions/setup-node@v3
-      #   with:
-      #     node-version: ${{ matrix.node-version }}
-      # - name: Check out repository
-      #   uses: actions/checkout@v3
-      # - name: Install dependencies
-      #   run: |
-      #     npm install
-      #     npx lerna exec -- npm i
-      #     npx lerna bootstrap
-      # - name: Build project
-      #   run: npm run build
-      # - name: Run integration test script
-      #   run: ./.github/scripts/oslo-converter-uml-ea.int.sh
-      #   shell: bash
