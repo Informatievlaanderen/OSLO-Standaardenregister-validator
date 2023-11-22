@@ -19,13 +19,14 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
+  # This workflow contains a single job called "validate-standaarden"
   validate-standaarden:
     # The type of runner that the job will run on
     runs-on: ${{ matrix.os }}
     strategy:
       matrix:
         os: [ubuntu-latest]
+        # Different Node versions. Each node version will trigger the action
         node-version:
           - 16.x
           - 18.x
