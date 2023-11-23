@@ -35,6 +35,9 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
+        # Runs a single command using the runners shell
+      - name: Check out repository
+        uses: actions/checkout@v3
       - name: Install dependencies
         run: |
           npm install
