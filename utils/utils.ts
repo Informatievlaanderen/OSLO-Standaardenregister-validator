@@ -1,7 +1,5 @@
-import { json2csv } from 'json-2-csv';
-import fs from 'fs';
-import xlsx from 'xlsx';
-import { SanitizedConfiguration } from '../types/configuration';
+import { json2csv } from 'json-2-csv'
+import fs from 'fs'
 
 const generateRawGithubUrl = (url: string): string => {
     return url.replace('github.com', 'raw.githubusercontent.com')
@@ -16,31 +14,27 @@ const writeFile = (path: string, data: string): void => {
         fs.writeFileSync(path, data, 'utf-8')
     } catch (error: unknown) {
         console.error('Error: unable to write the file', error)
-        throw error;
+        throw error
     }
 }
 
-const readFile = (path: string): string => {
+const getFilesFromPath = (path: string, extension: string): string[] => {
     try {
-        return fs.readFileSync(path, 'utf-8')
+        const fileObjs = fs.readdirSync(path)
+        return fileObjs.filter(file => file.match(new RegExp(`.*\.(${extension})`, 'ig')))
     } catch (error: unknown) {
-        console.error('Error: unable to read the file', error)
-        throw error;
+        console.error('Error: unable to get the files from the path', error)
+        throw error
     }
 }
 
 const convertJsonToCsv = (json: Object[]): string => {
-    return json2csv(json);
-}
-
-const convertCsvToExcel = (csv: string, fileName: string): void => {
     try {
-        const wb = xlsx.read(csv, { type: "string", cellStyles: true });
-        xlsx.writeFile(wb, `${fileName}.xlsx`);
+        return json2csv(json)
     } catch (error: unknown) {
-        console.error('Error: unable to convert csv to Excel', error)
-        throw error;
+        console.error('Error: unable to convert json to csv', error)
+        throw error
     }
 }
 
-export { generateRawGithubUrl, generateRawGithubPath, writeFile, convertJsonToCsv, convertCsvToExcel }
+export { generateRawGithubUrl, generateRawGithubPath, writeFile, getFilesFromPath, convertJsonToCsv }

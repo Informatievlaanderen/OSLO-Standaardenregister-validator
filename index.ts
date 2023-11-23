@@ -1,14 +1,15 @@
 import axios from 'axios'
+import path from 'path'
 
-import { FetchOptions } from './types/fetchOptions'
 import { Configuration, SanitizedConfiguration, defaultConfiguration } from './types/configuration'
 import { Standard } from './types/standard'
-import { generateRawGithubPath, writeFile, convertJsonToCsv, convertCsvToExcel } from './utils/utils'
+import { generateRawGithubPath, writeFile, convertJsonToCsv } from './utils/utils'
+import { convertCsvsToExcel } from './utils/xlsx.utils'
+import { GET_OPTIONS, STANDARDS_REGISTRY_URL } from './constants/constants'
 
-const options: FetchOptions = {
-    method: 'GET',
-}
 
+// Convert values into TRUE/FALSE statements for validation of the fields
+// TODO: Can this be done cleaner?
 const sanitizeConfiguration = (configuration: Configuration): SanitizedConfiguration => {
     const sanitizedConfiguration: SanitizedConfiguration = {
         naam: configuration?.naam || defaultConfiguration?.naam,
@@ -19,11 +20,11 @@ const sanitizeConfiguration = (configuration: Configuration): SanitizedConfigura
         type_toepassing: !!configuration?.type_toepassing,
         categorie: !!configuration?.categorie,
         beschrijving: !!configuration?.beschrijving,
-        specificatiedocument: configuration?.specificatiedocument?.length > 0 || false,
-        documentatie: configuration?.documentatie?.length > 0 || false,
-        charter: configuration?.charter?.length > 0 || false,
-        verslagen: configuration?.verslagen?.length > 0 || false,
-        presentaties: configuration?.presentaties?.length > 0 || false,
+        specificatiedocument: !!configuration?.specificatiedocument?.length,
+        documentatie: !!configuration?.documentatie?.length,
+        charter: !!configuration?.charter?.length,
+        verslagen: !!configuration?.verslagen?.length,
+        presentaties: !!configuration?.presentaties?.length,
         functioneel_toepassingsgebied: !!configuration?.functioneel_toepassingsgebied,
         organisatorisch_werkingsgebied: !!configuration?.organisatorisch_werkingsgebied,
         datum_van_aanmelding: !!configuration?.datum_van_aanmelding,
@@ -34,10 +35,8 @@ const sanitizeConfiguration = (configuration: Configuration): SanitizedConfigura
 }
 
 const getStandardRegistry = async (): Promise<Array<Standard>> => {
-    const url: string = 'https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Standaarden/configuratie/standaardenregister.json'
-
     try {
-        const response = await axios<Array<Standard>>(url, options)
+        const response = await axios<Array<Standard>>(STANDARDS_REGISTRY_URL, GET_OPTIONS)
         const data = response?.data
         return data || [] // Add a default return value in case of error or empty data
     } catch (error: unknown) {
@@ -48,7 +47,7 @@ const getStandardRegistry = async (): Promise<Array<Standard>> => {
 
 const getConfiguration = async (url: string): Promise<Configuration> => {
     try {
-        const response = await axios<Configuration>(url, options)
+        const response = await axios<Configuration>(url, GET_OPTIONS)
         const data = response?.data
         return data || {} // Add a default return value in case of error or empty data
     } catch (error: unknown) {
@@ -56,7 +55,6 @@ const getConfiguration = async (url: string): Promise<Configuration> => {
         return defaultConfiguration // Add a default return value in case of error or empty data
     }
 }
-
 
 const resolveConfigurations = async (): Promise<Promise<Configuration>[]> => {
     try {
@@ -87,8 +85,6 @@ const generateSanitizedConfigsOverview = (configurations: Array<Configuration>):
     const sanitizedCsvData = convertJsonToCsv(sanitizedConfigs)
     writeFile('report/sanitized_merged_configurations.csv', sanitizedCsvData)
     writeFile('report/sanitized_merged_configurations.json', JSON.stringify(sanitizedConfigs, null, 4))
-    convertCsvToExcel(sanitizedCsvData, "report/sanitized_merged_configurations")
-
 }
 
 const generateConfigsOverview = async (): Promise<void> => {
@@ -102,7 +98,7 @@ const generateConfigsOverview = async (): Promise<void> => {
 
         generateSanitizedConfigsOverview(configurations)
 
-        convertCsvToExcel(csvData, "report/merged_configurations")
+        convertCsvsToExcel(path.join(__dirname, '/report/'), 'merged_configurations')
     } catch (error: unknown) {
         console.error('Error: unable to save the configuration in a file', error)
     }
