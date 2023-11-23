@@ -5,7 +5,7 @@
 echo "Running generate reports script"
 echo "Current working directory: $(pwd)"
 echo "Contents of current working directory: $(ls -a)"
-mkdir -p ./reports
+mkdir -p ./report
 node ./index.js
 echo "Finished running generate reports script"
 
