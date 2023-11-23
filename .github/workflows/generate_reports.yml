@@ -46,7 +46,6 @@ jobs:
       - name: Generate the reports
         shell: bash
         run: |
-          "echo pwd"
           # make file runnable, might not be necessary
           chmod +x "${GITHUB_WORKSPACE}/.github/scripts/run_generate_reports.sh"
           # run script
