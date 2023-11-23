@@ -37,7 +37,7 @@ jobs:
           node-version: ${{ matrix.node-version }}
         # Runs a single command using the runners shell
       - name: Check out repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Install dependencies
         run: |
           npm install
@@ -50,6 +50,8 @@ jobs:
           chmod +x "${GITHUB_WORKSPACE}/.github/scripts/run_generate_reports.sh"
           # run script
           "${GITHUB_WORKSPACE}/.github/scripts/run_generate_reports.sh"
+          "ls -la"
+          
       - name: Commit and push changes
         uses: actions/checkout@v4
       - run: |
