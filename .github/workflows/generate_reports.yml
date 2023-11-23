@@ -31,29 +31,28 @@ jobs:
           - 16.x
           # - 18.x
     steps:
+      - uses: actions/checkout@v4
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
         # Runs a single command using the runners shell
-      - name: Check out repository
-        uses: actions/checkout@v4
       - name: Install dependencies
         run: |
           npm install
       - name: Build project
         run: npm run build:clean
       - name: Generate the reports
+        working-directory: ${{ github.workspace }}/.github/scripts/
         shell: bash
         run: |
           # make file runnable, might not be necessary
-          chmod +x "${GITHUB_WORKSPACE}/.github/scripts/run_generate_reports.sh"
+          chmod +x "run_generate_reports.sh"
           # run script
-          "${GITHUB_WORKSPACE}/.github/scripts/run_generate_reports.sh"
-          
+          "run_generate_reports.sh"
+
       - name: Commit and push changes
-        uses: actions/checkout@v4
-      - run: |
+        run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git status
