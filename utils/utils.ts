@@ -1,6 +1,7 @@
 import { json2csv } from 'json-2-csv';
 import fs from 'fs';
 import xlsx from 'xlsx';
+import { SanitizedConfiguration } from '../types/configuration';
 
 const generateRawGithubUrl = (url: string): string => {
     return url.replace('github.com', 'raw.githubusercontent.com')
@@ -41,6 +42,5 @@ const convertCsvToExcel = (csv: string, fileName: string): void => {
         throw error;
     }
 }
-
 
 export { generateRawGithubUrl, generateRawGithubPath, writeFile, convertJsonToCsv, convertCsvToExcel }

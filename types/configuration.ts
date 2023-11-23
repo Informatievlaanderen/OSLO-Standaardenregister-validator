@@ -19,6 +19,27 @@ interface Configuration {
     erkenning_stuurgroep: string
 }
 
+interface SanitizedConfiguration {
+    naam: string
+    rapport: string
+    verantwoordelijke_organisatie: boolean
+    identificator_organisatie: boolean
+    publicatiedatum: boolean
+    type_toepassing: boolean
+    categorie: boolean
+    beschrijving: boolean
+    specificatiedocument: boolean
+    documentatie: boolean
+    charter: boolean
+    verslagen: boolean
+    presentaties: boolean
+    functioneel_toepassingsgebied: boolean
+    organisatorisch_werkingsgebied: boolean
+    datum_van_aanmelding: boolean
+    erkenning_werkgroep_datastandaarden: boolean
+    erkenning_stuurgroep: boolean
+}
+
 interface Document {
     naam: string
     waarde: string
@@ -47,6 +68,6 @@ const defaultConfiguration: Configuration = {
 
 
 
-export { defaultConfiguration, Configuration }
+export { defaultConfiguration, Configuration, SanitizedConfiguration }
 
 
