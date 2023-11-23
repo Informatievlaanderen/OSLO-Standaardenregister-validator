@@ -44,5 +44,10 @@ jobs:
       - name: Build project
         run: npm run build:clean
       - name: Generate the reports
-        run: ./.github/scripts/run_generate_reports.sh
         shell: bash
+        run: |
+          "echo pwd"
+          # make file runnable, might not be necessary
+          chmod +x "${GITHUB_WORKSPACE}/.github/scripts/run_generate_reports.sh"
+          # run script
+          "${GITHUB_WORKSPACE}/.github/scripts/run_generate_reports.sh"
