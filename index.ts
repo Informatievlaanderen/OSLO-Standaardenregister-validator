@@ -76,6 +76,7 @@ const sanitizeConfigurations = (configurations: Array<Configuration>): Array<San
         }
     } catch (error: unknown) {
         console.error('Error: unable to sanitize the configurations', error)
+        throw (error)
     }
     return [] // Add a default return value in case of error or empty data
 }
@@ -91,23 +92,28 @@ const generateConfigsOverview = async (): Promise<void> => {
     try {
         const promises = await resolveConfigurations()
         const configurations = await Promise.all(promises)
-        console.log(`Fetched all configuration files: ${configurations?.length}in total.`)
+        console.log(`Fetched all configuration files: ${configurations?.length} in total.`)
+
         const csvData = convertJsonToCsv(configurations)
         console.log('converted the configurations into one CSV')
+
         writeFile('report/merged_configurations.csv', csvData)
         console.log('Saved this csv in a file')
+
         writeFile('report/merged_configurations.json', JSON.stringify(configurations, null, 4))
         console.log('Saved the configurations as JSON in a file')
 
         console.log('Gnerating sanitized configurations...')
         generateSanitizedConfigsOverview(configurations)
-        console.log('Generating DONE')
+        console.log('Generating sanitized configurations DONE')
 
         console.log('Generating Excel file...')
         convertCsvsToExcel(path.join(__dirname, '/report/'), 'merged_configurations')
         console.log('Excel file created!')
+
     } catch (error: unknown) {
         console.error('Error: unable to save the configuration in a file', error)
+        throw (error)
     }
 }
 
