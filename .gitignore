@@ -130,6 +130,4 @@ dist
 .pnp.*
 
 # Build files
-/**/*.js
-/**/*.d.ts
-/**/*.js.map
+*.js
