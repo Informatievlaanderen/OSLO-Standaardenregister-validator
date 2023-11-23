@@ -1,7 +1,7 @@
 import { Cell, Row } from 'exceljs'
 import { FetchOptions } from '../types/fetchOptions'
 
-const STANDARDS_REGISTRY_URL: string = 'https://raw.githubusercontent.com/Informatievlaanderen/standaardenregister/master/standaardenregister.json'
+const STANDARDS_REGISTRY_URL: string = 'https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Standaarden/configuratie/standaardenregister.json'
 
 //Excel constants
 const TITLE_FONT: Row["font"] = { family: 4, size: 16, bold: true }
