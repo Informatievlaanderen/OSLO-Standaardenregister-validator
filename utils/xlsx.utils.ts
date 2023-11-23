@@ -6,6 +6,7 @@ const convertCsvsToExcel = async (path: string, fileName: string): Promise<void>
     try {
         let wb = new ExcelJS.Workbook()
         const files: string[] = getFilesFromPath(path, 'csv')
+        console.log(`Found these files to convert into one Excel: ${files}`)
         const promises = files?.map(async (file: string) => {
             let ws = await wb.csv.readFile(`${path}${file}`)
             ws.name = file.replace('.csv', '')
