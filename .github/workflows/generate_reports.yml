@@ -50,16 +50,15 @@ jobs:
           chmod +x "${GITHUB_WORKSPACE}/.github/scripts/run_generate_reports.sh"
           # run script
           "${GITHUB_WORKSPACE}/.github/scripts/run_generate_reports.sh"
-          "ls -la"
           
       - name: Commit and push changes
         uses: actions/checkout@v4
       - run: |
-          date > generated.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
           git status
-          ls
+          ls -al
+          ls -al ./report
           git add .
           git commit -m "generated"
           git push
