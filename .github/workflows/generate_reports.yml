@@ -29,7 +29,7 @@ jobs:
         # Different Node versions. Each node version will trigger the action
         node-version:
           - 16.x
-          # - 18.x
+          - 18.x
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
