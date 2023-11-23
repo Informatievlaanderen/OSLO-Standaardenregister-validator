@@ -3,7 +3,7 @@ import path from 'path'
 
 import { Configuration, SanitizedConfiguration, defaultConfiguration } from './types/configuration'
 import { Standard } from './types/standard'
-import { generateRawGithubPath, writeFile, convertJsonToCsv } from './utils/utils'
+import { generateRawGithubPath, writeFile, convertJsonToCsv, validateValue } from './utils/utils'
 import { convertCsvsToExcel } from './utils/xlsx.utils'
 import { GET_OPTIONS, STANDARDS_REGISTRY_URL } from './constants/constants'
 
@@ -14,22 +14,22 @@ const sanitizeConfiguration = (configuration: Configuration): SanitizedConfigura
     const sanitizedConfiguration: SanitizedConfiguration = {
         naam: configuration?.naam || defaultConfiguration?.naam,
         rapport: configuration?.rapport || defaultConfiguration?.rapport,
-        verantwoordelijke_organisatie: !!configuration?.verantwoordelijke_organisatie,
-        identificator_organisatie: !!configuration?.identificator_organisatie,
-        publicatiedatum: !!configuration?.publicatiedatum,
-        type_toepassing: !!configuration?.type_toepassing,
-        categorie: !!configuration?.categorie,
-        beschrijving: !!configuration?.beschrijving,
+        verantwoordelijke_organisatie: validateValue(configuration?.verantwoordelijke_organisatie),
+        identificator_organisatie: validateValue(configuration?.identificator_organisatie),
+        publicatiedatum: validateValue(configuration?.publicatiedatum),
+        type_toepassing: validateValue(configuration?.type_toepassing),
+        categorie: validateValue(configuration?.categorie),
+        beschrijving: validateValue(configuration?.beschrijving),
         specificatiedocument: !!configuration?.specificatiedocument?.length,
         documentatie: !!configuration?.documentatie?.length,
         charter: !!configuration?.charter?.length,
         verslagen: !!configuration?.verslagen?.length,
         presentaties: !!configuration?.presentaties?.length,
-        functioneel_toepassingsgebied: !!configuration?.functioneel_toepassingsgebied,
-        organisatorisch_werkingsgebied: !!configuration?.organisatorisch_werkingsgebied,
-        datum_van_aanmelding: !!configuration?.datum_van_aanmelding,
-        erkenning_werkgroep_datastandaarden: !!configuration?.erkenning_werkgroep_datastandaarden,
-        erkenning_stuurgroep: !!configuration?.erkenning_stuurgroep,
+        functioneel_toepassingsgebied: validateValue(configuration?.functioneel_toepassingsgebied),
+        organisatorisch_werkingsgebied: validateValue(configuration?.organisatorisch_werkingsgebied),
+        datum_van_aanmelding: validateValue(configuration?.datum_van_aanmelding),
+        erkenning_werkgroep_datastandaarden: validateValue(configuration?.erkenning_werkgroep_datastandaarden),
+        erkenning_stuurgroep: validateValue(configuration?.erkenning_stuurgroep),
     }
     return sanitizedConfiguration
 }

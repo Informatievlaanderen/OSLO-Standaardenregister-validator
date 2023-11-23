@@ -18,6 +18,10 @@ const writeFile = (path: string, data: string): void => {
     }
 }
 
+const validateValue = (value: string): boolean => {
+    return !!(value && value != "TBD")
+}
+
 const getFilesFromPath = (path: string, extension: string): string[] => {
     try {
         const fileObjs = fs.readdirSync(path)
@@ -37,4 +41,4 @@ const convertJsonToCsv = (json: Object[]): string => {
     }
 }
 
-export { generateRawGithubUrl, generateRawGithubPath, writeFile, getFilesFromPath, convertJsonToCsv }
+export { generateRawGithubUrl, generateRawGithubPath, writeFile, validateValue, getFilesFromPath, convertJsonToCsv }
