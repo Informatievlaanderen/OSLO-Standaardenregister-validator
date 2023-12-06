@@ -438,7 +438,7 @@
         "rapport": "",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-        "publicatiedatum": "",
+        "publicatiedatum": "01/12/2023",
         "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Applicatieprofiel",
         "beschrijving": "ap-Verkeersmetingen.md",
@@ -446,12 +446,16 @@
             {
                 "naam": "Verkeersmetingen Applicatieprofiel",
                 "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/verkeersmetingen"
+            },
+            {
+                "naam": "Verkeersmetingen Applicatieprofiel (English)",
+                "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/verkeersmetingen/index_en.html"
             }
         ],
         "documentatie": [
             {
                 "naam": "Verkeersmetingen  vocabularium",
-                "waarde": "https://data.vlaanderen.be/ns/Verkeersmetingen"
+                "waarde": "https://data.vlaanderen.be/ns/verkeersmetingen"
             }
         ],
         "charter": [
@@ -480,6 +484,10 @@
             {
                 "naam": "Verslag thematische werkgroep 4 - OSLO Verkeersmetingen 27 juni 2023",
                 "waarde": "Verslag thematische werkgroep 4 - OSLO Verkeersmetingen.pdf"
+            },
+            {
+                "naam": "Verslag thematische werkgroep 5 - OSLO Verkeersmetingen",
+                "waarde": "Verslag_Thematische_Werkgroep_5_OSLO_Verkeersmetingen.pdf"
             }
         ],
         "presentaties": [
@@ -502,6 +510,10 @@
             {
                 "naam": "Presentatie thematische werkgroep 4 - 27 juni 2023",
                 "waarde": "Presentatie vierde thematische werkgroep -Verkeersmetingen - 27 juni 2023 (1).pdf"
+            },
+            {
+                "naam": "Verslag thematische werkgroep 5 - OSLO Verkeersmetingen",
+                "waarde": "Presentatie_vijfde_thematische_werkgroep_Verkeersmetingen.pdf"
             }
         ],
         "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Verkeersmetingen",
@@ -515,7 +527,7 @@
         "rapport": "",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-        "publicatiedatum": "",
+        "publicatiedatum": "01/12/2023",
         "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Vocabularium ",
         "beschrijving": "voc-Verkeersmetingen.md",
@@ -527,8 +539,8 @@
         ],
         "documentatie": [
             {
-                "naam": "Verkeersmetingen Vocabularium",
-                "waarde": "https://data.vlaanderen.be/ns/Verkeersmetingen"
+                "naam": "Verkeersmetingen Applicatieprofiel",
+                "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/verkeersmetingen/"
             }
         ],
         "charter": [
