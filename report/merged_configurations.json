@@ -281,7 +281,7 @@
         "specificatiedocument": [
             {
                 "naam": "Slim Ruimtelijk Plannen vocabularium en applicatieprofiel",
-                "waarde": "https://data.test-vlaanderen.be/doc/applicatieprofiel/slim-ruimtelijk-plannen/ontwerpstandaard/2023-10-20"
+                "waarde": "https://data.test-vlaanderen.be/doc/applicatieprofiel/slim-ruimtelijk-plannen/ontwerpstandaard/2023-12-12"
             }
         ],
         "documentatie": [],
@@ -12883,6 +12883,14 @@
             {
                 "naam": "Verslag Business Werkgroep - 17 oktober 2023",
                 "waarde": "Verslag Business Workshop Slimme Raadpleegomgeving.pdf"
+            },
+            {
+                "naam": "Verslag Thematische Werkgroep I - 7 November 2023",
+                "waarde": "20231107_ThematicWorkshop1_Verslag_OSLOSlimmeRaadpleegomgeving.pdf"
+            },
+            {
+                "naam": "Verslag Thematische Werkgroep II - 28 November 2023",
+                "waarde": "20231128_ThematicWorkshop2_Verslag_OSLOSlimmeRaadpleegomgeving.pdf"
             }
         ],
         "presentaties": [
@@ -12893,6 +12901,10 @@
             {
                 "naam": "Presentatie Thematische Werkgroep I - 7 november 2023",
                 "waarde": "20231107 Thematische Werkgroep 1 - Slimme Raadpleegomgeving V.01.pptx"
+            },
+            {
+                "naam": "Presentatie Thematische Werkgroep II - 2 november 2023",
+                "waarde": "20231128_ThematicWorkshop2_Powerpoint_OSLOSlimmeRaadpleegomgeving.pptx"
             }
         ],
         "functioneel_toepassingsgebied": "Semantische standaard voor de digitale transformatie van de Vlaamse lokale besturen",
