@@ -373,7 +373,7 @@
         "specificatiedocument": [
             {
                 "naam": "Applicatieprofiel Voorwaarden Dienstverlening",
-                "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/publicatie-advertentie/kandidaatstandaard/2023-07-11"
+                "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/voorwaarden-dienstverlening/kandidaatstandaard/2023-07-11"
             }
         ],
         "documentatie": [],
@@ -12948,5 +12948,61 @@
         "datum_van_aanmelding": "7 november 2023",
         "erkenning_werkgroep_datastandaarden": "TBD",
         "erkenning_stuurgroep": "TBD"
+    },
+    {
+        "naam": "Applicatieprofiel Lokale Economie",
+        "rapport": "",
+        "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
+        "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
+        "publicatiedatum": "2023-12-14",
+        "type_toepassing": "Aanbevolen (vrijwillig)",
+        "categorie": "applicatieprofiel",
+        "beschrijving": "template-description.md",
+        "specificatiedocument": [
+            {
+                "naam": "Lokale Economie Applicatieprofiel",
+                "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/lokale-economie"
+            }
+        ],
+        "documentatie": [],
+        "charter": [
+            {
+                "naam": "OSLO Lokale Economie Charter",
+                "waarde": "Charter_OSLO_Lokale_Economie.docx"
+            }
+        ],
+        "verslagen": [
+            {
+                "naam": "Verslag business werkgroep - 19-09-2023",
+                "waarde": "Verslag Business Werkgroep - Lokale Economie - 19092023.pdf"
+            },
+            {
+                "naam": "Verslag thematische werkgroep 1 - 17-10-2023",
+                "waarde": "Verslag Thematische Werkgroep 1 - Lokale Economie - 17102023.pdf"
+            },
+            {
+                "naam": "Verslag thematische werkgroep 2 - 16-11-2023",
+                "waarde": "Verslag Thematische Werkgroep 2 - Lokale Economie - 16112023.pdf"
+            }
+        ],
+        "presentaties": [
+            {
+                "naam": "Presentatie business werkgroep - 19-09-2023",
+                "waarde": "Presentatie Business Werkgroep - Lokale Economie - 19092023.pdf"
+            },
+            {
+                "naam": "Presentatie thematische werkgroep 1 - 17-10-2023",
+                "waarde": "Presentatie Thematische Werkgroep 1 - Lokale Economie - 17102023.pdf"
+            },
+            {
+                "naam": "Presentatie thematische werkgroep 2 - 16-11-2023",
+                "waarde": "Presentatie Thematische Werkgroep 2 - Lokale Economie - 16112023.pdf"
+            }
+        ],
+        "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Lokale Economie",
+        "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
+        "datum_van_aanmelding": "",
+        "erkenning_werkgroep_datastandaarden": "",
+        "erkenning_stuurgroep": ""
     }
 ]

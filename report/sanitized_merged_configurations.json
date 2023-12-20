@@ -4098,5 +4098,25 @@
         "datum_van_aanmelding": true,
         "erkenning_werkgroep_datastandaarden": false,
         "erkenning_stuurgroep": false
+    },
+    {
+        "naam": "Applicatieprofiel Lokale Economie",
+        "rapport": "Geen rapport gevonden",
+        "verantwoordelijke_organisatie": true,
+        "identificator_organisatie": true,
+        "publicatiedatum": true,
+        "type_toepassing": true,
+        "categorie": true,
+        "beschrijving": true,
+        "specificatiedocument": true,
+        "documentatie": false,
+        "charter": true,
+        "verslagen": true,
+        "presentaties": true,
+        "functioneel_toepassingsgebied": true,
+        "organisatorisch_werkingsgebied": true,
+        "datum_van_aanmelding": false,
+        "erkenning_werkgroep_datastandaarden": false,
+        "erkenning_stuurgroep": false
     }
 ]
