@@ -16,6 +16,10 @@
             {
                 "naam": "Cables and Pipes Application profile",
                 "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/kabels-en-leidingen/index_en.html"
+            },
+            {
+                "naam": "Câbles et Conduites Profil d'application",
+                "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/kabels-en-leidingen/index_fr.html"
             }
         ],
         "documentatie": [],
@@ -108,6 +112,10 @@
             {
                 "naam": "Utility Services Vocabularium",
                 "waarde": "https://data.vlaanderen.be/ns/nutsvoorzieningen/index_en.html"
+            },
+            {
+                "naam": "Câbles et Conduites Vocabulaire",
+                "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/kabels-en-leidingen/index_fr.html"
             }
         ],
         "documentatie": [],
