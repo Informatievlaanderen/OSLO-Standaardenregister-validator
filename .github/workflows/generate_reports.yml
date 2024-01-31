@@ -58,5 +58,5 @@ jobs:
           ls -al
           ls -al ./report
           git add .
-          git commit -m "generated all the reports on `date +'%Y-%m-%d'`"
+          git diff --quiet && git diff --staged --quiet || (git commit -m "generated all the reports on `date +'%Y-%m-%d'`" && git push)
           git push
