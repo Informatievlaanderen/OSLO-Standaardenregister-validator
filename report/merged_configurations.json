@@ -314,18 +314,90 @@
         "erkenning_stuurgroep": "TBD"
     },
     {
-        "naam": "Vocabularium en applicatieprofiel Slim Ruimtelijk Plannen",
+        "naam": "Applicatieprofiel Slim Ruimtelijk Plannen",
         "rapport": "",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
         "publicatiedatum": "2023-10-23",
         "type_toepassing": "",
-        "categorie": "Vocabularium en applicatieprofiel",
+        "categorie": "Applicatieprofiel",
         "beschrijving": "slim-ruimtelijk-plannen-description.md",
         "specificatiedocument": [
             {
-                "naam": "Slim Ruimtelijk Plannen vocabularium en applicatieprofiel",
+                "naam": "Slim Ruimtelijk Plannen applicatieprofiel",
                 "waarde": "https://data.test-vlaanderen.be/doc/applicatieprofiel/slim-ruimtelijk-plannen/ontwerpstandaard/2023-12-12"
+            }
+        ],
+        "documentatie": [],
+        "charter": [
+            {
+                "naam": "Projectcharter",
+                "waarde": "Werkgroep-charter-OSLO_SlimRuimtelijkPlannen.docx"
+            }
+        ],
+        "verslagen": [
+            {
+                "naam": "Verslag Business werkgroep - OSLO Slim Ruimtelijk Plannen 27 september 2023",
+                "waarde": "Verslag Business werkgroep SRP 2023-09-27.pdf"
+            },
+            {
+                "naam": "Verslag thematische werkgroep 1 - OSLO Slim Ruimtelijk Plannen 25 oktober 2023",
+                "waarde": "Verslag 1e thematische werkgroep SRP 2023-09-25.pdf"
+            },
+            {
+                "naam": "Verslag thematische werkgroep 2 - OSLO Slim Ruimtelijk Plannen 30 november 2023",
+                "waarde": "Verslag thematische werkgroep 2 - OSLO Slim Ruimtelijk Plannen 30 november 2023.docx"
+            },
+            {
+                "naam": "Verslag thematische werkgroep 3 - OSLO Slim Ruimtelijk Plannen 21 december 2023",
+                "waarde": "Verslag thematische werkgroep 3 - OSLO Slim Ruimtelijk Plannen 21 december 2023.pdf"
+            },
+            {
+                "naam": "Verslag thematische werkgroep 4 - OSLO Slim Ruimtelijk Plannen 1 februari 2024",
+                "waarde": "Verslag 4e thematische werkgroep SRP 2024-02-01.pdf"
+            }
+        ],
+        "presentaties": [
+            {
+                "naam": "Business Werkgroep presentatie Slim Ruimtelijk Plannen 27 september 2023",
+                "waarde": "Business Werkgroep presentatie Slim Ruimtelijk Plannen.pdf"
+            },
+            {
+                "naam": "Eerste Thematische Werkgroep presentatie Slim Ruimtelijk Plannen 25 oktober 2023",
+                "waarde": "Eerste Thematische Werkgroep presentatie Slim Ruimtelijk Plannen.pdf"
+            },
+            {
+                "naam": "Tweede Thematische Werkgroep presentatie Slim Ruimtelijk Plannen 30 november 2023",
+                "waarde": "Presentatie thematische werkgroep 2 - 30 november 2023.pdf"
+            },
+            {
+                "naam": "Derde Thematische Werkgroep presentatie Slim Ruimtelijk Plannen 21 december 2023",
+                "waarde": "Derde Thematische Werkgroep presentatie Slim Ruimtelijk Plannen 21 december 2023.pptx.pdf"
+            },
+            {
+                "naam": "Vierde Thematische Werkgroep presentatie Slim Ruimtelijk Plannen 1 februari 2024",
+                "waarde": "Presentatie thematische werkgroep 4 - SRP.pdf"
+            }
+        ],
+        "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Slim Ruimtelijk Plannen",
+        "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse overheid",
+        "datum_van_aanmelding": "",
+        "erkenning_werkgroep_datastandaarden": "",
+        "erkenning_stuurgroep": ""
+    },
+    {
+        "naam": "Vocabularium Slim Ruimtelijk Plannen",
+        "rapport": "",
+        "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
+        "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
+        "publicatiedatum": "2023-10-23",
+        "type_toepassing": "",
+        "categorie": "Vocabularium",
+        "beschrijving": "slim-ruimtelijk-plannen-description.md",
+        "specificatiedocument": [
+            {
+                "naam": "Slim Ruimtelijk Plannen vocabularium",
+                "waarde": "https://data.test-vlaanderen.be/doc/vocabularium/slim-ruimtelijk-plannen/ontwerpstandaard/2024-01-22"
             }
         ],
         "documentatie": [],
