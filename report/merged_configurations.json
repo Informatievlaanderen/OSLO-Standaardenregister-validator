@@ -13212,6 +13212,78 @@
         "erkenning_stuurgroep": ""
     },
     {
+        "naam": "Vocabularium Lokale Economie",
+        "rapport": "",
+        "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
+        "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
+        "publicatiedatum": "2024-01-17",
+        "type_toepassing": "Aanbevolen (vrijwillig)",
+        "categorie": "vocabularium",
+        "beschrijving": "template-description.md",
+        "specificatiedocument": [
+            {
+                "naam": "Lokale Economie Vocabularium",
+                "waarde": "https://data.vlaanderen.be/doc/vocabularium/lokale-economie"
+            }
+        ],
+        "documentatie": [],
+        "charter": [
+            {
+                "naam": "OSLO Lokale Economie Charter",
+                "waarde": "Charter_OSLO_Lokale_Economie.docx"
+            }
+        ],
+        "verslagen": [
+            {
+                "naam": "Verslag business werkgroep - 19-09-2023",
+                "waarde": "Verslag Business Werkgroep - Lokale Economie - 19092023.pdf"
+            },
+            {
+                "naam": "Verslag thematische werkgroep 1 - 17-10-2023",
+                "waarde": "Verslag Thematische Werkgroep 1 - Lokale Economie - 17102023.pdf"
+            },
+            {
+                "naam": "Verslag thematische werkgroep 2 - 16-11-2023",
+                "waarde": "Verslag Thematische Werkgroep 2 - Lokale Economie - 16112023.pdf"
+            },
+            {
+                "naam": "Verslag thematische werkgroep 3 - 19-12-2023",
+                "waarde": "Verslag Thematische Werkgroep 3 - Lokale Economie - 1912023.pdf"
+            },
+            {
+                "naam": "Verslag thematische werkgroep 4 - 23-01-2024",
+                "waarde": "Verslag Thematische Werkgroep 4 - Lokale Economie - 23012024.pdf"
+            }
+        ],
+        "presentaties": [
+            {
+                "naam": "Presentatie business werkgroep - 19-09-2023",
+                "waarde": "Presentatie Business Werkgroep - Lokale Economie - 19092023.pdf"
+            },
+            {
+                "naam": "Presentatie thematische werkgroep 1 - 17-10-2023",
+                "waarde": "Presentatie Thematische Werkgroep 1 - Lokale Economie - 17102023.pdf"
+            },
+            {
+                "naam": "Presentatie thematische werkgroep 2 - 16-11-2023",
+                "waarde": "Presentatie Thematische Werkgroep 2 - Lokale Economie - 16112023.pdf"
+            },
+            {
+                "naam": "Presentatie thematische werkgroep 3 - 19-12-2023",
+                "waarde": "Presentatie Thematische Werkgroep 3 - Lokale Economie - 19122023.pdf"
+            },
+            {
+                "naam": "Presentatie thematische werkgroep 4 - 23-01-2024",
+                "waarde": "Presentatie Thematische Werkgroep 4 - Lokale Economie - 23012024.pdf"
+            }
+        ],
+        "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Lokale Economie",
+        "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
+        "datum_van_aanmelding": "",
+        "erkenning_werkgroep_datastandaarden": "",
+        "erkenning_stuurgroep": ""
+    },
+    {
         "naam": "Applicatieprofiel Overlijdensaangifte",
         "rapport": "",
         "verantwoordelijke_organisatie": "Athumi",
