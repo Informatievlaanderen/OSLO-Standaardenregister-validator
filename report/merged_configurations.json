@@ -325,7 +325,7 @@
         "specificatiedocument": [
             {
                 "naam": "Slim Ruimtelijk Plannen applicatieprofiel",
-                "waarde": "https://data.test-vlaanderen.be/doc/applicatieprofiel/slim-ruimtelijk-plannen/ontwerpstandaard/2023-12-12"
+                "waarde": "https://data.test-vlaanderen.be/doc/applicatieprofiel/slim-ruimtelijk-plannen/ontwerpstandaard/2024-01-22/"
             }
         ],
         "documentatie": [],
@@ -11535,17 +11535,109 @@
         "erkenning_stuurgroep": "TBD"
     },
     {
-        "naam": "Vocabularium en applicatieprofiel Fietsinfrastructuur",
+        "naam": "Applicatieprofiel Fietsinfrastructuur",
         "rapport": "",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "http://data.vlaanderen.be/id/organisatie/OVO002949",
-        "publicatiedatum": "TBD",
-        "type_toepassing": "TBD",
-        "categorie": "Vocabularium en applicatieprofielen",
-        "beschrijving": "fietsinfrastructuur.md",
-        "specificatiedocument": [],
-        "documentatie": [],
-        "charter": [],
+        "publicatiedatum": "17 december 2021",
+        "type_toepassing": "Aanbevolgen (vrijwillig)",
+        "categorie": "Applicatieprofiel",
+        "beschrijving": "ap-fietsinfrastructuur-config.md",
+        "specificatiedocument": [
+            {
+                "naam": "Applicatieprofiel Fietsinfrastructuur",
+                "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/fietsinfrastructuur"
+            }
+        ],
+        "documentatie": [
+            {
+                "naam": "Vocabularium Fietsinfrastructuur",
+                "waarde": "https://data.vlaanderen.be/ns/fiets"
+            }
+        ],
+        "charter": [
+            {
+                "naam": "Werkgroep Charter OSLO Fietsinfrastructuur",
+                "waarde": "Werkgroep charter OSLO Fietsinfrastructuur.docx"
+            }
+        ],
+        "verslagen": [
+            {
+                "naam": "Verslag Business werkgroep - 25 maart 2021",
+                "waarde": "Verslag Business werkgroep - 25 maart 2021.docx"
+            },
+            {
+                "naam": "Verslag Thematische werkgroep 1 - 20 april 2021",
+                "waarde": "Verslag Thematische werkgroep 1 - 20 april 2021.docx"
+            },
+            {
+                "naam": "Verslag Thematische werkgroep 2 - 18 mei 2021",
+                "waarde": "Verslag Thematische werkgroep 2 - 18 mei 2021.docx"
+            },
+            {
+                "naam": "Verslag thematische werkgroep 3 - 15 juni 2021",
+                "waarde": "Verslag thematische werkgroep 3 - 15 juni 2021.docx"
+            },
+            {
+                "naam": "Verslag thematische werkgroep 4 - 16 september 2021",
+                "waarde": "Verslag thematische werkgroep 4 - 16 september 2021.docx"
+            }
+        ],
+        "presentaties": [
+            {
+                "naam": "Presentatie Business werkgroep - 25 maart 2021",
+                "waarde": "Presentatie Business werkgroep - 25 maart 2021.pptx"
+            },
+            {
+                "naam": "Presentatie Thematische werkgroep 1 - 20 april 2021",
+                "waarde": "Presentatie Thematische werkgroep 1 - 20 april 2021.pptx"
+            },
+            {
+                "naam": "Presentatie Thematische werkgroep 2 - 18 mei 2021",
+                "waarde": "Presentatie Thematische werkgroep 2 - 18 mei 2021.pptx"
+            },
+            {
+                "naam": "Presentatie Thematische werkgroep 3 - 15 juni 2021",
+                "waarde": "Presentatie Thematische werkgroep 3 - 15 juni 2021.pdf"
+            },
+            {
+                "naam": "Presentatie thematische werkgroep 4 - 16 september 2021",
+                "waarde": "Presentatie thematische werkgroep 4 - 16 september 2021.pdf"
+            }
+        ],
+        "functioneel_toepassingsgebied": "Semantische standaard voor informatie over fietsinfrastructuur",
+        "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse overheid",
+        "datum_van_aanmelding": "25 Maart 2021",
+        "erkenning_werkgroep_datastandaarden": "TBD",
+        "erkenning_stuurgroep": "TBD"
+    },
+    {
+        "naam": "Vocabularium Fietsinfrastructuur",
+        "rapport": "",
+        "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
+        "identificator_organisatie": "http://data.vlaanderen.be/id/organisatie/OVO002949",
+        "publicatiedatum": "17 december 2021",
+        "type_toepassing": "Aanbevolen (vrijwillig)",
+        "categorie": "Vocabularium",
+        "beschrijving": "voc-fietsinfrastructuur-config.md",
+        "specificatiedocument": [
+            {
+                "naam": "Vocabularium Fietsinfrastructuur",
+                "waarde": "https://data.vlaanderen.be/ns/fiets"
+            }
+        ],
+        "documentatie": [
+            {
+                "naam": "Applicatieprofiel Fietsinfrastructuur",
+                "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/fietsinfrastructuur"
+            }
+        ],
+        "charter": [
+            {
+                "naam": "Werkgroep Charter OSLO Fietsinfrastructuur",
+                "waarde": "Werkgroep charter OSLO Fietsinfrastructuur.docx"
+            }
+        ],
         "verslagen": [
             {
                 "naam": "Verslag Business werkgroep - 25 maart 2021",

@@ -182,7 +182,8 @@ wegenenverkeer vocabularium onderdeel,Geen rapport gevonden,true,true,true,true,
 wegenenverkeer vocabularium proefenmeting,Geen rapport gevonden,true,true,true,true,true,true,true,false,false,true,true,true,true,true,true,true
 Data standaarden wegenenverkeer,Geen rapport gevonden,true,true,true,true,true,true,true,true,false,true,true,true,true,true,true,true
 Vocabularium en applicatieprofiel air and water,Geen rapport gevonden,true,true,false,false,true,true,true,false,false,true,true,true,true,true,false,false
-Vocabularium en applicatieprofiel Fietsinfrastructuur,Geen rapport gevonden,true,true,false,false,true,true,false,false,false,true,true,true,true,true,false,false
+Applicatieprofiel Fietsinfrastructuur,Geen rapport gevonden,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,false
+Vocabularium Fietsinfrastructuur,Geen rapport gevonden,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,false
 Applicatieprofiel DCAT-AP VL 2.0,https://github.com/Informatievlaanderen/OSLO-Generated/raw/production/report/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2021-09-16/all-DCAT-AP-VL-20.jsonld,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true
 Vocabularium en applicatieprofiel OSLO Consent,Geen rapport gevonden,true,true,false,true,true,true,true,false,true,true,true,true,true,true,false,false
 Vocabularium en applicatieprofiel OSLO Waterkwaliteit,Geen rapport gevonden,true,true,true,true,true,true,true,true,false,true,true,true,true,true,false,false
