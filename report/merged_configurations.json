@@ -319,13 +319,13 @@
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
         "publicatiedatum": "2023-10-23",
-        "type_toepassing": "",
+        "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Applicatieprofiel",
         "beschrijving": "slim-ruimtelijk-plannen-description.md",
         "specificatiedocument": [
             {
                 "naam": "Slim Ruimtelijk Plannen applicatieprofiel",
-                "waarde": "https://data.test-vlaanderen.be/doc/applicatieprofiel/slim-ruimtelijk-plannen/ontwerpstandaard/2024-01-22/"
+                "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/slim-ruimtelijk-plannen/ontwerpstandaard/2024-01-22/"
             }
         ],
         "documentatie": [],
@@ -391,13 +391,13 @@
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
         "publicatiedatum": "2023-10-23",
-        "type_toepassing": "",
+        "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Vocabularium",
         "beschrijving": "slim-ruimtelijk-plannen-description.md",
         "specificatiedocument": [
             {
                 "naam": "Slim Ruimtelijk Plannen vocabularium",
-                "waarde": "https://data.test-vlaanderen.be/doc/vocabularium/slim-ruimtelijk-plannen/ontwerpstandaard/2024-01-22"
+                "waarde": "https://data.vlaanderen.be/doc/vocabularium/slim-ruimtelijk-plannen/ontwerpstandaard/2024-01-22"
             }
         ],
         "documentatie": [],
