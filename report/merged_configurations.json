@@ -13405,13 +13405,21 @@
         "verslagen": [
             {
                 "naam": "Verslag Thematische Werkgroep I - 16 januari 2024",
-                "waarde": "20240116__ThematicWorkshop1_Verslag_OSLOOverlijdensaangifte"
+                "waarde": "20240116__ThematicWorkshop1_Verslag_OSLOOverlijdensaangifte.pdf"
+            },
+            {
+                "naam": "Verslag Thematische Werkgroep II - 20 februari 2024",
+                "waarde": "20240220__ThematicWorkshop2_Verslag_OSLOOverlijdensaangifte.pdf"
             }
         ],
         "presentaties": [
             {
                 "naam": "Presentatie Thematische Werkgroep I - 16 januari 2024",
                 "waarde": "20240116_ThematicWorkshop1_Powerpoint_OSLOOverlijdensaangifte.pptx"
+            },
+            {
+                "naam": "Presentatie Thematische Werkgroep II - 20 februari 2024",
+                "waarde": "20240220_ThematicWorkshop2_Powerpoint_OSLOOverlijdensaangifte.pptx"
             }
         ],
         "functioneel_toepassingsgebied": "Semantische standaard voor de digitale transformatie van de Vlaamse Overheid en lokale besturen",
@@ -13450,13 +13458,21 @@
         "verslagen": [
             {
                 "naam": "Verslag Thematische Werkgroep I - 16 januari 2024",
-                "waarde": "20240116__ThematicWorkshop1_Verslag_OSLOOverlijdensaangifte"
+                "waarde": "20240116__ThematicWorkshop1_Verslag_OSLOOverlijdensaangifte.pdf"
+            },
+            {
+                "naam": "Verslag Thematische Werkgroep II - 20 februari 2024",
+                "waarde": "20240220__ThematicWorkshop2_Verslag_OSLOOverlijdensaangifte.pdf"
             }
         ],
         "presentaties": [
             {
                 "naam": "Presentatie Thematische Werkgroep I - 16 januari 2024",
                 "waarde": "20240116_ThematicWorkshop1_Powerpoint_OSLOOverlijdensaangifte.pptx"
+            },
+            {
+                "naam": "Presentatie Thematische Werkgroep II - 20 februari 2024",
+                "waarde": "20240220_ThematicWorkshop2_Powerpoint_OSLOOverlijdensaangifte.pptx"
             }
         ],
         "functioneel_toepassingsgebied": "Semantische standaard voor de digitale transformatie van de Vlaamse Overheid en lokale besturen",
