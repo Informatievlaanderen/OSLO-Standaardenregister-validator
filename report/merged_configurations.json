@@ -1,5 +1,149 @@
 [
     {
+        "naam": "Applicatieprofiel Omgevingsvergunning",
+        "rapport": "",
+        "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
+        "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
+        "publicatiedatum": "TBD",
+        "type_toepassing": "Aanbevolen",
+        "categorie": "Applicatieprofiel",
+        "beschrijving": "omgevingsvergunning-description.md",
+        "specificatiedocument": [
+            {
+                "naam": "Omgevingsvergunning Applicatieprofiel",
+                "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/omgevingsvergunning"
+            }
+        ],
+        "documentatie": [],
+        "charter": [
+            {
+                "naam": "Charter",
+                "waarde": "Werkgroep charter OSLO_omgevingsvergunningen.pdf"
+            }
+        ],
+        "verslagen": [
+            {
+                "naam": "Verslag business werkgroep - 28 augustus 2023",
+                "waarde": "Verslag Business werkgroep Omgevingsvergunning 2023-08-28.pdf"
+            },
+            {
+                "naam": "Verslag thematische werkgroep 1 - 6 november 2023",
+                "waarde": "Verslag Thematische werkgroep 1 Omgevingsvergunning 2023-11-06.pdf"
+            },
+            {
+                "naam": "Verslag thematische werkgroep 2 - 11 december 2023",
+                "waarde": "Verslag Thematische werkgroep 2 Omgevingsvergunning 2023-12-11.pdf"
+            },
+            {
+                "naam": "Verslag thematische werkgroep 3 - 15 januari 2024",
+                "waarde": "Verslag Thematische werkgroep 3 Omgevingsvergunning 2024-1-15.pdf"
+            },
+            {
+                "naam": "Verslag thematische werkgroep 4 - 19 februari 2024",
+                "waarde": "Verslag Thematische werkgroep 4 Omgevingsvergunning 2024-2-19.pdf"
+            }
+        ],
+        "presentaties": [
+            {
+                "naam": "Presentatie business werkgroep - 28 augustus 2023",
+                "waarde": "Presentatie Business Werkgroep Omgevingsvergunning 2023-08-28.pdf"
+            },
+            {
+                "naam": "Presentatie thematische werkgroep 1 - 6 november 2023",
+                "waarde": "Presentatie Thematische werkgroep 1 Omgevingsvergunning 2023-11-06.pdf"
+            },
+            {
+                "naam": "Presentatie thematische werkgroep 2 - 11 december 2023",
+                "waarde": "Presentatie thematische werkgroep 2 Omgevingsvergunning 2023-12-11.pdf"
+            },
+            {
+                "naam": "Presentatie thematische werkgroep 3 - 15 januari 2024",
+                "waarde": "Presentatie thematische werkgroep 3 Omgevingsvergunning 2024-1-15.pdf"
+            },
+            {
+                "naam": "Presentatie thematische werkgroep 4 - 19 januari 2023",
+                "waarde": "Presentatie thematische werkgroep 4 Omgevingsvergunning 2024-2-19.pdf"
+            }
+        ],
+        "functioneel_toepassingsgebied": "Applicatieprofiel voor informatie over omgevingsvergunningen",
+        "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse Overheid",
+        "datum_van_aanmelding": "",
+        "erkenning_werkgroep_datastandaarden": "TBD",
+        "erkenning_stuurgroep": "TBD"
+    },
+    {
+        "naam": "Vocabularium Omgevingsvergunning",
+        "rapport": "",
+        "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
+        "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
+        "publicatiedatum": "TBD",
+        "type_toepassing": "Aanbevolen",
+        "categorie": "Vocabularium",
+        "beschrijving": "omgevingsvergunning-description.md",
+        "specificatiedocument": [
+            {
+                "naam": "Omgevingsvergunning Vocabularium",
+                "waarde": "https://data.vlaanderen.be/ns/omgevingsvergunning"
+            }
+        ],
+        "documentatie": [],
+        "charter": [
+            {
+                "naam": "Charter",
+                "waarde": "Werkgroep charter OSLO_omgevingsvergunningen.pdf"
+            }
+        ],
+        "verslagen": [
+            {
+                "naam": "Verslag business werkgroep - 28 augustus 2023",
+                "waarde": "Verslag Business werkgroep Omgevingsvergunning 2023-08-28.pdf"
+            },
+            {
+                "naam": "Verslag thematische werkgroep 1 - 6 november 2023",
+                "waarde": "Verslag Thematische werkgroep 1 Omgevingsvergunning 2023-11-06.pdf"
+            },
+            {
+                "naam": "Verslag thematische werkgroep 2 - 11 december 2023",
+                "waarde": "Verslag Thematische werkgroep 2 Omgevingsvergunning 2023-12-11.pdf"
+            },
+            {
+                "naam": "Verslag thematische werkgroep 3 - 15 januari 2024",
+                "waarde": "Verslag Thematische werkgroep 3 Omgevingsvergunning 2024-1-15.pdf"
+            },
+            {
+                "naam": "Verslag thematische werkgroep 4 - 19 februari 2024",
+                "waarde": "Verslag Thematische werkgroep 4 Omgevingsvergunning 2024-2-19.pdf"
+            }
+        ],
+        "presentaties": [
+            {
+                "naam": "Presentatie business werkgroep - 28 augustus 2023",
+                "waarde": "Presentatie Business Werkgroep Omgevingsvergunning 2023-08-28.pdf"
+            },
+            {
+                "naam": "Presentatie thematische werkgroep 1 - 6 november 2023",
+                "waarde": "Presentatie Thematische werkgroep 1 Omgevingsvergunning 2023-11-06.pdf"
+            },
+            {
+                "naam": "Presentatie thematische werkgroep 2 - 11 december 2023",
+                "waarde": "Presentatie thematische werkgroep 2 Omgevingsvergunning 2023-12-11.pdf"
+            },
+            {
+                "naam": "Presentatie thematische werkgroep 3 - 15 januari 2024",
+                "waarde": "Presentatie thematische werkgroep 3 Omgevingsvergunning 2024-1-15.pdf"
+            },
+            {
+                "naam": "Presentatie thematische werkgroep 4 - 19 januari 2023",
+                "waarde": "Presentatie thematische werkgroep 4 Omgevingsvergunning 2024-2-19.pdf"
+            }
+        ],
+        "functioneel_toepassingsgebied": "Applicatieprofiel voor informatie over omgevingsvergunningen",
+        "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse Overheid",
+        "datum_van_aanmelding": "",
+        "erkenning_werkgroep_datastandaarden": "TBD",
+        "erkenning_stuurgroep": "TBD"
+    },
+    {
         "naam": "Applicatieprofiel Kabels en Leidingen",
         "rapport": "",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
