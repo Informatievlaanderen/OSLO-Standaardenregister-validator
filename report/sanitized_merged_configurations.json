@@ -4278,5 +4278,25 @@
         "datum_van_aanmelding": true,
         "erkenning_werkgroep_datastandaarden": false,
         "erkenning_stuurgroep": false
+    },
+    {
+        "naam": "Applicatieprofiel Kind fiche",
+        "rapport": "Geen rapport gevonden",
+        "verantwoordelijke_organisatie": true,
+        "identificator_organisatie": true,
+        "publicatiedatum": true,
+        "type_toepassing": true,
+        "categorie": true,
+        "beschrijving": true,
+        "specificatiedocument": true,
+        "documentatie": false,
+        "charter": false,
+        "verslagen": false,
+        "presentaties": false,
+        "functioneel_toepassingsgebied": false,
+        "organisatorisch_werkingsgebied": false,
+        "datum_van_aanmelding": false,
+        "erkenning_werkgroep_datastandaarden": false,
+        "erkenning_stuurgroep": false
     }
 ]

@@ -13624,5 +13624,30 @@
         "datum_van_aanmelding": "25 januari 2024",
         "erkenning_werkgroep_datastandaarden": "TBD",
         "erkenning_stuurgroep": "TBD"
+    },
+    {
+        "naam": "Applicatieprofiel Kind fiche",
+        "rapport": "",
+        "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
+        "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
+        "publicatiedatum": "2024-03-19",
+        "type_toepassing": "Aanbevolen (vrijwillig)",
+        "categorie": "Applicatieprofiel",
+        "beschrijving": "kind-fiche-description.md",
+        "specificatiedocument": [
+            {
+                "naam": "Kind fiche applicatieprofiel",
+                "waarde": "https://data.test-vlaanderen.be/doc/applicatieprofiel/kind-fiche/ontwerpstandaard/2024-03-19/"
+            }
+        ],
+        "documentatie": [],
+        "charter": [],
+        "verslagen": [],
+        "presentaties": [],
+        "functioneel_toepassingsgebied": "",
+        "organisatorisch_werkingsgebied": "",
+        "datum_van_aanmelding": "",
+        "erkenning_werkgroep_datastandaarden": "",
+        "erkenning_stuurgroep": ""
     }
 ]
