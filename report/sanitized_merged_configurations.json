@@ -15,7 +15,7 @@
         "presentaties": true,
         "functioneel_toepassingsgebied": true,
         "organisatorisch_werkingsgebied": true,
-        "datum_van_aanmelding": false,
+        "datum_van_aanmelding": true,
         "erkenning_werkgroep_datastandaarden": false,
         "erkenning_stuurgroep": false
     },
@@ -35,7 +35,7 @@
         "presentaties": true,
         "functioneel_toepassingsgebied": true,
         "organisatorisch_werkingsgebied": true,
-        "datum_van_aanmelding": false,
+        "datum_van_aanmelding": true,
         "erkenning_werkgroep_datastandaarden": false,
         "erkenning_stuurgroep": false
     },
@@ -236,7 +236,7 @@
         "functioneel_toepassingsgebied": true,
         "organisatorisch_werkingsgebied": true,
         "datum_van_aanmelding": true,
-        "erkenning_werkgroep_datastandaarden": false,
+        "erkenning_werkgroep_datastandaarden": true,
         "erkenning_stuurgroep": false
     },
     {
@@ -256,11 +256,11 @@
         "functioneel_toepassingsgebied": true,
         "organisatorisch_werkingsgebied": true,
         "datum_van_aanmelding": true,
-        "erkenning_werkgroep_datastandaarden": false,
+        "erkenning_werkgroep_datastandaarden": true,
         "erkenning_stuurgroep": false
     },
     {
-        "naam": "Applicatieprofiel Financiële Data",
+        "naam": "Applicatieprofiel Financiële Rapportering",
         "rapport": "https://github.com/Informatievlaanderen/OSLO-Generated/raw/production/report/doc/applicatieprofiel/financiele-data/kandidaatstandaard/2022-06-23/all-financieledata-ap.jsonld",
         "verantwoordelijke_organisatie": true,
         "identificator_organisatie": true,
@@ -276,11 +276,11 @@
         "functioneel_toepassingsgebied": true,
         "organisatorisch_werkingsgebied": true,
         "datum_van_aanmelding": true,
-        "erkenning_werkgroep_datastandaarden": false,
+        "erkenning_werkgroep_datastandaarden": true,
         "erkenning_stuurgroep": false
     },
     {
-        "naam": "Vocabularium Financiële Data",
+        "naam": "Vocabularium Financiële Rapportering",
         "rapport": "https://github.com/Informatievlaanderen/OSLO-Generated/raw/production/report/doc/vocabularium/financiele-data/kandidaatstandaard/2022-06-23/all-financieledata-voc.jsonld",
         "verantwoordelijke_organisatie": true,
         "identificator_organisatie": true,
@@ -296,7 +296,7 @@
         "functioneel_toepassingsgebied": true,
         "organisatorisch_werkingsgebied": true,
         "datum_van_aanmelding": true,
-        "erkenning_werkgroep_datastandaarden": false,
+        "erkenning_werkgroep_datastandaarden": true,
         "erkenning_stuurgroep": false
     },
     {

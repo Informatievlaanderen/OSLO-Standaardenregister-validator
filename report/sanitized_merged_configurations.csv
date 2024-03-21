@@ -1,6 +1,6 @@
 naam,rapport,verantwoordelijke_organisatie,identificator_organisatie,publicatiedatum,type_toepassing,categorie,beschrijving,specificatiedocument,documentatie,charter,verslagen,presentaties,functioneel_toepassingsgebied,organisatorisch_werkingsgebied,datum_van_aanmelding,erkenning_werkgroep_datastandaarden,erkenning_stuurgroep
-Applicatieprofiel Omgevingsvergunning,Geen rapport gevonden,true,true,false,true,true,true,true,false,true,true,true,true,true,false,false,false
-Vocabularium Omgevingsvergunning,Geen rapport gevonden,true,true,false,true,true,true,true,false,true,true,true,true,true,false,false,false
+Applicatieprofiel Omgevingsvergunning,Geen rapport gevonden,true,true,false,true,true,true,true,false,true,true,true,true,true,true,false,false
+Vocabularium Omgevingsvergunning,Geen rapport gevonden,true,true,false,true,true,true,true,false,true,true,true,true,true,true,false,false
 Applicatieprofiel Kabels en Leidingen,Geen rapport gevonden,true,true,false,true,true,true,true,false,true,true,true,true,true,true,false,false
 Vocabularium Nutsvoorzieningen,Geen rapport gevonden,true,true,false,true,true,true,true,false,true,true,true,true,true,true,false,false
 Applicatieprofiel Vastgoed,Geen rapport gevonden,true,true,false,false,true,true,true,false,false,true,true,true,true,true,false,false
@@ -10,10 +10,10 @@ Vocabularium Slim Ruimtelijk Plannen,Geen rapport gevonden,true,true,true,true,t
 OSLO Voorwaarden Dienstverlening,Geen rapport gevonden,true,true,true,true,true,true,true,false,true,true,true,true,true,true,false,false
 Applicatieprofiel Incentiveringsplatform,Geen rapport gevonden,true,true,false,true,true,true,true,false,true,true,true,true,true,true,false,false
 Vocabularium Incentiveringsplatform,Geen rapport gevonden,true,true,false,true,true,true,true,false,true,true,true,true,true,true,false,false
-Applicatieprofiel Verkeersmetingen,Geen rapport gevonden,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,false
-Vocabularium Verkeersmetingen,Geen rapport gevonden,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,false
-Applicatieprofiel Financiële Data,https://github.com/Informatievlaanderen/OSLO-Generated/raw/production/report/doc/applicatieprofiel/financiele-data/kandidaatstandaard/2022-06-23/all-financieledata-ap.jsonld,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,false
-Vocabularium Financiële Data,https://github.com/Informatievlaanderen/OSLO-Generated/raw/production/report/doc/vocabularium/financiele-data/kandidaatstandaard/2022-06-23/all-financieledata-voc.jsonld,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,false
+Applicatieprofiel Verkeersmetingen,Geen rapport gevonden,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false
+Vocabularium Verkeersmetingen,Geen rapport gevonden,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false
+Applicatieprofiel Financiële Rapportering,https://github.com/Informatievlaanderen/OSLO-Generated/raw/production/report/doc/applicatieprofiel/financiele-data/kandidaatstandaard/2022-06-23/all-financieledata-ap.jsonld,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false
+Vocabularium Financiële Rapportering,https://github.com/Informatievlaanderen/OSLO-Generated/raw/production/report/doc/vocabularium/financiele-data/kandidaatstandaard/2022-06-23/all-financieledata-voc.jsonld,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false
 Applicatieprofiel Bodem,Geen rapport gevonden,true,true,false,false,true,true,true,false,true,true,true,true,true,true,false,false
 Vocabularium Bodem,Geen rapport gevonden,true,true,false,false,true,true,true,false,true,true,true,true,true,true,false,false
 Applicatieprofiel Bodem en Ondergrond,Geen rapport gevonden,true,true,false,false,true,true,true,false,true,true,true,true,true,true,false,false

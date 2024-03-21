@@ -61,13 +61,13 @@
                 "waarde": "Presentatie thematische werkgroep 3 Omgevingsvergunning 2024-1-15.pdf"
             },
             {
-                "naam": "Presentatie thematische werkgroep 4 - 19 januari 2023",
-                "waarde": "Presentatie thematische werkgroep 4 Omgevingsvergunning 2024-2-19.pdf"
+                "naam": "Presentatie thematische werkgroep 4 - 19 februari 2024",
+                "waarde": "Presentatie Thematische werkgroep 4 Omgevingsvergunning 2024-2-19.pdf"
             }
         ],
         "functioneel_toepassingsgebied": "Applicatieprofiel voor informatie over omgevingsvergunningen",
         "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse Overheid",
-        "datum_van_aanmelding": "",
+        "datum_van_aanmelding": "2023-08-31",
         "erkenning_werkgroep_datastandaarden": "TBD",
         "erkenning_stuurgroep": "TBD"
     },
@@ -133,13 +133,13 @@
                 "waarde": "Presentatie thematische werkgroep 3 Omgevingsvergunning 2024-1-15.pdf"
             },
             {
-                "naam": "Presentatie thematische werkgroep 4 - 19 januari 2023",
-                "waarde": "Presentatie thematische werkgroep 4 Omgevingsvergunning 2024-2-19.pdf"
+                "naam": "Presentatie thematische werkgroep 4 - 19 februari 2024",
+                "waarde": "Presentatie Thematische werkgroep 4 Omgevingsvergunning 2024-2-19.pdf"
             }
         ],
         "functioneel_toepassingsgebied": "Applicatieprofiel voor informatie over omgevingsvergunningen",
         "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse Overheid",
-        "datum_van_aanmelding": "",
+        "datum_van_aanmelding": "2023-08-31",
         "erkenning_werkgroep_datastandaarden": "TBD",
         "erkenning_stuurgroep": "TBD"
     },
@@ -891,7 +891,7 @@
         "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Verkeersmetingen",
         "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
         "datum_van_aanmelding": "16/03/2023",
-        "erkenning_werkgroep_datastandaarden": "",
+        "erkenning_werkgroep_datastandaarden": "25/01/2024",
         "erkenning_stuurgroep": ""
     },
     {
@@ -968,11 +968,11 @@
         "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Verkeersmetingen",
         "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
         "datum_van_aanmelding": "16/03/2023",
-        "erkenning_werkgroep_datastandaarden": "",
+        "erkenning_werkgroep_datastandaarden": "25/01/2024",
         "erkenning_stuurgroep": ""
     },
     {
-        "naam": "Applicatieprofiel Financiële Data",
+        "naam": "Applicatieprofiel Financiële Rapportering",
         "rapport": "https://github.com/Informatievlaanderen/OSLO-Generated/raw/production/report/doc/applicatieprofiel/financiele-data/kandidaatstandaard/2022-06-23/all-financieledata-ap.jsonld",
         "verantwoordelijke_organisatie": "Departement Cultuur, Jeugd en Media",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO000067",
@@ -982,19 +982,19 @@
         "beschrijving": "ap-FinanciëleData.md",
         "specificatiedocument": [
             {
-                "naam": "Financiële Data Applicatieprofiel",
+                "naam": "Financiële Rapportering Applicatieprofiel",
                 "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/financiele-data"
             }
         ],
         "documentatie": [
             {
-                "naam": "Financiële Data taxonomie-dcjm vocabularium",
+                "naam": "Financiële Rapportering taxonomie-dcjm vocabularium",
                 "waarde": "https://data.vlaanderen.be/ns/financiele-data/taxonomie-dcjm"
             }
         ],
         "charter": [
             {
-                "naam": "OSLO Financiële Data Charter",
+                "naam": "OSLO Financiële Rapportering Charter",
                 "waarde": "Template-Werkgroep-Charter-OSLO.docx"
             }
         ],
@@ -1034,15 +1034,15 @@
                 "waarde": "220519_Presentatie_thematische_werkgroep_3_OSLO_FinancieleData.pdf"
             }
         ],
-        "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Financiële Data",
+        "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Financiële Rapportering",
         "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
         "datum_van_aanmelding": "17/03/2022",
-        "datum_einde_review": "",
-        "erkenning_werkgroep_datastandaarden": "",
+        "datum_einde_review": "26/12/2023",
+        "erkenning_werkgroep_datastandaarden": "25/01/2024",
         "erkenning_stuurgroep": ""
     },
     {
-        "naam": "Vocabularium Financiële Data",
+        "naam": "Vocabularium Financiële Rapportering",
         "rapport": "https://github.com/Informatievlaanderen/OSLO-Generated/raw/production/report/doc/vocabularium/financiele-data/kandidaatstandaard/2022-06-23/all-financieledata-voc.jsonld",
         "verantwoordelijke_organisatie": "Departement Cultuur, Jeugd en Media",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO000067",
@@ -1052,19 +1052,19 @@
         "beschrijving": "voc-FinanciëleData.md",
         "specificatiedocument": [
             {
-                "naam": "Financiële Data vocabularium",
+                "naam": "Financiële Rapportering vocabularium",
                 "waarde": "https://data.vlaanderen.be/ns/financiele-data/"
             }
         ],
         "documentatie": [
             {
-                "naam": "Financiële Data taxonomie-dcjm vocabularium",
+                "naam": "Financiële Rapportering taxonomie-dcjm vocabularium",
                 "waarde": "https://data.vlaanderen.be/ns/financiele-data/taxonomie-dcjm"
             }
         ],
         "charter": [
             {
-                "naam": "OSLO Financiële Data Charter",
+                "naam": "OSLO Financiële Rapportering Charter",
                 "waarde": "Template-Werkgroep-Charter-OSLO.docx"
             }
         ],
@@ -1104,11 +1104,11 @@
                 "waarde": "220519_Presentatie_thematische_werkgroep_3_OSLO_FinancieleData.pdf"
             }
         ],
-        "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Financiële Data",
+        "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Financiële Rapportering",
         "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
         "datum_van_aanmelding": "17/03/2022",
-        "datum_einde_review": "",
-        "erkenning_werkgroep_datastandaarden": "",
+        "datum_einde_review": "26/12/2023",
+        "erkenning_werkgroep_datastandaarden": "25/01/2024",
         "erkenning_stuurgroep": ""
     },
     {
