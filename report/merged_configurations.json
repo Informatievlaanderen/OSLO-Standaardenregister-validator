@@ -983,13 +983,13 @@
         "specificatiedocument": [
             {
                 "naam": "Financiële Rapportering Applicatieprofiel",
-                "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/financiele-data"
+                "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/financiele-rapportering"
             }
         ],
         "documentatie": [
             {
                 "naam": "Financiële Rapportering taxonomie-dcjm vocabularium",
-                "waarde": "https://data.vlaanderen.be/ns/financiele-data/taxonomie-dcjm"
+                "waarde": "https://data.vlaanderen.be/ns/financiele-rapportering/taxonomie-dcjm"
             }
         ],
         "charter": [
@@ -1053,13 +1053,13 @@
         "specificatiedocument": [
             {
                 "naam": "Financiële Rapportering vocabularium",
-                "waarde": "https://data.vlaanderen.be/ns/financiele-data/"
+                "waarde": "https://data.vlaanderen.be/ns/financiele-rapportering/"
             }
         ],
         "documentatie": [
             {
                 "naam": "Financiële Rapportering taxonomie-dcjm vocabularium",
-                "waarde": "https://data.vlaanderen.be/ns/financiele-data/taxonomie-dcjm"
+                "waarde": "https://data.vlaanderen.be/ns/financiele-rapportering/taxonomie-dcjm"
             }
         ],
         "charter": [
