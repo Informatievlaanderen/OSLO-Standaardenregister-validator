@@ -188,7 +188,6 @@ Applicatieprofiel Fietsinfrastructuur,Geen rapport gevonden,true,true,true,true,
 Vocabularium Fietsinfrastructuur,Geen rapport gevonden,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,false
 Applicatieprofiel DCAT-AP VL 2.0,https://github.com/Informatievlaanderen/OSLO-Generated/raw/production/report/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2021-09-16/all-DCAT-AP-VL-20.jsonld,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true
 Vocabularium en applicatieprofiel OSLO Consent,Geen rapport gevonden,true,true,false,true,true,true,true,false,true,true,true,true,true,true,false,false
-Vocabularium en applicatieprofiel OSLO Waterkwaliteit,Geen rapport gevonden,true,true,true,true,true,true,true,true,false,true,true,true,true,true,false,false
 Applicatieprofiel GeoDCAT-AP VL,https://github.com/Informatievlaanderen/OSLO-Generated/raw/production/report/doc/applicatieprofiel/GEODCAT-AP-VL/kandidaatstandaard/2022-02-03/all-geodcatap-vlaanderen.jsonld,true,true,true,true,true,true,true,true,true,false,true,true,true,true,false,false
 Applicatieprofiel Vervoersknooppunten,Geen rapport gevonden,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true
 Vocabularium Vervoersknooppunten,Geen rapport gevonden,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true
@@ -214,3 +213,9 @@ Vocabularium Lokale Economie,Geen rapport gevonden,true,true,true,true,true,true
 Applicatieprofiel Overlijdensaangifte,Geen rapport gevonden,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,false
 Vocabularium Overlijdensaangifte,Geen rapport gevonden,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,false
 Applicatieprofiel Kind fiche,Geen rapport gevonden,true,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false
+Vocabularium OSLO Statistiek,Geen rapport gevonden,true,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false
+Applicatieprofiel OSLO Statistiek,Geen rapport gevonden,true,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false
+Vocabularium OSLO Datakwaliteit,Geen rapport gevonden,true,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false
+Applicatieprofiel OSLO Datakwaliteit,Geen rapport gevonden,true,true,true,true,true,true,true,false,false,false,false,false,false,false,false,false
+Applicatieprofiel OSLO Waterkwaliteit,Geen rapport gevonden,true,true,true,true,true,true,true,true,false,true,true,true,true,true,false,false
+Vocabularium OSLO Waterkwaliteit,Geen rapport gevonden,true,true,true,true,true,true,true,true,false,true,true,true,true,true,false,false
