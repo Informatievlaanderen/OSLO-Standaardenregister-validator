@@ -184,7 +184,7 @@
         "rapport": "Geen rapport gevonden",
         "verantwoordelijke_organisatie": true,
         "identificator_organisatie": true,
-        "publicatiedatum": false,
+        "publicatiedatum": true,
         "type_toepassing": true,
         "categorie": true,
         "beschrijving": true,
@@ -196,7 +196,7 @@
         "functioneel_toepassingsgebied": true,
         "organisatorisch_werkingsgebied": true,
         "datum_van_aanmelding": true,
-        "erkenning_werkgroep_datastandaarden": false,
+        "erkenning_werkgroep_datastandaarden": true,
         "erkenning_stuurgroep": false
     },
     {
@@ -204,7 +204,7 @@
         "rapport": "Geen rapport gevonden",
         "verantwoordelijke_organisatie": true,
         "identificator_organisatie": true,
-        "publicatiedatum": false,
+        "publicatiedatum": true,
         "type_toepassing": true,
         "categorie": true,
         "beschrijving": true,
@@ -216,7 +216,7 @@
         "functioneel_toepassingsgebied": true,
         "organisatorisch_werkingsgebied": true,
         "datum_van_aanmelding": true,
-        "erkenning_werkgroep_datastandaarden": false,
+        "erkenning_werkgroep_datastandaarden": true,
         "erkenning_stuurgroep": false
     },
     {
