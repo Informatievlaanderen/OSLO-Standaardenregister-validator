@@ -4116,7 +4116,7 @@
         "functioneel_toepassingsgebied": true,
         "organisatorisch_werkingsgebied": true,
         "datum_van_aanmelding": true,
-        "erkenning_werkgroep_datastandaarden": false,
+        "erkenning_werkgroep_datastandaarden": true,
         "erkenning_stuurgroep": false
     },
     {
@@ -4136,7 +4136,7 @@
         "functioneel_toepassingsgebied": true,
         "organisatorisch_werkingsgebied": true,
         "datum_van_aanmelding": true,
-        "erkenning_werkgroep_datastandaarden": false,
+        "erkenning_werkgroep_datastandaarden": true,
         "erkenning_stuurgroep": false
     },
     {
