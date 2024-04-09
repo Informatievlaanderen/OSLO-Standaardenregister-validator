@@ -13861,5 +13861,30 @@
         "datum_van_aanmelding": "17 oktober 2022",
         "erkenning_werkgroep_datastandaarden": "TBD",
         "erkenning_stuurgroep": "TBD"
+    },
+    {
+        "naam": "Applicatieprofiel Studentenattesten",
+        "rapport": "",
+        "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
+        "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
+        "publicatiedatum": "2024-04-08",
+        "type_toepassing": "Aanbevolen (vrijwillig)",
+        "categorie": "Applicatieprofiel",
+        "beschrijving": "studentenattesten-description.md",
+        "specificatiedocument": [
+            {
+                "naam": "Applicatieprofiel Studentenattesten",
+                "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/studentenattesten/ontwerpstandaard/2024-04-08"
+            }
+        ],
+        "documentatie": [],
+        "charter": [],
+        "verslagen": [],
+        "presentaties": [],
+        "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Studentenattesten",
+        "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse overheid",
+        "datum_van_aanmelding": "TBD",
+        "erkenning_werkgroep_datastandaarden": "TBD",
+        "erkenning_stuurgroep": "TBD"
     }
 ]
