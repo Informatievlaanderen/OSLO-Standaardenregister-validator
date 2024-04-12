@@ -144,6 +144,51 @@
         "erkenning_stuurgroep": "TBD"
     },
     {
+        "naam": "Applicatieprofiel Schuldbeheer",
+        "rapport": "",
+        "verantwoordelijke_organisatie": "Digitaal Vlaanderen",
+        "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
+        "publicatiedatum": "2024-04-11",
+        "type_toepassing": "Aanbevolen (vrijwillig)",
+        "categorie": "Applicatieprofiel",
+        "beschrijving": "ap-schuldbeheer-config.md",
+        "specificatiedocument": [
+            {
+                "naam": "Applicatieprofiel Schuldbeheer",
+                "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/schuldbeheer"
+            }
+        ],
+        "documentatie": [
+            {
+                "naam": "Vocabularium Schuldbeheer",
+                "waarde": "https://data.vlaanderen.be/ns/schuldbeheer"
+            }
+        ],
+        "charter": [
+            {
+                "naam": "Charter Schuldbeheer",
+                "waarde": "Charter OSLO_Schuldbeheer.pdf"
+            }
+        ],
+        "verslagen": [
+            {
+                "naam": "Verslag Business Werkgroep - 4 maart 2024",
+                "waarde": "20240304_BusinessWorkshop_Verslag_OSLOSchuldbeheer.pdf"
+            }
+        ],
+        "presentaties": [
+            {
+                "naam": "Presentatie Business Werkgroep - 4 maart 2024",
+                "waarde": "20240304_BusinessWorkshop_Presentatie_OSLOSchuldbeheer.pptx"
+            }
+        ],
+        "functioneel_toepassingsgebied": "Semantische standaard voor de digitale transformatie van de Vlaamse Overheid en lokale besturen",
+        "organisatorisch_werkingsgebied": "Lokale besturen, alle entiteiten van de Vlaamse overheid",
+        "datum_van_aanmelding": "21 maart 2024",
+        "erkenning_werkgroep_datastandaarden": "TBD",
+        "erkenning_stuurgroep": "TBD"
+    },
+    {
         "naam": "Applicatieprofiel Kabels en Leidingen",
         "rapport": "",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
@@ -13446,6 +13491,10 @@
             {
                 "naam": "Vocabularium Overlijdensaangifte",
                 "waarde": "https://data.vlaanderen.be/ns/overlijdensaangifte"
+            },
+            {
+                "naam": "Vocabularium Gezondsheidstoestand Persoon",
+                "waarde": "https://data.vlaanderen.be/ns/gezondheidstoestand"
             }
         ],
         "charter": [
@@ -13462,6 +13511,10 @@
             {
                 "naam": "Verslag Thematische Werkgroep II - 20 februari 2024",
                 "waarde": "20240220__ThematicWorkshop2_Verslag_OSLOOverlijdensaangifte.pdf"
+            },
+            {
+                "naam": "Verslag Thematische Werkgroep III - 12 maart 2024",
+                "waarde": "20240312_ThematicWorkshop3_Verslag_OSLOOverlijdensaangifte.pdf"
             }
         ],
         "presentaties": [
@@ -13472,6 +13525,10 @@
             {
                 "naam": "Presentatie Thematische Werkgroep II - 20 februari 2024",
                 "waarde": "20240220_ThematicWorkshop2_Powerpoint_OSLOOverlijdensaangifte.pptx"
+            },
+            {
+                "naam": "Presentatie Thematische Werkgroep III - 12 maart 2024",
+                "waarde": "20240312_ThematicWorkshop3_Powerpoint_OSLOOverlijdensaangifte.pptx"
             }
         ],
         "functioneel_toepassingsgebied": "Semantische standaard voor de digitale transformatie van de Vlaamse Overheid en lokale besturen",
@@ -13491,14 +13548,18 @@
         "beschrijving": "voc-overlijdensaangifte-config.md",
         "specificatiedocument": [
             {
-                "naam": "Applicatieprofiel Overlijdensaangifte",
-                "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/overlijdensaangifte"
+                "naam": "Vocabularium Overlijdensaangifte",
+                "waarde": "https://data.vlaanderen.be/ns/overlijdensaangifte"
             }
         ],
         "documentatie": [
             {
-                "naam": "Vocabularium Overlijdensaangifte",
-                "waarde": "https://data.vlaanderen.be/ns/overlijdensaangifte"
+                "naam": "Applicatieprofiel Overlijdensaangifte",
+                "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/overlijdensaangifte"
+            },
+            {
+                "naam": "Vocabularium Gezondsheidstoestand Persoon",
+                "waarde": "https://data.vlaanderen.be/ns/gezondheidstoestand"
             }
         ],
         "charter": [
@@ -13515,6 +13576,10 @@
             {
                 "naam": "Verslag Thematische Werkgroep II - 20 februari 2024",
                 "waarde": "20240220__ThematicWorkshop2_Verslag_OSLOOverlijdensaangifte.pdf"
+            },
+            {
+                "naam": "Verslag Thematische Werkgroep III - 12 maart 2024",
+                "waarde": "20240312_ThematicWorkshop3_Verslag_OSLOOverlijdensaangifte.pdf"
             }
         ],
         "presentaties": [
@@ -13525,6 +13590,75 @@
             {
                 "naam": "Presentatie Thematische Werkgroep II - 20 februari 2024",
                 "waarde": "20240220_ThematicWorkshop2_Powerpoint_OSLOOverlijdensaangifte.pptx"
+            },
+            {
+                "naam": "Presentatie Thematische Werkgroep III - 12 maart 2024",
+                "waarde": "20240312_ThematicWorkshop3_Powerpoint_OSLOOverlijdensaangifte.pptx"
+            }
+        ],
+        "functioneel_toepassingsgebied": "Semantische standaard voor de digitale transformatie van de Vlaamse Overheid en lokale besturen",
+        "organisatorisch_werkingsgebied": "Lokale besturen, alle entiteiten van de Vlaamse overheid, zorgsector, uitvaartsector",
+        "datum_van_aanmelding": "25 januari 2024",
+        "erkenning_werkgroep_datastandaarden": "TBD",
+        "erkenning_stuurgroep": "TBD"
+    },
+    {
+        "naam": "Vocabularium Gezondheidstoestand Persoon",
+        "rapport": "",
+        "verantwoordelijke_organisatie": "Athumi",
+        "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO051320",
+        "publicatiedatum": "2024-04-11",
+        "type_toepassing": "Aanbevolen (vrijwillig)",
+        "categorie": "Vocabularium",
+        "beschrijving": "voc-gezondheidstoestand-config.md",
+        "specificatiedocument": [
+            {
+                "naam": "Vocabularium Gezondsheidstoestand Persoon",
+                "waarde": "https://data.vlaanderen.be/ns/gezondheidstoestand"
+            }
+        ],
+        "documentatie": [
+            {
+                "naam": "Vocabularium Overlijdensaangifte",
+                "waarde": "https://data.vlaanderen.be/ns/overlijdensaangifte"
+            },
+            {
+                "naam": "Applicatieprofiel Overlijdensaangifte",
+                "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/overlijdensaangifte"
+            }
+        ],
+        "charter": [
+            {
+                "naam": "Charter Overlijdensaangifte",
+                "waarde": "Charter OSLO_Overlijdensaangifte.pdf"
+            }
+        ],
+        "verslagen": [
+            {
+                "naam": "Verslag Thematische Werkgroep I - 16 januari 2024",
+                "waarde": "20240116__ThematicWorkshop1_Verslag_OSLOOverlijdensaangifte.pdf"
+            },
+            {
+                "naam": "Verslag Thematische Werkgroep II - 20 februari 2024",
+                "waarde": "20240220__ThematicWorkshop2_Verslag_OSLOOverlijdensaangifte.pdf"
+            },
+            {
+                "naam": "Verslag Thematische Werkgroep III - 12 maart 2024",
+                "waarde": "20240312_ThematicWorkshop3_Verslag_OSLOOverlijdensaangifte.pdf"
+            }
+        ],
+        "presentaties": [
+            {
+                "naam": "Presentatie Thematische Werkgroep I - 16 januari 2024",
+                "waarde": "20240116_ThematicWorkshop1_Powerpoint_OSLOOverlijdensaangifte.pptx"
+            },
+            {
+                "naam": "Presentatie Thematische Werkgroep II - 20 februari 2024",
+                "waarde": "20240220_ThematicWorkshop2_Powerpoint_OSLOOverlijdensaangifte.pptx"
+            },
+            {
+                "naam": "Presentatie Thematische Werkgroep III - 12 maart 2024",
+                "waarde": "20240312_ThematicWorkshop3_Powerpoint_OSLOOverlijdensaangifte.pptx"
             }
         ],
         "functioneel_toepassingsgebied": "Semantische standaard voor de digitale transformatie van de Vlaamse Overheid en lokale besturen",
@@ -13879,8 +14013,26 @@
         ],
         "documentatie": [],
         "charter": [],
-        "verslagen": [],
-        "presentaties": [],
+        "verslagen": [
+            {
+                "naam": "Verslag Business Werkgroep - 26/02/2024",
+                "waarde": "260224 SA Verslag Business werkgroep.pdf"
+            },
+            {
+                "naam": "Verslag Thematische Werkgroep 1 - 18/03/2024",
+                "waarde": "180324 SA Verslag Eerste thematische werkgroep.pdf"
+            }
+        ],
+        "presentaties": [
+            {
+                "naam": "Presentatie Business Werkgroep - 26/02/2024",
+                "waarde": "260224 SA Business werkgroep.pdf"
+            },
+            {
+                "naam": "Presentatie Thematische Werkgroep 1 - 18/03/2024",
+                "waarde": "180324 SA Thematische werkgroep 1.pdf"
+            }
+        ],
         "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Studentenattesten",
         "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse overheid",
         "datum_van_aanmelding": "TBD",
