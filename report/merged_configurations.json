@@ -1171,13 +1171,13 @@
         ],
         "verantwoordelijke_organisatie": "Databank Ondergrond Vlaanderen en OVAM",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO027735",
-        "publicatiedatum": "TBD",
-        "type_toepassing": "TBD",
+        "publicatiedatum": "2022-04-28",
+        "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Applicatieprofiel",
         "beschrijving": "bodemenondergrond.md",
         "specificatiedocument": [
             {
-                "naam": "AP Bodem",
+                "naam": "Applicatieprofiel Bodem",
                 "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/bodem/ontwerpstandaard/2021-08-01"
             }
         ],
@@ -1367,13 +1367,13 @@
         ],
         "verantwoordelijke_organisatie": "Databank Ondergrond Vlaanderen en OVAM",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO027735",
-        "publicatiedatum": "TBD",
-        "type_toepassing": "TBD",
+        "publicatiedatum": "2022-04-28",
+        "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Applicatieprofiel",
         "beschrijving": "bodemenondergrond.md",
         "specificatiedocument": [
             {
-                "naam": "AP Bodem en Ondergrond",
+                "naam": "Applicatieprofiel Bodem en Ondergrond",
                 "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/bodem-en-ondergrond/kandidaatstandaard/2022-04-28"
             }
         ],
@@ -1563,13 +1563,13 @@
         ],
         "verantwoordelijke_organisatie": "Databank Ondergrond Vlaanderen en OVAM",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO027735",
-        "publicatiedatum": "TBD",
-        "type_toepassing": "TBD",
+        "publicatiedatum": "2021-08-01",
+        "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Applicatieprofielen",
         "beschrijving": "bodemenondergrond.md",
         "specificatiedocument": [
             {
-                "naam": "AP Bodem en Ondergrond Observaties",
+                "naam": "Applicatieprofiel Bodem en Ondergrond Observaties",
                 "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/bo-observaties/ontwerpstandaard/2021-08-01"
             }
         ],
@@ -1759,13 +1759,13 @@
         ],
         "verantwoordelijke_organisatie": "Databank Ondergrond Vlaanderen en OVAM",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO027735",
-        "publicatiedatum": "TBD",
-        "type_toepassing": "TBD",
+        "publicatiedatum": "2021-08-01",
+        "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Applicatieprofiel",
         "beschrijving": "bodemenondergrond.md",
         "specificatiedocument": [
             {
-                "naam": "AP Bodem en Ondergrond Interpretaties",
+                "naam": "Applicatieprofiel Bodem en Ondergrond Interpretaties",
                 "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/bo-interpretaties/ontwerpstandaard/2021-08-01"
             }
         ],
@@ -1955,13 +1955,13 @@
         ],
         "verantwoordelijke_organisatie": "Databank Ondergrond Vlaanderen en OVAM",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO027735",
-        "publicatiedatum": "TBD",
-        "type_toepassing": "TBD",
+        "publicatiedatum": "2021-08-01",
+        "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Applicatieprofiel",
         "beschrijving": "bodemenondergrond.md",
         "specificatiedocument": [
             {
-                "naam": "AP Grondboringen",
+                "naam": "Applicatieprofiel Grondboringen",
                 "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/bodem-en-ondergrond/grondboringen/ontwerpstandaard/2021-08-01"
             }
         ],
@@ -3339,17 +3339,17 @@
         "erkenning_stuurgroep": "TBD"
     },
     {
-        "naam": "Vocabularium feitelijke verenigingen",
+        "naam": "Vocabularium Feitelijke Verenigingen",
         "rapport": "",
         "verantwoordelijke_organisatie": "Departement Cultuur, Jeugd en Media",
         "identificator_organisatie": "http://data.vlaanderen.be/id/organisatie/OVO000067",
         "publicatiedatum": "2022-02-03",
-        "type_toepassing": "TBD",
+        "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Vocabularium",
         "beschrijving": "voc-feitelijke-verenigingen.md",
         "specificatiedocument": [
             {
-                "naam": "Kandidaat Specificatie Vocabularium - Feitelijke Verenigingen",
+                "naam": "Vocabularium Feitelijke Verenigingen",
                 "waarde": "https://data.vlaanderen.be/ns/FeitelijkeVerenigingen/"
             }
         ],
@@ -3406,22 +3406,22 @@
         ],
         "functioneel_toepassingsgebied": "Semantische standaard voor informatie over besluitvorming",
         "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse overheid",
-        "datum_van_aanmelding": "TBD",
+        "datum_van_aanmelding": "1 april 2021",
         "erkenning_werkgroep_datastandaarden": "TBD",
         "erkenning_stuurgroep": "TBD"
     },
     {
-        "naam": "Applicatieprofiel feitelijke verenigingen",
+        "naam": "Applicatieprofiel Feitelijke Verenigingen",
         "rapport": "",
         "verantwoordelijke_organisatie": "Departement Cultuur, Jeugd en Media",
         "identificator_organisatie": "http://data.vlaanderen.be/id/organisatie/OVO000067",
         "publicatiedatum": "2022-02-03",
-        "type_toepassing": "TBD",
+        "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Applicatieprofiel",
         "beschrijving": "ap-feitelijke-verenigingen.md",
         "specificatiedocument": [
             {
-                "naam": "Kandidaat Specificatie Applicatieprofiel - Feitelijke Verenigingen",
+                "naam": "Applicatieprofiel Feitelijke Verenigingen",
                 "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/FeitelijkeVerenigingen/"
             }
         ],
@@ -3478,7 +3478,7 @@
         ],
         "functioneel_toepassingsgebied": "Semantische standaard voor informatie over besluitvorming",
         "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse overheid",
-        "datum_van_aanmelding": "TBD",
+        "datum_van_aanmelding": "1 april 2021",
         "erkenning_werkgroep_datastandaarden": "TBD",
         "erkenning_stuurgroep": "TBD"
     },
@@ -3552,7 +3552,7 @@
         "verantwoordelijke_organisatie": "De Lijn",
         "identificator_organisatie": "http://data.vlaanderen.be/id/organisatie/OVO000100",
         "publicatiedatum": "2022-04-21",
-        "type_toepassing": "aanbevolen (vrijwillig)",
+        "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Applicatieprofiel",
         "beschrijving": "ap-dienstregeling-en-planning.md",
         "specificatiedocument": [
@@ -5004,8 +5004,8 @@
         "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/applicatieprofiel/besluit-subsidie/ontwerpstandaard/2019-12-02/all-besluit-subsidie-ap.jsonld",
         "verantwoordelijke_organisatie": "Agentschap Binnenlands Bestuur",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO001835",
-        "publicatiedatum": "TBD",
-        "type_toepassing": "TBD",
+        "publicatiedatum": "2019-01-01",
+        "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Applicatieprofiel",
         "beschrijving": "ap-besluit-subsidie.md",
         "specificatiedocument": [
@@ -5087,7 +5087,7 @@
         ],
         "functioneel_toepassingsgebied": "Semantische standaard voor informatie met betrekking tot subsidies",
         "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse overheid",
-        "datum_van_aanmelding": "Nog niet aangemeld",
+        "datum_van_aanmelding": "1 november 2018",
         "erkenning_werkgroep_datastandaarden": "TBD",
         "erkenning_stuurgroep": "TBD"
     },
@@ -5096,8 +5096,8 @@
         "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/reverseengineeredOnlyForContributions/subsidie.jsonld",
         "verantwoordelijke_organisatie": "Agentschap Binnenlands Bestuur",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO001835",
-        "publicatiedatum": "TBD",
-        "type_toepassing": "TBD",
+        "publicatiedatum": "2019-01-01",
+        "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Vocabularium",
         "beschrijving": "voc-subsidie.md",
         "specificatiedocument": [
@@ -5179,7 +5179,7 @@
         ],
         "functioneel_toepassingsgebied": "Semantische standaard voor informatie met betrekking tot subsidies",
         "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse overheid",
-        "datum_van_aanmelding": "Nog niet aangemeld",
+        "datum_van_aanmelding": "1 november 2018",
         "erkenning_werkgroep_datastandaarden": "TBD",
         "erkenning_stuurgroep": "TBD"
     },
@@ -8557,8 +8557,8 @@
             "https://data.vlaanderen.be/id/organisatie/OVO002949",
             "http://data.vlaanderen.be/id/organisatie/OVO001835"
         ],
-        "publicatiedatum": "TBD",
-        "type_toepassing": "TBD",
+        "publicatiedatum": "2018-06-01",
+        "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Applicatieprofiel",
         "beschrijving": "ap-besluit-mobiliteit.md",
         "specificatiedocument": [
@@ -8716,7 +8716,7 @@
         "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/production/report/doc/applicatieprofiel/begraafplaatsenbeheer/erkendestandaard/2021-09-30/all-begraafplaatsenbeheer-ap.jsonld",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-        "publicatiedatum": "30-09-2021",
+        "publicatiedatum": "2021-09-30",
         "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Applicatieprofiel",
         "beschrijving": "ap-openbaar-domein.md",
@@ -8763,7 +8763,7 @@
         "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/production/report/doc/applicatieprofiel/begraafplaatsen/erkendestandaard/2021-09-30/all-begraafplaatsen-ap.jsonld",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-        "publicatiedatum": "30-09-2021",
+        "publicatiedatum": "2021-09-30",
         "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Applicatieprofiel",
         "beschrijving": "ap-openbaar-domein.md",
@@ -8810,7 +8810,7 @@
         "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/production/report/doc/applicatieprofiel/begroeid-voorkomen/erkendestandaard/2021-09-30/all-begroeid-voorkomen-ap.jsonld",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-        "publicatiedatum": "30-09-2021",
+        "publicatiedatum": "2021-09-30",
         "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Applicatieprofiel",
         "beschrijving": "ap-openbaar-domein.md",
@@ -8857,7 +8857,7 @@
         "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/production/report/doc/applicatieprofiel/gebieden/erkendestandaard/2021-09-30/all-gebieden-ap.jsonld",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-        "publicatiedatum": "30-09-2021",
+        "publicatiedatum": "2021-09-30",
         "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Applicatieprofiel",
         "beschrijving": "ap-openbaar-domein.md",
@@ -8904,7 +8904,7 @@
         "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/production/report/doc/applicatieprofiel/infrastructuurelementen/erkendestandaard/2021-09-30/all-infrastructuurelementen-ap.jsonld",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-        "publicatiedatum": "30-09-2021",
+        "publicatiedatum": "2021-09-30",
         "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Applicatieprofiel",
         "beschrijving": "ap-openbaar-domein.md",
@@ -8951,7 +8951,7 @@
         "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/production/report/doc/applicatieprofiel/onbegroeid-voorkomen/erkendestandaard/2021-09-30/all-onbegroeid-voorkomen-ap.jsonld",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-        "publicatiedatum": "30-09-2021",
+        "publicatiedatum": "2021-09-30",
         "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Applicatieprofiel",
         "beschrijving": "ap-openbaar-domein.md",
@@ -8998,7 +8998,7 @@
         "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/production/report/doc/applicatieprofiel/openbaar-domein/erkendestandaard/2021-09-30/all-openbaar-domein-ap.jsonld",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-        "publicatiedatum": "30-09-2021",
+        "publicatiedatum": "2021-09-30",
         "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Applicatieprofiel",
         "beschrijving": "ap-openbaar-domein.md",
@@ -9045,7 +9045,7 @@
         "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/production/report/doc/applicatieprofiel/terreindelen/erkendestandaard/2021-09-30/all-terreindelen-ap.jsonld",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-        "publicatiedatum": "30-09-2021",
+        "publicatiedatum": "2021-09-30",
         "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Applicatieprofiel",
         "beschrijving": "ap-openbaar-domein.md",
@@ -9092,7 +9092,7 @@
         "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/production/report/doc/applicatieprofiel/vegetatie-elementen/erkendestandaard/2021-09-30/all-vegetatie-elementen-ap.jsonld",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-        "publicatiedatum": "30-09-2021",
+        "publicatiedatum": "2021-09-30",
         "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Applicatieprofiel",
         "beschrijving": "ap-openbaar-domein.md",
@@ -9139,7 +9139,7 @@
         "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/production/report/doc/applicatieprofiel/waterdelen/erkendestandaard/2021-09-30/all-waterdelen-ap.jsonld",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-        "publicatiedatum": "30-09-2021",
+        "publicatiedatum": "2021-09-30",
         "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Applicatieprofiel",
         "beschrijving": "ap-openbaar-domein.md",
@@ -9186,7 +9186,7 @@
         "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/production/report/doc/applicatieprofiel/watervoorkomen/erkendestandaard/2021-09-30/all-watervoorkomen-ap.jsonld",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-        "publicatiedatum": "30-09-2021",
+        "publicatiedatum": "2021-09-30",
         "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Applicatieprofiel",
         "beschrijving": "ap-openbaar-domein.md",
@@ -9233,7 +9233,7 @@
         "rapport": "",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-        "publicatiedatum": "30-09-2021",
+        "publicatiedatum": "2021-09-30",
         "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Vocabularium & applicatieprofielen",
         "beschrijving": "openbaar-domein.md",
@@ -9360,7 +9360,7 @@
         "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/production/report/doc/vocabularium/openbaardomein/begraafplaats/erkendestandaard/2021-09-30/all-begraafplaats-voc.jsonld",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-        "publicatiedatum": "30-09-2021",
+        "publicatiedatum": "2021-09-30",
         "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Vocabularium",
         "beschrijving": "voc-openbaar-domein.md",
@@ -9407,7 +9407,7 @@
         "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/production/report/doc/vocabularium/openbaardomein/begroeidvoorkomen/erkendestandaard/2021-09-30/all-begroeid-voorkomen-voc.jsonld",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-        "publicatiedatum": "30-09-2021",
+        "publicatiedatum": "2021-09-30",
         "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Vocabularium",
         "beschrijving": "voc-openbaar-domein.md",
@@ -9454,7 +9454,7 @@
         "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/production/report/doc/vocabularium/openbaardomein/gebied/erkendestandaard/2021-09-30/all-gebied-voc.jsonld",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-        "publicatiedatum": "30-09-2021",
+        "publicatiedatum": "2021-09-30",
         "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Vocabularium",
         "beschrijving": "voc-openbaar-domein.md",
@@ -9501,7 +9501,7 @@
         "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/production/report/doc/vocabularium/openbaardomein/infrastructuur/erkendestandaard/2021-09-30/all-infrastructuur-voc.jsonld",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-        "publicatiedatum": "30-09-2021",
+        "publicatiedatum": "2021-09-30",
         "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Vocabularium",
         "beschrijving": "voc-openbaar-domein.md",
@@ -9548,7 +9548,7 @@
         "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/production/report/doc/vocabularium/openbaardomein/onbegroeidvoorkomen/erkendestandaard/2021-09-30/all-onbegroeid-voorkomen-voc.jsonld",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-        "publicatiedatum": "30-09-2021",
+        "publicatiedatum": "2021-09-30",
         "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Vocabularium",
         "beschrijving": "voc-openbaar-domein.md",
@@ -9595,7 +9595,7 @@
         "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/production/report/doc/vocabularium/openbaardomein/terreindeel/erkendestandaard/2021-09-30/all-terreindeel-voc.jsonld",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-        "publicatiedatum": "30-09-2021",
+        "publicatiedatum": "2021-09-30",
         "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Vocabularium",
         "beschrijving": "voc-openbaar-domein.md",
@@ -9642,7 +9642,7 @@
         "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/production/report/doc/vocabularium/openbaardomein/vegetatie/erkendestandaard/2021-09-30/all-vegetatie-voc.jsonld",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-        "publicatiedatum": "30-09-2021",
+        "publicatiedatum": "2021-09-30",
         "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Vocabularium",
         "beschrijving": "voc-openbaar-domein.md",
@@ -9689,7 +9689,7 @@
         "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/production/report/doc/vocabularium/openbaardomein/waterdeel/erkendestandaard/2021-09-30/all-waterdeel-voc.jsonld",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-        "publicatiedatum": "30-09-2021",
+        "publicatiedatum": "2021-09-30",
         "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Vocabularium",
         "beschrijving": "voc-openbaar-domein.md",
@@ -9736,7 +9736,7 @@
         "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/production/report/doc/vocabularium/openbaardomein/watervoorkomen/erkendestandaard/2021-09-30/all-watervoorkomen-voc.jsonld",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-        "publicatiedatum": "30-09-2021",
+        "publicatiedatum": "2021-09-30",
         "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Vocabularium",
         "beschrijving": "voc-openbaar-domein.md",
@@ -12491,12 +12491,12 @@
         "erkenning_stuurgroep": "TBD"
     },
     {
-        "naam": "Applicatieprofiel bestuurlijk sanctieregister",
+        "naam": "Applicatieprofiel Bestuurlijk Sanctieregister",
         "rapport": "",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "http://data.vlaanderen.be/id/organisatie/OVO002949",
         "publicatiedatum": "TBD",
-        "type_toepassing": "TBD",
+        "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Applicatieprofiel",
         "beschrijving": "ap-bestuurlijksanctieregister.md",
         "specificatiedocument": [
@@ -12540,9 +12540,9 @@
                 "waarde": "Presentatie Thematische Werkgroep 2 - Bestuurlijk Sanctieregister 2021-01-21.pptx.pdf"
             }
         ],
-        "functioneel_toepassingsgebied": "TBD",
-        "organisatorisch_werkingsgebied": "TBD",
-        "datum_van_aanmelding": "TBD",
+        "functioneel_toepassingsgebied": "Semantische standaard voor informatie met betrekking tot het sanctieregister",
+        "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
+        "datum_van_aanmelding": "1 juli 2020",
         "erkenning_werkgroep_datastandaarden": "TBD",
         "erkenning_stuurgroep": "TBD"
     },
@@ -13010,15 +13010,68 @@
         "rapport": "",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-        "publicatiedatum": "",
-        "type_toepassing": "",
+        "publicatiedatum": "2022-11-10",
+        "type_toepassing": "Aanbevolen (vrijwillig)",
         "categorie": "Applicatieprofiel",
-        "beschrijving": "",
+        "beschrijving": "ap-mobiliteitsbudget-description.md",
         "specificatiedocument": [
             {
                 "naam": "Applicatieprofiel Mobiliteitsbudget",
                 "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/mobiliteitsbudget/"
+            }
+        ],
+        "documentatie": [
+            {
+                "naam": "Vocabularium Mobiliteitsbudget",
+                "waarde": "https://data.vlaanderen.be/ns/mobiliteitsbudget/"
+            }
+        ],
+        "charter": [
+            {
+                "naam": "Charter",
+                "waarde": "charter-OSLO-Mobiliteitsbudget.pdf"
+            }
+        ],
+        "verslagen": [
+            {
+                "naam": "Verslag business werkgroep - 7 december 2022 ",
+                "waarde": "Verslag Business Workshop Mobiliteitsbudget.docx.pdf"
             },
+            {
+                "naam": "Verslag Thematische Werkgroep 1 - 11 januari 2023",
+                "waarde": "11012023_OSLO Mobiliteitsbudget_Thematische Werkgroep 1_Verslag.pdf"
+            },
+            {
+                "naam": "Verslag Thematische Werkgroep 2 - 8 februari 2023",
+                "waarde": "08022023-Verslag-Thematische-Werkgroep-2-OSLO-Mobiliteitsbudget.pdf"
+            }
+        ],
+        "presentaties": [
+            {
+                "naam": "Presentatie business werkgroep - 7 december 2022",
+                "waarde": "07122022-Business Werkgroep presentatie - MOBURGER.pptx.pdf"
+            },
+            {
+                "naam": "Presentatie thematische werkgroep - 11 januari 2023 ",
+                "waarde": "11012023_OSLO Mobiliteitsbudget_Thematische Werkgroep 1_Verslag.pdf"
+            }
+        ],
+        "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Mobiliteitsbudget",
+        "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse Overheid",
+        "datum_van_aanmelding": "10 november 2022",
+        "erkenning_werkgroep_datastandaarden": "",
+        "erkenning_stuurgroep": ""
+    },
+    {
+        "naam": "Vocabularium Mobiliteitsbudget ",
+        "rapport": "",
+        "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
+        "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
+        "publicatiedatum": "2022-11-10",
+        "type_toepassing": "Aanbevolen (vrijwillig)",
+        "categorie": "Vocabularium",
+        "beschrijving": "voc-mobiliteitsbudget-description.md",
+        "specificatiedocument": [
             {
                 "naam": "Vocabularium Mobiliteitsbudget",
                 "waarde": "https://data.vlaanderen.be/ns/mobiliteitsbudget/"
@@ -13026,31 +13079,43 @@
         ],
         "documentatie": [
             {
-                "naam": "Modificatie Mobiliteitsbudget - datum",
-                "waarde": "link"
+                "naam": "Applicatieprofiel Mobiliteitsbudget",
+                "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/mobiliteitsbudget/"
             }
         ],
         "charter": [
             {
                 "naam": "Charter",
-                "waarde": "link"
+                "waarde": "charter-OSLO-Mobiliteitsbudget.pdf"
             }
         ],
         "verslagen": [
             {
+                "naam": "Verslag business werkgroep - 7 december 2022 ",
+                "waarde": "Verslag Business Workshop Mobiliteitsbudget.docx.pdf"
+            },
+            {
                 "naam": "Verslag Thematische Werkgroep 1 - 11 januari 2023",
                 "waarde": "11012023_OSLO Mobiliteitsbudget_Thematische Werkgroep 1_Verslag.pdf"
+            },
+            {
+                "naam": "Verslag Thematische Werkgroep 2 - 8 februari 2023",
+                "waarde": "08022023-Verslag-Thematische-Werkgroep-2-OSLO-Mobiliteitsbudget.pdf"
             }
         ],
         "presentaties": [
             {
-                "naam": "Presentatie Thematische Werkgroep 1 - 11 januari 2023",
-                "waarde": "11012023_OSLO Mobiliteitsbudget_Thematische Werkgroep 1_Presentatie.pdf"
+                "naam": "Presentatie business werkgroep - 7 december 2022",
+                "waarde": "07122022-Business Werkgroep presentatie - MOBURGER.pptx.pdf"
+            },
+            {
+                "naam": "Presentatie thematische werkgroep - 11 januari 2023 ",
+                "waarde": "11012023_OSLO Mobiliteitsbudget_Thematische Werkgroep 1_Verslag.pdf"
             }
         ],
         "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Mobiliteitsbudget",
         "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse Overheid",
-        "datum_van_aanmelding": "",
+        "datum_van_aanmelding": "10 november 2022",
         "erkenning_werkgroep_datastandaarden": "",
         "erkenning_stuurgroep": ""
     },
