@@ -13733,7 +13733,7 @@
         "erkenning_stuurgroep": "TBD"
     },
     {
-        "naam": "Applicatieprofiel Kind fiche",
+        "naam": "Applicatieprofiel Kindfiche",
         "rapport": "",
         "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
         "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
@@ -13743,19 +13743,50 @@
         "beschrijving": "kind-fiche-description.md",
         "specificatiedocument": [
             {
-                "naam": "Kind fiche applicatieprofiel",
+                "naam": "Applicatieprofiel Kindfiche",
                 "waarde": "https://data.test-vlaanderen.be/doc/applicatieprofiel/kind-fiche/ontwerpstandaard/2024-03-19/"
             }
         ],
         "documentatie": [],
-        "charter": [],
-        "verslagen": [],
-        "presentaties": [],
-        "functioneel_toepassingsgebied": "",
-        "organisatorisch_werkingsgebied": "",
-        "datum_van_aanmelding": "",
-        "erkenning_werkgroep_datastandaarden": "",
-        "erkenning_stuurgroep": ""
+        "charter": [
+            {
+                "naam": "Charter Kindfiche",
+                "waarde": "Werkgroep charter OSLO_Kindfiche.pdf"
+            }
+        ],
+        "verslagen": [
+            {
+                "naam": "Verslag Business Werkgroep - 13 februari 2024",
+                "waarde": "2.0 Business Werkgroep presentatie Kindfiche (1).pdf"
+            },
+            {
+                "naam": "Verslag Thematische Werkgroep I - 12 maart 2024",
+                "waarde": "Thematische werkgroep 1 presentatie Kindfiche (1).pdf"
+            },
+            {
+                "naam": "Verslag Thematische Werkgroep II - 9 april 2024",
+                "waarde": "Thematische werkgroep 2 presentatie Kindfiche.pdf"
+            }
+        ],
+        "presentaties": [
+            {
+                "naam": "Presentatie Business Werkgroep -  13 februari 2024",
+                "waarde": "20240116_ThematicWorkshop1_Powerpoint_OSLOOverlijdensaangifte.pptx"
+            },
+            {
+                "naam": "Presentatie Thematische Werkgroep I - 12 maart 2024",
+                "waarde": "20240116_ThematicWorkshop1_Powerpoint_OSLOOverlijdensaangifte.pptx"
+            },
+            {
+                "naam": "Presentatie Thematische Werkgroep II - 9 april 2024",
+                "waarde": "20240220_ThematicWorkshop2_Powerpoint_OSLOOverlijdensaangifte.pptx"
+            }
+        ],
+        "functioneel_toepassingsgebied": "Semantische standaard voor de digitale transformatie van de Vlaamse Overheid en lokale besturen",
+        "organisatorisch_werkingsgebied": "Lokale besturen, alle entiteiten van de Vlaamse overheid, zorgsector",
+        "datum_van_aanmelding": "19 december 2024",
+        "erkenning_werkgroep_datastandaarden": "TBD",
+        "erkenning_stuurgroep": "TBD"
     },
     {
         "naam": "Vocabularium OSLO Statistiek",

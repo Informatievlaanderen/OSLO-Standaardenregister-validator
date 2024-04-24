@@ -4320,7 +4320,7 @@
         "erkenning_stuurgroep": false
     },
     {
-        "naam": "Applicatieprofiel Kind fiche",
+        "naam": "Applicatieprofiel Kindfiche",
         "rapport": "Geen rapport gevonden",
         "verantwoordelijke_organisatie": true,
         "identificator_organisatie": true,
@@ -4330,12 +4330,12 @@
         "beschrijving": true,
         "specificatiedocument": true,
         "documentatie": false,
-        "charter": false,
-        "verslagen": false,
-        "presentaties": false,
-        "functioneel_toepassingsgebied": false,
-        "organisatorisch_werkingsgebied": false,
-        "datum_van_aanmelding": false,
+        "charter": true,
+        "verslagen": true,
+        "presentaties": true,
+        "functioneel_toepassingsgebied": true,
+        "organisatorisch_werkingsgebied": true,
+        "datum_van_aanmelding": true,
         "erkenning_werkgroep_datastandaarden": false,
         "erkenning_stuurgroep": false
     },
