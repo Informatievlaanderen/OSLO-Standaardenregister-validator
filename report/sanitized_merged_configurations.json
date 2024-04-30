@@ -257,7 +257,7 @@
         "organisatorisch_werkingsgebied": true,
         "datum_van_aanmelding": true,
         "erkenning_werkgroep_datastandaarden": true,
-        "erkenning_stuurgroep": false
+        "erkenning_stuurgroep": true
     },
     {
         "naam": "Vocabularium Verkeersmetingen",
@@ -277,7 +277,7 @@
         "organisatorisch_werkingsgebied": true,
         "datum_van_aanmelding": true,
         "erkenning_werkgroep_datastandaarden": true,
-        "erkenning_stuurgroep": false
+        "erkenning_stuurgroep": true
     },
     {
         "naam": "Applicatieprofiel Financiële Rapportering",
