@@ -13571,7 +13571,7 @@
         "verslagen": [
             {
                 "naam": "Verslag Thematische Werkgroep I - 16 januari 2024",
-                "waarde": "20240116__ThematicWorkshop1_Verslag_OSLOOverlijdensaangifte.pdf"
+                "waarde": "20240116_ThematicWorkshop1_Verslag_OSLOOverlijdensaangifte.pdf"
             },
             {
                 "naam": "Verslag Thematische Werkgroep II - 20 februari 2024",
@@ -13580,6 +13580,10 @@
             {
                 "naam": "Verslag Thematische Werkgroep III - 12 maart 2024",
                 "waarde": "20240312_ThematicWorkshop3_Verslag_OSLOOverlijdensaangifte.pdf"
+            },
+            {
+                "naam": "Verslag Thematische Werkgroep IV - 23 april 2024",
+                "waarde": "20240423_ThematicWorkshop4_Verslag_OSLOOverlijdensaangifte.pdf"
             }
         ],
         "presentaties": [
@@ -13594,6 +13598,10 @@
             {
                 "naam": "Presentatie Thematische Werkgroep III - 12 maart 2024",
                 "waarde": "20240312_ThematicWorkshop3_Powerpoint_OSLOOverlijdensaangifte.pptx"
+            },
+            {
+                "naam": "Presentatie Thematische Werkgroep IV - 23 april 2024",
+                "waarde": "20240423_ThematicWorkshop4_Powerpoint_OSLOOverlijdensaangifte.pptx"
             }
         ],
         "functioneel_toepassingsgebied": "Semantische standaard voor de digitale transformatie van de Vlaamse Overheid en lokale besturen",
@@ -13645,6 +13653,10 @@
             {
                 "naam": "Verslag Thematische Werkgroep III - 12 maart 2024",
                 "waarde": "20240312_ThematicWorkshop3_Verslag_OSLOOverlijdensaangifte.pdf"
+            },
+            {
+                "naam": "Verslag Thematische Werkgroep IV - 23 april 2024",
+                "waarde": "20240423_ThematicWorkshop4_Verslag_OSLOOverlijdensaangifte.pdf"
             }
         ],
         "presentaties": [
@@ -13659,6 +13671,10 @@
             {
                 "naam": "Presentatie Thematische Werkgroep III - 12 maart 2024",
                 "waarde": "20240312_ThematicWorkshop3_Powerpoint_OSLOOverlijdensaangifte.pptx"
+            },
+            {
+                "naam": "Presentatie Thematische Werkgroep IV - 23 april 2024",
+                "waarde": "20240423_ThematicWorkshop4_Powerpoint_OSLOOverlijdensaangifte.pptx"
             }
         ],
         "functioneel_toepassingsgebied": "Semantische standaard voor de digitale transformatie van de Vlaamse Overheid en lokale besturen",
@@ -13710,6 +13726,10 @@
             {
                 "naam": "Verslag Thematische Werkgroep III - 12 maart 2024",
                 "waarde": "20240312_ThematicWorkshop3_Verslag_OSLOOverlijdensaangifte.pdf"
+            },
+            {
+                "naam": "Verslag Thematische Werkgroep IV - 23 april 2024",
+                "waarde": "20240423_ThematicWorkshop4_Verslag_OSLOOverlijdensaangifte.pdf"
             }
         ],
         "presentaties": [
@@ -13724,6 +13744,10 @@
             {
                 "naam": "Presentatie Thematische Werkgroep III - 12 maart 2024",
                 "waarde": "20240312_ThematicWorkshop3_Powerpoint_OSLOOverlijdensaangifte.pptx"
+            },
+            {
+                "naam": "Presentatie Thematische Werkgroep IV - 23 april 2024",
+                "waarde": "20240423_ThematicWorkshop4_Powerpoint_OSLOOverlijdensaangifte.pptx"
             }
         ],
         "functioneel_toepassingsgebied": "Semantische standaard voor de digitale transformatie van de Vlaamse Overheid en lokale besturen",
