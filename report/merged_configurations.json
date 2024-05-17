@@ -2,8 +2,8 @@
     {
         "naam": "Applicatieprofiel Omgevingsvergunning",
         "rapport": "",
-        "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
-        "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
+        "verantwoordelijke_organisatie": "Departement Omgeving",
+        "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO003323",
         "publicatiedatum": "TBD",
         "type_toepassing": "Aanbevolen",
         "categorie": "Applicatieprofiel",
@@ -74,8 +74,8 @@
     {
         "naam": "Vocabularium Omgevingsvergunning",
         "rapport": "",
-        "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
-        "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
+        "verantwoordelijke_organisatie": "Departement Omgeving",
+        "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO003323",
         "publicatiedatum": "TBD",
         "type_toepassing": "Aanbevolen",
         "categorie": "Vocabularium",
@@ -13933,6 +13933,49 @@
         "erkenning_stuurgroep": "TBD"
     },
     {
+        "naam": "Applicatieprofiel Leerinschrijfcredential",
+        "rapport": "",
+        "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
+        "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
+        "publicatiedatum": "2024-04-08",
+        "type_toepassing": "Aanbevolen (vrijwillig)",
+        "categorie": "Applicatieprofiel",
+        "beschrijving": "leerinschrijfcredential-description.md",
+        "specificatiedocument": [
+            {
+                "naam": "Applicatieprofiel Leerinschrijfcredential",
+                "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/leerinschrijfcredential/ontwerpstandaard/2024-04-08"
+            }
+        ],
+        "documentatie": [],
+        "charter": [],
+        "verslagen": [
+            {
+                "naam": "Verslag Business Werkgroep - 26/02/2024",
+                "waarde": "260224 SA Verslag Business werkgroep.pdf"
+            },
+            {
+                "naam": "Verslag Thematische Werkgroep 1 - 18/03/2024",
+                "waarde": "180324 SA Verslag Eerste thematische werkgroep.pdf"
+            }
+        ],
+        "presentaties": [
+            {
+                "naam": "Presentatie Business Werkgroep - 26/02/2024",
+                "waarde": "260224 SA Business werkgroep.pdf"
+            },
+            {
+                "naam": "Presentatie Thematische Werkgroep 1 - 18/03/2024",
+                "waarde": "180324 SA Thematische werkgroep 1.pdf"
+            }
+        ],
+        "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Leerinschrijfcredential",
+        "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse overheid",
+        "datum_van_aanmelding": "TBD",
+        "erkenning_werkgroep_datastandaarden": "TBD",
+        "erkenning_stuurgroep": "TBD"
+    },
+    {
         "naam": "Applicatieprofiel OSLO Datakwaliteit",
         "rapport": "",
         "verantwoordelijke_organisatie": "Vlaamse Milieumaatschappij (VMM)",
@@ -14113,49 +14156,6 @@
         "functioneel_toepassingsgebied": "Semantische standaard voor waterkwaliteit",
         "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
         "datum_van_aanmelding": "17 oktober 2022",
-        "erkenning_werkgroep_datastandaarden": "TBD",
-        "erkenning_stuurgroep": "TBD"
-    },
-    {
-        "naam": "Applicatieprofiel Studentenattesten",
-        "rapport": "",
-        "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
-        "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-        "publicatiedatum": "2024-04-08",
-        "type_toepassing": "Aanbevolen (vrijwillig)",
-        "categorie": "Applicatieprofiel",
-        "beschrijving": "studentenattesten-description.md",
-        "specificatiedocument": [
-            {
-                "naam": "Applicatieprofiel Studentenattesten",
-                "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/studentenattesten/ontwerpstandaard/2024-04-08"
-            }
-        ],
-        "documentatie": [],
-        "charter": [],
-        "verslagen": [
-            {
-                "naam": "Verslag Business Werkgroep - 26/02/2024",
-                "waarde": "260224 SA Verslag Business werkgroep.pdf"
-            },
-            {
-                "naam": "Verslag Thematische Werkgroep 1 - 18/03/2024",
-                "waarde": "180324 SA Verslag Eerste thematische werkgroep.pdf"
-            }
-        ],
-        "presentaties": [
-            {
-                "naam": "Presentatie Business Werkgroep - 26/02/2024",
-                "waarde": "260224 SA Business werkgroep.pdf"
-            },
-            {
-                "naam": "Presentatie Thematische Werkgroep 1 - 18/03/2024",
-                "waarde": "180324 SA Thematische werkgroep 1.pdf"
-            }
-        ],
-        "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Studentenattesten",
-        "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse overheid",
-        "datum_van_aanmelding": "TBD",
         "erkenning_werkgroep_datastandaarden": "TBD",
         "erkenning_stuurgroep": "TBD"
     }
