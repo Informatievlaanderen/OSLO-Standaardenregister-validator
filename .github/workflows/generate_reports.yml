@@ -28,7 +28,7 @@ jobs:
         os: [ubuntu-latest]
         # Different Node versions. Each node version will trigger the action
         node-version:
-          - 18.x
+          - 20.x
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
