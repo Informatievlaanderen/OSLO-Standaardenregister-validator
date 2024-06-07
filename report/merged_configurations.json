@@ -10705,7 +10705,7 @@
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
         "status": "erkende-standaard",
-        "descriptionFileName": "ap-openbaar-domein.md",
+        "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -10759,7 +10759,7 @@
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
         "status": "erkende-standaard",
-        "descriptionFileName": "ap-openbaar-domein.md",
+        "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -10813,7 +10813,7 @@
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
         "status": "erkende-standaard",
-        "descriptionFileName": "ap-openbaar-domein.md",
+        "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -10867,7 +10867,7 @@
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
         "status": "erkende-standaard",
-        "descriptionFileName": "ap-openbaar-domein.md",
+        "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -10921,7 +10921,7 @@
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
         "status": "erkende-standaard",
-        "descriptionFileName": "ap-openbaar-domein.md",
+        "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -10975,7 +10975,7 @@
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
         "status": "erkende-standaard",
-        "descriptionFileName": "ap-openbaar-domein.md",
+        "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -11029,7 +11029,7 @@
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
         "status": "erkende-standaard",
-        "descriptionFileName": "ap-openbaar-domein.md",
+        "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -11083,7 +11083,7 @@
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
         "status": "erkende-standaard",
-        "descriptionFileName": "ap-openbaar-domein.md",
+        "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -11137,7 +11137,7 @@
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
         "status": "erkende-standaard",
-        "descriptionFileName": "ap-openbaar-domein.md",
+        "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -11191,7 +11191,7 @@
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
         "status": "erkende-standaard",
-        "descriptionFileName": "ap-openbaar-domein.md",
+        "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -11245,7 +11245,7 @@
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
         "status": "erkende-standaard",
-        "descriptionFileName": "ap-openbaar-domein.md",
+        "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -15288,79 +15288,24 @@
         "endOfPublicationDate": ""
     },
     {
-        "title": "Vocabularium en Applicatieprofiel Leercredential",
-        "category": "Vocabularium & applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
-        "status": "standaard-in-ontwikkeling",
-        "descriptionFileName": "leercredential-description.md",
-        "responsibleOrganisation": [
-            {
-                "name": "Agentschap Digitaal Vlaanderen",
-                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
-            }
-        ],
-        "publicationDate": "2022-12-20",
-        "specificationDocuments": [
-            {
-                "name": "Applicatieprofiel Leercredential",
-                "resourceReference": "https://data.test-vlaanderen.be/doc/applicatieprofiel/leercredential/ontwerpstandaard/2023-02-21/"
-            },
-            {
-                "name": "Vocabularium Leercredential",
-                "resourceReference": "https://data.test-vlaanderen.be/doc/vocabularium/leercredential/ontwerpstandaard/2023-02-21/"
-            }
-        ],
-        "documentation": [],
-        "reports": [
-            {
-                "name": "Verslag Business Werkgroep - 16/02/2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/reports/Verslag Business Werkgroep - 16-02-2023.docx"
-            },
-            {
-                "name": "Verslag Thematische Werkgroep 1 - 09/03/2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/reports/Verslag 1ste Thematische Werkgroep - 9-03-2023.docx"
-            },
-            {
-                "name": "Verslag Thematische Werkgroep 2 - 20/04/2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/reports/Verslag 2de Thematische Werkgroep - 20-04-2023.docx"
-            }
-        ],
-        "charter": {
-            "name": "Charter",
-            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/charter/Werkgroep charter OSLO Leercredential.docx"
-        },
-        "presentations": [
-            {
-                "name": "Presentatie Business Werkgroep",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/presentations/Presentatie Business Werkgroep.pptx"
-            },
-            {
-                "name": "Opname Business Werkgroep",
-                "resourceReference": "https://wetransfer.com/downloads/fd1f9379e2ec145ccc910144801efb0d20230426160613/d6f9e5"
-            },
-            {
-                "name": "Presentatie Thematische Werkgroep 1",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/presentations/Presentatie 1ste Thematische Werkgroep - 09-03-2023.pptx"
-            },
-            {
-                "name": "Opname Thematische Werkgroep 1",
-                "resourceReference": "https://wetransfer.com/downloads/3d5f493bd9e4b799ae696fc98a652e1020230426160655/aee65c"
-            },
-            {
-                "name": "Presentatie Thematische Werkgroep 2",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/presentations/Presentatie 2de Thematische Werkgroep - 20-04-2023.pptx"
-            },
-            {
-                "name": "Opname Thematische Werkgroep 2",
-                "resourceReference": "https://wetransfer.com/downloads/6c58ec467ce7dc54a5bf404ad87dcfc920230427092916/9d6ccb"
-            }
-        ],
-        "dateOfRegistration": "25/01/2023",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
-        "repository": "OSLOthema-Leercredential",
-        "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "naam": "Geen naam gevonden",
+        "rapport": "Geen rapport gevonden",
+        "verantwoordelijke_organisatie": "Geen organisatie gevonden",
+        "identificator_organisatie": "Geen identificator gevonden",
+        "publicatiedatum": "Geen publicatiedatum gevonden",
+        "type_toepassing": "Geen type gevonden",
+        "categorie": "Geen categorie gevonden",
+        "beschrijving": "Geen beschrijving gevonden",
+        "specificatiedocument": [],
+        "documentatie": [],
+        "charter": [],
+        "verslagen": [],
+        "presentaties": [],
+        "functioneel_toepassingsgebied": "Geen functioneel toepassingsgebied gevonden",
+        "organisatorisch_werkingsgebied": "Geen organisatorisch werkingsgebied gevonden",
+        "datum_van_aanmelding": "Geen datum van aanmelding gevonden",
+        "erkenning_werkgroep_datastandaarden": "Geen erkenning werkgroep datastandaarden gevonden",
+        "erkenning_stuurgroep": "Geen erkenning stuurgroep gevonden"
     },
     {
         "title": "Applicatieprofiel Publicatie-Advertentie",
