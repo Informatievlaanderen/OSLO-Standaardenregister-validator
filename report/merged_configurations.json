@@ -16743,49 +16743,62 @@
         "title": "Applicatieprofiel Leerinschrijfcredential",
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "standaard-in-ontwikkeling",
+        "status": "kandidaat-standaard",
         "descriptionFileName": "leerinschrijfcredential-description.md",
         "responsibleOrganisation": [
             {
-                "name": "Agentschap Digitaal Vlaanderen",
-                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+                "name": "Athumi",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO052661"
             }
         ],
         "publicationDate": "2024-04-08",
         "specificationDocuments": [
             {
+                "name": "Vocabularium Leerinschrijfcredential",
+                "resourceReference": "https://data.vlaanderen.be/doc/vocabularium/leerinschrijfcredential/"
+            },
+            {
                 "name": "Applicatieprofiel Leerinschrijfcredential",
-                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/leerinschrijfcredential"
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/leerinschrijfcredential/"
             }
         ],
         "documentation": [],
         "reports": [
             {
                 "name": "Verslag Business Werkgroep - 26/02/2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/reports/260224 SA Verslag Business werkgroep.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leerinschrijfcredential/standaardenregister/reports/260224 SA Verslag Business werkgroep.pdf"
             },
             {
                 "name": "Verslag Thematische Werkgroep 1 - 18/03/2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/reports/180324 SA Verslag Eerste thematische werkgroep.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leerinschrijfcredential/standaardenregister/reports/180324 SA Verslag Eerste thematische werkgroep.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 2 - 16/04/2024",
+                "resourceReference": "160424 SA Verslag thematische werkgroep 2.docx"
             }
         ],
         "charter": {
-            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/charter/"
+            "name": "Werkgroep Charter Document",
+            "resourceReference": "Charter_OSLO_Athumi.docx"
         },
         "presentations": [
             {
                 "name": "Presentatie Business Werkgroep - 26/02/2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/presentations/260224 SA Business werkgroep.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leerinschrijfcredential/standaardenregister/presentations/260224 SA Business werkgroep.pdf"
             },
             {
                 "name": "Presentatie Thematische Werkgroep 1 - 18/03/2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/presentations/180324 SA Thematische werkgroep 1.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leerinschrijfcredential/standaardenregister/presentations/180324 SA Thematische werkgroep 1.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 2 - 16/04/2024",
+                "resourceReference": "Thematische werkgroep 2 presentatie Studentenattesten.pptx"
             }
         ],
-        "dateOfRegistration": "TBD",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
+        "dateOfRegistration": "2024-03-21",
+        "dateOfAcknowledgementByWorkingGroup": "2024-05-16",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
-        "repository": "OSLOthema-Leercredential",
+        "repository": "OSLOthema-Leerinschrijfcredential",
         "datePublicReviewStart": "",
         "endOfPublicationDate": ""
     },
