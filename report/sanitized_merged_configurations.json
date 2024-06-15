@@ -4050,7 +4050,7 @@
         "beschrijving": false,
         "specificatiedocument": false,
         "documentatie": false,
-        "charter": false,
+        "charter": true,
         "verslagen": false,
         "presentaties": false,
         "functioneel_toepassingsgebied": false,

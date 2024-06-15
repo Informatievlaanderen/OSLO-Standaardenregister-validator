@@ -15291,12 +15291,12 @@
         "title": "Vocabularium Leercredential",
         "category": "Vocabularium",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "standaard-in-ontwikkeling",
+        "status": "kandidaat-standaard",
         "descriptionFileName": "leercredential-description.md",
         "responsibleOrganisation": [
             {
-                "name": "Agentschap Digitaal Vlaanderen",
-                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+                "name": "Athumi",
+                "resourceReference": "https://data.vlaanderen.be/doc/organisatie/OVO051320"
             }
         ],
         "publicationDate": "2022-12-20",
@@ -15306,57 +15306,92 @@
                 "resourceReference": "https://data.vlaanderen.be/ns/leercredential"
             }
         ],
-        "documentation": [],
+        "documentation": [
+            {
+                "name": "Applicatieprofiel Leerprestatiecredential",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/leerprestatiecredential/"
+            },
+            {
+                "name": "Applicatieprofiel Leerinschrijfcredential",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/leerinschrijfcredential/"
+            },
+            {
+                "name": "Implementatiemodel Leerinschrijfcredential",
+                "resourceReference": "https://solid.data.vlaanderen.be/doc/implementatiemodel/leerinschrijfcredential/"
+            },
+            {
+                "name": "Applicatieprofiel Leercredential (Archief)",
+                "resourceReference": "https://data.test-vlaanderen.be/doc/applicatieprofiel/leercredential/ontwerpstandaard/2023-02-21/"
+            }
+        ],
         "reports": [
             {
-                "name": "Verslag Business Werkgroep - 16/02/2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/reports/Verslag Business Werkgroep - 16-02-2023.docx"
+                "name": "Verslag Business Werkgroep Leercredentials - 16/02/2023",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/reports/20230309_ThematicWorkshop1_Report_OSLOLeercredentials.docx"
             },
             {
-                "name": "Verslag Thematische Werkgroep 1 - 09/03/2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/reports/Verslag 1ste Thematische Werkgroep - 9-03-2023.docx"
+                "name": "Verslag Thematische Werkgroep Leercredentials 1 - 09/03/2023",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/reports/20230216_BusinessWorkshop_Report_OSLOLeercredentials.docx"
             },
             {
-                "name": "Verslag Thematische Werkgroep 2 - 20/04/2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/reports/Verslag 2de Thematische Werkgroep - 20-04-2023.docx"
+                "name": "Verslag Thematische Werkgroep Leercredentials 2 - 20/04/2023",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/reports/20230420_ThematicWorkshop2_Report_OSLOStudentenattesten.docx"
+            },
+            {
+                "name": "Verslag Business Werkgroep Studentenattesten - 26/02/2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/reports/20240226_BusinessWorkshop_Report_OSLOStudentenattesten.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep Studentenattesten 1 - 18/03/2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/reports/20240318_ThematicWorkshop1_Report_OSLOStudentenattesten.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep Studentenattesten 2 - 16/04/2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/reports/20240416_ThematicWorkshop2_Report_OSLOStudentenattesten.pdf"
             }
         ],
-        "charter": {
-            "name": "Charter",
-            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/charter/Werkgroep charter OSLO Leercredential.docx"
-        },
+        "charter": [
+            {
+                "name": "Charter Leercredentials",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/charter/Werkgroep_Charter_OSLO_Leercredential"
+            },
+            {
+                "name": "Charter Studentenattesten",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/charter/Werkgroep_Charter_OSLO_Athumi_Studentenattesten"
+            }
+        ],
         "presentations": [
             {
-                "name": "Presentatie Business Werkgroep",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/presentations/Presentatie Business Werkgroep.pptx"
+                "name": "Presentatie Business Werkgroep Leercredentials",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/presentations/20230216_BusinessWorkshop_Powerpoint_OSLOLeercredentials.pptx"
             },
             {
-                "name": "Opname Business Werkgroep",
-                "resourceReference": "https://wetransfer.com/downloads/fd1f9379e2ec145ccc910144801efb0d20230426160613/d6f9e5"
+                "name": "Presentatie Thematische Werkgroep Leercredentials 1",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/presentations/20230309_ThematicWorkshop1_Powerpoint_OSLOLeercredentials.pptx"
             },
             {
-                "name": "Presentatie Thematische Werkgroep 1",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/presentations/Presentatie 1ste Thematische Werkgroep - 09-03-2023.pptx"
+                "name": "Presentatie Thematische Werkgroep Leercredentials 2",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/presentations/20230420_ThematicWorkshop2_Powerpoint_OSLOLeercredentials.pptx"
             },
             {
-                "name": "Opname Thematische Werkgroep 1",
-                "resourceReference": "https://wetransfer.com/downloads/3d5f493bd9e4b799ae696fc98a652e1020230426160655/aee65c"
+                "name": "Presentatie Business Werkgroep Studentenattesten - 26/02/2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/presentations/20240226_BusinessWorkshop_Powerpoint_OSLOStudentenattesten.pdf"
             },
             {
-                "name": "Presentatie Thematische Werkgroep 2",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/presentations/Presentatie 2de Thematische Werkgroep - 20-04-2023.pptx"
+                "name": "Presentatie Thematische Werkgroep Studentenattesten 1 - 18/03/2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/presentations/20240318_ThematicWorkshop1_Powerpoint_OSLOStudentenattesten.pdf"
             },
             {
-                "name": "Opname Thematische Werkgroep 2",
-                "resourceReference": "https://wetransfer.com/downloads/6c58ec467ce7dc54a5bf404ad87dcfc920230427092916/9d6ccb"
+                "name": "Presentatie Thematische Werkgroep Studentenattesten 2 - 16/04/2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/presentations/20240416_ThematicWorkshop2_Powerpoint_OSLOStudentenattesten.pptx"
             }
         ],
-        "dateOfRegistration": "25/01/2023",
+        "dateOfRegistration": "2023-01-25",
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-Leercredential",
-        "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "datePublicReviewStart": "2024-05-16",
+        "endOfPublicationDate": "TBD"
     },
     {
         "title": "Applicatieprofiel Leerprestatiecredential",
@@ -15366,68 +15401,69 @@
         "descriptionFileName": "leercredential-description.md",
         "responsibleOrganisation": [
             {
-                "name": "Agentschap Digitaal Vlaanderen",
-                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+                "name": "Athumi",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO051320"
             }
         ],
         "publicationDate": "2022-12-20",
         "specificationDocuments": [
             {
-                "name": "Applicatieprofiel Leercredential",
+                "name": "Applicatieprofiel Leerprestatiecredential",
                 "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/leerprestatiecredential"
             }
         ],
-        "documentation": [],
+        "documentation": [
+            {
+                "name": "Vocabularium Leercredential",
+                "resourceReference": "https://data.vlaanderen.be/ns/leercredential/"
+            },
+            {
+                "name": "Applicatieprofiel Leerinschrijfcredential",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/leerinschrijfcredential/"
+            },
+            {
+                "name": "Implementatiemodel Leerinschrijfcredential",
+                "resourceReference": "https://solid.data.vlaanderen.be/doc/implementatiemodel/leerinschrijfcredential"
+            }
+        ],
         "reports": [
             {
-                "name": "Verslag Business Werkgroep - 16/02/2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/reports/Verslag Business Werkgroep - 16-02-2023.docx"
+                "name": "Verslag Business Werkgroep Studentenattesten - 26/02/2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/reports/20240226_BusinessWorkshop_Report_OSLOStudentenattesten.pdf"
             },
             {
-                "name": "Verslag Thematische Werkgroep 1 - 09/03/2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/reports/Verslag 1ste Thematische Werkgroep - 9-03-2023.docx"
+                "name": "Verslag Thematische Werkgroep Studentenattesten 1 - 18/03/2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/reports/20240318_ThematicWorkshop1_Report_OSLOStudentenattesten.pdf"
             },
             {
-                "name": "Verslag Thematische Werkgroep 2 - 20/04/2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/reports/Verslag 2de Thematische Werkgroep - 20-04-2023.docx"
+                "name": "Verslag Thematische Werkgroep Studentenattesten 2 - 16/04/2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/reports/20240416_ThematicWorkshop2_Report_OSLOStudentenattesten.pdf"
             }
         ],
         "charter": {
-            "name": "Charter",
-            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/charter/Werkgroep charter OSLO Leercredential.docx"
+            "name": "Werkgroep Charter Studentenattesten",
+            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/charter/Werkgroep_Charter_OSLO_Athumi_Studentenattesten.docx"
         },
         "presentations": [
             {
-                "name": "Presentatie Business Werkgroep",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/presentations/Presentatie Business Werkgroep.pptx"
+                "name": "Presentatie Business Werkgroep Studentenattesten - 26/02/2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/presentations/20240226_BusinessWorkshop_Powerpoint_OSLOStudentenattesten.pdf"
             },
             {
-                "name": "Opname Business Werkgroep",
-                "resourceReference": "https://wetransfer.com/downloads/fd1f9379e2ec145ccc910144801efb0d20230426160613/d6f9e5"
+                "name": "Presentatie Thematische Werkgroep Studentenattesten 1 - 18/03/2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/presentations/20240318_ThematicWorkshop1_Powerpoint_OSLOStudentenattesten.pdf"
             },
             {
-                "name": "Presentatie Thematische Werkgroep 1",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/presentations/Presentatie 1ste Thematische Werkgroep - 09-03-2023.pptx"
-            },
-            {
-                "name": "Opname Thematische Werkgroep 1",
-                "resourceReference": "https://wetransfer.com/downloads/3d5f493bd9e4b799ae696fc98a652e1020230426160655/aee65c"
-            },
-            {
-                "name": "Presentatie Thematische Werkgroep 2",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/presentations/Presentatie 2de Thematische Werkgroep - 20-04-2023.pptx"
-            },
-            {
-                "name": "Opname Thematische Werkgroep 2",
-                "resourceReference": "https://wetransfer.com/downloads/6c58ec467ce7dc54a5bf404ad87dcfc920230427092916/9d6ccb"
+                "name": "Presentatie Thematische Werkgroep Studentenattesten 2 - 16/04/2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/presentations/20240416_ThematicWorkshop2_Powerpoint_OSLOStudentenattesten.pptx"
             }
         ],
-        "dateOfRegistration": "25/01/2023",
+        "dateOfRegistration": "2023-01-25",
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-Leercredential",
-        "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "datePublicReviewStart": "TBD",
+        "endOfPublicationDate": "TBD"
     },
     {
         "title": "Applicatieprofiel Publicatie-Advertentie",
@@ -16748,59 +16784,72 @@
         "responsibleOrganisation": [
             {
                 "name": "Athumi",
-                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO052661"
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO051320"
             }
         ],
         "publicationDate": "2024-04-08",
         "specificationDocuments": [
             {
-                "name": "Vocabularium Leerinschrijfcredential",
-                "resourceReference": "https://data.vlaanderen.be/doc/vocabularium/leerinschrijfcredential/"
-            },
-            {
                 "name": "Applicatieprofiel Leerinschrijfcredential",
                 "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/leerinschrijfcredential/"
             }
         ],
-        "documentation": [],
+        "documentation": [
+            {
+                "name": "Vocabularium Leercredential",
+                "resourceReference": "https://data.vlaanderen.be/ns/leercredential/"
+            },
+            {
+                "name": "Applicatieprofiel Leerprestatiecredential",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/leerprestatiecredential/"
+            },
+            {
+                "name": "Implementatiemodel Leerinschrijfcredential",
+                "resourceReference": "https://solid.data.vlaanderen.be/doc/implementatiemodel/leerinschrijfcredential/"
+            },
+            {
+                "name": "Applicatieprofiel Leercredential (Archief)",
+                "resourceReference": "https://data.test-vlaanderen.be/doc/applicatieprofiel/leercredential/ontwerpstandaard/2023-02-21/"
+            }
+        ],
         "reports": [
             {
-                "name": "Verslag Business Werkgroep - 26/02/2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leerinschrijfcredential/standaardenregister/reports/260224 SA Verslag Business werkgroep.pdf"
+                "name": "Verslag Business Werkgroep Studentenattesten - 26/02/2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/reports/20240226_BusinessWorkshop_Report_OSLOStudentenattesten.pdf"
             },
             {
-                "name": "Verslag Thematische Werkgroep 1 - 18/03/2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leerinschrijfcredential/standaardenregister/reports/180324 SA Verslag Eerste thematische werkgroep.pdf"
+                "name": "Verslag Thematische Werkgroep Studentenattesten 1 - 18/03/2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/reports/20240318_ThematicWorkshop1_Report_OSLOStudentenattesten.pdf"
             },
             {
-                "name": "Verslag Thematische Werkgroep 2 - 16/04/2024",
-                "resourceReference": "160424 SA Verslag thematische werkgroep 2.docx"
+                "name": "Verslag Thematische Werkgroep Studentenattesten 2 - 16/04/2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/reports/20240416_ThematicWorkshop2_Report_OSLOStudentenattesten.pdf"
             }
         ],
         "charter": {
-            "name": "Werkgroep Charter Document",
-            "resourceReference": "Charter_OSLO_Athumi.docx"
+            "name": "Werkgroep Charter Studentenattesten",
+            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/charter/Werkgroep_Charter_OSLO_Athumi_Studentenattesten.docx"
         },
         "presentations": [
             {
-                "name": "Presentatie Business Werkgroep - 26/02/2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leerinschrijfcredential/standaardenregister/presentations/260224 SA Business werkgroep.pdf"
+                "name": "Presentatie Business Werkgroep Studentenattesten - 26/02/2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/presentations/20240226_BusinessWorkshop_Powerpoint_OSLOStudentenattesten.pdf"
             },
             {
-                "name": "Presentatie Thematische Werkgroep 1 - 18/03/2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leerinschrijfcredential/standaardenregister/presentations/180324 SA Thematische werkgroep 1.pdf"
+                "name": "Presentatie Thematische Werkgroep Studentenattesten 1 - 18/03/2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/presentations/20240318_ThematicWorkshop1_Powerpoint_OSLOStudentenattesten.pdf"
             },
             {
-                "name": "Presentatie Thematische Werkgroep 2 - 16/04/2024",
-                "resourceReference": "Thematische werkgroep 2 presentatie Studentenattesten.pptx"
+                "name": "Presentatie Thematische Werkgroep Studentenattesten 2 - 16/04/2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Leercredential/standaardenregister/presentations/20240416_ThematicWorkshop2_Powerpoint_OSLOStudentenattesten.pptx"
             }
         ],
         "dateOfRegistration": "2024-03-21",
-        "dateOfAcknowledgementByWorkingGroup": "2024-05-16",
+        "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
-        "repository": "OSLOthema-Leerinschrijfcredential",
-        "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "repository": "OSLOthema-Leercredential",
+        "datePublicReviewStart": "2024-05-16",
+        "endOfPublicationDate": "TBD"
     },
     {
         "title": "Applicatieprofiel OSLO Datakwaliteit",
@@ -17028,8 +17077,8 @@
         ],
         "documentation": [
             {
-                "name": "Vocabularium Digitale Watermeter",
-                "resourceReference": "https://data.vlaanderen.be/ns/DigitaleWatermeter"
+                "name": "Vocabularium Nutsvoorzieningen Meters",
+                "resourceReference": "https://data.vlaanderen.be/ns/nutsvoorzieningen/meters"
             }
         ],
         "reports": [
@@ -17040,6 +17089,14 @@
             {
                 "name": "Verslag Thematische Werkgroep I - 15 april 2024",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-DigitaleWatermeter/standaardenregister/reports/20240415_ThematicWorkshop1_Verslag_OSLODigitaleWatermeter.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep II - 6 mei 2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-DigitaleWatermeter/standaardenregister/reports/20240506_ThematicWorkshop2_Verslag_OSLODigitaleWatermeter.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep III - 21 mei 2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-DigitaleWatermeter/standaardenregister/reports/20240521_ThematicWorkshop3_Verslag_OSLODigitaleWatermeter.pdf"
             }
         ],
         "charter": {
@@ -17072,7 +17129,7 @@
         "endOfPublicationDate": ""
     },
     {
-        "title": "Vocabularium Digitale Watermeter",
+        "title": "Vocabularium Nutsvoorzieningen Meters",
         "category": "Vocabularium",
         "usage": "Aanbevolen (vrijwillig)",
         "status": "standaard-in-ontwikkeling",
@@ -17086,8 +17143,8 @@
         "publicationDate": "2024-04-30",
         "specificationDocuments": [
             {
-                "name": "Vocabularium Digitale Watermeter",
-                "resourceReference": "https://data.vlaanderen.be/ns/DigitaleWatermeter"
+                "name": "Vocabularium Nutsvoorzieningen Meters",
+                "resourceReference": "https://data.vlaanderen.be/ns/nutsvoorzieningen/meters"
             }
         ],
         "documentation": [
@@ -17104,6 +17161,14 @@
             {
                 "name": "Verslag Thematische Werkgroep I - 15 april 2024",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-DigitaleWatermeter/standaardenregister/reports/20240415_ThematicWorkshop1_Verslag_OSLODigitaleWatermeter.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep II - 6 mei 2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-DigitaleWatermeter/standaardenregister/reports/20240506_ThematicWorkshop2_Verslag_OSLODigitaleWatermeter.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep III - 21 mei 2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-DigitaleWatermeter/standaardenregister/reports/20240521_ThematicWorkshop3_Verslag_OSLODigitaleWatermeter.pdf"
             }
         ],
         "charter": {
