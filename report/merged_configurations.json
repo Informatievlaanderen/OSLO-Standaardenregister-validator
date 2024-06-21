@@ -14895,13 +14895,13 @@
         "specificationDocuments": [
             {
                 "name": "Applicatieprofiel Cultuur- & Jeugdinfrastructuur",
-                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/cultuur-en-jeugdinfrastructuur"
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/cultuur-en-jeugd/infrastructuur"
             }
         ],
         "documentation": [
             {
                 "name": "Vocabularium Cultuur- & Jeugdinfrastructuur",
-                "resourceReference": "https://data.vlaanderen.be/ns/cultuur-en-jeugdinfrastructuur"
+                "resourceReference": "https://data.vlaanderen.be/ns/cultuur-en-jeugd/infrastructuur"
             }
         ],
         "reports": [
@@ -14953,11 +14953,11 @@
             }
         ],
         "dateOfRegistration": "1 december 2021",
-        "dateOfAcknowledgementByWorkingGroup": "23 juni 2022",
+        "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-cultuurandjeugdinfrastructuur",
-        "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "datePublicReviewStart": "23 juni 2022",
+        "endOfPublicationDate": "TBD"
     },
     {
         "title": "Vocabularium Cultuur- en Jeugdinfrastructuur",
@@ -14975,13 +14975,13 @@
         "specificationDocuments": [
             {
                 "name": "Vocabularium Cultuur- & Jeugdinfrastructuur",
-                "resourceReference": "https://data.vlaanderen.be/ns/cultuur-en-jeugdinfrastructuur"
+                "resourceReference": "https://data.vlaanderen.be/ns/cultuur-en-jeugd/infrastructuur"
             }
         ],
         "documentation": [
             {
                 "name": "Applicatieprofiel Cultuur- & Jeugdinfrastructuur",
-                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/cultuur-en-jeugdinfrastructuur"
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/cultuur-en-jeugd/infrastructuur"
             }
         ],
         "reports": [
@@ -15033,11 +15033,11 @@
             }
         ],
         "dateOfRegistration": "1 december 2021",
-        "dateOfAcknowledgementByWorkingGroup": "23 juni 2022",
+        "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-cultuurandjeugdinfrastructuur",
-        "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "datePublicReviewStart": "23 juni 2022",
+        "endOfPublicationDate": "TBD"
     },
     {
         "title": "Applicatieprofiel Bestuurlijk Sanctieregister",
