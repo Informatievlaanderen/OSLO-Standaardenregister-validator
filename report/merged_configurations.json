@@ -14337,7 +14337,7 @@
         "specificationDocuments": [
             {
                 "name": "DCAT-AP Vlaanderen",
-                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/erkendestandaard/2021-12-02"
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL"
             }
         ],
         "documentation": [
