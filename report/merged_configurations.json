@@ -15655,15 +15655,15 @@
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "TBD",
+        "publicationDate": "2024-07-16",
         "specificationDocuments": [
             {
                 "name": "Slimme Stadsdistributie - ApplicatieProfiel",
-                "resourceReference": "https://test.data.vlaanderen.be/doc/applicatieprofiel/slimme-stadsdistributie"
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/slimme-stadsdistributie"
             },
             {
                 "name": "Slimme Stadsdistributie - Vocabularium",
-                "resourceReference": "https://test.data.vlaanderen.be/ns/slimme-stadsdistributie"
+                "resourceReference": "https://data.vlaanderen.be/ns/slimme-stadsdistributie"
             }
         ],
         "documentation": [],
@@ -15691,7 +15691,7 @@
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimmeStadsdistributie/standaardenregister/presentations/Presentatie_Thematische_werkgroep_1_-_8_februari_2023.pdf"
             }
         ],
-        "dateOfRegistration": "TBD",
+        "dateOfRegistration": "25 januari 2023",
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-slimmeStadsdistributie",
