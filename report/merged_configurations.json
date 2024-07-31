@@ -15756,8 +15756,63 @@
         "endOfPublicationDate": ""
     },
     {
-        "title": "Vocabularium en applicatieprofiel OSLO Slimme Stadsdistributie",
-        "category": "Vocabularium en applicatieprofielen",
+        "title": "Applicatieprofiel OSLO Slimme Stadsdistributie",
+        "category": "Applicatieprofielen",
+        "usage": "Aanbevolen (vrijwillig)",
+        "status": "standaard-in-ontwikkeling",
+        "descriptionFileName": "ap-or-voc-slimmestadsdistributie.md",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2024-07-16",
+        "specificationDocuments": [
+            {
+                "name": "Slimme Stadsdistributie - ApplicatieProfiel",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/slimme-stadsdistributie"
+            },
+            {
+                "name": "Slimme Stadsdistributie - Vocabularium",
+                "resourceReference": "https://data.vlaanderen.be/ns/slimme-stadsdistributie"
+            }
+        ],
+        "documentation": [],
+        "reports": [
+            {
+                "name": "Verslag Business werkgroep - 11 januari 2023",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimmeStadsdistributie/standaardenregister/reports/Verslag_Business_werkgroep_-_11_januari_2023.pdf"
+            },
+            {
+                "name": "Verslag Eerste Thematische werkgroep - 8 februari 2023",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimmeStadsdistributie/standaardenregister/reports/Verslag_Thematische_Werkgroep_1_-_8_februari_2023.pdf"
+            }
+        ],
+        "charter": {
+            "name": "Charter Slimme Stadsdistributie",
+            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimmeStadsdistributie/standaardenregister/charter/Charter_Slimme_Stadsdistributie.pdf"
+        },
+        "presentations": [
+            {
+                "name": "Presentatie Business werkgroep  - 11 januari 2023",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimmeStadsdistributie/standaardenregister/presentations/Presentatie_Business_werkgroep_-_11_januari_2023.pdf"
+            },
+            {
+                "name": "Presentatie Eerste Thematische werkgroep - 8 februari 2023",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimmeStadsdistributie/standaardenregister/presentations/Presentatie_Thematische_werkgroep_1_-_8_februari_2023.pdf"
+            }
+        ],
+        "dateOfRegistration": "25 januari 2023",
+        "dateOfAcknowledgementByWorkingGroup": "TBD",
+        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "repository": "OSLOthema-slimmeStadsdistributie",
+        "datePublicReviewStart": "",
+        "endOfPublicationDate": ""
+    },
+    {
+        "title": "Vocabularium OSLO Slimme Stadsdistributie",
+        "category": "Vocabularium",
         "usage": "Aanbevolen (vrijwillig)",
         "status": "standaard-in-ontwikkeling",
         "descriptionFileName": "ap-or-voc-slimmestadsdistributie.md",
@@ -17289,6 +17344,10 @@
             {
                 "name": "Verslag Thematische Werkgroep III - 21 mei 2024",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-DigitaleWatermeter/standaardenregister/reports/20240521_ThematicWorkshop3_Verslag_OSLODigitaleWatermeter.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep IIII - 17 jun 2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-DigitaleWatermeter/standaardenregister/reports/20240617_ThematicWorkshop4_Verslag_OSLODigitaleWatermeter.pdf"
             }
         ],
         "charter": {
@@ -17311,12 +17370,126 @@
             {
                 "name": "Presentatie Thematische Werkgroep III - 21 mei 2024",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-DigitaleWatermeter/standaardenregister/presentations/20240521_ThematicWorkshop3_Powerpoint_OSLODigitaleWatermeter.pptx"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep IIII - 17 jun 2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-DigitaleWatermeter/standaardenregister/presentations/20240617_ThematicWorkshop4_Powerpoint_OSLODigitaleWatermeter.pptx"
             }
         ],
         "dateOfRegistration": "21 maart 2024",
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-DigitaleWatermeter",
+        "datePublicReviewStart": "",
+        "endOfPublicationDate": ""
+    },
+    {
+        "title": "Applicatieprofiel Vrachtwagenparkeren",
+        "category": "Applicatieprofiel",
+        "usage": "Aanbevolen (Vrijwillig)",
+        "status": "standaard-in-ontwikkeling",
+        "descriptionFileName": "ap-vrachtwagenparkeren-config.md",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2024-07-30",
+        "specificationDocuments": [
+            {
+                "name": "Applicatieprofiel Vrachtwagenparkeren",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/vrachtwagenparkeren"
+            }
+        ],
+        "documentation": [
+            {
+                "name": "Vocabularium Vrachtwagenparkeren",
+                "resourceReference": "https://data.vlaanderen.be/ns/vrachtwagenparkeren"
+            }
+        ],
+        "reports": [
+            {
+                "name": "Verslag Business Werkgroep - 26 september 2023",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-vrachtwagenParkeren/blob/standaardenregister/reports/Verslag%20Business%20werkgroep%20Vrachtwagenparkeren%202023-09-26.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 1 - 24 oktober 2023",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-vrachtwagenParkeren/blob/standaardenregister/reports/Verslag%20Thematische%20Werkgroep%201%20-%20OSLO%20Vrachtwagenparkeren.pdf"
+            }
+        ],
+        "charter": {
+            "name": "Charter Vrachtwagenparkeren",
+            "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-vrachtwagenParkeren/blob/standaardenregister/charter/Werkgroep%20charter%20OSLO_Vrachtwagenparkeren.pdf"
+        },
+        "presentations": [
+            {
+                "name": "Presentatie Business Werkgroep - 26 september 2023",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-vrachtwagenParkeren/blob/standaardenregister/presentations/Business%20Werkgroep%20presentatie%20Vrachtwagenparkeren.pdf"
+            },
+            {
+                "name": "Presentatie Werksessie Lokale Besturen - 24 oktober 2023",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-vrachtwagenParkeren/blob/standaardenregister/presentations/Eerste%20thematische%20werkgroep%20presentatie%20Vrachtwagenparkeren.pdf"
+            }
+        ],
+        "dateOfRegistration": "31 augustus 2023",
+        "dateOfAcknowledgementByWorkingGroup": "TBD",
+        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "datePublicReviewStart": "",
+        "endOfPublicationDate": ""
+    },
+    {
+        "title": "Vocabularium Vrachtwagenparkeren",
+        "category": "Vocabularium",
+        "usage": "Aanbevolen (Vrijwillig)",
+        "status": "standaard-in-ontwikkeling",
+        "descriptionFileName": "ap-vrachtwagenparkeren-config.md",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2024-07-30",
+        "specificationDocuments": [
+            {
+                "name": "Vocabularium Vrachtwagenparkeren",
+                "resourceReference": "https://data.vlaanderen.be/ns/vrachtwagenparkeren"
+            }
+        ],
+        "documentation": [
+            {
+                "name": "Vocabularium Vrachtwagenparkeren",
+                "resourceReference": "https://data.vlaanderen.be/ns/vrachtwagenparkeren"
+            }
+        ],
+        "reports": [
+            {
+                "name": "Verslag Business Werkgroep - 26 september 2023",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-vrachtwagenParkeren/blob/standaardenregister/reports/Verslag%20Business%20werkgroep%20Vrachtwagenparkeren%202023-09-26.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 1 - 24 oktober 2023",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-vrachtwagenParkeren/blob/standaardenregister/reports/Verslag%20Thematische%20Werkgroep%201%20-%20OSLO%20Vrachtwagenparkeren.pdf"
+            }
+        ],
+        "charter": {
+            "name": "Charter Vrachtwagenparkeren",
+            "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-vrachtwagenParkeren/blob/standaardenregister/charter/Werkgroep%20charter%20OSLO_Vrachtwagenparkeren.pdf"
+        },
+        "presentations": [
+            {
+                "name": "Presentatie Business Werkgroep - 26 september 2023",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-vrachtwagenParkeren/blob/standaardenregister/presentations/Business%20Werkgroep%20presentatie%20Vrachtwagenparkeren.pdf"
+            },
+            {
+                "name": "Presentatie Werksessie Lokale Besturen - 24 oktober 2023",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-vrachtwagenParkeren/blob/standaardenregister/presentations/Eerste%20thematische%20werkgroep%20presentatie%20Vrachtwagenparkeren.pdf"
+            }
+        ],
+        "dateOfRegistration": "31 augustus 2023",
+        "dateOfAcknowledgementByWorkingGroup": "TBD",
+        "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "datePublicReviewStart": "",
         "endOfPublicationDate": ""
     }
