@@ -17219,7 +17219,7 @@
         "title": "Applicatieprofiel Digitale Watermeter",
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "standaard-in-ontwikkeling",
+        "status": "kandidaat-standaard",
         "descriptionFileName": "ap-digitalewatermeter-config.md",
         "responsibleOrganisation": [
             {
@@ -17299,7 +17299,7 @@
         "title": "Vocabularium Nutsvoorzieningen Meters",
         "category": "Vocabularium",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "standaard-in-ontwikkeling",
+        "status": "kandidaat-standaard",
         "descriptionFileName": "voc-digitalewatermeter-config.md",
         "responsibleOrganisation": [
             {
