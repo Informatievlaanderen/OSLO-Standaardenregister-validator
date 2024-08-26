@@ -1,73 +1,103 @@
+import { NavigationLink } from "./navigationLink";
+
+export enum Usage {
+  TBD = "TBD",
+  RECOMMENDED = "Aanbevolen (vrijwillig)",
+  MANDATORY = "mandatory",
+  APPLY_OR_EXPLAIN = "Pas toe of leg uit",
+}
+
+export enum Status {
+  DEVELOPMENT = "standaard-in-ontwikkeling",
+  CANDIDATE = "kandidaat-standaard",
+  RECOGNIZED = "erkende-standaard",
+  TBD = "TBD",
+}
+
+export enum Category {
+  APPLICATION_PROFILE = "Applicatieprofiel",
+  VOCABULARY = "Vocabularium",
+  IMPLEMENTATION_MODEL = "Implementatiemodel",
+  TBD = "TBD",
+}
+
 interface Configuration {
-    naam: string
-    rapport: string
-    verantwoordelijke_organisatie: string
-    identificator_organisatie: string
-    publicatiedatum: string
-    type_toepassing: string
-    categorie: string
-    beschrijving: string
-    specificatiedocument: Document[]
-    documentatie: Document[]
-    charter: Document[]
-    verslagen: Document[]
-    presentaties: Document[]
-    functioneel_toepassingsgebied: string
-    organisatorisch_werkingsgebied: string
-    datum_van_aanmelding: string
-    erkenning_werkgroep_datastandaarden: string
-    erkenning_stuurgroep: string
+  [key: string]: string | NavigationLink[] | Object;
+  title: string;
+  category: Category;
+  usage: Usage;
+  status: Status;
+  descriptionFileName: string;
+  responsibleOrganisation: NavigationLink[];
+  publicationDate: string;
+  specificationDocuments: NavigationLink[];
+  documentation: NavigationLink[];
+  reports: NavigationLink[];
+  charter: Object;
+  presentations: NavigationLink[];
+  dateOfRegistration: string;
+  dateOfAcknowledgementByWorkingGroup: string;
+  dateOfAcknowledgementBySteeringCommittee: string;
+  datePublicReviewStart: string;
+  datePublicReviewEnd: string;
+  endOfPublicationDate: string;
 }
 
 interface SanitizedConfiguration {
-    naam: string
-    rapport: string
-    verantwoordelijke_organisatie: boolean
-    identificator_organisatie: boolean
-    publicatiedatum: boolean
-    type_toepassing: boolean
-    categorie: boolean
-    beschrijving: boolean
-    specificatiedocument: boolean
-    documentatie: boolean
-    charter: boolean
-    verslagen: boolean
-    presentaties: boolean
-    functioneel_toepassingsgebied: boolean
-    organisatorisch_werkingsgebied: boolean
-    datum_van_aanmelding: boolean
-    erkenning_werkgroep_datastandaarden: boolean
-    erkenning_stuurgroep: boolean
+  title: string;
+  category: boolean;
+  usage: boolean;
+  status: boolean;
+  descriptionFileName: boolean;
+  responsibleOrganisation: boolean;
+  publicationDate: boolean;
+  specificationDocuments: boolean;
+  documentation: boolean;
+  reports: boolean;
+  charter: boolean;
+  presentations: boolean;
+  dateOfRegistration: boolean;
+  dateOfAcknowledgementByWorkingGroup: boolean;
+  dateOfAcknowledgementBySteeringCommittee: boolean;
+  datePublicReviewStart: boolean;
+  datePublicReviewEnd: boolean;
+  endOfPublicationDate: boolean;
 }
 
 interface Document {
-    naam: string
-    waarde: string
+  naam: string;
+  waarde: string;
 }
 
 const defaultConfiguration: Configuration = {
-    naam: "Geen naam gevonden",
-    rapport: "Geen rapport gevonden",
-    verantwoordelijke_organisatie: "Geen organisatie gevonden",
-    identificator_organisatie: "Geen identificator gevonden",
-    publicatiedatum: "Geen publicatiedatum gevonden",
-    type_toepassing: "Geen type gevonden",
-    categorie: "Geen categorie gevonden",
-    beschrijving: "Geen beschrijving gevonden",
-    specificatiedocument: [],
-    documentatie: [],
-    charter: [],
-    verslagen: [],
-    presentaties: [],
-    functioneel_toepassingsgebied: "Geen functioneel toepassingsgebied gevonden",
-    organisatorisch_werkingsgebied: "Geen organisatorisch werkingsgebied gevonden",
-    datum_van_aanmelding: "Geen datum van aanmelding gevonden",
-    erkenning_werkgroep_datastandaarden: "Geen erkenning werkgroep datastandaarden gevonden",
-    erkenning_stuurgroep: "Geen erkenning stuurgroep gevonden"
-}
+  title: "Geen titel gevonden",
+  category: Category.TBD,
+  usage: Usage.TBD,
+  status: Status.TBD,
+  descriptionFileName: "Geen bestandsnaam gevonden",
+  responsibleOrganisation: [
+    {
+      name: "Geen naam gevonden",
+      resourceReference: "Geen resourceReference gevonden",
+      uri: "Geen uri gevonden",
+      description: "Geen beschrijving gevonden",
+    },
+  ],
+  publicationDate: "Geen publicatiedatum gevonden",
+  specificationDocuments: [],
+  documentation: [],
+  reports: [],
+  charter: {},
+  presentations: [],
+  dateOfRegistration: "Geen datum van aanmelding gevonden",
+  dateOfAcknowledgementByWorkingGroup:
+    "Geen erkenning werkgroep datastandaarden gevonden",
+  dateOfAcknowledgementBySteeringCommittee:
+    "Geen erkenning stuurgroep gevonden",
+  datePublicReviewStart: "Geen startdatum publieke review gevonden",
+  datePublicReviewEnd: "Geen einddatum publieke review gevonden",
+  endOfPublicationDate: "Geen einddatum publicatie gevonden",
+  _path: "",
+};
 
-
-
-export { defaultConfiguration, Configuration, SanitizedConfiguration }
-
-
+export { defaultConfiguration, Configuration, SanitizedConfiguration };

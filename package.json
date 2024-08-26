@@ -1,12 +1,14 @@
 {
   "name": "oslo-standaardenregister-validator",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A script to validate the configurations of each standard",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
-    "build:clean": "tsc --build --clean && tsc"
+    "build:clean": "tsc --build --clean && tsc",
+    "start": "node index.js",
+    "dev": "tsc && node index.js"
   },
   "keywords": [],
   "author": "",
