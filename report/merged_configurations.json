@@ -16208,7 +16208,7 @@
         "specificationDocuments": [
             {
                 "name": "Lokale Economie Vocabularium",
-                "resourceReference": "https://data.vlaanderen.be/doc/vocabularium/lokale-economie"
+                "resourceReference": "https://data.vlaanderen.be/ns/lokale-economie"
             }
         ],
         "documentation": [],
