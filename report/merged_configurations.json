@@ -9716,6 +9716,62 @@
         "endOfPublicationDate": ""
     },
     {
+        "title": "Implementatiemodel Basisregistratie Cultureel Erfgoed Event",
+        "category": "Implementatiemodel",
+        "usage": "Aanbevolen (vrijwillig)",
+        "status": "standaard-in-ontwikkeling",
+        "descriptionFileName": "imp-cultureel-erfgoed-basisregistratie.md",
+        "responsibleOrganisation": [
+            {
+                "name": "Departement Cultuur, Jeugd en Media",
+                "resourceReference": "http://data.vlaanderen.be/id/organisatie/OVO000067"
+            }
+        ],
+        "publicationDate": "2024-10-02",
+        "specificationDocuments": [
+            {
+                "name": "Implementatiemodel Basisregistratie Cultureel Erfgoed",
+                "resourceReference": "https://data.vlaanderen.be/doc/implementatiemodel/cultureel-erfgoed-basisregistratie"
+            }
+        ],
+        "documentation": [
+            {
+                "naam": "Applicatieprofiel Cultureel Erfgoed Object",
+                "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/cultureel-erfgoed-object"
+            },
+            {
+                "naam": "Applicatieprofiel Cultureel Erfgoed Event",
+                "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/cultureel-erfgoed-event"
+            },
+            {
+                "naam": "Vocabularium Cultureel Erfgoed",
+                "waarde": "https://data.vlaanderen.be/ns/cultureel-erfgoed"
+            }
+        ],
+        "reports": [
+            {
+                "name": "Verslag Business Werkgroep - 24 september 2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-cultureelErfgoed/standaardenregister/reports/20240924_BusinessWorkshop_Verslag_OSLOiteratieCE.pdf"
+            }
+        ],
+        "charter": {
+            "name": "Charter OSLO Iteratie Cultureel Erfgoed",
+            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-cultureelErfgoed/standaardenregister/charter/Werkgroep_charter_OSLO_iteratie_CE.pdf"
+        },
+        "presentations": [
+            {
+                "name": "Presentatie Business Werkgroep - 24 september 2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-cultureelErfgoed/standaardenregister/presentations/20240924_BusinessWorkshop_Slides_OSLOiteratieCE.pdf"
+            }
+        ],
+        "dateOfRegistration": "2024-09-05",
+        "dateOfAcknowledgementByWorkingGroup": "TBD",
+        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "repository": "OSLOthema-cultureelErfgoed",
+        "datePublicReviewStart": "",
+        "endOfPublicationDate": ""
+    },
+    {
         "title": "Applicatieprofiel Besluit Mobiliteit",
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
@@ -15021,7 +15077,7 @@
         "specificationDocuments": [
             {
                 "name": "Vocabularium Kwaliteit Wegen en Wegmarkeringen",
-                "resourceReference": "https://implementatie.data.vlaanderen.be/doc/ns/kwaliteit-wegen-en-wegmarkeringen"
+                "resourceReference": "https://implementatie.data.vlaanderen.be/ns/kwaliteit-wegen-en-wegmarkeringen"
             }
         ],
         "documentation": [],

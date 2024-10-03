@@ -115,6 +115,7 @@ Vocabularium Besluitvorming,true,true,true,true,true,false,true,true,true,true,t
 Applicatieprofiel Cultureel Erfgoed Event,true,true,true,true,true,true,true,true,true,true,true,true,false,false,false,true,true
 Applicatieprofiel Cultureel Erfgoed Object,true,true,true,true,true,true,true,true,true,true,true,true,false,false,false,true,true
 Vocabularium Cultureel Erfgoed,true,true,true,true,true,true,true,true,true,true,true,true,false,false,false,true,true
+Implementatiemodel Basisregistratie Cultureel Erfgoed Event,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
 Applicatieprofiel Besluit Mobiliteit,true,true,true,true,true,false,true,true,true,true,false,false,false,false,false,true,true
 Vocabularium Mobiliteit,true,true,true,true,true,false,true,false,true,true,false,false,false,false,false,true,true
 Applicatieprofiel Generiek basis,true,true,true,false,true,false,true,false,false,false,false,false,false,false,false,true,true
