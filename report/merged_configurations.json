@@ -647,7 +647,7 @@
         "title": "Applicatieprofiel Ruimtelijke Indicatoren",
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "standaard-in-ontwikkeling",
+        "status": "kandidaat-standaard",
         "descriptionFileName": "ap-ruimtelijke-indicatoren-description.md",
         "responsibleOrganisation": [
             {
@@ -655,11 +655,11 @@
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "2023-10-23",
+        "publicationDate": "2024-03-21",
         "specificationDocuments": [
             {
                 "name": "Ruimtelijke Indicatoren Applicatieprofiel",
-                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/ruimtelijke-indicatoren/ontwerpstandaard/2024-01-22/"
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/ruimtelijke-indicatoren"
             }
         ],
         "documentation": [],
@@ -670,45 +670,45 @@
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - verslag - thematische werkgroep 1 - 25 oktober 2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/reports/Verslag thematische werkgroep 1 SRP 2023-10-25.pdf"
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/raw/a53dd0439d01fd35e587c2587c3504fcff5f104c/reports/Verslag%20thematische%20werkgroep%201%20SRP%202023-09-25.pdf"
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - verslag - thematische werkgroep 2 - 30 november 2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/reports/Verslag thematische werkgroep 2 SRP 2023-11-30.pdf"
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/raw/a53dd0439d01fd35e587c2587c3504fcff5f104c/reports/Verslag%20thematische%20werkgroep%202%20SRP%202023-11-30.docx"
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - verslag - thematische werkgroep 3 - 21 december 2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/reports/Verslag thematische werkgroep 3 SRP 2023-12-21.pdf"
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/raw/a53dd0439d01fd35e587c2587c3504fcff5f104c/reports/Verslag%20thematische%20werkgroep%203%20SRP%202023-12-21.pdf"
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - verslag - thematische werkgroep 4 - februari 2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/reports/Verslag thematische werkgroep 4 SRP 2024-02-01.pdf"
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/raw/a53dd0439d01fd35e587c2587c3504fcff5f104c/reports/Verslag%20thematische%20werkgroep%204%20SRP%202024-02-01.pdf"
             }
         ],
         "charter": {
             "name": "Projectcharter",
-            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/charter/Werkgroep-charter-OSLO_SlimRuimtelijkPlannen.docx"
+            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/refs/heads/standaardenregister/charter/Werkgroep-charter-OSLO_SlimRuimtelijkPlannen.docx"
         },
         "presentations": [
             {
                 "name": "OSLO Ruimtelijke Indicatoren - presentatie - business werkgroep - 27 september 2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/presentations/Presentatie business werkgroep SRP 2023-09-27.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/refs/heads/standaardenregister/presentations/Presentatie%20business%20werkgroep%20SRP%202023-09-27.pdf"
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - presentatie - thematische werkgroep 1 - 25 oktober 2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/presentations/Presentatie thematische werkgroep 1 SRP 2023-10-25.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/refs/heads/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%201%20SRP%202023-10-25.pdf"
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - presentatie - thematische werkgroep 2 - 30 november 2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/presentations/Presentatie thematische werkgroep 2 SRP 2023-11-30.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/refs/heads/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%202%20SRP%202023-11-30.pdf"
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - presentatie - thematische werkgroep 3 - 21 december 2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/presentations/Presentatie thematische werkgroep 3 SRP 2023-12-21.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/refs/heads/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%203%20SRP%202023-12-21.pdf"
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - presentatie - thematische werkgroep 4 - 1 februari 2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/presentations/Presentatie thematische werkgroep 4 SRP 2024-02-01.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/refs/heads/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%204%20SRP%202024-02-01.pdf"
             }
         ],
         "dateOfRegistration": "",
@@ -722,7 +722,7 @@
         "title": "Vocabularium Ruimtelijke Indicatoren",
         "category": "Vocabularium",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "standaard-in-ontwikkeling",
+        "status": "kandidaat-standaard",
         "descriptionFileName": "voc-ruimtelijke-indicatoren-description.md",
         "responsibleOrganisation": [
             {
@@ -730,11 +730,11 @@
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "2023-10-23",
+        "publicationDate": "2024-03-21",
         "specificationDocuments": [
             {
                 "name": "Ruimtelijke Indicatoren Vocabularium",
-                "resourceReference": "https://data.vlaanderen.be/doc/vocabularium/ruimtelijke-indicatoren/ontwerpstandaard/2024-01-22"
+                "resourceReference": "https://data.vlaanderen.be/ns/ruimtelijke-indicatoren"
             }
         ],
         "documentation": [],
@@ -745,45 +745,45 @@
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - verslag - thematische werkgroep 1 - 25 oktober 2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/reports/Verslag thematische werkgroep 1 SRP 2023-10-25.pdf"
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/raw/a53dd0439d01fd35e587c2587c3504fcff5f104c/reports/Verslag%20thematische%20werkgroep%201%20SRP%202023-09-25.pdf"
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - verslag - thematische werkgroep 2 - 30 november 2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/reports/Verslag thematische werkgroep 2 SRP 2023-11-30.pdf"
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/raw/a53dd0439d01fd35e587c2587c3504fcff5f104c/reports/Verslag%20thematische%20werkgroep%202%20SRP%202023-11-30.docx"
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - verslag - thematische werkgroep 3 - 21 december 2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/reports/Verslag thematische werkgroep 3 SRP 2023-12-21.pdf"
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/raw/a53dd0439d01fd35e587c2587c3504fcff5f104c/reports/Verslag%20thematische%20werkgroep%203%20SRP%202023-12-21.pdf"
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - verslag - thematische werkgroep 4 - februari 2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/reports/Verslag thematische werkgroep 4 SRP 2024-02-01.pdf"
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/raw/a53dd0439d01fd35e587c2587c3504fcff5f104c/reports/Verslag%20thematische%20werkgroep%204%20SRP%202024-02-01.pdf"
             }
         ],
         "charter": {
             "name": "Projectcharter",
-            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/charter/Werkgroep-charter-OSLO_SlimRuimtelijkPlannen.docx"
+            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/refs/heads/standaardenregister/charter/Werkgroep-charter-OSLO_SlimRuimtelijkPlannen.docx"
         },
         "presentations": [
             {
                 "name": "OSLO Ruimtelijke Indicatoren - presentatie - business werkgroep - 27 september 2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/presentations/Presentatie business werkgroep SRP 2023-09-27.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/refs/heads/standaardenregister/presentations/Presentatie%20business%20werkgroep%20SRP%202023-09-27.pdf"
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - presentatie - thematische werkgroep 1 - 25 oktober 2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/presentations/Presentatie thematische werkgroep 1 SRP 2023-10-25.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/refs/heads/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%201%20SRP%202023-10-25.pdf"
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - presentatie - thematische werkgroep 2 - 30 november 2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/presentations/Presentatie thematische werkgroep 2 SRP 2023-11-30.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/refs/heads/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%202%20SRP%202023-11-30.pdf"
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - presentatie - thematische werkgroep 3 - 21 december 2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/presentations/Presentatie thematische werkgroep 3 SRP 2023-12-21.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/refs/heads/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%203%20SRP%202023-12-21.pdf"
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - presentatie - thematische werkgroep 4 - 1 februari 2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/presentations/Presentatie thematische werkgroep 4 SRP 2024-02-01.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/refs/heads/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%204%20SRP%202024-02-01.pdf"
             }
         ],
         "dateOfRegistration": "",
@@ -872,7 +872,7 @@
         "title": "Applicatieprofiel Incentiveringsplatform",
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "standaard-in-ontwikkeling",
+        "status": "erkende-standaard",
         "descriptionFileName": "ap-Incentiveringsplatform.md",
         "responsibleOrganisation": [
             {
@@ -930,7 +930,7 @@
         ],
         "dateOfRegistration": "2023-03-16",
         "dateOfAcknowledgementByWorkingGroup": "2024-03-21",
-        "dateOfAcknowledgementBySteeringCommittee": "",
+        "dateOfAcknowledgementBySteeringCommittee": "2024-10-03",
         "repository": "OSLOthema-incentiveringsplatform",
         "datePublicReviewStart": "",
         "endOfPublicationDate": ""
@@ -939,7 +939,7 @@
         "title": "Vocabularium Incentiveringsplatform",
         "category": "Vocabularium",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "standaard-in-ontwikkeling",
+        "status": "erkende-standaard",
         "descriptionFileName": "voc-Incentiveringsplatform.md",
         "responsibleOrganisation": [
             {
@@ -997,7 +997,7 @@
         ],
         "dateOfRegistration": "2023-03-16",
         "dateOfAcknowledgementByWorkingGroup": "2024-03-21",
-        "dateOfAcknowledgementBySteeringCommittee": "",
+        "dateOfAcknowledgementBySteeringCommittee": "2024-10-03",
         "repository": "OSLOthema-incentiveringsplatform",
         "datePublicReviewStart": "",
         "endOfPublicationDate": ""
