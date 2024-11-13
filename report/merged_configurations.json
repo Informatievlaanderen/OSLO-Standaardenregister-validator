@@ -1,9 +1,111 @@
 [
     {
+        "title": "Applicatieprofiel Citerra",
+        "category": "Applicatieprofiel",
+        "usage": "Aanbevolen (vrijwillig)",
+        "status": "standaard-in-ontwikkeling",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2024-11-08",
+        "descriptionFileName": "description.md",
+        "specificationDocuments": [
+            {
+                "name": "Citerra Applicationprofiel",
+                "resourceReference": "https://test.data.vlaanderen.be/doc/applicatieprofiel/citerra/ontwerpstandaard/2024-11-07/"
+            }
+        ],
+        "documentation": [],
+        "charter": {
+            "name": "OSLO Citerra",
+            "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/charter/Werkgroep%20charter%20OSLO_Citerra.docx"
+        },
+        "reports": [
+            {
+                "name": "Verslag thematische werkgroep 1 - 5 juni 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/reports/20240905_ThematischeWerkgroep1_Verslag_OSLOCiterra.pdf"
+            },
+            {
+                "name": "Verslag thematische werkgroep 2 -  3 oktober 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/reports/20241003_ThematischeWerkgroep2_Verslag_OSLOCiterra.pdf"
+            }
+        ],
+        "presentations": [
+            {
+                "name": "Presentatie thematische werkgroep 1 - 5 juni 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/presentations/20240905_ThematicWorkshop1_Powerpoint_OSLOCiterra.pptx"
+            },
+            {
+                "name": "Presentatie thematische werkgroep 2 - 3 oktober 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/presentations/20241003_ThematicWorkshop2_Powerpoint_OSLOCiterra.pptx"
+            }
+        ],
+        "dateOfRegistration": "",
+        "dateOfAcknowledgementByWorkingGroup": "",
+        "dateOfAcknowledgementBySteeringCommittee": "",
+        "datePublicReviewStart": "",
+        "datePublicReviewEnd": "",
+        "endOfPublicationDate": ""
+    },
+    {
+        "title": "Vocabularium Citerra",
+        "category": "Vocabularium",
+        "usage": "Aanbevolen (vrijwillig)",
+        "status": "standaard-in-ontwikkeling",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2024-11-08",
+        "descriptionFileName": "description.md",
+        "specificationDocuments": [
+            {
+                "name": "Citerra Vocabularium",
+                "resourceReference": "https://data.vlaanderen.be/ns/citerra"
+            }
+        ],
+        "documentation": [],
+        "charter": {
+            "name": "OSLO Citerra",
+            "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/charter/Werkgroep%20charter%20OSLO_Citerra.docx"
+        },
+        "reports": [
+            {
+                "name": "Verslag thematische werkgroep 1 - 5 juni 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/reports/20240905_ThematischeWerkgroep1_Verslag_OSLOCiterra.pdf"
+            },
+            {
+                "name": "Verslag thematische werkgroep 2 -  3 oktober 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/reports/20241003_ThematischeWerkgroep2_Verslag_OSLOCiterra.pdf"
+            }
+        ],
+        "presentations": [
+            {
+                "name": "Presentatie thematische werkgroep 1 - 5 juni 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/presentations/20240905_ThematicWorkshop1_Powerpoint_OSLOCiterra.pptx"
+            },
+            {
+                "name": "Presentatie thematische werkgroep 2 - 3 oktober 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/presentations/20241003_ThematicWorkshop2_Powerpoint_OSLOCiterra.pptx"
+            }
+        ],
+        "dateOfRegistration": "",
+        "dateOfAcknowledgementByWorkingGroup": "",
+        "dateOfAcknowledgementBySteeringCommittee": "",
+        "datePublicReviewStart": "",
+        "datePublicReviewEnd": "",
+        "endOfPublicationDate": ""
+    },
+    {
         "title": "Applicatieprofiel Omgevingsvergunning",
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "kandidaat-standaard",
+        "status": "erkende-standaard",
         "descriptionFileName": "omgevingsvergunning-description.md",
         "responsibleOrganisation": [
             {
@@ -11,7 +113,7 @@
                 "resourceReference": "https://data.vlaanderen.be/doc/organisatie/OVO003323"
             }
         ],
-        "publicationDate": "2024-03-18",
+        "publicationDate": "2024-11-07",
         "specificationDocuments": [
             {
                 "name": "Omgevingsvergunning Applicatieprofiel",
@@ -68,7 +170,7 @@
             }
         ],
         "dateOfRegistration": "2023-08-31",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
+        "dateOfAcknowledgementByWorkingGroup": "2024-11-07",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-omgevingsvergunning",
         "datePublicReviewStart": "",
@@ -78,7 +180,7 @@
         "title": "Vocabularium Omgevingsvergunning",
         "category": "Vocabularium",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "kandidaat-standaard",
+        "status": "erkende-standaard",
         "descriptionFileName": "omgevingsvergunning-description.md",
         "responsibleOrganisation": [
             {
@@ -86,7 +188,7 @@
                 "resourceReference": "https://data.vlaanderen.be/doc/organisatie/OVO003323"
             }
         ],
-        "publicationDate": "2024-03-18",
+        "publicationDate": "2024-11-07",
         "specificationDocuments": [
             {
                 "name": "Omgevingsvergunning Vocabularium",
@@ -143,7 +245,7 @@
             }
         ],
         "dateOfRegistration": "2023-08-31",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
+        "dateOfAcknowledgementByWorkingGroup": "2024-11-07",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-omgevingsvergunning",
         "datePublicReviewStart": "",
@@ -7315,7 +7417,7 @@
         "category": "Standaard vor organisatorische interoperabiliteit",
         "usage": "Pas toe of leg uit",
         "status": "erkende-standaard",
-        "descriptionFileName": "proces-en-methode.md",
+        "descriptionFileName": "proces-en-methode-oslo.md",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -7361,7 +7463,7 @@
         "category": "Standaard vor organisatorische interoperabiliteit",
         "usage": "Pas toe of leg uit",
         "status": "erkende-standaard",
-        "descriptionFileName": "proces-en-methode.md",
+        "descriptionFileName": "proces-en-methode-awv.md",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -7372,7 +7474,7 @@
         "specificationDocuments": [
             {
                 "name": "Proces en methode voor het ontwikkelen van data standaarden voor wegenenverkeer.data.vlaanderen.be",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-procesEnMethode/standaardenregister/documents/OSLO_Conformiteit_AWV_motiveren en uitleggen van afwijkingen.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-procesEnMethode/refs/heads/standaardenregister/reports/OSLO_Conformiteit_AWV_motiveren%20en%20uitleggen%20van%20afwijkingen.pdf"
             }
         ],
         "documentation": [],

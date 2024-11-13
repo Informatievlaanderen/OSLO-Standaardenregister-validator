@@ -1,6 +1,8 @@
 title,responsibleOrganisation,publicationDate,category,descriptionFileName,specificationDocuments,documentation,charter,reports,presentations,dateOfRegistration,dateOfAcknowledgementByWorkingGroup,dateOfAcknowledgementBySteeringCommittee,datePublicReviewStart,datePublicReviewEnd,endOfPublicationDate,usage,status
-Applicatieprofiel Omgevingsvergunning,true,true,true,true,true,false,true,true,true,true,false,false,false,false,false,true,true
-Vocabularium Omgevingsvergunning,true,true,true,true,true,false,true,true,true,true,false,false,false,false,false,true,true
+Applicatieprofiel Citerra,true,true,true,true,true,false,true,true,true,false,false,false,false,false,false,true,true
+Vocabularium Citerra,true,true,true,true,true,false,true,true,true,false,false,false,false,false,false,true,true
+Applicatieprofiel Omgevingsvergunning,true,true,true,true,true,false,true,true,true,true,true,false,false,false,false,true,true
+Vocabularium Omgevingsvergunning,true,true,true,true,true,false,true,true,true,true,true,false,false,false,false,true,true
 Applicatieprofiel Schuldbeheer,true,true,true,true,true,true,true,true,true,true,false,false,true,false,false,true,true
 Vocabularium Schuldbeheer,true,true,true,true,true,true,true,true,true,true,false,false,true,false,false,true,true
 Applicatieprofiel Kabels en Leidingen,true,false,true,true,true,false,true,true,true,true,false,false,false,false,false,true,true
