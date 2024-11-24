@@ -12,8 +12,8 @@ Vocabularium Vastgoed,true,true,true,true,true,false,true,true,true,true,false,f
 Applicatieprofiel Ruimtelijke Indicatoren,true,true,true,true,true,false,true,true,true,false,false,false,false,false,false,true,true
 Vocabularium Ruimtelijke Indicatoren,true,true,true,true,true,false,true,true,true,false,false,false,false,false,false,true,true
 OSLO Voorwaarden Dienstverlening,true,true,true,true,true,false,true,true,true,true,false,false,false,false,false,true,true
-Applicatieprofiel Incentiveringsplatform,true,true,true,true,true,false,true,true,true,true,true,true,false,false,false,true,true
-Vocabularium Incentiveringsplatform,true,true,true,true,true,false,true,true,true,true,true,true,false,false,false,true,true
+Applicatieprofiel Incentiveringsplatform,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,true
+Vocabularium Incentiveringsplatform,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,true
 Applicatieprofiel Verkeersmetingen,true,true,true,true,true,true,true,true,true,true,true,true,false,false,false,true,true
 Vocabularium Verkeersmetingen,true,true,true,true,true,true,true,true,true,true,true,true,false,false,false,true,true
 Applicatieprofiel Financiële Rapportering,true,true,true,true,true,true,true,true,true,true,true,true,false,true,false,true,true

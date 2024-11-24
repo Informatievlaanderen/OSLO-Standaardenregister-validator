@@ -71,7 +71,7 @@
         ],
         "documentation": [],
         "charter": {
-            "name": "OSLO Citerra",
+            "name": "Charter",
             "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/charter/Werkgroep%20charter%20OSLO_Citerra.docx"
         },
         "reports": [
@@ -82,6 +82,10 @@
             {
                 "name": "Verslag thematische werkgroep 2 -  3 oktober 2024",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/reports/20241003_ThematischeWerkgroep2_Verslag_OSLOCiterra.pdf"
+            },
+            {
+                "name": "Verslag thematische werkgroep 3 -  14 november 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/reports/20241114_ThematischeWerkgroep3_Verslag_OSLOCiterra.pdf"
             }
         ],
         "presentations": [
@@ -92,6 +96,10 @@
             {
                 "name": "Presentatie thematische werkgroep 2 - 3 oktober 2024",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/presentations/20241003_ThematicWorkshop2_Powerpoint_OSLOCiterra.pptx"
+            },
+            {
+                "name": "Presentatie thematische werkgroep 3 - 14 november 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/presentations/20241114_ThematicWorkshop3_Powerpoint_OSLOCiterra.pptx"
             }
         ],
         "dateOfRegistration": "",
@@ -989,7 +997,12 @@
                 "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/incentiveringsplatform"
             }
         ],
-        "documentation": [],
+        "documentation": [
+            {
+                "name": "Incentiveringsplatform Vocabularium",
+                "resourceReference": "https://data.vlaanderen.be/doc/vocabularium/incentiveringsplatform"
+            }
+        ],
         "reports": [
             {
                 "name": "Verslag Business werkgroep - OSLO Incentiveringsplatform 18 april 2023",
@@ -1034,8 +1047,8 @@
         "dateOfAcknowledgementByWorkingGroup": "2024-03-21",
         "dateOfAcknowledgementBySteeringCommittee": "2024-10-03",
         "repository": "OSLOthema-incentiveringsplatform",
-        "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "datePublicReviewStart": "2023-11-09",
+        "endOfPublicationDate": "2024-02-28"
     },
     {
         "title": "Vocabularium Incentiveringsplatform",
@@ -1053,10 +1066,15 @@
         "specificationDocuments": [
             {
                 "name": "Incentiveringsplatform Vocabularium",
-                "resourceReference": "https://data.vlaanderen.be/doc/vocabularium/incentiveringsplatform/ontwerpstandaard/2023-03-14/"
+                "resourceReference": "https://data.vlaanderen.be/ns/incentiveringsplatform"
             }
         ],
-        "documentation": [],
+        "documentation": [
+            {
+                "name": "Incentiveringsplatform Applicatieprofiel",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/incentiveringsplatform"
+            }
+        ],
         "reports": [
             {
                 "name": "Verslag Business werkgroep - OSLO Incentiveringsplatform 18 april 2023",
@@ -1101,8 +1119,8 @@
         "dateOfAcknowledgementByWorkingGroup": "2024-03-21",
         "dateOfAcknowledgementBySteeringCommittee": "2024-10-03",
         "repository": "OSLOthema-incentiveringsplatform",
-        "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "datePublicReviewStart": "2023-11-09",
+        "endOfPublicationDate": "2024-02-28"
     },
     {
         "title": "Applicatieprofiel Verkeersmetingen",
