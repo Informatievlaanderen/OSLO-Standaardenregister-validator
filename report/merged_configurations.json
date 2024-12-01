@@ -1,6 +1,246 @@
 [
     {
-        "title": "Applicatieprofiel Citerra",
+        "title": "Applicatieprofiel Hulp- en Dienstverlening aan Gedetineerden",
+        "category": "Applicatieprofiel",
+        "usage": "Aanbevolen (vrijwillig)",
+        "status": "standaard-in-ontwikkeling",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2024-11-29",
+        "descriptionFileName": "description.md",
+        "specificationDocuments": [
+            {
+                "name": "Applicatieprofiel Hulp- en Dienstverlening aan Gedetineerden",
+                "resourceReference": "https://data.test-vlaanderen.be/doc/applicatieprofiel/hulp-dienstverlening-gedetineerden/ontwerpstandaard/2024-11-28/"
+            }
+        ],
+        "documentation": [
+            {
+                "name": "Vocabularium Hulp- en Dienstverlening aan Gedetineerden",
+                "resourceReference": "https://data.test-vlaanderen.be/ns/hulp-dienstverlening-gedetineerden/"
+            }
+        ],
+        "charter": {
+            "name": "Charter",
+            "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/charter/Werkgroep%20charter%20OSLO_AJH%20HDG.docx"
+        },
+        "reports": [
+            {
+                "name": "Verslag thematische werkgroep 1 -  25 juni 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/reports/Verslag%20thematische%20werkgroep%201%20-%20HDG.pdf"
+            },
+            {
+                "name": "Verslag thematische werkgroep 2 -  16 september 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/reports/Verslag%20thematische%20werkgroep%202%20-%20HDG.pdf"
+            },
+            {
+                "name": "Verslag thematische werkgroep 3 -  22 oktober 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/reports/Verslag%20thematische%20werkgroep%203%20-%20HDG.pdf"
+            }
+        ],
+        "presentations": [
+            {
+                "name": "Presentatie thematische werkgroep 1 - 25 juni 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%201%20-%20HDG.pdf"
+            },
+            {
+                "name": "Presentatie thematische werkgroep 2 - 16 september 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%202%20-%20HDG.pdf"
+            },
+            {
+                "name": "Presentatie thematische werkgroep 3 - 22 oktober 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%203%20-%20HDG.pdf"
+            }
+        ],
+        "dateOfRegistration": "",
+        "dateOfAcknowledgementByWorkingGroup": "",
+        "dateOfAcknowledgementBySteeringCommittee": "",
+        "datePublicReviewStart": "",
+        "datePublicReviewEnd": "",
+        "endOfPublicationDate": ""
+    },
+    {
+        "title": "Vocabularium Hulp- en Dienstverlening aan Gedetineerden",
+        "category": "Vocabularium",
+        "usage": "Aanbevolen (vrijwillig)",
+        "status": "standaard-in-ontwikkeling",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2024-11-29",
+        "descriptionFileName": "description.md",
+        "specificationDocuments": [
+            {
+                "name": "Vocabularium Hulp- en Dienstverlening aan Gedetineerden",
+                "resourceReference": "https://data.test-vlaanderen.be/ns/hulp-dienstverlening-gedetineerden/"
+            }
+        ],
+        "documentation": [
+            {
+                "name": "Applicatieprofiel Hulp- en Dienstverlening aan Gedetineerden",
+                "resourceReference": "https://data.test-vlaanderen.be/doc/applicatieprofiel/hulp-dienstverlening-gedetineerden/ontwerpstandaard/2024-11-28/"
+            }
+        ],
+        "charter": {
+            "name": "Charter",
+            "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/charter/Werkgroep%20charter%20OSLO_AJH%20HDG.docx"
+        },
+        "reports": [
+            {
+                "name": "Verslag thematische werkgroep 1 -  25 juni 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/reports/Verslag%20thematische%20werkgroep%201%20-%20HDG.pdf"
+            },
+            {
+                "name": "Verslag thematische werkgroep 2 -  16 september 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/reports/Verslag%20thematische%20werkgroep%202%20-%20HDG.pdf"
+            },
+            {
+                "name": "Verslag thematische werkgroep 3 -  22 oktober 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/reports/Verslag%20thematische%20werkgroep%203%20-%20HDG.pdf"
+            }
+        ],
+        "presentations": [
+            {
+                "name": "Presentatie thematische werkgroep 1 - 25 juni 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%201%20-%20HDG.pdf"
+            },
+            {
+                "name": "Presentatie thematische werkgroep 2 - 16 september 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%202%20-%20HDG.pdf"
+            },
+            {
+                "name": "Presentatie thematische werkgroep 3 - 22 oktober 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%203%20-%20HDG.pdf"
+            }
+        ],
+        "dateOfRegistration": "",
+        "dateOfAcknowledgementByWorkingGroup": "",
+        "dateOfAcknowledgementBySteeringCommittee": "",
+        "datePublicReviewStart": "",
+        "datePublicReviewEnd": "",
+        "endOfPublicationDate": ""
+    },
+    {
+        "title": "Applicatieprofiel Erosiepoel",
+        "category": "Applicatieprofiel",
+        "usage": "Aanbevolen (vrijwillig)",
+        "status": "standaard-in-ontwikkeling",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2024-10-07",
+        "descriptionFileName": "description.md",
+        "specificationDocuments": [
+            {
+                "name": "Applicatieprofiel Erosiepoel",
+                "resourceReference": "https://test.data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/ontwerpstandaard/2024-11-29/"
+            }
+        ],
+        "documentation": [
+            {
+                "name": "Vocabularium Erosiepoel",
+                "resourceReference": "https://test.data.vlaanderen.be/ns/erosiepoel/"
+            }
+        ],
+        "charter": {
+            "name": "Charter",
+            "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-modderstromen/blob/standaardenregister/charter/Werkgroep%20charter%20OSLO_ModderstroomMonitoring%20-%20OSLO.docx"
+        },
+        "reports": [
+            {
+                "name": "Verslag thematische werkgroep 1 -  20 juni 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-modderstromen/blob/standaardenregister/reports/ThematicWorkshop1.pdf"
+            },
+            {
+                "name": "Verslag thematische werkgroep 2 -  6 september 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-modderstromen/blob/standaardenregister/reports/ThematicWorkshop2.pdf"
+            }
+        ],
+        "presentations": [
+            {
+                "name": "Presentatie thematische werkgroep 1 - 20 juni 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-modderstromen/blob/standaardenregister/presentations/ThematischeWerkgroep1.pdf"
+            },
+            {
+                "name": "Presentatie thematische werkgroep 1 - 6 september 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-modderstromen/blob/standaardenregister/presentations/ThematischeWerkgroep2.pdf"
+            }
+        ],
+        "dateOfRegistration": "",
+        "dateOfAcknowledgementByWorkingGroup": "",
+        "dateOfAcknowledgementBySteeringCommittee": "",
+        "datePublicReviewStart": "",
+        "datePublicReviewEnd": "",
+        "endOfPublicationDate": ""
+    },
+    {
+        "title": "Vocabularium Erosiepoel",
+        "category": "Vocabularium",
+        "usage": "Aanbevolen (vrijwillig)",
+        "status": "standaard-in-ontwikkeling",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2024-10-07",
+        "descriptionFileName": "description.md",
+        "specificationDocuments": [
+            {
+                "name": "Vocabularium Erosiepoel",
+                "resourceReference": "https://test.data.vlaanderen.be/ns/erosiepoel/"
+            }
+        ],
+        "documentation": [
+            {
+                "name": "Applicatieprofiel Erosiepoel",
+                "resourceReference": "https://test.data.vlaanderen.be/doc/applicatieprofiel/erosiepoel/ontwerpstandaard/2024-11-29/"
+            }
+        ],
+        "charter": {
+            "name": "Charter",
+            "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-modderstromen/blob/standaardenregister/charter/Werkgroep%20charter%20OSLO_ModderstroomMonitoring%20-%20OSLO.docx"
+        },
+        "reports": [
+            {
+                "name": "Verslag thematische werkgroep 1 -  20 juni 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-modderstromen/blob/standaardenregister/reports/ThematicWorkshop1.pdf"
+            },
+            {
+                "name": "Verslag thematische werkgroep 2 -  6 september 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-modderstromen/blob/standaardenregister/reports/ThematicWorkshop2.pdf"
+            }
+        ],
+        "presentations": [
+            {
+                "name": "Presentatie thematische werkgroep 1 - 20 juni 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-modderstromen/blob/standaardenregister/presentations/ThematischeWerkgroep1.pdf"
+            },
+            {
+                "name": "Presentatie thematische werkgroep 1 - 6 september 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-modderstromen/blob/standaardenregister/presentations/ThematischeWerkgroep2.pdf"
+            }
+        ],
+        "dateOfRegistration": "",
+        "dateOfAcknowledgementByWorkingGroup": "",
+        "dateOfAcknowledgementBySteeringCommittee": "",
+        "datePublicReviewStart": "",
+        "datePublicReviewEnd": "",
+        "endOfPublicationDate": ""
+    },
+    {
+        "title": "Applicatieprofiel Mobiliteit: Intelligente Toegang",
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
         "status": "standaard-in-ontwikkeling",
@@ -14,13 +254,18 @@
         "descriptionFileName": "description.md",
         "specificationDocuments": [
             {
-                "name": "Citerra Applicationprofiel",
+                "name": "Applicationprofiel Mobiliteit: Intelligente Toegang",
                 "resourceReference": "https://test.data.vlaanderen.be/doc/applicatieprofiel/citerra/ontwerpstandaard/2024-11-13/"
             }
         ],
-        "documentation": [],
+        "documentation": [
+            {
+                "name": "Vocabularium Mobiliteit: Intelligente Toegang",
+                "resourceReference": "https://test.data.vlaanderen.be/doc/vocabularium/citerra/ontwerpstandaard/2024-11-13/"
+            }
+        ],
         "charter": {
-            "name": "OSLO Citerra",
+            "name": "Charter OSLO Citerra",
             "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/charter/Werkgroep%20charter%20OSLO_Citerra.docx"
         },
         "reports": [
@@ -31,6 +276,10 @@
             {
                 "name": "Verslag thematische werkgroep 2 -  3 oktober 2024",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/reports/20241003_ThematischeWerkgroep2_Verslag_OSLOCiterra.pdf"
+            },
+            {
+                "name": "Verslag thematische werkgroep 3 -  14 november 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/reports/20241114_ThematischeWerkgroep3_Verslag_OSLOCiterra.pdf"
             }
         ],
         "presentations": [
@@ -41,6 +290,10 @@
             {
                 "name": "Presentatie thematische werkgroep 2 - 3 oktober 2024",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/presentations/20241003_ThematicWorkshop2_Powerpoint_OSLOCiterra.pptx"
+            },
+            {
+                "name": "Presentatie thematische werkgroep 3 - 14 november 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/presentations/20241114_ThematicWorkshop3_Powerpoint_OSLOCiterra.pptx"
             }
         ],
         "dateOfRegistration": "",
@@ -51,7 +304,7 @@
         "endOfPublicationDate": ""
     },
     {
-        "title": "Vocabularium Citerra",
+        "title": "Vocabularium Mobiliteit: Intelligente Toegang",
         "category": "Vocabularium",
         "usage": "Aanbevolen (vrijwillig)",
         "status": "standaard-in-ontwikkeling",
@@ -65,13 +318,18 @@
         "descriptionFileName": "description.md",
         "specificationDocuments": [
             {
-                "name": "Citerra Vocabularium",
+                "name": "Vocabularium Mobiliteit: Intelligente Toegang",
                 "resourceReference": "https://test.data.vlaanderen.be/doc/vocabularium/citerra/ontwerpstandaard/2024-11-13/"
             }
         ],
-        "documentation": [],
+        "documentation": [
+            {
+                "name": "Applicationprofiel Mobiliteit: Intelligente Toegang",
+                "resourceReference": "https://test.data.vlaanderen.be/doc/applicatieprofiel/citerra/ontwerpstandaard/2024-11-13/"
+            }
+        ],
         "charter": {
-            "name": "Charter",
+            "name": "Charter OSLO Citerra",
             "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/charter/Werkgroep%20charter%20OSLO_Citerra.docx"
         },
         "reports": [
