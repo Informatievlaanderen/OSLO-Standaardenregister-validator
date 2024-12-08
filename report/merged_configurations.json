@@ -159,11 +159,15 @@
         "reports": [
             {
                 "name": "Verslag thematische werkgroep 1 -  20 juni 2024",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-modderstromen/blob/standaardenregister/reports/ThematicWorkshop1.pdf"
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-modderstromen/blob/standaardenregister/reports/ThematischeWerkgroep1.pdf"
             },
             {
                 "name": "Verslag thematische werkgroep 2 -  6 september 2024",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-modderstromen/blob/standaardenregister/reports/ThematicWorkshop2.pdf"
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-modderstromen/blob/standaardenregister/reports/ThematischeWerkgroep2.pdf"
+            },
+            {
+                "name": "Verslag thematische werkgroep 3 -  28 november 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-modderstromen/blob/standaardenregister/reports/ThematischeWerkgroep3.pdf"
             }
         ],
         "presentations": [
@@ -172,8 +176,12 @@
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-modderstromen/blob/standaardenregister/presentations/ThematischeWerkgroep1.pdf"
             },
             {
-                "name": "Presentatie thematische werkgroep 1 - 6 september 2024",
+                "name": "Presentatie thematische werkgroep 2 - 6 september 2024",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-modderstromen/blob/standaardenregister/presentations/ThematischeWerkgroep2.pdf"
+            },
+            {
+                "name": "Presentatie thematische werkgroep 3 - 28 november 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-modderstromen/blob/standaardenregister/presentations/ThematischeWerkgroep3.pdf"
             }
         ],
         "dateOfRegistration": "",
@@ -215,11 +223,15 @@
         "reports": [
             {
                 "name": "Verslag thematische werkgroep 1 -  20 juni 2024",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-modderstromen/blob/standaardenregister/reports/ThematicWorkshop1.pdf"
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-modderstromen/blob/standaardenregister/reports/ThematischeWerkgroep1.pdf"
             },
             {
                 "name": "Verslag thematische werkgroep 2 -  6 september 2024",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-modderstromen/blob/standaardenregister/reports/ThematicWorkshop2.pdf"
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-modderstromen/blob/standaardenregister/reports/ThematischeWerkgroep2.pdf"
+            },
+            {
+                "name": "Verslag thematische werkgroep 3 -  28 november 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-modderstromen/blob/standaardenregister/reports/ThematischeWerkgroep3.pdf"
             }
         ],
         "presentations": [
@@ -228,8 +240,12 @@
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-modderstromen/blob/standaardenregister/presentations/ThematischeWerkgroep1.pdf"
             },
             {
-                "name": "Presentatie thematische werkgroep 1 - 6 september 2024",
+                "name": "Presentatie thematische werkgroep 2 - 6 september 2024",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-modderstromen/blob/standaardenregister/presentations/ThematischeWerkgroep2.pdf"
+            },
+            {
+                "name": "Presentatie thematische werkgroep 3 - 28 november 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-modderstromen/blob/standaardenregister/presentations/ThematischeWerkgroep3.pdf"
             }
         ],
         "dateOfRegistration": "",
@@ -255,13 +271,13 @@
         "specificationDocuments": [
             {
                 "name": "Applicationprofiel Mobiliteit: Intelligente Toegang",
-                "resourceReference": "https://test.data.vlaanderen.be/doc/applicatieprofiel/citerra/ontwerpstandaard/2024-11-13/"
+                "resourceReference": "https://test.data.vlaanderen.be/doc/applicatieprofiel/mobiliteit-intelligente-toegang/ontwerpstandaard/2024-12-02"
             }
         ],
         "documentation": [
             {
                 "name": "Vocabularium Mobiliteit: Intelligente Toegang",
-                "resourceReference": "https://test.data.vlaanderen.be/doc/vocabularium/citerra/ontwerpstandaard/2024-11-13/"
+                "resourceReference": "https://test.data.vlaanderen.be/doc/vocabularium/mobiliteit-intelligente-toegang/ontwerpstandaard/2024-12-02"
             }
         ],
         "charter": {
@@ -269,6 +285,10 @@
             "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/charter/Werkgroep%20charter%20OSLO_Citerra.docx"
         },
         "reports": [
+            {
+                "name": "Verslag business werkgroep - 27 februari 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/reports/20240227_BW_Verslag_CoTCiterra.pdf"
+            },
             {
                 "name": "Verslag thematische werkgroep 1 - 5 juni 2024",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/reports/20240905_ThematischeWerkgroep1_Verslag_OSLOCiterra.pdf"
@@ -319,13 +339,13 @@
         "specificationDocuments": [
             {
                 "name": "Vocabularium Mobiliteit: Intelligente Toegang",
-                "resourceReference": "https://test.data.vlaanderen.be/doc/vocabularium/citerra/ontwerpstandaard/2024-11-13/"
+                "resourceReference": "https://test.data.vlaanderen.be/doc/vocabularium/mobiliteit-intelligente-toegang/ontwerpstandaard/2024-12-02"
             }
         ],
         "documentation": [
             {
-                "name": "Applicationprofiel Mobiliteit: Intelligente Toegang",
-                "resourceReference": "https://test.data.vlaanderen.be/doc/applicatieprofiel/citerra/ontwerpstandaard/2024-11-13/"
+                "name": "Applicatieprofiel Mobiliteit: Intelligente Toegang",
+                "resourceReference": "https://test.data.vlaanderen.be/doc/applicatieprofiel/mobiliteit-intelligente-toegang/ontwerpstandaard/2024-12-02"
             }
         ],
         "charter": {
@@ -333,6 +353,10 @@
             "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/charter/Werkgroep%20charter%20OSLO_Citerra.docx"
         },
         "reports": [
+            {
+                "name": "Verslag business werkgroep - 27 februari 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/reports/20240227_BW_Verslag_CoTCiterra.pdf"
+            },
             {
                 "name": "Verslag thematische werkgroep 1 - 5 juni 2024",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-citerra/blob/standaardenregister/reports/20240905_ThematischeWerkgroep1_Verslag_OSLOCiterra.pdf"
@@ -1015,7 +1039,7 @@
         "title": "Applicatieprofiel Ruimtelijke Indicatoren",
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "kandidaat-standaard",
+        "status": "erkende-standaard",
         "descriptionFileName": "ap-ruimtelijke-indicatoren-description.md",
         "responsibleOrganisation": [
             {
@@ -1023,7 +1047,7 @@
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "2024-03-21",
+        "publicationDate": "2024-12-05",
         "specificationDocuments": [
             {
                 "name": "Ruimtelijke Indicatoren Applicatieprofiel",
@@ -1079,18 +1103,18 @@
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/refs/heads/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%204%20SRP%202024-02-01.pdf"
             }
         ],
-        "dateOfRegistration": "",
-        "dateOfAcknowledgementByWorkingGroup": "",
-        "dateOfAcknowledgementBySteeringCommittee": "",
+        "dateOfRegistration": "2023-11-09",
+        "dateOfAcknowledgementByWorkingGroup": "2024-11-07",
+        "dateOfAcknowledgementBySteeringCommittee": "2024-12-05",
         "repository": "OSLOthema-slimRuimtelijkPlannen",
-        "datePublicReviewStart": "",
+        "datePublicReviewStart": "2024-03-21",
         "endOfPublicationDate": ""
     },
     {
         "title": "Vocabularium Ruimtelijke Indicatoren",
         "category": "Vocabularium",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "kandidaat-standaard",
+        "status": "erkende-standaard",
         "descriptionFileName": "voc-ruimtelijke-indicatoren-description.md",
         "responsibleOrganisation": [
             {
@@ -1098,7 +1122,7 @@
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "2024-03-21",
+        "publicationDate": "2024-12-05",
         "specificationDocuments": [
             {
                 "name": "Ruimtelijke Indicatoren Vocabularium",
@@ -1154,11 +1178,11 @@
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/refs/heads/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%204%20SRP%202024-02-01.pdf"
             }
         ],
-        "dateOfRegistration": "",
-        "dateOfAcknowledgementByWorkingGroup": "",
-        "dateOfAcknowledgementBySteeringCommittee": "",
+        "dateOfRegistration": "2023-11-09",
+        "dateOfAcknowledgementByWorkingGroup": "2024-11-07",
+        "dateOfAcknowledgementBySteeringCommittee": "2024-12-05",
         "repository": "OSLOthema-slimRuimtelijkPlannen",
-        "datePublicReviewStart": "",
+        "datePublicReviewStart": "2024-03-21",
         "endOfPublicationDate": ""
     },
     {
@@ -1258,7 +1282,7 @@
         "documentation": [
             {
                 "name": "Incentiveringsplatform Vocabularium",
-                "resourceReference": "https://data.vlaanderen.be/doc/vocabularium/incentiveringsplatform"
+                "resourceReference": "https://data.vlaanderen.be/ns/incentiveringsplatform"
             }
         ],
         "reports": [
@@ -15730,12 +15754,12 @@
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-lokaleEconomie/standaardenregister/presentations/Presentatie Thematische Werkgroep 4 - Lokale Economie - 23012024.pdf"
             }
         ],
-        "dateOfRegistration": "",
-        "dateOfAcknowledgementByWorkingGroup": "",
-        "dateOfAcknowledgementBySteeringCommittee": "",
+        "dateOfRegistration": "2023-11-09",
+        "dateOfAcknowledgementByWorkingGroup": "2024-11-07",
+        "dateOfAcknowledgementBySteeringCommittee": "2024-12-05",
         "repository": "OSLOthema-lokaleEconomie",
-        "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "datePublicReviewStart": "2024-03-21",
+        "endOfPublicationDate": "2024-11-06"
     },
     {
         "title": "Vocabularium Lokale Economie",
@@ -15805,12 +15829,12 @@
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-lokaleEconomie/standaardenregister/presentations/Presentatie Thematische Werkgroep 4 - Lokale Economie - 23012024.pdf"
             }
         ],
-        "dateOfRegistration": "",
-        "dateOfAcknowledgementByWorkingGroup": "",
-        "dateOfAcknowledgementBySteeringCommittee": "",
+        "dateOfRegistration": "2023-11-09",
+        "dateOfAcknowledgementByWorkingGroup": "2024-11-07",
+        "dateOfAcknowledgementBySteeringCommittee": "2024-12-05",
         "repository": "OSLOthema-lokaleEconomie",
-        "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "datePublicReviewStart": "2024-03-21",
+        "endOfPublicationDate": "2024-11-06"
     },
     {
         "title": "Applicatieprofiel Overlijdensaangifte",
