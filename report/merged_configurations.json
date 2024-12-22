@@ -15,13 +15,13 @@
         "specificationDocuments": [
             {
                 "name": "Applicatieprofiel Hulp- en Dienstverlening aan Gedetineerden",
-                "resourceReference": "https://data.test-vlaanderen.be/doc/applicatieprofiel/hulp-dienstverlening-gedetineerden/ontwerpstandaard/2024-11-28/"
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/hulp-dienstverlening-gedetineerden"
             }
         ],
         "documentation": [
             {
                 "name": "Vocabularium Hulp- en Dienstverlening aan Gedetineerden",
-                "resourceReference": "https://data.test-vlaanderen.be/ns/hulp-dienstverlening-gedetineerden/"
+                "resourceReference": "https://data.vlaanderen.be/ns/hulp-dienstverlening-gedetineerden/"
             }
         ],
         "charter": {
@@ -29,6 +29,10 @@
             "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/charter/Werkgroep%20charter%20OSLO_AJH%20HDG.docx"
         },
         "reports": [
+            {
+                "name": "Business werkgroep -  30 mei 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/reports/Verslag%20business%20werkgroep%20-%20HDG.pdf"
+            },
             {
                 "name": "Verslag thematische werkgroep 1 -  25 juni 2024",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/reports/Verslag%20thematische%20werkgroep%201%20-%20HDG.pdf"
@@ -40,9 +44,17 @@
             {
                 "name": "Verslag thematische werkgroep 3 -  22 oktober 2024",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/reports/Verslag%20thematische%20werkgroep%203%20-%20HDG.pdf"
+            },
+            {
+                "name": "Verslag thematische werkgroep 4 -  25 november 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/reports/Verslag%20thematische%20werkgroep%204%20-%2025%20november%202024.pdf"
             }
         ],
         "presentations": [
+            {
+                "name": "Presentatie business werkgroep - 30 mei 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/presentations/Presentatie%20business%20werkgroep%20-%20HDG.pdf"
+            },
             {
                 "name": "Presentatie thematische werkgroep 1 - 25 juni 2024",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%201%20-%20HDG.pdf"
@@ -52,8 +64,8 @@
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%202%20-%20HDG.pdf"
             },
             {
-                "name": "Presentatie thematische werkgroep 3 - 22 oktober 2024",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%203%20-%20HDG.pdf"
+                "name": "Presentatie thematische werkgroep 4 - 25 november 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%204%20-%20HDG.pdf"
             }
         ],
         "dateOfRegistration": "",
@@ -79,13 +91,13 @@
         "specificationDocuments": [
             {
                 "name": "Vocabularium Hulp- en Dienstverlening aan Gedetineerden",
-                "resourceReference": "https://data.test-vlaanderen.be/ns/hulp-dienstverlening-gedetineerden/"
+                "resourceReference": "https://data.vlaanderen.be/ns/hulp-dienstverlening-gedetineerden/"
             }
         ],
         "documentation": [
             {
                 "name": "Applicatieprofiel Hulp- en Dienstverlening aan Gedetineerden",
-                "resourceReference": "https://data.test-vlaanderen.be/doc/applicatieprofiel/hulp-dienstverlening-gedetineerden/ontwerpstandaard/2024-11-28/"
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/hulp-dienstverlening-gedetineerden/"
             }
         ],
         "charter": {
@@ -93,6 +105,10 @@
             "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/charter/Werkgroep%20charter%20OSLO_AJH%20HDG.docx"
         },
         "reports": [
+            {
+                "name": "Verslag business werkgroep -  30 mei 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/reports/Verslag%20business%20werkgroep%20-%20HDG.pdf"
+            },
             {
                 "name": "Verslag thematische werkgroep 1 -  25 juni 2024",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/reports/Verslag%20thematische%20werkgroep%201%20-%20HDG.pdf"
@@ -104,9 +120,17 @@
             {
                 "name": "Verslag thematische werkgroep 3 -  22 oktober 2024",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/reports/Verslag%20thematische%20werkgroep%203%20-%20HDG.pdf"
+            },
+            {
+                "name": "Verslag thematische werkgroep 4 -  25 november 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/reports/Verslag%20thematische%20werkgroep%204%20-%2025%20november%202024.pdf"
             }
         ],
         "presentations": [
+            {
+                "name": "Presentatie business werkgroep - 30 mei 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/presentations/Presentatie%20business%20werkgroep%20-%20HDG.pdf"
+            },
             {
                 "name": "Presentatie thematische werkgroep 1 - 25 juni 2024",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%201%20-%20HDG.pdf"
@@ -118,6 +142,10 @@
             {
                 "name": "Presentatie thematische werkgroep 3 - 22 oktober 2024",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%203%20-%20HDG.pdf"
+            },
+            {
+                "name": "Presentatie thematische werkgroep 4 - 25 november 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%204%20-%20HDG.pdf"
             }
         ],
         "dateOfRegistration": "",
@@ -271,13 +299,13 @@
         "specificationDocuments": [
             {
                 "name": "Applicationprofiel Mobiliteit: Intelligente Toegang",
-                "resourceReference": "https://test.data.vlaanderen.be/doc/applicatieprofiel/mobiliteit-intelligente-toegang/ontwerpstandaard/2024-12-02"
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/mobiliteit-intelligente-toegang"
             }
         ],
         "documentation": [
             {
                 "name": "Vocabularium Mobiliteit: Intelligente Toegang",
-                "resourceReference": "https://test.data.vlaanderen.be/doc/vocabularium/mobiliteit-intelligente-toegang/ontwerpstandaard/2024-12-02"
+                "resourceReference": "https://data.vlaanderen.be/doc/vocabularium/mobiliteit-intelligente-toegang"
             }
         ],
         "charter": {
@@ -339,13 +367,13 @@
         "specificationDocuments": [
             {
                 "name": "Vocabularium Mobiliteit: Intelligente Toegang",
-                "resourceReference": "https://test.data.vlaanderen.be/doc/vocabularium/mobiliteit-intelligente-toegang/ontwerpstandaard/2024-12-02"
+                "resourceReference": "https://data.vlaanderen.be/doc/vocabularium/mobiliteit-intelligente-toegang"
             }
         ],
         "documentation": [
             {
                 "name": "Applicatieprofiel Mobiliteit: Intelligente Toegang",
-                "resourceReference": "https://test.data.vlaanderen.be/doc/applicatieprofiel/mobiliteit-intelligente-toegang/ontwerpstandaard/2024-12-02"
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/mobiliteit-intelligente-toegang"
             }
         ],
         "charter": {
