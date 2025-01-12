@@ -1,78 +1,162 @@
 [
     {
-        "title": "Applicatieprofiel Hulp- en Dienstverlening aan Gedetineerden",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
-        "status": "standaard-in-ontwikkeling",
-        "responsibleOrganisation": [
-            {
-                "name": "Agentschap Digitaal Vlaanderen",
-                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
-            }
-        ],
-        "publicationDate": "2024-11-29",
-        "descriptionFileName": "description.md",
+        "title": "Applicatieprofiel Energiehuis",
+        "category": "applicatieprofiel",
+        "usage": "",
+        "status": "ontwerp-standaard",
+        "responsibleOrganisation": {
+            "name": "Agentschap Digitaal Vlaanderen",
+            "uri": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+        },
+        "publicationDate": "",
+        "descriptionFileName": "energiehuis-description.md",
         "specificationDocuments": [
             {
-                "name": "Applicatieprofiel Hulp- en Dienstverlening aan Gedetineerden",
-                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/hulp-dienstverlening-gedetineerden"
+                "name": "Energiehuis Applicatieprofiel",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/energiehuis"
             }
         ],
         "documentation": [
             {
-                "name": "Vocabularium Hulp- en Dienstverlening aan Gedetineerden",
-                "resourceReference": "https://data.vlaanderen.be/ns/hulp-dienstverlening-gedetineerden/"
+                "name": "Codelijst informatievoorziening thema's",
+                "resourceReference": "https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningThema"
+            },
+            {
+                "name": "Codelijst adviesverlening types",
+                "resourceReference": "https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType"
+            },
+            {
+                "name": "Codelijst begeleiding types",
+                "resourceReference": "https://data.vlaanderen.be/id/conceptscheme/BegeleidingType"
             }
         ],
-        "charter": {
-            "name": "Charter",
-            "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/charter/Werkgroep%20charter%20OSLO_AJH%20HDG.docx"
-        },
         "reports": [
             {
-                "name": "Business werkgroep -  30 mei 2024",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/reports/Verslag%20business%20werkgroep%20-%20HDG.pdf"
+                "name": "Verslag business werkgroep - 11-09-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/reports/Verslag - Business Werkgroep - Energiehuis - 20240911.pdf"
             },
             {
-                "name": "Verslag thematische werkgroep 1 -  25 juni 2024",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/reports/Verslag%20thematische%20werkgroep%201%20-%20HDG.pdf"
+                "name": "Verslag thematische werkgroep 1 - 16-10-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/reports/Verslag - Thematische Werkgroep 1 - Energiehuis - 20241016.pdf"
             },
             {
-                "name": "Verslag thematische werkgroep 2 -  16 september 2024",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/reports/Verslag%20thematische%20werkgroep%202%20-%20HDG.pdf"
+                "name": "Verslag thematische werkgroep 2 - 14-11-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/reports/Verslag - Thematische Werkgroep 2 - Energiehuis - 20241114.pdf"
             },
             {
-                "name": "Verslag thematische werkgroep 3 -  22 oktober 2024",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/reports/Verslag%20thematische%20werkgroep%203%20-%20HDG.pdf"
+                "name": "Verslag thematische werkgroep 3 - 09-12-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/reports/Verslag - Thematische Werkgroep 3 - Energiehuis - 20241209.pdf"
             },
             {
-                "name": "Verslag thematische werkgroep 4 -  25 november 2024",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/reports/Verslag%20thematische%20werkgroep%204%20-%2025%20november%202024.pdf"
+                "name": "Verslag thematische werkgroep 4 - 16-01-2025",
+                "resourceReference": ""
             }
         ],
         "presentations": [
             {
-                "name": "Presentatie business werkgroep - 30 mei 2024",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/presentations/Presentatie%20business%20werkgroep%20-%20HDG.pdf"
+                "name": "Presentatie business werkgroep - 11-09-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie - Business Werkgroep - Energiehuis - 20240911.pdf"
             },
             {
-                "name": "Presentatie thematische werkgroep 1 - 25 juni 2024",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%201%20-%20HDG.pdf"
+                "name": "Presentatie thematische werkgroep 1 - 16-10-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie - Thematische Werkgroep 1 - Energiehuis - 20241016.pdf"
             },
             {
-                "name": "Presentatie thematische werkgroep 2 - 16 september 2024",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%202%20-%20HDG.pdf"
+                "name": "Presentatie thematische werkgroep 2 - 14-11-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie - Thematische Werkgroep 2 - Energiehuis - 20241114.pdf"
             },
             {
-                "name": "Presentatie thematische werkgroep 3 - 22 oktober 2024",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%203%20-%20HDG.pdf"
+                "name": "Presentatie thematische werkgroep 3 - 09-12-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie - Thematische Werkgroep 3 - Energiehuis - 20241209.pdf"
             },
             {
-                "name": "Presentatie thematische werkgroep 4 - 25 november 2024",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%204%20-%20HDG.pdf"
+                "name": "Presentatie thematische werkgroep 4 - 16-01-2025",
+                "resourceReference": ""
             }
         ],
-        "dateOfRegistration": "",
+        "dateOfRegistration": "2024-05-16",
+        "dateOfAcknowledgementByWorkingGroup": "",
+        "dateOfAcknowledgementBySteeringCommittee": "",
+        "datePublicReviewStart": "",
+        "datePublicReviewEnd": "",
+        "endOfPublicationDate": ""
+    },
+    {
+        "title": "Vocabularium Energiehuis",
+        "category": "vocabularium",
+        "usage": "",
+        "status": "ontwerp-standaard",
+        "responsibleOrganisation": {
+            "name": "Agentschap Digitaal Vlaanderen",
+            "uri": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+        },
+        "publicationDate": "2025-01-09",
+        "descriptionFileName": "energiehuis-description.md",
+        "specificationDocuments": [
+            {
+                "name": "Energiehuis Vocabularium",
+                "resourceReference": "https://data.vlaanderen.be/ns/energiehuis"
+            }
+        ],
+        "documentation": [
+            {
+                "name": "Codelijst informatievoorziening thema's",
+                "resourceReference": "https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningThema"
+            },
+            {
+                "name": "Codelijst adviesverlening types",
+                "resourceReference": "https://data.vlaanderen.be/id/conceptscheme/AdviesverleningType"
+            },
+            {
+                "name": "Codelijst begeleiding types",
+                "resourceReference": "https://data.vlaanderen.be/id/conceptscheme/BegeleidingType"
+            }
+        ],
+        "reports": [
+            {
+                "name": "Verslag business werkgroep - 11-09-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/reports/Verslag - Business Werkgroep - Energiehuis - 20240911.pdf"
+            },
+            {
+                "name": "Verslag thematische werkgroep 1 - 16-10-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/reports/Verslag - Thematische Werkgroep 1 - Energiehuis - 20241016.pdf"
+            },
+            {
+                "name": "Verslag thematische werkgroep 2 - 14-11-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/reports/Verslag - Thematische Werkgroep 2 - Energiehuis - 20241114.pdf"
+            },
+            {
+                "name": "Verslag thematische werkgroep 3 - 09-12-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/reports/Verslag - Thematische Werkgroep 3 - Energiehuis - 20241209.pdf"
+            },
+            {
+                "name": "Verslag thematische werkgroep 4 - 16-01-2025",
+                "resourceReference": ""
+            }
+        ],
+        "presentations": [
+            {
+                "name": "Presentatie business werkgroep - 11-09-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie - Business Werkgroep - Energiehuis - 20240911.pdf"
+            },
+            {
+                "name": "Presentatie thematische werkgroep 1 - 16-10-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie - Thematische Werkgroep 1 - Energiehuis - 20241016.pdf"
+            },
+            {
+                "name": "Presentatie thematische werkgroep 2 - 14-11-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie - Thematische Werkgroep 2 - Energiehuis - 20241114.pdf"
+            },
+            {
+                "name": "Presentatie thematische werkgroep 3 - 09-12-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie - Thematische Werkgroep 3 - Energiehuis - 20241209.pdf"
+            },
+            {
+                "name": "Presentatie thematische werkgroep 4 - 16-01-2025",
+                "resourceReference": ""
+            }
+        ],
+        "dateOfRegistration": "2024-05-16",
         "dateOfAcknowledgementByWorkingGroup": "",
         "dateOfAcknowledgementBySteeringCommittee": "",
         "datePublicReviewStart": "",
@@ -10186,6 +10270,14 @@
             {
                 "name": "Verslag Business Werkgroep - 24 september 2024",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-cultureelErfgoed/standaardenregister/reports/20240924_BusinessWorkshop_Verslag_OSLOiteratieCE.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 1 - 22 oktober 2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-cultureelErfgoed/standaardenregister/reports/20241022_ThematicWorkshop1_Verslag_OSLOiteratieCE.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 2 - 19 november 2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-cultureelErfgoed/standaardenregister/reports/20241119_ThematicWorkshop2_Verslag_OSLOiteratieCE.pdf"
             }
         ],
         "charter": {
@@ -10196,6 +10288,18 @@
             {
                 "name": "Presentatie Business Werkgroep - 24 september 2024",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-cultureelErfgoed/standaardenregister/presentations/20240924_BusinessWorkshop_Slides_OSLOiteratieCE.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 1 - 22 oktober 2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-cultureelErfgoed/standaardenregister/presentations/20241022_ThematicWorkshop1_Slides_OSLOiteratieCE.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 2 - 19 november 2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-cultureelErfgoed/standaardenregister/presentations/20241119_ThematicWorkshop2_Slides_OSLOiteratieCE.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 3 - 19 december 2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-cultureelErfgoed/standaardenregister/presentations/20241219_ThematicWorkshop3_Slides_OSLOiteratieCE.pdf"
             }
         ],
         "dateOfRegistration": "2024-09-05",
@@ -14620,7 +14724,7 @@
         "documentation": [
             {
                 "name": "Vocabularium Bestuurlijke Sanctieregister",
-                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/bestuurlijke-sancties"
+                "resourceReference": "https://data.vlaanderen.be/standaarden/vocabularium-bestuurlijke-sancties"
             }
         ],
         "reports": [
@@ -15722,8 +15826,8 @@
         "title": "Applicatieprofiel Lokale Economie",
         "category": "applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "standaard-in-ontwikkeling",
-        "descriptionFileName": "template-description.md",
+        "status": "erkende-standaard",
+        "descriptionFileName": "lokale-economie-description.md",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -15797,8 +15901,8 @@
         "title": "Vocabularium Lokale Economie",
         "category": "vocabularium",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "standaard-in-ontwikkeling",
-        "descriptionFileName": "template-description.md",
+        "status": "erkende-standaard",
+        "descriptionFileName": "lokale-economie-description.md",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",

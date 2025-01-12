@@ -1,5 +1,6 @@
 title,responsibleOrganisation,publicationDate,category,descriptionFileName,specificationDocuments,documentation,charter,reports,presentations,dateOfRegistration,dateOfAcknowledgementByWorkingGroup,dateOfAcknowledgementBySteeringCommittee,datePublicReviewStart,datePublicReviewEnd,endOfPublicationDate,usage,status
-Applicatieprofiel Hulp- en Dienstverlening aan Gedetineerden,true,true,true,true,true,true,true,true,true,false,false,false,false,false,false,true,true
+Applicatieprofiel Energiehuis,false,false,true,true,true,true,false,true,true,true,false,false,false,false,false,false,true
+Vocabularium Energiehuis,false,true,true,true,true,true,false,true,true,true,false,false,false,false,false,false,true
 Vocabularium Hulp- en Dienstverlening aan Gedetineerden,true,true,true,true,true,true,true,true,true,false,false,false,false,false,false,true,true
 Applicatieprofiel Erosiepoel,true,true,true,true,true,true,true,true,true,false,false,false,false,false,false,true,true
 Vocabularium Erosiepoel,true,true,true,true,true,true,true,true,true,false,false,false,false,false,false,true,true
