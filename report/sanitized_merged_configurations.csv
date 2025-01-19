@@ -218,21 +218,21 @@ Applicatieprofiel OSLO Slimme Stadsdistributie,true,true,true,true,true,false,tr
 Vocabularium OSLO Slimme Stadsdistributie,true,true,true,true,true,false,true,true,true,true,false,false,false,false,false,true,true
 Applicatieprofiel Mobiliteitsbudget,true,true,true,true,true,true,true,true,true,true,false,false,true,false,false,true,true
 Vocabularium Mobiliteitsbudget,true,true,true,true,true,true,true,true,true,true,false,false,true,false,false,true,true
-Implementatiemodel Kwaliteit Wegen en Wegmarkeringen,true,true,true,true,true,false,true,true,true,true,true,false,false,false,false,true,true
-Vocabularium Kwaliteit Wegen en Wegmarkeringen,true,true,true,true,true,false,true,true,true,true,true,false,false,false,false,true,true
-Applicatieprofiel Slimme Raadpleegomgeving,true,true,true,true,true,true,true,true,true,true,true,false,false,false,false,true,true
-Vocabularium Slimme Raadpleegomgeving,true,true,true,true,true,true,true,true,true,true,true,false,false,false,false,true,true
+Implementatiemodel Kwaliteit Wegen en Wegmarkeringen,true,true,true,true,true,false,true,true,true,true,true,true,false,false,false,true,true
+Vocabularium Kwaliteit Wegen en Wegmarkeringen,true,true,true,true,true,false,true,true,true,true,true,true,false,false,false,true,true
+Applicatieprofiel Slimme Raadpleegomgeving,true,true,true,true,true,true,true,true,true,true,true,true,false,false,false,true,true
+Vocabularium Slimme Raadpleegomgeving,true,true,true,true,true,true,true,true,true,true,true,true,false,false,false,true,true
 Applicatieprofiel Lokale Economie,true,true,true,true,true,false,true,true,true,true,true,true,true,false,true,true,true
 Vocabularium Lokale Economie,true,true,true,true,true,false,true,true,true,true,true,true,true,false,true,true,true
-Applicatieprofiel Overlijdensaangifte,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
-Vocabularium Overlijdensaangifte,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
-Vocabularium Gezondheidstoestand Persoon,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
+Applicatieprofiel Overlijdensaangifte,true,true,true,true,true,true,true,true,true,true,true,true,false,false,false,true,true
+Vocabularium Overlijdensaangifte,true,true,true,true,true,true,true,true,true,true,true,true,false,false,false,true,true
+Vocabularium Gezondheidstoestand Persoon,true,true,true,true,true,true,true,true,true,true,true,true,false,false,false,true,true
 Applicatieprofiel Kindfiche,true,true,true,true,true,true,true,true,true,true,false,false,true,false,false,true,true
 Vocabularium Kindfiche,true,true,true,true,true,true,true,true,true,true,false,false,true,false,false,true,true
 Vocabularium OSLO Statistiek,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
 Applicatieprofiel OSLO Statistiek,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
 Vocabularium OSLO Datakwaliteit,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
-Applicatieprofiel Leerinschrijfcredential,true,true,true,true,true,true,true,true,true,true,false,false,true,false,false,true,true
+Applicatieprofiel Leerinschrijfcredential,true,true,true,true,true,true,true,true,true,true,true,true,true,false,false,true,true
 Applicatieprofiel OSLO Datakwaliteit,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
 Applicatieprofiel OSLO Waterkwaliteit,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
 Vocabularium OSLO Waterkwaliteit,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true

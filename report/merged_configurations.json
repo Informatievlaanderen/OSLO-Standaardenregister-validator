@@ -15540,7 +15540,7 @@
         "title": "Implementatiemodel Kwaliteit Wegen en Wegmarkeringen",
         "category": "Implementatiemodel",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "kandidaat-standaard",
+        "status": "erkende-standaard",
         "descriptionFileName": "template-description.md",
         "responsibleOrganisation": [
             {
@@ -15594,7 +15594,7 @@
         ],
         "dateOfRegistration": "2022-11-08",
         "dateOfAcknowledgementByWorkingGroup": "2023-11-09",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "dateOfAcknowledgementBySteeringCommittee": "2024-12-05",
         "repository": "OSLOthema-wegenEnWegmarkeringen",
         "datePublicReviewStart": "",
         "endOfPublicationDate": ""
@@ -15603,7 +15603,7 @@
         "title": "Vocabularium Kwaliteit Wegen en Wegmarkeringen",
         "category": "Vocabularium",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "kandidaat-standaard",
+        "status": "erkende-standaard",
         "descriptionFileName": "template-description.md",
         "responsibleOrganisation": [
             {
@@ -15657,7 +15657,7 @@
         ],
         "dateOfRegistration": "2022-11-08",
         "dateOfAcknowledgementByWorkingGroup": "2023-11-09",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "dateOfAcknowledgementBySteeringCommittee": "2024-12-05",
         "repository": "OSLOthema-wegenEnWegmarkeringen",
         "datePublicReviewStart": "",
         "endOfPublicationDate": ""
@@ -15666,7 +15666,7 @@
         "title": "Applicatieprofiel Slimme Raadpleegomgeving",
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "kandidaat-standaard",
+        "status": "erkende-standaard",
         "descriptionFileName": "ap-slimme-raadpleegomgeving-config.md",
         "responsibleOrganisation": [
             {
@@ -15737,7 +15737,7 @@
         ],
         "dateOfRegistration": "2023-11-07",
         "dateOfAcknowledgementByWorkingGroup": "2024-02-12",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "dateOfAcknowledgementBySteeringCommittee": "2024-12-05",
         "repository": "OSLOthema-slimmeRaadpleegOmgeving",
         "datePublicReviewStart": "",
         "endOfPublicationDate": ""
@@ -15746,7 +15746,7 @@
         "title": "Vocabularium Slimme Raadpleegomgeving",
         "category": "Vocabularium",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "kandidaat-standaard",
+        "status": "erkende-standaard",
         "descriptionFileName": "voc-slimme-raadpleegomgeving-config.md",
         "responsibleOrganisation": [
             {
@@ -15817,7 +15817,7 @@
         ],
         "dateOfRegistration": "2023-11-07",
         "dateOfAcknowledgementByWorkingGroup": "2024-02-12",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "dateOfAcknowledgementBySteeringCommittee": "2024-12-05",
         "repository": "OSLOthema-slimmeRaadpleegOmgeving",
         "datePublicReviewStart": "",
         "endOfPublicationDate": ""
@@ -15976,7 +15976,7 @@
         "title": "Applicatieprofiel Overlijdensaangifte",
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "kandidaat-standaard",
+        "status": "erkende-standaard",
         "descriptionFileName": "ap-overlijdensaangifte-config.md",
         "responsibleOrganisation": [
             {
@@ -16042,8 +16042,8 @@
             }
         ],
         "dateOfRegistration": "2024-01-25",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "dateOfAcknowledgementByWorkingGroup": "2024-11-07",
+        "dateOfAcknowledgementBySteeringCommittee": "2024-12-05",
         "repository": "OSLOthema-overlijdensaangifte",
         "datePublicReviewStart": "",
         "endOfPublicationDate": ""
@@ -16052,7 +16052,7 @@
         "title": "Vocabularium Overlijdensaangifte",
         "category": "Vocabularium",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "kandidaat-standaard",
+        "status": "erkende-standaard",
         "descriptionFileName": "voc-overlijdensaangifte-config.md",
         "responsibleOrganisation": [
             {
@@ -16118,8 +16118,8 @@
             }
         ],
         "dateOfRegistration": "2024-01-25",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "dateOfAcknowledgementByWorkingGroup": "2024-11-07",
+        "dateOfAcknowledgementBySteeringCommittee": "2024-12-05",
         "repository": "OSLOthema-overlijdensaangifte",
         "datePublicReviewStart": "",
         "endOfPublicationDate": ""
@@ -16128,7 +16128,7 @@
         "title": "Vocabularium Gezondheidstoestand Persoon",
         "category": "Vocabularium",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "kandidaat-standaard",
+        "status": "erkende-standaard",
         "descriptionFileName": "voc-gezondheidstoestand-config.md",
         "responsibleOrganisation": [
             {
@@ -16194,8 +16194,8 @@
             }
         ],
         "dateOfRegistration": "2024-01-25",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "dateOfAcknowledgementByWorkingGroup": "2024-11-07",
+        "dateOfAcknowledgementBySteeringCommittee": "2024-12-05",
         "repository": "OSLOthema-overlijdensaangifte",
         "datePublicReviewStart": "",
         "endOfPublicationDate": ""
@@ -16489,7 +16489,7 @@
         "title": "Applicatieprofiel Leerinschrijfcredential",
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "kandidaat-standaard",
+        "status": "erkende-standaard",
         "descriptionFileName": "leerinschrijfcredential-description.md",
         "responsibleOrganisation": [
             {
@@ -16555,8 +16555,8 @@
             }
         ],
         "dateOfRegistration": "2024-03-21",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "dateOfAcknowledgementByWorkingGroup": "2024-11-07",
+        "dateOfAcknowledgementBySteeringCommittee": "2024-12-05",
         "repository": "OSLOthema-Leercredential",
         "datePublicReviewStart": "2024-05-16",
         "endOfPublicationDate": "TBD"
