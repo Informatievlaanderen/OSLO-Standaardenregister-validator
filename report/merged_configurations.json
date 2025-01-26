@@ -49,7 +49,7 @@
             },
             {
                 "name": "Verslag thematische werkgroep 4 - 16-01-2025",
-                "resourceReference": ""
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-energiehuis/blob/6b6570acc2d5ee38d9791ab79e18121d74bc4977/reports/Verslag%20-%20Thematische%20Werkgroep%204%20-%20Energiehuis%20-%2020240116.docx.pdf"
             }
         ],
         "presentations": [
@@ -71,7 +71,7 @@
             },
             {
                 "name": "Presentatie thematische werkgroep 4 - 16-01-2025",
-                "resourceReference": ""
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-energiehuis/blob/6b6570acc2d5ee38d9791ab79e18121d74bc4977/presentations/Presentatie%20thematische%20werkgroep%204%20-%20Energiehuis%20-%2020250116.pdf"
             }
         ],
         "dateOfRegistration": "2024-05-16",
@@ -86,10 +86,12 @@
         "category": "vocabularium",
         "usage": "",
         "status": "ontwerp-standaard",
-        "responsibleOrganisation": {
-            "name": "Agentschap Digitaal Vlaanderen",
-            "uri": "https://data.vlaanderen.be/id/organisatie/OVO002949"
-        },
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "uri": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
         "publicationDate": "2025-01-09",
         "descriptionFileName": "energiehuis-description.md",
         "specificationDocuments": [
@@ -131,7 +133,7 @@
             },
             {
                 "name": "Verslag thematische werkgroep 4 - 16-01-2025",
-                "resourceReference": ""
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-energiehuis/blob/6b6570acc2d5ee38d9791ab79e18121d74bc4977/reports/Verslag%20-%20Thematische%20Werkgroep%204%20-%20Energiehuis%20-%2020240116.docx.pdf"
             }
         ],
         "presentations": [
@@ -153,7 +155,7 @@
             },
             {
                 "name": "Presentatie thematische werkgroep 4 - 16-01-2025",
-                "resourceReference": ""
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-energiehuis/blob/6b6570acc2d5ee38d9791ab79e18121d74bc4977/presentations/Presentatie%20thematische%20werkgroep%204%20-%20Energiehuis%20-%2020250116.pdf"
             }
         ],
         "dateOfRegistration": "2024-05-16",
@@ -10278,6 +10280,10 @@
             {
                 "name": "Verslag Thematische Werkgroep 2 - 19 november 2024",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-cultureelErfgoed/standaardenregister/reports/20241119_ThematicWorkshop2_Verslag_OSLOiteratieCE.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 3 - 19 december 2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-cultureelErfgoed/standaardenregister/reports/20241219_ThematicWorkshop3_Verslag_OSLOiteratieCE.pdf"
             }
         ],
         "charter": {
@@ -10306,7 +10312,7 @@
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-cultureelErfgoed",
-        "datePublicReviewStart": "",
+        "datePublicReviewStart": "2025-03-20",
         "endOfPublicationDate": ""
     },
     {

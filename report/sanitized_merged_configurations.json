@@ -21,7 +21,7 @@
     },
     {
         "title": "Vocabularium Energiehuis",
-        "responsibleOrganisation": false,
+        "responsibleOrganisation": true,
         "publicationDate": true,
         "category": true,
         "descriptionFileName": true,
@@ -2473,7 +2473,7 @@
         "dateOfRegistration": true,
         "dateOfAcknowledgementByWorkingGroup": false,
         "dateOfAcknowledgementBySteeringCommittee": false,
-        "datePublicReviewStart": false,
+        "datePublicReviewStart": true,
         "datePublicReviewEnd": false,
         "endOfPublicationDate": false,
         "usage": true,
