@@ -16253,11 +16253,11 @@
         "endOfPublicationDate": ""
     },
     {
-        "title": "Applicatieprofiel Kindfiche",
+        "title": "Applicatieprofiel Dienstverlening Aan Personen",
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
         "status": "kandidaat-standaard",
-        "descriptionFileName": "kind-fiche-description.md",
+        "descriptionFileName": "dienstverlening-aan-personen-description.md",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -16267,8 +16267,8 @@
         "publicationDate": "2024-03-19",
         "specificationDocuments": [
             {
-                "name": "Applicatieprofiel Kindfiche",
-                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/kindfiche/"
+                "name": "Applicatieprofiel Dienstverlening Aan Personen",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/"
             }
         ],
         "documentation": [
@@ -16329,7 +16329,7 @@
         "category": "Vocabularium",
         "usage": "Aanbevolen (vrijwillig)",
         "status": "kandidaat-standaard",
-        "descriptionFileName": "kind-fiche-description.md",
+        "descriptionFileName": "dienstverlening-aan-personen-description.md",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -16345,8 +16345,8 @@
         ],
         "documentation": [
             {
-                "name": "Applicatieprofiel Kindfiche",
-                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/kindfiche/"
+                "name": "Applicatieprofiel Dienstverlening Aan Personen",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/"
             }
         ],
         "reports": [

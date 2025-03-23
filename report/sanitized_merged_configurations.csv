@@ -229,7 +229,7 @@ Vocabularium Lokale Economie,true,true,true,true,true,false,true,true,true,true,
 Applicatieprofiel Overlijdensaangifte,true,true,true,true,true,true,true,true,true,true,true,true,false,false,false,true,true
 Vocabularium Overlijdensaangifte,true,true,true,true,true,true,true,true,true,true,true,true,false,false,false,true,true
 Vocabularium Gezondheidstoestand Persoon,true,true,true,true,true,true,true,true,true,true,true,true,false,false,false,true,true
-Applicatieprofiel Kindfiche,true,true,true,true,true,true,true,true,true,true,false,false,true,false,false,true,true
+Applicatieprofiel Dienstverlening Aan Personen,true,true,true,true,true,true,true,true,true,true,false,false,true,false,false,true,true
 Vocabularium Kindfiche,true,true,true,true,true,true,true,true,true,true,false,false,true,false,false,true,true
 Vocabularium OSLO Statistiek,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
 Applicatieprofiel OSLO Statistiek,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
