@@ -292,6 +292,86 @@
         "endOfPublicationDate": ""
     },
     {
+        "title": "Applicatieprofiel Hulp- en Dienstverlening aan Gedetineerden",
+        "category": "Applicatieprofiel",
+        "usage": "Aanbevolen (vrijwillig)",
+        "status": "standaard-in-ontwikkeling",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2024-11-29",
+        "descriptionFileName": "description.md",
+        "specificationDocuments": [
+            {
+                "name": "Applicatieprofiel Hulp- en Dienstverlening aan Gedetineerden",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/hulp-dienstverlening-gedetineerden"
+            }
+        ],
+        "documentation": [
+            {
+                "name": "Vocabularium Hulp- en Dienstverlening aan Gedetineerden",
+                "resourceReference": "https://data.vlaanderen.be/ns/hulp-dienstverlening-gedetineerden/"
+            }
+        ],
+        "charter": {
+            "name": "Charter",
+            "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/charter/Werkgroep%20charter%20OSLO_AJH%20HDG.docx"
+        },
+        "reports": [
+            {
+                "name": "Business werkgroep -  30 mei 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/reports/Verslag%20business%20werkgroep%20-%20HDG.pdf"
+            },
+            {
+                "name": "Verslag thematische werkgroep 1 -  25 juni 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/reports/Verslag%20thematische%20werkgroep%201%20-%20HDG.pdf"
+            },
+            {
+                "name": "Verslag thematische werkgroep 2 -  16 september 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/reports/Verslag%20thematische%20werkgroep%202%20-%20HDG.pdf"
+            },
+            {
+                "name": "Verslag thematische werkgroep 3 -  22 oktober 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/reports/Verslag%20thematische%20werkgroep%203%20-%20HDG.pdf"
+            },
+            {
+                "name": "Verslag thematische werkgroep 4 -  25 november 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/reports/Verslag%20thematische%20werkgroep%204%20-%2025%20november%202024.pdf"
+            }
+        ],
+        "presentations": [
+            {
+                "name": "Presentatie business werkgroep - 30 mei 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/presentations/Presentatie%20business%20werkgroep%20-%20HDG.pdf"
+            },
+            {
+                "name": "Presentatie thematische werkgroep 1 - 25 juni 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%201%20-%20HDG.pdf"
+            },
+            {
+                "name": "Presentatie thematische werkgroep 2 - 16 september 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%202%20-%20HDG.pdf"
+            },
+            {
+                "name": "Presentatie thematische werkgroep 3 - 22 oktober 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%203%20-%20HDG.pdf"
+            },
+            {
+                "name": "Presentatie thematische werkgroep 4 - 25 november 2024",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-hulpEnDienstverleningAanGedetineerden/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%204%20-%20HDG.pdf"
+            }
+        ],
+        "dateOfRegistration": "2024-11-29",
+        "dateOfAcknowledgementByWorkingGroup": "",
+        "dateOfAcknowledgementBySteeringCommittee": "",
+        "datePublicReviewStart": "",
+        "datePublicReviewEnd": "2025-05-01",
+        "endOfPublicationDate": ""
+    },
+    {
         "title": "Applicatieprofiel Erosiepoel",
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
@@ -17094,6 +17174,134 @@
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "datePublicReviewStart": "",
+        "endOfPublicationDate": ""
+    },
+    {
+        "title": "Applicatieprofiel Zaalreservatie",
+        "category": "Applicatieprofiel",
+        "usage": "Aanbevolen (vrijwillig)",
+        "status": "Standaard-in-ontwikkeling",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2025-04-17",
+        "descriptionFileName": "zaalreservatie-description.md",
+        "specificationDocuments": [
+            {
+                "name": "Applicatieprofiel Zaalreservatie",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/zaalreservatie/"
+            }
+        ],
+        "documentation": [
+            {
+                "name": "Vocabularium Zaalreservatie",
+                "resourceReference": "https://data.vlaanderen.be/ns/zaalreservatie/"
+            }
+        ],
+        "charter": {
+            "name": "Charter Zaalreservatie",
+            "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/charter/Charter%20Zaalreservatie.pdf"
+        },
+        "reports": [
+            {
+                "name": "Verslag Business Werkgroep - 14 januari 2025",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20BW%20OSLO%20Zaalreservatie.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep I - 18 februari 2025",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20TW1%20OSLO%20Zaalreservatie.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep II - 18 maart 2025",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20TW2%20OSLO%20Zaalreservatie.pdf"
+            }
+        ],
+        "presentations": [
+            {
+                "name": "Presentatie Business Werkgroep -  14 januari 2025",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Business%20Werkgroep%20Zaalreservatie.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep I - 18 februari 2025",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Thematische%20werkgroep%201%20OSLO%20Zaalreservatie.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep II - 18 maart 2025",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Thematische%20werkgroep%202%20OSLO%20Zaalreservatie.pdf"
+            }
+        ],
+        "dateOfRegistration": "2025-01-09",
+        "dateOfAcknowledgementByWorkingGroup": "TBD",
+        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "datePublicReviewStart": "TBD",
+        "datePublicReviewEnd": "TBD",
+        "endOfPublicationDate": ""
+    },
+    {
+        "title": "Vocabularium Zaalreservatie",
+        "category": "Vocabularium",
+        "usage": "Aanbevolen (vrijwillig)",
+        "status": "Standaard-in-ontwikkeling",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2025-04-17",
+        "descriptionFileName": "zaalreservatie-description.md",
+        "specificationDocuments": [
+            {
+                "name": "Applicatieprofiel Zaalreservatie",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/zaalreservatie/"
+            }
+        ],
+        "documentation": [
+            {
+                "name": "Vocabularium Zaalreservatie",
+                "resourceReference": "https://data.vlaanderen.be/ns/zaalreservatie/"
+            }
+        ],
+        "charter": {
+            "name": "Charter Zaalreservatie",
+            "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/charter/Charter%20Zaalreservatie.pdf"
+        },
+        "reports": [
+            {
+                "name": "Verslag Business Werkgroep - 14 januari 2025",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20BW%20OSLO%20Zaalreservatie.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep I - 18 februari 2025",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20TW1%20OSLO%20Zaalreservatie.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep II - 18 maart 2025",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20TW2%20OSLO%20Zaalreservatie.pdf"
+            }
+        ],
+        "presentations": [
+            {
+                "name": "Presentatie Business Werkgroep -  14 januari 2025",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Business%20Werkgroep%20Zaalreservatie.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep I - 18 februari 2025",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Thematische%20werkgroep%201%20OSLO%20Zaalreservatie.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep II - 18 maart 2025",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Thematische%20werkgroep%202%20OSLO%20Zaalreservatie.pdf"
+            }
+        ],
+        "dateOfRegistration": "2025-01-09",
+        "dateOfAcknowledgementByWorkingGroup": "TBD",
+        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "datePublicReviewStart": "TBD",
+        "datePublicReviewEnd": "TBD",
         "endOfPublicationDate": ""
     }
 ]
