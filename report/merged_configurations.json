@@ -215,7 +215,7 @@
         "title": "Vocabularium Hulp- en Dienstverlening aan Gedetineerden",
         "category": "Vocabularium",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "standaard-in-ontwikkeling",
+        "status": "kandidaat-standaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -295,7 +295,7 @@
         "title": "Applicatieprofiel Hulp- en Dienstverlening aan Gedetineerden",
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "standaard-in-ontwikkeling",
+        "status": "kandidaat-standaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -375,7 +375,7 @@
         "title": "Applicatieprofiel Erosiepoel",
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "standaard-in-ontwikkeling",
+        "status": "kandidaat-standaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -439,7 +439,7 @@
         "title": "Vocabularium Erosiepoel",
         "category": "Vocabularium",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "standaard-in-ontwikkeling",
+        "status": "kandidaat-standaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -503,7 +503,7 @@
         "title": "Applicatieprofiel Mobiliteit: Intelligente Toegang",
         "category": "Applicatieprofiel",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "standaard-in-ontwikkeling",
+        "status": "kandidaat-standaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -571,7 +571,7 @@
         "title": "Vocabularium Mobiliteit: Intelligente Toegang",
         "category": "Vocabularium",
         "usage": "Aanbevolen (vrijwillig)",
-        "status": "standaard-in-ontwikkeling",
+        "status": "kandidaat-standaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
