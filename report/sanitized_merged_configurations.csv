@@ -1,9 +1,12 @@
 title,responsibleOrganisation,publicationDate,category,descriptionFileName,specificationDocuments,documentation,charter,reports,presentations,dateOfRegistration,dateOfAcknowledgementByWorkingGroup,dateOfAcknowledgementBySteeringCommittee,datePublicReviewStart,datePublicReviewEnd,endOfPublicationDate,usage,status
+Applicatieprofiel Energiemanagementsysteem,true,true,true,true,false,false,true,true,true,true,false,false,false,false,false,true,true
+Geen titel gevonden,true,true,false,true,false,false,true,false,false,true,true,true,true,true,true,false,false
+Geen titel gevonden,true,true,false,true,false,false,true,false,false,true,true,true,true,true,true,false,false
 Geen titel gevonden,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false
 Geen titel gevonden,false,false,false,false,false,false,true,false,false,false,false,false,false,false,false,false,false
-Applicatieprofiel Energiehuis,false,false,true,true,true,true,false,true,true,true,false,false,false,false,false,false,true
-Vocabularium Energiehuis,true,true,true,true,true,true,false,true,true,true,false,false,false,false,false,false,true
-Geen titel gevonden,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
+Applicatieprofiel Energiehuis,false,false,true,true,true,true,false,true,true,true,false,false,false,false,false,false,false
+Vocabularium Energiehuis,true,true,true,true,true,true,false,true,true,true,false,false,false,false,false,false,false
+Vocabularium Hulp- en Dienstverlening aan Gedetineerden,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true
 Applicatieprofiel Hulp- en Dienstverlening aan Gedetineerden,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true
 Applicatieprofiel Erosiepoel,true,true,true,true,true,true,true,true,true,false,false,false,false,false,false,true,true
 Vocabularium Erosiepoel,true,true,true,true,true,true,true,true,true,false,false,false,false,false,false,true,true
@@ -128,8 +131,8 @@ Vocabularium Cultureel Erfgoed,true,true,true,true,true,true,true,true,true,true
 Implementatiemodel Basisregistratie Cultureel Erfgoed,true,true,true,true,true,true,true,true,true,true,false,false,true,false,false,true,true
 Applicatieprofiel Besluit Mobiliteit,true,true,true,true,true,false,true,true,true,true,false,false,false,false,false,true,true
 Vocabularium Mobiliteit,true,true,true,true,true,false,true,false,true,true,false,false,false,false,false,true,true
-Applicatieprofiel Generiek basis,true,true,true,false,true,false,true,false,false,false,false,false,false,false,false,true,true
-Vocabularium Generiek,true,true,true,false,true,false,true,false,false,true,true,true,false,false,false,true,true
+Applicatieprofiel Generiek basis,true,true,true,false,true,false,true,false,false,false,false,false,false,false,false,true,false
+Vocabularium Generiek,true,true,true,false,true,false,true,false,false,true,true,true,false,false,false,true,false
 Openbaar Domein 2.0.0 - Applicatieprofiel Begraafplaatsenbeheer,true,true,true,true,true,false,true,true,true,true,true,true,false,false,false,true,true
 Openbaar Domein 2.0.0 - Applicatieprofiel Begraafplaatsen,true,true,true,true,true,false,true,true,true,true,true,true,false,false,false,true,true
 Openbaar Domein 2.0.0 - Applicatieprofiel Begroeid Voorkomen,true,true,true,true,true,false,true,true,true,true,true,true,false,false,false,true,true
@@ -239,8 +242,8 @@ Applicatieprofiel Leerinschrijfcredential,true,true,true,true,true,true,true,tru
 Applicatieprofiel OSLO Datakwaliteit,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
 Applicatieprofiel OSLO Waterkwaliteit,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
 Vocabularium OSLO Waterkwaliteit,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
-Applicatieprofiel Digitale Watermeter,true,true,true,true,true,true,true,true,true,true,false,false,true,false,false,true,true
-Vocabularium Nutsvoorzieningen Meters,true,true,true,true,true,true,true,true,true,true,false,false,true,false,false,true,true
+Applicatieprofiel Digitale Watermeter,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true
+Vocabularium Nutsvoorzieningen Meters,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,true
 Applicatieprofiel Vrachtwagenparkeren,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
 Vocabularium Vrachtwagenparkeren,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
 Applicatieprofiel Zaalreservatie,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
