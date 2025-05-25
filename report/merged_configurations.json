@@ -2,8 +2,8 @@
     {
         "title": "Applicatieprofiel Energiemanagementsysteem",
         "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -51,77 +51,194 @@
         "endOfPublicationDate": ""
     },
     {
-        "title": "Geen titel gevonden",
-        "category": "TBD",
-        "usage": "TBD",
-        "status": "TBD",
-        "descriptionFileName": "Geen bestandsnaam gevonden",
+        "title": "Applicatieprofiel Thermografische Gebouwanalyse",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "responsibleOrganisation": [
             {
-                "name": "Geen naam gevonden",
-                "resourceReference": "Geen resourceReference gevonden",
-                "uri": "Geen uri gevonden",
-                "description": "Geen beschrijving gevonden"
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "Geen publicatiedatum gevonden",
-        "specificationDocuments": [],
-        "documentation": [],
-        "reports": [],
-        "charter": {},
-        "presentations": [],
-        "dateOfRegistration": "Geen datum van aanmelding gevonden",
-        "dateOfAcknowledgementByWorkingGroup": "Geen erkenning werkgroep datastandaarden gevonden",
-        "dateOfAcknowledgementBySteeringCommittee": "Geen erkenning stuurgroep gevonden",
-        "datePublicReviewStart": "Geen startdatum publieke review gevonden",
-        "datePublicReviewEnd": "Geen einddatum publieke review gevonden",
-        "endOfPublicationDate": "Geen einddatum publicatie gevonden",
-        "_path": ""
+        "publicationDate": "2025-05-22",
+        "descriptionFileName": "thermai-description.md",
+        "specificationDocuments": [
+            {
+                "name": "Applicatieprofiel Thermografische Gebouwanalyse",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse"
+            }
+        ],
+        "documentation": [
+            {
+                "name": "Vocabularium Thermografische Gebouwanalyse",
+                "resourceReference": "https://data.vlaanderen.be/doc/vocabularium/thermografische-gebouwanalyse"
+            }
+        ],
+        "charter": [
+            {
+                "name": "Charter Thermografische Beeldanalyse",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/charter/Charter_OSLO_thermAI.pdf"
+            }
+        ],
+        "reports": [
+            {
+                "name": "Verslag Business werkgroep - 18-02-2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/reports/Business%20werkgroep%20CoT%20ThermAI%202025-02-18.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 1 - 18-03-2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/reports/Thematische%20werkgroep%201%20-%20CoT%20ThermAI%202025-03-18.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 2 - 15-04-2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/reports/Thematische%20werkgroep%202%20-%20CoT%20ThermAI%202025-04-15.pdf"
+            }
+        ],
+        "presentations": [
+            {
+                "name": "Presentatie Business Werkgroep - 18-02-2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/presentations/ThermAI%20Business%20Werkgroep%20(1).pdf"
+            },
+            {
+                "name": "Presentatie Business Werkgroep 1 - 18-03-2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/presentations/Thematische%20werkgroep%201%20-%20ThermAI.pdf"
+            },
+            {
+                "name": "Presentatie Business Werkgroep 2 - 15-04-2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/presentations/Thematische%20werkgroep%202%20-%20ThermAI.pdf"
+            }
+        ],
+        "dateOfRegistration": "2024-12-1",
+        "dateOfAcknowledgementByWorkingGroup": "",
+        "dateOfAcknowledgementBySteeringCommittee": "",
+        "datePublicReviewStart": "2025-05-22",
+        "datePublicReviewEnd": "2025-09-11",
+        "endOfPublicationDate": ""
     },
     {
-        "title": "Geen titel gevonden",
-        "category": "TBD",
-        "usage": "TBD",
-        "status": "TBD",
-        "descriptionFileName": "Geen bestandsnaam gevonden",
+        "title": "Vocabularium Thermografische Gebouwanalyse",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "responsibleOrganisation": [
             {
-                "name": "Geen naam gevonden",
-                "resourceReference": "Geen resourceReference gevonden",
-                "uri": "Geen uri gevonden",
-                "description": "Geen beschrijving gevonden"
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "Geen publicatiedatum gevonden",
-        "specificationDocuments": [],
-        "documentation": [],
-        "reports": [],
-        "charter": {},
-        "presentations": [],
-        "dateOfRegistration": "Geen datum van aanmelding gevonden",
-        "dateOfAcknowledgementByWorkingGroup": "Geen erkenning werkgroep datastandaarden gevonden",
-        "dateOfAcknowledgementBySteeringCommittee": "Geen erkenning stuurgroep gevonden",
-        "datePublicReviewStart": "Geen startdatum publieke review gevonden",
-        "datePublicReviewEnd": "Geen einddatum publieke review gevonden",
-        "endOfPublicationDate": "Geen einddatum publicatie gevonden",
-        "_path": ""
+        "publicationDate": "2025-05-22",
+        "descriptionFileName": "thermai-description.md",
+        "specificationDocuments": [
+            {
+                "name": "Thermografische Gebouwanalyse Vocabularium",
+                "resourceReference": "https://data.vlaanderen.be/ns/thermografische-gebouwanalyse"
+            }
+        ],
+        "documentation": [
+            {
+                "name": "Applicatieprofiel Thermografische Gebouwanalyse",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse"
+            }
+        ],
+        "charter": [
+            {
+                "name": "Charter Thermografische Beeldanalyse",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/charter/Charter_OSLO_thermAI.pdf"
+            }
+        ],
+        "reports": [
+            {
+                "name": "Verslag business werkgroep - 18-02-2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/reports/Business%20werkgroep%20CoT%20ThermAI%202025-02-18.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 1 - 18-03-2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/reports/Thematische%20werkgroep%201%20-%20CoT%20ThermAI%202025-03-18.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 2 - 15-04-2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/reports/Thematische%20werkgroep%202%20-%20CoT%20ThermAI%202025-04-15.pdf"
+            }
+        ],
+        "presentations": [
+            {
+                "name": "Presentatie Business Werkgroep - 18-02-2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/presentations/ThermAI%20Business%20Werkgroep%20(1).pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 1 - 18-03-2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/presentations/Thematische%20werkgroep%201%20-%20ThermAI.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 2 - 15-04-2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/presentations/Thematische%20werkgroep%202%20-%20ThermAI.pdf"
+            }
+        ],
+        "dateOfRegistration": "2024-12-1",
+        "dateOfAcknowledgementByWorkingGroup": "",
+        "dateOfAcknowledgementBySteeringCommittee": "",
+        "datePublicReviewStart": "2025-05-22",
+        "datePublicReviewEnd": "2025-09-11",
+        "endOfPublicationDate": ""
     },
     {
-        "title": "",
-        "category": "",
-        "usage": "",
-        "status": "",
-        "responsibleOrganisation": {
-            "name": "Agentschap Digitaal Vlaanderen",
-            "uri": "https://data.vlaanderen.be/id/organisatie/OVO002949"
-        },
-        "publicationDate": "",
-        "descriptionFileName": "",
-        "specificationDocuments": [],
+        "title": "Applicatieprofiel Leermiddelen",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "responsibleOrganisation": [
+            {
+                "name": "Departement Onderwijs en Vorming",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO000049"
+            }
+        ],
+        "publicationDate": "2025-05-20",
+        "descriptionFileName": "ap-leermiddelen-config.md",
+        "specificationDocuments": [
+            {
+                "name": "Applicatieprofiel Leermiddelen",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen"
+            }
+        ],
         "documentation": [],
         "charter": {},
-        "reports": [],
-        "presentations": [],
+        "reports": [
+            {
+                "name": "Verslag Business werkgroep - 30-09-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/reports/Verslag Business Werkgroep Leermiddelen.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 1 - 04-11-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/reports/Verslag Thematische Werkgroep 1 - OSLO Leermiddelen.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 2 - 19-12-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/reports/Verslag_Thematische Werkgroep 2_OSLO Leermiddelen.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 3 - 17-01-2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/reports/Verslag Thematische Werkgroep 3 - OSLO Leermiddelen.pdf"
+            }
+        ],
+        "presentations": [
+            {
+                "name": "Presentatie Business werkgroep - 30-09-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/presentations/Presentatie Business Werkgroep Leermiddelen.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 1 - 04-11-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/presentations/Presentatie Thematische werkgroep 1 - Leermiddelen.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 2 - 19-12-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/presentations/Presentatie - Thematische werkgroep 2 - Leermiddelen.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 3 - 17-01-2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/presentations/Presentatie thematische werkgroep 3 - Leermiddelen.pdf"
+            }
+        ],
         "dateOfRegistration": "",
         "dateOfAcknowledgementByWorkingGroup": "",
         "dateOfAcknowledgementBySteeringCommittee": "",
@@ -130,21 +247,62 @@
         "endOfPublicationDate": ""
     },
     {
-        "title": "",
-        "category": "",
-        "usage": "",
-        "status": "",
-        "responsibleOrganisation": {
-            "name": "Agentschap Digitaal Vlaanderen",
-            "uri": "https://data.vlaanderen.be/id/organisatie/OVO002949"
-        },
-        "publicationDate": "",
-        "descriptionFileName": "",
-        "specificationDocuments": [],
+        "title": "Vocabularium Leermiddelen",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "responsibleOrganisation": [
+            {
+                "name": "Departement Onderwijs en Vorming",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO000049"
+            }
+        ],
+        "publicationDate": "2025-05-20",
+        "descriptionFileName": "voc-leermiddelen-config.md",
+        "specificationDocuments": [
+            {
+                "name": "Vocabularium Leermiddelen",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen"
+            }
+        ],
         "documentation": [],
         "charter": {},
-        "reports": [],
-        "presentations": [],
+        "reports": [
+            {
+                "name": "Verslag Business werkgroep - 30-09-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/reports/Verslag Business Werkgroep Leermiddelen.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 1 - 04-11-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/reports/Verslag Thematische Werkgroep 1 - OSLO Leermiddelen.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 2 - 19-12-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/reports/Verslag_Thematische Werkgroep 2_OSLO Leermiddelen.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 3 - 17-01-2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/reports/Verslag Thematische Werkgroep 3 - OSLO Leermiddelen.pdf"
+            }
+        ],
+        "presentations": [
+            {
+                "name": "Presentatie Business werkgroep - 30-09-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/presentations/Presentatie Business Werkgroep Leermiddelen.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 1 - 04-11-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/presentations/Presentatie Thematische werkgroep 1 - Leermiddelen.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 2 - 19-12-2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/presentations/Presentatie - Thematische werkgroep 2 - Leermiddelen.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 3 - 17-01-2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/presentations/Presentatie thematische werkgroep 3 - Leermiddelen.pdf"
+            }
+        ],
         "dateOfRegistration": "",
         "dateOfAcknowledgementByWorkingGroup": "",
         "dateOfAcknowledgementBySteeringCommittee": "",
@@ -154,9 +312,9 @@
     },
     {
         "title": "Applicatieprofiel Energiehuis",
-        "category": "applicatieprofiel",
-        "usage": "",
-        "status": "",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "Aanbevolen (vrijwillig)",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "responsibleOrganisation": {
             "name": "Agentschap Digitaal Vlaanderen",
             "uri": "https://data.vlaanderen.be/id/organisatie/OVO002949"
@@ -165,11 +323,15 @@
         "descriptionFileName": "energiehuis-description.md",
         "specificationDocuments": [
             {
-                "name": "Energiehuis Applicatieprofiel",
+                "name": "Applicatieprofiel Energiehuis",
                 "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/energiehuis"
             }
         ],
         "documentation": [
+            {
+                "name": "Vocabularium Energiehuis",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/energiehuis"
+            },
             {
                 "name": "Codelijst informatievoorziening thema's",
                 "resourceReference": "https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningThema"
@@ -225,20 +387,24 @@
             {
                 "name": "Presentatie thematische werkgroep 4 - 16-01-2025",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-energiehuis/blob/6b6570acc2d5ee38d9791ab79e18121d74bc4977/presentations/Presentatie%20thematische%20werkgroep%204%20-%20Energiehuis%20-%2020250116.pdf"
+            },
+            {
+                "name": "Presentatie Afsluitend Webinar - 14-05-2025",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-energiehuis/blob/standaardenregister/presentations/Afsluitend%20webinar%20OSLO%20Energiehuis%20(1).pdf"
             }
         ],
         "dateOfRegistration": "2024-05-16",
         "dateOfAcknowledgementByWorkingGroup": "",
         "dateOfAcknowledgementBySteeringCommittee": "",
-        "datePublicReviewStart": "",
-        "datePublicReviewEnd": "",
+        "datePublicReviewStart": "2025-02-13",
+        "datePublicReviewEnd": "2025-05-12",
         "endOfPublicationDate": ""
     },
     {
         "title": "Vocabularium Energiehuis",
-        "category": "vocabularium",
-        "usage": "",
-        "status": "",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -255,6 +421,10 @@
         ],
         "documentation": [
             {
+                "name": "Applicatieprofiel Energiehuis",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/energiehuis"
+            },
+            {
                 "name": "Codelijst informatievoorziening thema's",
                 "resourceReference": "https://data.vlaanderen.be/id/conceptscheme/InformatievoorzieningThema"
             },
@@ -309,19 +479,23 @@
             {
                 "name": "Presentatie thematische werkgroep 4 - 16-01-2025",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-energiehuis/blob/6b6570acc2d5ee38d9791ab79e18121d74bc4977/presentations/Presentatie%20thematische%20werkgroep%204%20-%20Energiehuis%20-%2020250116.pdf"
+            },
+            {
+                "name": "Presentatie Afsluitend Webinar - 14-05-2025",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-energiehuis/blob/standaardenregister/presentations/Afsluitend%20webinar%20OSLO%20Energiehuis%20(1).pdf"
             }
         ],
         "dateOfRegistration": "2024-05-16",
         "dateOfAcknowledgementByWorkingGroup": "",
         "dateOfAcknowledgementBySteeringCommittee": "",
-        "datePublicReviewStart": "",
-        "datePublicReviewEnd": "",
+        "datePublicReviewStart": "2025-02-13",
+        "datePublicReviewEnd": "2025-05-12",
         "endOfPublicationDate": ""
     },
     {
         "title": "Vocabularium Hulp- en Dienstverlening aan Gedetineerden",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "responsibleOrganisation": [
             {
@@ -400,8 +574,8 @@
     },
     {
         "title": "Applicatieprofiel Hulp- en Dienstverlening aan Gedetineerden",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "responsibleOrganisation": [
             {
@@ -480,8 +654,8 @@
     },
     {
         "title": "Applicatieprofiel Erosiepoel",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "responsibleOrganisation": [
             {
@@ -544,8 +718,8 @@
     },
     {
         "title": "Vocabularium Erosiepoel",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "responsibleOrganisation": [
             {
@@ -608,8 +782,8 @@
     },
     {
         "title": "Applicatieprofiel Mobiliteit: Intelligente Toegang",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "responsibleOrganisation": [
             {
@@ -676,8 +850,8 @@
     },
     {
         "title": "Vocabularium Mobiliteit: Intelligente Toegang",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "responsibleOrganisation": [
             {
@@ -744,8 +918,8 @@
     },
     {
         "title": "Applicatieprofiel Omgevingsvergunning",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "omgevingsvergunning-description.md",
         "responsibleOrganisation": [
@@ -819,8 +993,8 @@
     },
     {
         "title": "Vocabularium Omgevingsvergunning",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "omgevingsvergunning-description.md",
         "responsibleOrganisation": [
@@ -894,8 +1068,8 @@
     },
     {
         "title": "Applicatieprofiel Schuldbeheer",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-schuldbeheer-config.md",
         "responsibleOrganisation": [
@@ -982,8 +1156,8 @@
     },
     {
         "title": "Vocabularium Schuldbeheer",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-schuldbeheer-config.md",
         "responsibleOrganisation": [
@@ -1070,8 +1244,8 @@
     },
     {
         "title": "Applicatieprofiel Kabels en Leidingen",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "kabels-en-leidingen-description.md",
         "responsibleOrganisation": [
@@ -1169,8 +1343,8 @@
     },
     {
         "title": "Vocabularium Nutsvoorzieningen",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "kabels-en-leidingen-description.md",
         "responsibleOrganisation": [
@@ -1264,8 +1438,8 @@
     },
     {
         "title": "Applicatieprofiel Vastgoed",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "vastgoed.md",
         "responsibleOrganisation": [
@@ -1334,8 +1508,8 @@
     },
     {
         "title": "Vocabularium Vastgoed",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "vastgoed.md",
         "responsibleOrganisation": [
@@ -1404,8 +1578,8 @@
     },
     {
         "title": "Applicatieprofiel Ruimtelijke Indicatoren",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-ruimtelijke-indicatoren-description.md",
         "responsibleOrganisation": [
@@ -1479,8 +1653,8 @@
     },
     {
         "title": "Vocabularium Ruimtelijke Indicatoren",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-ruimtelijke-indicatoren-description.md",
         "responsibleOrganisation": [
@@ -1554,8 +1728,8 @@
     },
     {
         "title": "OSLO Voorwaarden Dienstverlening",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "template-description.md",
         "responsibleOrganisation": [
@@ -1629,8 +1803,8 @@
     },
     {
         "title": "Applicatieprofiel Incentiveringsplatform",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-Incentiveringsplatform.md",
         "responsibleOrganisation": [
@@ -1701,8 +1875,8 @@
     },
     {
         "title": "Vocabularium Incentiveringsplatform",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-Incentiveringsplatform.md",
         "responsibleOrganisation": [
@@ -1773,8 +1947,8 @@
     },
     {
         "title": "Applicatieprofiel Verkeersmetingen",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-Verkeersmetingen.md",
         "responsibleOrganisation": [
@@ -1865,8 +2039,8 @@
     },
     {
         "title": "Vocabularium Verkeersmetingen",
-        "category": "Vocabularium ",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-Verkeersmetingen.md",
         "responsibleOrganisation": [
@@ -1945,8 +2119,8 @@
     },
     {
         "title": "Applicatieprofiel Financiële Rapportering",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-FinancieleData.md",
         "responsibleOrganisation": [
@@ -2018,8 +2192,8 @@
     },
     {
         "title": "Vocabularium Financiële Rapportering",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-FinancieleData.md",
         "responsibleOrganisation": [
@@ -2091,8 +2265,8 @@
     },
     {
         "title": "Applicatieprofiel Bodem",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "bodemenondergrond.md",
         "responsibleOrganisation": [
@@ -2259,8 +2433,8 @@
     },
     {
         "title": "Vocabularium Bodem",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "bodemenondergrond.md",
         "responsibleOrganisation": [
@@ -2427,8 +2601,8 @@
     },
     {
         "title": "Applicatieprofiel Bodem en Ondergrond",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "bodemEnOndergrond-ap.md",
         "responsibleOrganisation": [
@@ -2531,8 +2705,8 @@
     },
     {
         "title": "Vocabularium Bodem en Ondergrond",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "bodemEnOndergrond-voc.md",
         "responsibleOrganisation": [
@@ -2631,8 +2805,8 @@
     },
     {
         "title": "Applicatieprofiel Bodem en Ondergrond Observaties",
-        "category": "Applicatieprofielen",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "bodemEnOndergrondObservaties-ap.md",
         "responsibleOrganisation": [
@@ -2735,8 +2909,8 @@
     },
     {
         "title": "Vocabularium Bodem en Ondergrond Observaties",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "bodemEnOndergrondObservaties-voc.md",
         "responsibleOrganisation": [
@@ -2835,8 +3009,8 @@
     },
     {
         "title": "Applicatieprofiel Bodem en Ondergrond Interpretaties",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "bodemenondergrond.md",
         "responsibleOrganisation": [
@@ -2939,8 +3113,8 @@
     },
     {
         "title": "Vocabularium Bodem en Ondergrond Interpretaties",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "bodemenondergrond.md",
         "responsibleOrganisation": [
@@ -3039,8 +3213,8 @@
     },
     {
         "title": "Applicatieprofiel Grondboringen",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "grondboringen-ap.md",
         "responsibleOrganisation": [
@@ -3143,8 +3317,8 @@
     },
     {
         "title": "Vocabularium Grondboringen",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "bodemenondergrondgrondboringen-voc.md",
         "responsibleOrganisation": [
@@ -3243,8 +3417,8 @@
     },
     {
         "title": "Applicatieprofiel Grondwatermeetnet",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "bodemenondergrond.md",
         "responsibleOrganisation": [
@@ -3411,8 +3585,8 @@
     },
     {
         "title": "Vocabularium Grondboringen",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "bodemenondergrond.md",
         "responsibleOrganisation": [
@@ -3579,8 +3753,8 @@
     },
     {
         "title": "Applicatieprofiel Ruimtelijke Bereiken",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "ruimtelijkebereiken-ap.md",
         "responsibleOrganisation": [
@@ -3683,8 +3857,8 @@
     },
     {
         "title": "Vocabularium Ruimtelijke Bereiken",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "ruimtelijkebereiken-voc.md",
         "responsibleOrganisation": [
@@ -3783,8 +3957,8 @@
     },
     {
         "title": "Applicatieprofiel Sonderingen",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "bodemenondergrond.md",
         "responsibleOrganisation": [
@@ -3951,8 +4125,8 @@
     },
     {
         "title": "Vocabularium Sonderingen",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "bodemenondergrond.md",
         "responsibleOrganisation": [
@@ -4119,8 +4293,8 @@
     },
     {
         "title": "Applicatieprofiel Sensoren en Bemonstering",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "sensorenEnBemonstering-ap.md",
         "responsibleOrganisation": [
@@ -4231,8 +4405,8 @@
     },
     {
         "title": "Vocabularium Sensoren en Bemonstering",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "sensorenEnBemonstering-voc.md",
         "responsibleOrganisation": [
@@ -4331,8 +4505,8 @@
     },
     {
         "title": "Applicatieprofiel Observaties en Metingen",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "observatiesEnMetingen-ap.md",
         "responsibleOrganisation": [
@@ -4435,8 +4609,8 @@
     },
     {
         "title": "Vocabularium Observaties en Metingen",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "observatiesEnMetingen-voc.md",
         "responsibleOrganisation": [
@@ -4535,8 +4709,8 @@
     },
     {
         "title": "Applicatieprofiel Cultuurparticipatie",
-        "category": "Vocabularium en applicatieprofielen",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-doelgericht-digitaal-transformeren-config.md",
         "responsibleOrganisation": [
@@ -4631,8 +4805,8 @@
     },
     {
         "title": "Vocabularium Cultuurparticipatie",
-        "category": "Vocabularium en applicatieprofielen",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-doelgericht-digitaal-transformeren-config.md",
         "responsibleOrganisation": [
@@ -4727,8 +4901,8 @@
     },
     {
         "title": "Vocabularium loongegevens",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "voc-loongegevens.md",
         "responsibleOrganisation": [
@@ -4795,8 +4969,8 @@
     },
     {
         "title": "Applicatieprofiel loongegevens",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "ap-loongegevens.md",
         "responsibleOrganisation": [
@@ -4863,8 +5037,8 @@
     },
     {
         "title": "Vocabularium Feitelijke Verenigingen",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "voc-feitelijke-verenigingen.md",
         "responsibleOrganisation": [
@@ -4942,8 +5116,8 @@
     },
     {
         "title": "Applicatieprofiel Feitelijke Verenigingen",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "ap-feitelijke-verenigingen.md",
         "responsibleOrganisation": [
@@ -5021,8 +5195,8 @@
     },
     {
         "title": "Applicatieprofiel Mobiliteit: Dienstregeling en Planning Stopplaatsen",
-        "category": "Applicatieprofiel",
-        "usage": "aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-dienstregeling-en-planning.md",
         "responsibleOrganisation": [
@@ -5088,8 +5262,8 @@
     },
     {
         "title": "Applicatieprofiel Mobiliteit: Dienstregeling en Planning Tijdstabellen",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-dienstregeling-en-planning.md",
         "responsibleOrganisation": [
@@ -5155,8 +5329,8 @@
     },
     {
         "title": "Applicatieprofiel Mobiliteit: Dienstregeling en Planning Voertuigplanning",
-        "category": "Applicatieprofiel",
-        "usage": "aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-dienstregeling-en-planning.md",
         "responsibleOrganisation": [
@@ -5222,8 +5396,8 @@
     },
     {
         "title": "Vocabularium Mobiliteit: Dienstregeling en Planning",
-        "category": "Vocabularium",
-        "usage": "aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-dienstregeling-en-planning.md",
         "responsibleOrganisation": [
@@ -5293,8 +5467,8 @@
     },
     {
         "title": "Vocabularium Persoon",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-persoon.md",
         "responsibleOrganisation": [
@@ -5348,7 +5522,7 @@
     },
     {
         "title": "Applicatieprofiel Persoon basis",
-        "category": "Applicatieprofiel",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "Aanbevolgen (vrijwillig)",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "ap-persoon-basis.md",
@@ -5403,8 +5577,8 @@
     },
     {
         "title": "Vocabularium Weg",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-weg.md",
         "responsibleOrganisation": [
@@ -5466,8 +5640,8 @@
     },
     {
         "title": "Applicatieprofiel Wegenregister",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "ap-wegenregister.md",
         "responsibleOrganisation": [
@@ -5521,8 +5695,8 @@
     },
     {
         "title": "Applicatieprofiel Dienst Transactiemodel",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-dienst-transactiemodel.md",
         "responsibleOrganisation": [
@@ -5566,8 +5740,8 @@
     },
     {
         "title": "Vocabularium Transactie",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-transactie.md",
         "responsibleOrganisation": [
@@ -5611,8 +5785,8 @@
     },
     {
         "title": "Vocabularium Dienst",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-dienst.md",
         "responsibleOrganisation": [
@@ -5678,8 +5852,8 @@
     },
     {
         "title": "Applicatieprofiel Dienstencataloog",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "ap-dienstencataloog.md",
         "responsibleOrganisation": [
@@ -5745,8 +5919,8 @@
     },
     {
         "title": "Applicatieprofiel Vlaamse Codex",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-vlaamse-codex.md",
         "responsibleOrganisation": [
@@ -5800,8 +5974,8 @@
     },
     {
         "title": "Vocabularium Organisatie",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-organisatie.md",
         "responsibleOrganisation": [
@@ -5867,8 +6041,8 @@
     },
     {
         "title": "Applicatieprofiel Organisatie Basis",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "ap-organisatie-basis.md",
         "responsibleOrganisation": [
@@ -5934,8 +6108,8 @@
     },
     {
         "title": "Applicatieprofiel Toeristische Logies Basis",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-logies-basis.md",
         "responsibleOrganisation": [
@@ -5993,8 +6167,8 @@
     },
     {
         "title": "Vocabularium Toeristische Logies",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-logies.md",
         "responsibleOrganisation": [
@@ -6052,8 +6226,8 @@
     },
     {
         "title": "Applicatieprofiel Adresregister",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "ap-adresregister.md",
         "responsibleOrganisation": [
@@ -6089,8 +6263,8 @@
     },
     {
         "title": "Vocabularium Adres",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-adres.md",
         "responsibleOrganisation": [
@@ -6140,8 +6314,8 @@
     },
     {
         "title": "Applicatieprofiel Gebouwenregister",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "ap-gebouwenregister.md",
         "responsibleOrganisation": [
@@ -6177,8 +6351,8 @@
     },
     {
         "title": "Vocabularium Gebouw",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "voc-gebouw.md",
         "responsibleOrganisation": [
@@ -6214,8 +6388,8 @@
     },
     {
         "title": "Applicatieprofiel Inname openbaar domein",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "ap-inname-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -6272,8 +6446,8 @@
     },
     {
         "title": "Applicatieprofiel Notificatie Basis",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-notificatie-basis.md",
         "responsibleOrganisation": [
@@ -6317,8 +6491,8 @@
     },
     {
         "title": "Vocabularium Notificatie",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-notificatie.md",
         "responsibleOrganisation": [
@@ -6362,8 +6536,8 @@
     },
     {
         "title": "Vocabularium Melding",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-melding.md",
         "responsibleOrganisation": [
@@ -6407,8 +6581,8 @@
     },
     {
         "title": "Applicatieprofiel Issue tracking voor burgers en organisaties",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-issue-tracking.md",
         "responsibleOrganisation": [
@@ -6452,8 +6626,8 @@
     },
     {
         "title": "Applicatieprofiel Generieke Terugmeldfaciliteit",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-generieke-terugmeldfaciliteit.md",
         "responsibleOrganisation": [
@@ -6497,8 +6671,8 @@
     },
     {
         "title": "Applicatieprofiel Dossier",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-dossier.md",
         "responsibleOrganisation": [
@@ -6585,8 +6759,8 @@
     },
     {
         "title": "Vocabularium Dossier",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-dossier.md",
         "responsibleOrganisation": [
@@ -6673,8 +6847,8 @@
     },
     {
         "title": "Applicatieprofiel Besluit Subsidies",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "ap-besluit-subsidie.md",
         "responsibleOrganisation": [
@@ -6768,8 +6942,8 @@
     },
     {
         "title": "Vocabularium Subsidies",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "voc-subsidie.md",
         "responsibleOrganisation": [
@@ -6863,8 +7037,8 @@
     },
     {
         "title": "Applicatieprofiel Mobiliteit: Trips en Aanbod",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-mobiliteit-trips-en-aanbod.md",
         "responsibleOrganisation": [
@@ -6967,8 +7141,8 @@
     },
     {
         "title": "Vocabularium Mobiliteit Trips en Aanbod",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-mobiliteit-trips-en-aanbod.md",
         "responsibleOrganisation": [
@@ -7079,8 +7253,8 @@
     },
     {
         "title": "Vocabularium Netwerk",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-netwerk.md",
         "responsibleOrganisation": [
@@ -7179,8 +7353,8 @@
     },
     {
         "title": "Vocabularium Transportnetwerk",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-transportnetwerk.md",
         "responsibleOrganisation": [
@@ -7279,8 +7453,8 @@
     },
     {
         "title": "Applicatieprofiel DCAT-AP VL",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/HerroepenStandaard",
         "descriptionFileName": "ap-dcat-ap-vl.md",
         "responsibleOrganisation": [
@@ -7352,8 +7526,8 @@
     },
     {
         "title": "Generieke Hypermedia API",
-        "category": "Technische standaard",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/TechnischeStandaard",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "generieke-hypermedia-api.md",
         "responsibleOrganisation": [
@@ -7416,8 +7590,8 @@
     },
     {
         "title": "Vocabularium Toestemming",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-toestemming.md",
         "responsibleOrganisation": [
@@ -7461,8 +7635,8 @@
     },
     {
         "title": "Applicatieprofiel Contactvoorkeuren",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-contactvoorkeuren.md",
         "responsibleOrganisation": [
@@ -7506,8 +7680,8 @@
     },
     {
         "title": "Vocabularium Perceel",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-percelen.md",
         "responsibleOrganisation": [
@@ -7590,8 +7764,8 @@
     },
     {
         "title": "Applicatieprofiel Perceel",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-percelen.md",
         "responsibleOrganisation": [
@@ -7674,8 +7848,8 @@
     },
     {
         "title": "Vocabularium Bedrijventerrein",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-bedrijventerrein.md",
         "responsibleOrganisation": [
@@ -7754,8 +7928,8 @@
     },
     {
         "title": "Applicatieprofiel Bedrijventerrein",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-bedrijventerrein.md",
         "responsibleOrganisation": [
@@ -7834,8 +8008,8 @@
     },
     {
         "title": "Vocabularium Mandaat",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-mandaat.md",
         "responsibleOrganisation": [
@@ -7884,8 +8058,8 @@
     },
     {
         "title": "Applicatieprofiel Mandatendatabank",
-        "category": "Applicatieprofiel",
-        "usage": "Verplicht",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Verplicht",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-mandatendatabank.md",
         "responsibleOrganisation": [
@@ -7939,8 +8113,8 @@
     },
     {
         "title": "Vocabularium Besluit",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-besluit.md",
         "responsibleOrganisation": [
@@ -7994,8 +8168,8 @@
     },
     {
         "title": "Applicatieprofiel Besluit Publicatie",
-        "category": "Applicatieprofiel",
-        "usage": "Verplicht",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Verplicht",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-besluit-publicatie.md",
         "responsibleOrganisation": [
@@ -8049,8 +8223,8 @@
     },
     {
         "title": "Vocabularium Bestuur",
-        "category": "Vocabularium",
-        "usage": "Verplicht",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Verplicht",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-bestuur.md",
         "responsibleOrganisation": [
@@ -8081,8 +8255,8 @@
     },
     {
         "title": "Proces en methode voor de ontwikkeling en erkenning van data standaarden",
-        "category": "Standaard vor organisatorische interoperabiliteit",
-        "usage": "Pas toe of leg uit",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/OrganisatorischeInteroperabiliteit",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/PasToeOfLegUit",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "proces-en-methode-oslo.md",
         "responsibleOrganisation": [
@@ -8127,8 +8301,8 @@
     },
     {
         "title": "Proces en methode voor de ontwikkeling en erkenning van data standaarden voor Agentschap Wegen en Verkeer",
-        "category": "Standaard vor organisatorische interoperabiliteit",
-        "usage": "Pas toe of leg uit",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/OrganisatorischeInteroperabiliteit",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/PasToeOfLegUit",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "proces-en-methode-awv.md",
         "responsibleOrganisation": [
@@ -8159,8 +8333,8 @@
     },
     {
         "title": "Vlaamse URI-Standaard voor Data",
-        "category": "Technische standaard",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/TechnischeStandaard",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "vlaamse-uri-standaard.md",
         "responsibleOrganisation": [
@@ -8210,8 +8384,8 @@
     },
     {
         "title": "Vocabularium Conceptueel Gegevensmodel Openbaar Domein",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -8320,8 +8494,8 @@
     },
     {
         "title": "Openbaar Domein - Uitbreiding Gebieden (Vocabularium)",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -8430,8 +8604,8 @@
     },
     {
         "title": "Openbaar Domein - Uitbreiding Infrastructuurelementen (Vocabularium)",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -8540,8 +8714,8 @@
     },
     {
         "title": "Openbaar Domein - Uitbreiding Vegetatie-elementen (Vocabularium)",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -8650,8 +8824,8 @@
     },
     {
         "title": "Openbaar Domein - Uitbreiding Terreindelen (Vocabularium)",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -8760,8 +8934,8 @@
     },
     {
         "title": "Openbaar Domein - Uitbreiding Waterdelen (Vocabularium)",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -8870,8 +9044,8 @@
     },
     {
         "title": "Openbaar Domein - Uitbreiding Begraafplaats (Vocabularium)",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -8980,8 +9154,8 @@
     },
     {
         "title": "Applicatieprofiel Openbaar Domein",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -9090,8 +9264,8 @@
     },
     {
         "title": "Openbaar Domein - Applicatieprofiel Infrastructuurelementen",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -9200,8 +9374,8 @@
     },
     {
         "title": "Openbaar Domein - Applicatieprofiel Vegetatie-elementen",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -9310,8 +9484,8 @@
     },
     {
         "title": "Openbaar Domein - Applicatieprofiel Terreindelen",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -9420,8 +9594,8 @@
     },
     {
         "title": "Openbaar Domein - Applicatieprofiel Begroeid Voorkomen",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -9530,8 +9704,8 @@
     },
     {
         "title": "Openbaar Domein - Applicatieprofiel Onbegroeid Voorkomen",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -9640,8 +9814,8 @@
     },
     {
         "title": "Openbaar Domein - Applicatieprofiel Waterdelen",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -9750,8 +9924,8 @@
     },
     {
         "title": "Openbaar Domein - Applicatieprofiel Water voorkomen",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -9860,8 +10034,8 @@
     },
     {
         "title": "Openbaar Domein - Applicatieprofiel Begraafplaatsenbeheer",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -9970,8 +10144,8 @@
     },
     {
         "title": "Applicatieprofiel Verkeersborden",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "ap-verkeersborden.md",
         "responsibleOrganisation": [
@@ -10024,8 +10198,8 @@
     },
     {
         "title": "Applicatieprofiel Besluitvorming",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-besluitvorming.md",
         "responsibleOrganisation": [
@@ -10099,8 +10273,8 @@
     },
     {
         "title": "Vocabularium Besluitvorming",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-besluitvorming.md",
         "responsibleOrganisation": [
@@ -10174,8 +10348,8 @@
     },
     {
         "title": "Applicatieprofiel Cultureel Erfgoed Event",
-        "category": "Applicatieprofiel",
-        "usage": "aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-cultureel-erfgoed-event.md",
         "responsibleOrganisation": [
@@ -10278,8 +10452,8 @@
     },
     {
         "title": "Applicatieprofiel Cultureel Erfgoed Object",
-        "category": "Applicatieprofiel",
-        "usage": "aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-cultureel-erfgoed-object.md",
         "responsibleOrganisation": [
@@ -10382,8 +10556,8 @@
     },
     {
         "title": "Vocabularium Cultureel Erfgoed",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-cultureel-erfgoed.md",
         "responsibleOrganisation": [
@@ -10486,8 +10660,8 @@
     },
     {
         "title": "Implementatiemodel Basisregistratie Cultureel Erfgoed",
-        "category": "Implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "imp-cultureel-erfgoed-basisregistratie.md",
         "responsibleOrganisation": [
@@ -10574,8 +10748,8 @@
     },
     {
         "title": "Applicatieprofiel Besluit Mobiliteit",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "ap-besluit-mobiliteit.md",
         "responsibleOrganisation": [
@@ -10641,8 +10815,8 @@
     },
     {
         "title": "Vocabularium Mobiliteit",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "voc-mobiliteit.md",
         "responsibleOrganisation": [
@@ -10691,8 +10865,8 @@
     },
     {
         "title": "Applicatieprofiel Generiek basis",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "",
         "descriptionFileName": "",
         "responsibleOrganisation": [
@@ -10723,8 +10897,8 @@
     },
     {
         "title": "Vocabularium Generiek",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "",
         "descriptionFileName": "",
         "responsibleOrganisation": [
@@ -10755,8 +10929,8 @@
     },
     {
         "title": "Openbaar Domein 2.0.0 - Applicatieprofiel Begraafplaatsenbeheer",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -10809,8 +10983,8 @@
     },
     {
         "title": "Openbaar Domein 2.0.0 - Applicatieprofiel Begraafplaatsen",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -10863,8 +11037,8 @@
     },
     {
         "title": "Openbaar Domein 2.0.0 - Applicatieprofiel Begroeid Voorkomen",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -10917,8 +11091,8 @@
     },
     {
         "title": "Openbaar Domein 2.0.0 - Applicatieprofiel Gebieden",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -10971,8 +11145,8 @@
     },
     {
         "title": "Openbaar Domein 2.0.0 - Applicatieprofiel Infrastructuurelementen",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -11025,8 +11199,8 @@
     },
     {
         "title": "Openbaar Domein 2.0.0 - Applicatieprofiel Onbegroeid Voorkomen",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -11079,8 +11253,8 @@
     },
     {
         "title": "Openbaar Domein 2.0.0 - Basisprofiel Openbaar Domein",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -11133,8 +11307,8 @@
     },
     {
         "title": "Openbaar Domein 2.0.0 - Applicatieprofiel Terreindelen",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -11187,8 +11361,8 @@
     },
     {
         "title": "Openbaar Domein 2.0.0 - Applicatieprofiel Vegetatie-elementen",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -11241,8 +11415,8 @@
     },
     {
         "title": "Openbaar Domein 2.0.0 - Applicatieprofiel Waterdelen",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -11295,8 +11469,8 @@
     },
     {
         "title": "Openbaar Domein 2.0.0 - Applicatieprofiel Watervoorkomen",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-thema-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -11349,8 +11523,8 @@
     },
     {
         "title": "Openbaar Domein 2.0.0",
-        "category": "Vocabularium & applicatieprofielen",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "openbaar-domein.md",
         "responsibleOrganisation": [
@@ -11483,8 +11657,8 @@
     },
     {
         "title": "Openbaar Domein 2.0.0 - Uitbreiding Begraafplaats",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -11537,8 +11711,8 @@
     },
     {
         "title": "Openbaar Domein 2.0.0 - Uitbreiding Begroeid Voorkomen",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -11591,8 +11765,8 @@
     },
     {
         "title": "Openbaar Domein 2.0.0 - Uitbreiding Gebied",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -11645,8 +11819,8 @@
     },
     {
         "title": "Openbaar Domein 2.0.0 - Uitbreiding Infrastructuur",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -11699,8 +11873,8 @@
     },
     {
         "title": "Openbaar Domein 2.0.0 - Uitbreiding Onbegroeid Voorkomen",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -11753,8 +11927,8 @@
     },
     {
         "title": "Openbaar Domein 2.0.0 - Uitbreiding Terreindeel",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -11807,8 +11981,8 @@
     },
     {
         "title": "Openbaar Domein 2.0.0 - Uitbreiding Vegetatie",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -11861,8 +12035,8 @@
     },
     {
         "title": "Openbaar Domein 2.0.0 - Uitbreiding Waterdeel",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -11915,8 +12089,8 @@
     },
     {
         "title": "Openbaar Domein 2.0.0 - Uitbreiding Watervoorkomen",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-openbaar-domein.md",
         "responsibleOrganisation": [
@@ -11969,7 +12143,7 @@
     },
     {
         "title": "API guidelines",
-        "category": "Technische standaard",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/TechnischeStandaard",
         "usage": "TBD",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "api-guidelines.md",
@@ -12060,8 +12234,8 @@
     },
     {
         "title": "Applicatieprofiel metadata DCAT",
-        "category": "Applicatieprofiel",
-        "usage": "aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "metadata.md",
         "responsibleOrganisation": [
@@ -12147,8 +12321,8 @@
     },
     {
         "title": "Vocabularium metadata DCAT",
-        "category": "Vocabularium",
-        "usage": "aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "metadata.md",
         "responsibleOrganisation": [
@@ -12234,8 +12408,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel AIM Object",
-        "category": "Implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "AIM-Object.md",
         "responsibleOrganisation": [
@@ -12276,8 +12450,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel ANPR en trajectcontrole",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ANPR-en-trajectcontrole.md",
         "responsibleOrganisation": [
@@ -12318,8 +12492,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Brandleiding",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Brandleiding.md",
         "responsibleOrganisation": [
@@ -12360,8 +12534,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Camerainstallatie",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Camerainstallatie.md",
         "responsibleOrganisation": [
@@ -12402,8 +12576,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Complexe datatypes",
-        "category": "Implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Complexe-datatypes.md",
         "responsibleOrganisation": [
@@ -12444,8 +12618,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Draagconstructies",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Draagconstructies.md",
         "responsibleOrganisation": [
@@ -12486,8 +12660,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Dynamische borden",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Dynamische-borden.md",
         "responsibleOrganisation": [
@@ -12528,8 +12702,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Ecologische maatregelen",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Ecologische-maatregelen.md",
         "responsibleOrganisation": [
@@ -12570,8 +12744,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Eenvoudige datatypes",
-        "category": "Implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Eenvoudige-datatypes.md",
         "responsibleOrganisation": [
@@ -12612,8 +12786,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Elektrische componenten",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Elektrische-componenten.md",
         "responsibleOrganisation": [
@@ -12654,8 +12828,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Fietstelinstallatie",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Fietstelinstallatie.md",
         "responsibleOrganisation": [
@@ -12696,8 +12870,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Hulpposten",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Hulpposten.md",
         "responsibleOrganisation": [
@@ -12738,8 +12912,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Inbreuken zwaar vervoer",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Inbreuken-zwaar-vervoer.md",
         "responsibleOrganisation": [
@@ -12780,8 +12954,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Kasten, cabines, behuizing",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Kasten-cabines-behuizing.md",
         "responsibleOrganisation": [
@@ -12822,8 +12996,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Lijnvormige elementen",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Lijnvormige-elementen.md",
         "responsibleOrganisation": [
@@ -12864,8 +13038,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Luchtkwaliteit",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Luchtkwaliteit.md",
         "responsibleOrganisation": [
@@ -12906,8 +13080,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Luidsprekers en intercom",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Luidsprekers-en-intercom.md",
         "responsibleOrganisation": [
@@ -12948,8 +13122,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Master-implementatiemodel",
-        "category": "Implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Master-implementatiemodel.md",
         "responsibleOrganisation": [
@@ -12990,8 +13164,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Meten in Vlaanderen",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Meten-in-Vlaanderen.md",
         "responsibleOrganisation": [
@@ -13032,8 +13206,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Optisch transport netwerk",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Optisch-transport-netwerk.md",
         "responsibleOrganisation": [
@@ -13074,8 +13248,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Proeven en metingen",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Proeven-en-metingen.md",
         "responsibleOrganisation": [
@@ -13116,8 +13290,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Relaties",
-        "category": "Implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Relaties.md",
         "responsibleOrganisation": [
@@ -13158,8 +13332,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Riolering",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Riolering.md",
         "responsibleOrganisation": [
@@ -13200,8 +13374,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Signalisatie",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Signalisatie.md",
         "responsibleOrganisation": [
@@ -13242,8 +13416,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Slagbomen en doorsteken",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Slagbomen-en-doorsteken.md",
         "responsibleOrganisation": [
@@ -13284,8 +13458,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Software en hardware",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Software-en-hardware.md",
         "responsibleOrganisation": [
@@ -13326,8 +13500,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Tunnelevacuatie",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Tunnelevacuatie.md",
         "responsibleOrganisation": [
@@ -13368,8 +13542,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Union datatypes",
-        "category": "Implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Union-datatypes.md",
         "responsibleOrganisation": [
@@ -13410,8 +13584,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Vegetatie",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Vegetatie.md",
         "responsibleOrganisation": [
@@ -13452,8 +13626,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Ventilatie",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Ventilatie.md",
         "responsibleOrganisation": [
@@ -13494,8 +13668,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Verharding en wegfundering",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Verharding-en-wegfundering.md",
         "responsibleOrganisation": [
@@ -13536,8 +13710,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Verkeersregelinstallatie",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Verkeersregelinstallatie.md",
         "responsibleOrganisation": [
@@ -13578,8 +13752,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Verlichtingsinstallatie",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Verlichtingsinstallatie.md",
         "responsibleOrganisation": [
@@ -13620,8 +13794,8 @@
     },
     {
         "title": "wegenenverkeer implementatiemodel Zone 30",
-        "category": "implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "Zone-30.md",
         "responsibleOrganisation": [
@@ -13662,8 +13836,8 @@
     },
     {
         "title": "wegenenverkeer vocabularium abstracten",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "wegen-en-verkeer.md",
         "responsibleOrganisation": [
@@ -13704,8 +13878,8 @@
     },
     {
         "title": "wegenenverkeer vocabularium implementatieelementen",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "wegen-en-verkeer.md",
         "responsibleOrganisation": [
@@ -13746,8 +13920,8 @@
     },
     {
         "title": "wegenenverkeer vocabularium installatie",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "wegen-en-verkeer.md",
         "responsibleOrganisation": [
@@ -13797,8 +13971,8 @@
     },
     {
         "title": "wegenenverkeer vocabularium levenscyclus",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "wegen-en-verkeer.md",
         "responsibleOrganisation": [
@@ -13848,8 +14022,8 @@
     },
     {
         "title": "wegenenverkeer vocabularium onderdeel",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "wegen-en-verkeer.md",
         "responsibleOrganisation": [
@@ -13890,8 +14064,8 @@
     },
     {
         "title": "wegenenverkeer vocabularium proefenmeting",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "wegen-en-verkeer.md",
         "responsibleOrganisation": [
@@ -13932,8 +14106,8 @@
     },
     {
         "title": "Data standaarden wegenenverkeer",
-        "category": "Vocabularium & implementatiemodellen",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "wegen-en-verkeer.md",
         "responsibleOrganisation": [
@@ -14007,7 +14181,7 @@
     },
     {
         "title": "Vocabularium en applicatieprofiel air and water",
-        "category": "Vocabularium en applicatieprofielen",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "TBD",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "airandwater.md",
@@ -14089,8 +14263,8 @@
     },
     {
         "title": "Applicatieprofiel Fietsinfrastructuur",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "ap-fietsinfrastructuur-config.md",
         "responsibleOrganisation": [
@@ -14169,8 +14343,8 @@
     },
     {
         "title": "Vocabularium Fietsinfrastructuur",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "voc-fietsinfrastructuur-config.md",
         "responsibleOrganisation": [
@@ -14249,8 +14423,8 @@
     },
     {
         "title": "Applicatieprofiel DCAT-AP VL 2.0",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-dcat-ap-vl.md",
         "responsibleOrganisation": [
@@ -14326,8 +14500,8 @@
     },
     {
         "title": "Vocabularium en applicatieprofiel OSLO Consent",
-        "category": "Vocabularium en applicatieprofielen",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "core-concept.md",
         "responsibleOrganisation": [
@@ -14405,8 +14579,8 @@
     },
     {
         "title": "Applicatieprofiel GeoDCAT-AP VL",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-geodcat-ap-vl.md",
         "responsibleOrganisation": [
@@ -14489,8 +14663,8 @@
     },
     {
         "title": "Applicatieprofiel Vervoersknooppunten",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "vervoersknooppunten.md",
         "responsibleOrganisation": [
@@ -14573,8 +14747,8 @@
     },
     {
         "title": "Vocabularium Vervoersknooppunten",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "vervoersknooppunten.md",
         "responsibleOrganisation": [
@@ -14657,8 +14831,8 @@
     },
     {
         "title": "Applicatieprofiel LDES",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ldes-description.md",
         "responsibleOrganisation": [
@@ -14732,8 +14906,8 @@
     },
     {
         "title": "Vocabularium LDES",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ldes-description.md",
         "responsibleOrganisation": [
@@ -14807,8 +14981,8 @@
     },
     {
         "title": "Applicatieprofiel Cultuur- en Jeugdinfrastructuur",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "ap-doelgericht-cultuur-en-jeugd-config.md",
         "responsibleOrganisation": [
@@ -14887,8 +15061,8 @@
     },
     {
         "title": "Vocabularium Cultuur- en Jeugdinfrastructuur",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "voc-doelgericht-cultuur-en-jeugd-config.md",
         "responsibleOrganisation": [
@@ -14967,8 +15141,8 @@
     },
     {
         "title": "Applicatieprofiel Bestuurlijk Sanctieregister",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "ap-bestuurlijksanctieregister.md",
         "responsibleOrganisation": [
@@ -15031,8 +15205,8 @@
     },
     {
         "title": "Vocabularium Bestuurlijke Sancties",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "voc-bestuurlijksanctieregister.md",
         "responsibleOrganisation": [
@@ -15095,8 +15269,8 @@
     },
     {
         "title": "Applicatieprofiel Passenger Transport Hubs",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-passenger-transport-hubs.md",
         "responsibleOrganisation": [
@@ -15155,8 +15329,8 @@
     },
     {
         "title": "Vocabularium Passenger Transport Hubs",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-passenger-transport-hubs.md",
         "responsibleOrganisation": [
@@ -15215,8 +15389,8 @@
     },
     {
         "title": "Vocabularium Leercredential",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "leercredential-description.md",
         "responsibleOrganisation": [
@@ -15321,8 +15495,8 @@
     },
     {
         "title": "Applicatieprofiel Leerprestatiecredential",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "leercredential-description.md",
         "responsibleOrganisation": [
@@ -15393,8 +15567,8 @@
     },
     {
         "title": "Applicatieprofiel Publicatie-Advertentie",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "template-description.md",
         "responsibleOrganisation": [
@@ -15464,8 +15638,8 @@
     },
     {
         "title": "Vocabularium Publicatie-Advertentie",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "template-description.md",
         "responsibleOrganisation": [
@@ -15535,8 +15709,8 @@
     },
     {
         "title": "Vocabularium en implementatiemodel IPDC - LPDC",
-        "category": "Vocabularium en implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "",
         "responsibleOrganisation": [
@@ -15571,8 +15745,8 @@
     },
     {
         "title": "Applicatieprofiel OSLO Slimme Stadsdistributie",
-        "category": "Applicatieprofielen",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "ap-or-voc-slimmestadsdistributie.md",
         "responsibleOrganisation": [
@@ -15622,8 +15796,8 @@
     },
     {
         "title": "Vocabularium OSLO Slimme Stadsdistributie",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "ap-or-voc-slimmestadsdistributie.md",
         "responsibleOrganisation": [
@@ -15673,8 +15847,8 @@
     },
     {
         "title": "Applicatieprofiel Mobiliteitsbudget",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-mobiliteitsbudget-description.md",
         "responsibleOrganisation": [
@@ -15737,8 +15911,8 @@
     },
     {
         "title": "Vocabularium Mobiliteitsbudget",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-mobiliteitsbudget-description.md",
         "responsibleOrganisation": [
@@ -15801,8 +15975,8 @@
     },
     {
         "title": "Implementatiemodel Kwaliteit Wegen en Wegmarkeringen",
-        "category": "Implementatiemodel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "template-description.md",
         "responsibleOrganisation": [
@@ -15864,8 +16038,8 @@
     },
     {
         "title": "Vocabularium Kwaliteit Wegen en Wegmarkeringen",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "template-description.md",
         "responsibleOrganisation": [
@@ -15927,8 +16101,8 @@
     },
     {
         "title": "Applicatieprofiel Slimme Raadpleegomgeving",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-slimme-raadpleegomgeving-config.md",
         "responsibleOrganisation": [
@@ -16007,8 +16181,8 @@
     },
     {
         "title": "Vocabularium Slimme Raadpleegomgeving",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-slimme-raadpleegomgeving-config.md",
         "responsibleOrganisation": [
@@ -16087,8 +16261,8 @@
     },
     {
         "title": "Applicatieprofiel Lokale Economie",
-        "category": "applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "lokale-economie-description.md",
         "responsibleOrganisation": [
@@ -16162,8 +16336,8 @@
     },
     {
         "title": "Vocabularium Lokale Economie",
-        "category": "vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "lokale-economie-description.md",
         "responsibleOrganisation": [
@@ -16237,8 +16411,8 @@
     },
     {
         "title": "Applicatieprofiel Overlijdensaangifte",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-overlijdensaangifte-config.md",
         "responsibleOrganisation": [
@@ -16313,8 +16487,8 @@
     },
     {
         "title": "Vocabularium Overlijdensaangifte",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-overlijdensaangifte-config.md",
         "responsibleOrganisation": [
@@ -16389,8 +16563,8 @@
     },
     {
         "title": "Vocabularium Gezondheidstoestand Persoon",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-gezondheidstoestand-config.md",
         "responsibleOrganisation": [
@@ -16465,8 +16639,8 @@
     },
     {
         "title": "Applicatieprofiel Dienstverlening Aan Personen",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "dienstverlening-aan-personen-description.md",
         "responsibleOrganisation": [
@@ -16537,8 +16711,8 @@
     },
     {
         "title": "Vocabularium Kindfiche",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "dienstverlening-aan-personen-description.md",
         "responsibleOrganisation": [
@@ -16609,8 +16783,8 @@
     },
     {
         "title": "Vocabularium OSLO Statistiek",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "voc-statistiek.md",
         "responsibleOrganisation": [
@@ -16656,8 +16830,8 @@
     },
     {
         "title": "Applicatieprofiel OSLO Statistiek",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "ap-statistiek.md",
         "responsibleOrganisation": [
@@ -16703,8 +16877,8 @@
     },
     {
         "title": "Vocabularium OSLO Datakwaliteit",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "voc-datakwaliteit.md",
         "responsibleOrganisation": [
@@ -16750,8 +16924,8 @@
     },
     {
         "title": "Applicatieprofiel Leerinschrijfcredential",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "leerinschrijfcredential-description.md",
         "responsibleOrganisation": [
@@ -16826,8 +17000,8 @@
     },
     {
         "title": "Applicatieprofiel OSLO Datakwaliteit",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "ap-datakwaliteit.md",
         "responsibleOrganisation": [
@@ -16873,8 +17047,8 @@
     },
     {
         "title": "Applicatieprofiel OSLO Waterkwaliteit",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "ap-waterkwaliteit.md",
         "responsibleOrganisation": [
@@ -16952,8 +17126,8 @@
     },
     {
         "title": "Vocabularium OSLO Waterkwaliteit",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "voc-waterkwaliteit.md",
         "responsibleOrganisation": [
@@ -17031,8 +17205,8 @@
     },
     {
         "title": "Applicatieprofiel Digitale Watermeter",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-digitalewatermeter-config.md",
         "responsibleOrganisation": [
@@ -17111,8 +17285,8 @@
     },
     {
         "title": "Vocabularium Nutsvoorzieningen Meters",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-digitalewatermeter-config.md",
         "responsibleOrganisation": [
@@ -17191,8 +17365,8 @@
     },
     {
         "title": "Applicatieprofiel Vrachtwagenparkeren",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (Vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "ap-vrachtwagenparkeren-config.md",
         "responsibleOrganisation": [
@@ -17246,8 +17420,8 @@
     },
     {
         "title": "Vocabularium Vrachtwagenparkeren",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (Vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "ap-vrachtwagenparkeren-config.md",
         "responsibleOrganisation": [
@@ -17301,8 +17475,84 @@
     },
     {
         "title": "Applicatieprofiel Zaalreservatie",
-        "category": "Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2025-04-17",
+        "descriptionFileName": "zaalreservatie-description.md",
+        "specificationDocuments": [
+            {
+                "name": "Applicatieprofiel Zaalreservatie",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/zaalreservatie/"
+            }
+        ],
+        "documentation": [
+            {
+                "name": "Vocabularium Zaalreservatie",
+                "resourceReference": "https://data.vlaanderen.be/ns/zaalreservatie/"
+            }
+        ],
+        "charter": {
+            "name": "Charter Zaalreservatie",
+            "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/charter/Charter%20Zaalreservatie.pdf"
+        },
+        "reports": [
+            {
+                "name": "Verslag Business Werkgroep - 14 januari 2025",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20BW%20OSLO%20Zaalreservatie.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep I - 18 februari 2025",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20TW1%20OSLO%20Zaalreservatie.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep II - 18 maart 2025",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20TW2%20OSLO%20Zaalreservatie.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep III - 22 april 2025",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20TW3%20OSLO%20Zaalreservatie.pdf"
+            }
+        ],
+        "presentations": [
+            {
+                "name": "Presentatie Business Werkgroep -  14 januari 2025",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Business%20Werkgroep%20Zaalreservatie.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep I - 18 februari 2025",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Thematische%20werkgroep%201%20OSLO%20Zaalreservatie.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep II - 18 maart 2025",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Thematische%20werkgroep%202%20OSLO%20Zaalreservatie.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep III - 22 april 2025",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Thematische%20werkgroep%203%20OSLO%20Zaalreservatie.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep IV - 20 mei 2025",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Thematische%20werkgroep%204%20OSLO%20Zaalreservatie.pdf"
+            }
+        ],
+        "dateOfRegistration": "2025-01-09",
+        "dateOfAcknowledgementByWorkingGroup": "TBD",
+        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "datePublicReviewStart": "TBD",
+        "datePublicReviewEnd": "TBD",
+        "endOfPublicationDate": ""
+    },
+    {
+        "title": "Vocabularium Zaalreservatie",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "responsibleOrganisation": [
             {
@@ -17364,67 +17614,57 @@
         "endOfPublicationDate": ""
     },
     {
-        "title": "Vocabularium Zaalreservatie",
-        "category": "Vocabularium",
-        "usage": "Aanbevolen (vrijwillig)",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "title": "Applicatieprofiel SHOK",
+        "category": "https://data.vlaanderen.be/doc/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/doc/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/doc/concept/StandaardStatus/KandidaatStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "2025-04-17",
-        "descriptionFileName": "zaalreservatie-description.md",
-        "specificationDocuments": [
-            {
-                "name": "Applicatieprofiel Zaalreservatie",
-                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/zaalreservatie/"
-            }
-        ],
-        "documentation": [
-            {
-                "name": "Vocabularium Zaalreservatie",
-                "resourceReference": "https://data.vlaanderen.be/ns/zaalreservatie/"
-            }
-        ],
+        "publicationDate": "",
+        "descriptionFileName": "",
+        "specificationDocuments": [],
+        "documentation": [],
         "charter": {
-            "name": "Charter Zaalreservatie",
-            "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/charter/Charter%20Zaalreservatie.pdf"
+            "name": "Charter_OSLO_SHOK",
+            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/charter/Charter_OSLO_SHOK.pdf"
         },
         "reports": [
             {
-                "name": "Verslag Business Werkgroep - 14 januari 2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20BW%20OSLO%20Zaalreservatie.pdf"
+                "name": "Verslag Business werkgroep OSLO SHOK",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/reports/Verslag Business werkgroep OSLO SHOK.pdf"
             },
             {
-                "name": "Verslag Thematische Werkgroep I - 18 februari 2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20TW1%20OSLO%20Zaalreservatie.pdf"
+                "name": "Verslag Thematische Werkgroep 1 - OSLO SHOK",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/reports/Verslag Thematische Werkgroep 1 - OSLO SHOK.pdf"
             },
             {
-                "name": "Verslag Thematische Werkgroep II - 18 maart 2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20TW2%20OSLO%20Zaalreservatie.pdf"
+                "name": "OSLO SHOK - Verslag Thematische werkgroep 2",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/reports/OSLO SHOK - Verslag Thematische werkgroep 2.pdf"
             }
         ],
         "presentations": [
             {
-                "name": "Presentatie Business Werkgroep -  14 januari 2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Business%20Werkgroep%20Zaalreservatie.pdf"
+                "name": "Business Werkgroep presentatie OSLO SHOK",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/presentations/Business Werkgroep presentatie OSLO SHOK.pdf"
             },
             {
-                "name": "Presentatie Thematische Werkgroep I - 18 februari 2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Thematische%20werkgroep%201%20OSLO%20Zaalreservatie.pdf"
+                "name": "Presentatie thematische werkgroep 1 - OSLO SHOK",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/presentations/Presentatie thematische werkgroep 1 - OSLO SHOK.pdf"
             },
             {
-                "name": "Presentatie Thematische Werkgroep II - 18 maart 2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Thematische%20werkgroep%202%20OSLO%20Zaalreservatie.pdf"
+                "name": "Presentatie thematische werkgroep 2 OSLO SHOK",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/presentations/Presentatie thematische werkgroep 2 OSLO SHOK.pdf"
             }
         ],
-        "dateOfRegistration": "2025-01-09",
+        "dateOfRegistration": "",
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
-        "datePublicReviewStart": "TBD",
-        "datePublicReviewEnd": "TBD",
+        "datePublicReviewStart": "",
+        "datePublicReviewEnd": "",
         "endOfPublicationDate": ""
     }
 ]
