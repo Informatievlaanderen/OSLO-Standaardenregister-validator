@@ -1,9 +1,9 @@
 [
     {
         "title": "Applicatieprofiel Energiemanagementsysteem",
-        "category": "Applicatieprofiel",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -54,7 +54,7 @@
         "title": "Applicatieprofiel Thermografische Gebouwanalyse",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -72,7 +72,7 @@
         "documentation": [
             {
                 "name": "Vocabularium Thermografische Gebouwanalyse",
-                "resourceReference": "https://data.vlaanderen.be/doc/vocabularium/thermografische-gebouwanalyse"
+                "resourceReference": "https://data.vlaanderen.be/ns/thermografische-gebouwanalyse"
             }
         ],
         "charter": [
@@ -101,11 +101,11 @@
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/presentations/ThermAI%20Business%20Werkgroep%20(1).pdf"
             },
             {
-                "name": "Presentatie Business Werkgroep 1 - 18-03-2025",
+                "name": "Presentatie Thematische Werkgroep 1 - 18-03-2025",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/presentations/Thematische%20werkgroep%201%20-%20ThermAI.pdf"
             },
             {
-                "name": "Presentatie Business Werkgroep 2 - 15-04-2025",
+                "name": "Presentatie Thematische Werkgroep 2 - 15-04-2025",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/presentations/Thematische%20werkgroep%202%20-%20ThermAI.pdf"
             }
         ],
@@ -120,7 +120,7 @@
         "title": "Vocabularium Thermografische Gebouwanalyse",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -201,7 +201,12 @@
                 "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen"
             }
         ],
-        "documentation": [],
+        "documentation": [
+            {
+                "name": "Vocabularium Leermiddelen",
+                "resourceReference": "https://data.vlaanderen.be/ns/leermiddelen"
+            }
+        ],
         "charter": {},
         "reports": [
             {
@@ -219,6 +224,10 @@
             {
                 "name": "Verslag Thematische Werkgroep 3 - 17-01-2025",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/reports/Verslag Thematische Werkgroep 3 - OSLO Leermiddelen.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 4 - 26-03-2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/reports/Verslag Thematische Werkgroep 4 - OSLO Leermiddelen.pdf"
             }
         ],
         "presentations": [
@@ -237,6 +246,10 @@
             {
                 "name": "Presentatie Thematische Werkgroep 3 - 17-01-2025",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/presentations/Presentatie thematische werkgroep 3 - Leermiddelen.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 4 - 26-03-2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/presentations/Presentatie thematische werkgroep 4 - Leermiddelen.pdf"
             }
         ],
         "dateOfRegistration": "",
@@ -262,10 +275,15 @@
         "specificationDocuments": [
             {
                 "name": "Vocabularium Leermiddelen",
+                "resourceReference": "https://data.vlaanderen.be/ns/leermiddelen"
+            }
+        ],
+        "documentation": [
+            {
+                "name": "Applicatieprofiel Leermiddelen",
                 "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen"
             }
         ],
-        "documentation": [],
         "charter": {},
         "reports": [
             {
@@ -283,6 +301,10 @@
             {
                 "name": "Verslag Thematische Werkgroep 3 - 17-01-2025",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/reports/Verslag Thematische Werkgroep 3 - OSLO Leermiddelen.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 4 - 26-03-2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/reports/Verslag Thematische Werkgroep 4 - OSLO Leermiddelen.pdf"
             }
         ],
         "presentations": [
@@ -301,6 +323,10 @@
             {
                 "name": "Presentatie Thematische Werkgroep 3 - 17-01-2025",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/presentations/Presentatie thematische werkgroep 3 - Leermiddelen.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 4 - 26-03-2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/presentations/Presentatie thematische werkgroep 4 - Leermiddelen.pdf"
             }
         ],
         "dateOfRegistration": "",
@@ -313,13 +339,15 @@
     {
         "title": "Applicatieprofiel Energiehuis",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
-        "usage": "Aanbevolen (vrijwillig)",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
-        "responsibleOrganisation": {
-            "name": "Agentschap Digitaal Vlaanderen",
-            "uri": "https://data.vlaanderen.be/id/organisatie/OVO002949"
-        },
-        "publicationDate": "",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2025-05-12",
         "descriptionFileName": "energiehuis-description.md",
         "specificationDocuments": [
             {
@@ -327,6 +355,10 @@
                 "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/energiehuis"
             }
         ],
+        "charter": {
+            "name": "Charter OSLO Energiehuis",
+            "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/energiehuis"
+        },
         "documentation": [
             {
                 "name": "Vocabularium Energiehuis",
@@ -348,49 +380,49 @@
         "reports": [
             {
                 "name": "Verslag business werkgroep - 11-09-2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/reports/Verslag - Business Werkgroep - Energiehuis - 20240911.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/reports/Verslag%20-%20Business%20Werkgroep%20-%20Energiehuis%20-%2020240911.pdf"
             },
             {
                 "name": "Verslag thematische werkgroep 1 - 16-10-2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/reports/Verslag - Thematische Werkgroep 1 - Energiehuis - 20241016.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/reports/Verslag%20-%20Thematische%20Werkgroep%201%20-%20Energiehuis%20-%2020241016.pdf"
             },
             {
                 "name": "Verslag thematische werkgroep 2 - 14-11-2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/reports/Verslag - Thematische Werkgroep 2 - Energiehuis - 20241114.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/reports/Verslag%20-%20Thematische%20Werkgroep%202%20-%20Energiehuis%20-%2020241114.pdf"
             },
             {
                 "name": "Verslag thematische werkgroep 3 - 09-12-2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/reports/Verslag - Thematische Werkgroep 3 - Energiehuis - 20241209.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/reports/Verslag%20-%20Thematische%20Werkgroep%203%20-%20Energiehuis%20-%2020241209.pdf"
             },
             {
                 "name": "Verslag thematische werkgroep 4 - 16-01-2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-energiehuis/blob/6b6570acc2d5ee38d9791ab79e18121d74bc4977/reports/Verslag%20-%20Thematische%20Werkgroep%204%20-%20Energiehuis%20-%2020240116.docx.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/reports/Verslag%20-%20Thematische%20Werkgroep%204%20-%20Energiehuis%20-%2020250116.pdf"
             }
         ],
         "presentations": [
             {
                 "name": "Presentatie business werkgroep - 11-09-2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie - Business Werkgroep - Energiehuis - 20240911.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie%20-%20Business%20Werkgroep%20-%20Energiehuis%20-%2020240911.pdf"
             },
             {
                 "name": "Presentatie thematische werkgroep 1 - 16-10-2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie - Thematische Werkgroep 1 - Energiehuis - 20241016.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie%20-%20Thematische%20Werkgroep%201%20-%20Energiehuis%20-%2020241016.pdf"
             },
             {
                 "name": "Presentatie thematische werkgroep 2 - 14-11-2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie - Thematische Werkgroep 2 - Energiehuis - 20241114.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie%20-%20Thematische%20Werkgroep%202%20-%20Energiehuis%20-%2020241114.pdf"
             },
             {
                 "name": "Presentatie thematische werkgroep 3 - 09-12-2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie - Thematische Werkgroep 3 - Energiehuis - 20241209.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie%20-%20Thematische%20Werkgroep%203%20-%20Energiehuis%20-%2020241209.pdf"
             },
             {
                 "name": "Presentatie thematische werkgroep 4 - 16-01-2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-energiehuis/blob/6b6570acc2d5ee38d9791ab79e18121d74bc4977/presentations/Presentatie%20thematische%20werkgroep%204%20-%20Energiehuis%20-%2020250116.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%204%20-%20Energiehuis%20-%2020250116.pdf"
             },
             {
                 "name": "Presentatie Afsluitend Webinar - 14-05-2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-energiehuis/blob/standaardenregister/presentations/Afsluitend%20webinar%20OSLO%20Energiehuis%20(1).pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie%20-%20Afsluitend%20webinar%20-%20Energiehuis%20-%2020250514.pdf"
             }
         ],
         "dateOfRegistration": "2024-05-16",
@@ -408,10 +440,10 @@
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
-                "uri": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "2025-01-09",
+        "publicationDate": "2025-05-12",
         "descriptionFileName": "energiehuis-description.md",
         "specificationDocuments": [
             {
@@ -419,6 +451,10 @@
                 "resourceReference": "https://data.vlaanderen.be/ns/energiehuis"
             }
         ],
+        "charter": {
+            "name": "Charter OSLO Energiehuis",
+            "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/energiehuis"
+        },
         "documentation": [
             {
                 "name": "Applicatieprofiel Energiehuis",
@@ -440,49 +476,49 @@
         "reports": [
             {
                 "name": "Verslag business werkgroep - 11-09-2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/reports/Verslag - Business Werkgroep - Energiehuis - 20240911.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/reports/Verslag%20-%20Business Werkgroep%20-%20Energiehuis%20-%2020240911.pdf"
             },
             {
                 "name": "Verslag thematische werkgroep 1 - 16-10-2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/reports/Verslag - Thematische Werkgroep 1 - Energiehuis - 20241016.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/reports/Verslag%20-%20Thematische%20Werkgroep%201%20-%20Energiehuis%20-%2020241016.pdf"
             },
             {
                 "name": "Verslag thematische werkgroep 2 - 14-11-2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/reports/Verslag - Thematische Werkgroep 2 - Energiehuis - 20241114.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/reports/Verslag%20-%20Thematische%20Werkgroep%202%20-%20Energiehuis%20-%2020241114.pdf"
             },
             {
                 "name": "Verslag thematische werkgroep 3 - 09-12-2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/reports/Verslag - Thematische Werkgroep 3 - Energiehuis - 20241209.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/reports/Verslag%20-%20Thematische%20Werkgroep%203%20-%20Energiehuis%20-%2020241209.pdf"
             },
             {
                 "name": "Verslag thematische werkgroep 4 - 16-01-2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-energiehuis/blob/6b6570acc2d5ee38d9791ab79e18121d74bc4977/reports/Verslag%20-%20Thematische%20Werkgroep%204%20-%20Energiehuis%20-%2020240116.docx.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/reports/Verslag%20-%20Thematische%20Werkgroep%204%20-%20Energiehuis%20-%2020250116.docx.pdf"
             }
         ],
         "presentations": [
             {
                 "name": "Presentatie business werkgroep - 11-09-2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie - Business Werkgroep - Energiehuis - 20240911.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie%20-%20Business Werkgroep%20-%20Energiehuis%20-%2020240911.pdf"
             },
             {
                 "name": "Presentatie thematische werkgroep 1 - 16-10-2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie - Thematische Werkgroep 1 - Energiehuis - 20241016.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie%20-%20Thematische%20Werkgroep%201%20-%20Energiehuis%20-%2020241016.pdf"
             },
             {
                 "name": "Presentatie thematische werkgroep 2 - 14-11-2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie - Thematische Werkgroep 2 - Energiehuis - 20241114.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie%20-%20Thematische%20Werkgroep%202%20-%20Energiehuis%20-%2020241114.pdf"
             },
             {
                 "name": "Presentatie thematische werkgroep 3 - 09-12-2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie - Thematische Werkgroep 3 - Energiehuis - 20241209.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie%20-%20Thematische%20Werkgroep%203%20-%20Energiehuis%20-%2020241209.pdf"
             },
             {
                 "name": "Presentatie thematische werkgroep 4 - 16-01-2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-energiehuis/blob/6b6570acc2d5ee38d9791ab79e18121d74bc4977/presentations/Presentatie%20thematische%20werkgroep%204%20-%20Energiehuis%20-%2020250116.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%204%20-%20Energiehuis%20-%2020250116.pdf"
             },
             {
                 "name": "Presentatie Afsluitend Webinar - 14-05-2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-energiehuis/blob/standaardenregister/presentations/Afsluitend%20webinar%20OSLO%20Energiehuis%20(1).pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-energiehuis/standaardenregister/presentations/Presentatie%20-%20Afsluitend%20webinar%20-%20Energiehuis%20-%2020250514.pdf"
             }
         ],
         "dateOfRegistration": "2024-05-16",
@@ -17508,15 +17544,15 @@
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20BW%20OSLO%20Zaalreservatie.pdf"
             },
             {
-                "name": "Verslag Thematische Werkgroep I - 18 februari 2025",
+                "name": "Verslag Thematische Werkgroep 1 - 18 februari 2025",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20TW1%20OSLO%20Zaalreservatie.pdf"
             },
             {
-                "name": "Verslag Thematische Werkgroep II - 18 maart 2025",
+                "name": "Verslag Thematische Werkgroep 2 - 18 maart 2025",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20TW2%20OSLO%20Zaalreservatie.pdf"
             },
             {
-                "name": "Verslag Thematische Werkgroep III - 22 april 2025",
+                "name": "Verslag Thematische Werkgroep 3 - 22 april 2025",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20TW3%20OSLO%20Zaalreservatie.pdf"
             }
         ],
@@ -17526,19 +17562,19 @@
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Business%20Werkgroep%20Zaalreservatie.pdf"
             },
             {
-                "name": "Presentatie Thematische Werkgroep I - 18 februari 2025",
+                "name": "Presentatie Thematische Werkgroep 1 - 18 februari 2025",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Thematische%20werkgroep%201%20OSLO%20Zaalreservatie.pdf"
             },
             {
-                "name": "Presentatie Thematische Werkgroep II - 18 maart 2025",
+                "name": "Presentatie Thematische Werkgroep 2 - 18 maart 2025",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Thematische%20werkgroep%202%20OSLO%20Zaalreservatie.pdf"
             },
             {
-                "name": "Presentatie Thematische Werkgroep III - 22 april 2025",
+                "name": "Presentatie Thematische Werkgroep 3 - 22 april 2025",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Thematische%20werkgroep%203%20OSLO%20Zaalreservatie.pdf"
             },
             {
-                "name": "Presentatie Thematische Werkgroep IV - 20 mei 2025",
+                "name": "Presentatie Thematische Werkgroep 4 - 20 mei 2025",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Thematische%20werkgroep%204%20OSLO%20Zaalreservatie.pdf"
             }
         ],
@@ -17584,11 +17620,11 @@
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20BW%20OSLO%20Zaalreservatie.pdf"
             },
             {
-                "name": "Verslag Thematische Werkgroep I - 18 februari 2025",
+                "name": "Verslag Thematische Werkgroep 1 - 18 februari 2025",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20TW1%20OSLO%20Zaalreservatie.pdf"
             },
             {
-                "name": "Verslag Thematische Werkgroep II - 18 maart 2025",
+                "name": "Verslag Thematische Werkgroep 2 - 18 maart 2025",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20TW2%20OSLO%20Zaalreservatie.pdf"
             }
         ],
@@ -17598,11 +17634,11 @@
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Business%20Werkgroep%20Zaalreservatie.pdf"
             },
             {
-                "name": "Presentatie Thematische Werkgroep I - 18 februari 2025",
+                "name": "Presentatie Thematische Werkgroep 1 - 18 februari 2025",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Thematische%20werkgroep%201%20OSLO%20Zaalreservatie.pdf"
             },
             {
-                "name": "Presentatie Thematische Werkgroep II - 18 maart 2025",
+                "name": "Presentatie Thematische Werkgroep 2 - 18 maart 2025",
                 "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Thematische%20werkgroep%202%20OSLO%20Zaalreservatie.pdf"
             }
         ],
@@ -17614,22 +17650,22 @@
         "endOfPublicationDate": ""
     },
     {
-        "title": "Applicatieprofiel SHOK",
+        "title": "Applicatieprofiel Openbare Kasten",
         "category": "https://data.vlaanderen.be/doc/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/doc/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/doc/concept/StandaardStatus/KandidaatStandaard",
+        "status": "https://data.vlaanderen.be/doc/concept/StandaardStatus/OntwerpStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "",
+        "publicationDate": "2025-05-26",
         "descriptionFileName": "",
         "specificationDocuments": [],
         "documentation": [],
         "charter": {
-            "name": "Charter_OSLO_SHOK",
+            "name": "Charter OSLO SHOK",
             "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/charter/Charter_OSLO_SHOK.pdf"
         },
         "reports": [
@@ -17638,29 +17674,83 @@
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/reports/Verslag Business werkgroep OSLO SHOK.pdf"
             },
             {
-                "name": "Verslag Thematische Werkgroep 1 - OSLO SHOK",
+                "name": "Verslag Thematische Werkgroep 1 OSLO SHOK",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/reports/Verslag Thematische Werkgroep 1 - OSLO SHOK.pdf"
             },
             {
-                "name": "OSLO SHOK - Verslag Thematische werkgroep 2",
+                "name": "Verslag Thematische werkgroep 2 OSLO SHOK",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/reports/OSLO SHOK - Verslag Thematische werkgroep 2.pdf"
             }
         ],
         "presentations": [
             {
-                "name": "Business Werkgroep presentatie OSLO SHOK",
+                "name": "Business Werkgroep Presentatie OSLO SHOK",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/presentations/Business Werkgroep presentatie OSLO SHOK.pdf"
             },
             {
-                "name": "Presentatie thematische werkgroep 1 - OSLO SHOK",
+                "name": "Presentatie Thematische Werkgroep 1 OSLO SHOK",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/presentations/Presentatie thematische werkgroep 1 - OSLO SHOK.pdf"
             },
             {
-                "name": "Presentatie thematische werkgroep 2 OSLO SHOK",
+                "name": "Presentatie Thematische Werkgroep 2 OSLO SHOK",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/presentations/Presentatie thematische werkgroep 2 OSLO SHOK.pdf"
             }
         ],
-        "dateOfRegistration": "",
+        "dateOfRegistration": "2024-12-19",
+        "dateOfAcknowledgementByWorkingGroup": "TBD",
+        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "datePublicReviewStart": "",
+        "datePublicReviewEnd": "",
+        "endOfPublicationDate": ""
+    },
+    {
+        "title": "Vocabularium Openbare Kasten",
+        "category": "https://data.vlaanderen.be/doc/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/doc/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/doc/concept/StandaardStatus/OntwerpStandaard",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2025-05-26",
+        "descriptionFileName": "",
+        "specificationDocuments": [],
+        "documentation": [],
+        "charter": {
+            "name": "Charter OSLO SHOK",
+            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/charter/Charter_OSLO_SHOK.pdf"
+        },
+        "reports": [
+            {
+                "name": "Verslag Business werkgroep OSLO SHOK",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/reports/Verslag Business werkgroep OSLO SHOK.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 1 OSLO SHOK",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/reports/Verslag Thematische Werkgroep 1 - OSLO SHOK.pdf"
+            },
+            {
+                "name": "Verslag Thematische werkgroep 2 OSLO SHOK",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/reports/OSLO SHOK - Verslag Thematische werkgroep 2.pdf"
+            }
+        ],
+        "presentations": [
+            {
+                "name": "Business Werkgroep Presentatie OSLO SHOK",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/presentations/Business Werkgroep presentatie OSLO SHOK.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 1 OSLO SHOK",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/presentations/Presentatie thematische werkgroep 1 - OSLO SHOK.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 2 OSLO SHOK",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/presentations/Presentatie thematische werkgroep 2 OSLO SHOK.pdf"
+            }
+        ],
+        "dateOfRegistration": "2024-12-19",
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "datePublicReviewStart": "",
