@@ -1,5 +1,5 @@
 title,responsibleOrganisation,publicationDate,category,descriptionFileName,specificationDocuments,documentation,charter,reports,presentations,dateOfRegistration,dateOfAcknowledgementByWorkingGroup,dateOfAcknowledgementBySteeringCommittee,datePublicReviewStart,datePublicReviewEnd,endOfPublicationDate,usage,status
-Applicatieprofiel Energiemanagementsysteem,true,true,true,true,false,false,true,true,true,true,false,false,false,false,false,true,true
+Applicatieprofiel Energiemanagementsysteem,true,true,true,true,true,false,true,true,true,true,false,false,false,false,false,true,true
 Applicatieprofiel Thermografische Gebouwanalyse,true,true,true,true,true,true,true,true,true,true,false,false,true,true,false,true,true
 Vocabularium Thermografische Gebouwanalyse,true,true,true,true,true,true,true,true,true,true,false,false,true,true,false,true,true
 Applicatieprofiel Leermiddelen,true,true,true,true,true,true,true,true,true,false,false,false,false,false,false,true,true
@@ -31,24 +31,24 @@ Applicatieprofiel Financiële Rapportering,true,true,true,true,true,true,true,tr
 Vocabularium Financiële Rapportering,true,true,true,true,true,true,true,true,true,true,true,true,false,true,false,true,true
 Applicatieprofiel Bodem,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
 Vocabularium Bodem,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
-Applicatieprofiel Bodem en Ondergrond,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
-Vocabularium Bodem en Ondergrond,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
-Applicatieprofiel Bodem en Ondergrond Observaties,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
-Vocabularium Bodem en Ondergrond Observaties,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
-Applicatieprofiel Bodem en Ondergrond Interpretaties,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
-Vocabularium Bodem en Ondergrond Interpretaties,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
-Applicatieprofiel Grondboringen,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
-Vocabularium Grondboringen,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
+Applicatieprofiel Bodem en Ondergrond,true,true,true,true,true,true,true,true,true,true,false,false,true,true,false,true,true
+Vocabularium Bodem en Ondergrond,true,true,true,true,true,true,true,true,true,true,false,false,true,true,false,true,true
+Applicatieprofiel Bodem en Ondergrond Observaties,true,true,true,true,true,true,true,true,true,true,false,false,true,true,false,true,true
+Vocabularium Bodem en Ondergrond Observaties,true,true,true,true,true,true,true,true,true,true,false,false,true,true,false,true,true
+Applicatieprofiel Bodem en Ondergrond Interpretaties,true,true,true,true,true,true,true,true,true,true,false,false,true,true,false,true,true
+Vocabularium Bodem en Ondergrond Interpretaties,true,true,true,true,true,true,true,true,true,true,false,false,true,true,false,true,true
+Applicatieprofiel Grondboringen,true,true,true,true,true,true,true,true,true,true,false,false,true,true,false,true,true
+Vocabularium Grondboringen,true,true,true,true,true,true,true,true,true,true,false,false,true,true,false,true,true
 Applicatieprofiel Grondwatermeetnet,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
 Vocabularium Grondboringen,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
-Applicatieprofiel Ruimtelijke Bereiken,true,true,true,true,true,true,true,true,true,true,true,false,false,false,false,true,true
-Vocabularium Ruimtelijke Bereiken,true,true,true,true,true,true,true,true,true,true,true,false,false,false,false,true,true
+Applicatieprofiel Ruimtelijke Bereiken,true,true,true,true,true,true,true,true,true,true,true,false,true,true,false,true,true
+Vocabularium Ruimtelijke Bereiken,true,true,true,true,true,true,true,true,true,true,true,false,true,true,false,true,true
 Applicatieprofiel Sonderingen,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
 Vocabularium Sonderingen,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
-Applicatieprofiel Sensoren en Bemonstering,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
-Vocabularium Sensoren en Bemonstering,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
-Applicatieprofiel Observaties en Metingen,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
-Vocabularium Observaties en Metingen,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
+Applicatieprofiel Sensoren en Bemonstering,true,true,true,true,true,true,true,true,true,true,true,false,true,true,false,true,true
+Vocabularium Sensoren en Bemonstering,true,true,true,true,true,true,true,true,true,true,true,false,true,true,false,true,true
+Applicatieprofiel Observaties en Metingen,true,true,true,true,true,true,true,true,true,true,true,false,true,true,false,true,true
+Vocabularium Observaties en Metingen,true,true,true,true,true,true,true,true,true,true,true,false,true,true,false,true,true
 Applicatieprofiel Cultuurparticipatie,true,true,true,true,true,true,true,true,true,true,true,true,false,false,false,true,true
 Vocabularium Cultuurparticipatie,true,true,true,true,true,true,true,true,true,true,true,true,false,false,false,true,true
 Vocabularium loongegevens,true,true,true,true,true,false,true,true,true,true,true,false,false,true,false,true,true
@@ -248,5 +248,9 @@ Applicatieprofiel Vrachtwagenparkeren,true,true,true,true,true,true,true,true,tr
 Vocabularium Vrachtwagenparkeren,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
 Applicatieprofiel Zaalreservatie,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
 Vocabularium Zaalreservatie,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
-Applicatieprofiel Openbare Kasten,true,true,true,false,false,false,true,true,true,true,false,false,false,false,false,true,true
-Vocabularium Openbare Kasten,true,true,true,false,false,false,true,true,true,true,false,false,false,false,false,true,true
+Applicatieprofiel Openbare Nutsvoorzieningkasten,true,true,true,false,true,true,true,true,true,true,false,false,false,false,false,true,true
+Vocabularium Openbare Nutsvoorzieningkasten,true,true,true,false,true,true,true,true,true,true,false,false,false,false,false,true,true
+Implementatiemodel Smart Innovation Factory,true,true,true,true,true,true,true,true,true,false,false,false,false,false,false,true,true
+Vocabularium Smart Innovation factory,true,true,true,true,true,true,true,true,true,false,false,false,false,false,false,true,true
+Applicatieprofiel rooilijnplannen,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
+Vocabularium rooilijnplannen,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true

@@ -12,7 +12,12 @@
         ],
         "publicationDate": "2025-05-14",
         "descriptionFileName": "energiemanagementsysteem-description.md",
-        "specificationDocuments": [],
+        "specificationDocuments": [
+            {
+                "name": "Applicatieprofiel Energiemanagementsysteem",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/"
+            }
+        ],
         "documentation": [],
         "charter": {},
         "reports": [
@@ -2736,7 +2741,8 @@
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-bodemEnOndergrond",
-        "datePublicReviewStart": "",
+        "datePublicReviewStart": "2024-10-01",
+        "datePublicReviewEnd": "2025-10-01",
         "endOfPublicationDate": ""
     },
     {
@@ -2836,14 +2842,15 @@
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-bodemEnOndergrond",
-        "datePublicReviewStart": "",
+        "datePublicReviewStart": "2024-10-01",
+        "datePublicReviewEnd": "2025-10-01",
         "endOfPublicationDate": ""
     },
     {
         "title": "Applicatieprofiel Bodem en Ondergrond Observaties",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "bodemEnOndergrondObservaties-ap.md",
         "responsibleOrganisation": [
             {
@@ -2940,14 +2947,15 @@
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-bodemEnOndergrond",
-        "datePublicReviewStart": "",
+        "datePublicReviewStart": "2024-10-01",
+        "datePublicReviewEnd": "2025-10-01",
         "endOfPublicationDate": ""
     },
     {
         "title": "Vocabularium Bodem en Ondergrond Observaties",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "bodemEnOndergrondObservaties-voc.md",
         "responsibleOrganisation": [
             {
@@ -3040,14 +3048,15 @@
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-bodemEnOndergrond",
-        "datePublicReviewStart": "",
+        "datePublicReviewStart": "2024-10-01",
+        "datePublicReviewEnd": "2025-10-01",
         "endOfPublicationDate": ""
     },
     {
         "title": "Applicatieprofiel Bodem en Ondergrond Interpretaties",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "bodemenondergrond.md",
         "responsibleOrganisation": [
             {
@@ -3144,14 +3153,15 @@
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-bodemEnOndergrond",
-        "datePublicReviewStart": "",
+        "datePublicReviewStart": "2024-10-01",
+        "datePublicReviewEnd": "2025-10-01",
         "endOfPublicationDate": ""
     },
     {
         "title": "Vocabularium Bodem en Ondergrond Interpretaties",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "bodemenondergrond.md",
         "responsibleOrganisation": [
             {
@@ -3244,14 +3254,15 @@
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-bodemEnOndergrond",
-        "datePublicReviewStart": "",
+        "datePublicReviewStart": "2024-10-01",
+        "datePublicReviewEnd": "2025-10-01",
         "endOfPublicationDate": ""
     },
     {
         "title": "Applicatieprofiel Grondboringen",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "grondboringen-ap.md",
         "responsibleOrganisation": [
             {
@@ -3348,14 +3359,15 @@
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-bodemEnOndergrond",
-        "datePublicReviewStart": "",
+        "datePublicReviewStart": "2024-10-01",
+        "datePublicReviewEnd": "2025-10-01",
         "endOfPublicationDate": ""
     },
     {
         "title": "Vocabularium Grondboringen",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "bodemenondergrondgrondboringen-voc.md",
         "responsibleOrganisation": [
             {
@@ -3448,7 +3460,8 @@
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-bodemEnOndergrond",
-        "datePublicReviewStart": "",
+        "datePublicReviewStart": "2024-10-01",
+        "datePublicReviewEnd": "2025-10-01",
         "endOfPublicationDate": ""
     },
     {
@@ -3791,7 +3804,7 @@
         "title": "Applicatieprofiel Ruimtelijke Bereiken",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ruimtelijkebereiken-ap.md",
         "responsibleOrganisation": [
             {
@@ -3885,17 +3898,18 @@
             }
         ],
         "dateOfRegistration": "2020-06-18",
-        "dateOfAcknowledgementByWorkingGroup": "2024-09-05",
+        "dateOfAcknowledgementByWorkingGroup": "2024-11-07",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-bodemEnOndergrond",
-        "datePublicReviewStart": "",
+        "datePublicReviewStart": "2024-10-01",
+        "datePublicReviewEnd": "2025-10-01",
         "endOfPublicationDate": ""
     },
     {
         "title": "Vocabularium Ruimtelijke Bereiken",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ruimtelijkebereiken-voc.md",
         "responsibleOrganisation": [
             {
@@ -3985,10 +3999,11 @@
             }
         ],
         "dateOfRegistration": "2020-06-18",
-        "dateOfAcknowledgementByWorkingGroup": "2024-09-05",
+        "dateOfAcknowledgementByWorkingGroup": "2024-11-07",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-bodemEnOndergrond",
-        "datePublicReviewStart": "",
+        "datePublicReviewStart": "2024-10-01",
+        "datePublicReviewEnd": "2025-10-01",
         "endOfPublicationDate": ""
     },
     {
@@ -4331,7 +4346,7 @@
         "title": "Applicatieprofiel Sensoren en Bemonstering",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "sensorenEnBemonstering-ap.md",
         "responsibleOrganisation": [
             {
@@ -4433,17 +4448,18 @@
             }
         ],
         "dateOfRegistration": "2020-06-18",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
+        "dateOfAcknowledgementByWorkingGroup": "2024-11-07",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-bodemEnOndergrond",
-        "datePublicReviewStart": "",
+        "datePublicReviewStart": "2024-10-01",
+        "datePublicReviewEnd": "2025-10-01",
         "endOfPublicationDate": ""
     },
     {
         "title": "Vocabularium Sensoren en Bemonstering",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "sensorenEnBemonstering-voc.md",
         "responsibleOrganisation": [
             {
@@ -4533,17 +4549,18 @@
             }
         ],
         "dateOfRegistration": "2020-06-18",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
+        "dateOfAcknowledgementByWorkingGroup": "2024-11-07",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-bodemEnOndergrond",
-        "datePublicReviewStart": "",
+        "datePublicReviewStart": "2024-10-01",
+        "datePublicReviewEnd": "2025-10-01",
         "endOfPublicationDate": ""
     },
     {
         "title": "Applicatieprofiel Observaties en Metingen",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "observatiesEnMetingen-ap.md",
         "responsibleOrganisation": [
             {
@@ -4637,17 +4654,18 @@
             }
         ],
         "dateOfRegistration": "2020-06-18",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
+        "dateOfAcknowledgementByWorkingGroup": "2024-11-07",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-bodemEnOndergrond",
-        "datePublicReviewStart": "",
+        "datePublicReviewStart": "2024-10-01",
+        "datePublicReviewEnd": "2025-10-01",
         "endOfPublicationDate": ""
     },
     {
         "title": "Vocabularium Observaties en Metingen",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "observatiesEnMetingen-voc.md",
         "responsibleOrganisation": [
             {
@@ -4737,10 +4755,11 @@
             }
         ],
         "dateOfRegistration": "2020-06-18",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
+        "dateOfAcknowledgementByWorkingGroup": "2024-11-07",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-bodemEnOndergrond",
-        "datePublicReviewStart": "",
+        "datePublicReviewStart": "2024-10-01",
+        "datePublicReviewEnd": "2025-10-01",
         "endOfPublicationDate": ""
     },
     {
@@ -17520,7 +17539,7 @@
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "2025-04-17",
+        "publicationDate": "2025-04-23",
         "descriptionFileName": "zaalreservatie-description.md",
         "specificationDocuments": [
             {
@@ -17596,18 +17615,18 @@
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "2025-04-17",
+        "publicationDate": "2025-04-23",
         "descriptionFileName": "zaalreservatie-description.md",
         "specificationDocuments": [
             {
-                "name": "Applicatieprofiel Zaalreservatie",
-                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/zaalreservatie/"
+                "name": "Vocabularium Zaalreservatie",
+                "resourceReference": "https://data.vlaanderen.be/ns/zaalreservatie/"
             }
         ],
         "documentation": [
             {
-                "name": "Vocabularium Zaalreservatie",
-                "resourceReference": "https://data.vlaanderen.be/ns/zaalreservatie/"
+                "name": "Applicatieprofiel Zaalreservatie",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/zaalreservatie/"
             }
         ],
         "charter": {
@@ -17650,10 +17669,10 @@
         "endOfPublicationDate": ""
     },
     {
-        "title": "Applicatieprofiel Openbare Kasten",
-        "category": "https://data.vlaanderen.be/doc/concept/StandaardType/Applicatieprofiel",
-        "usage": "https://data.vlaanderen.be/doc/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/doc/concept/StandaardStatus/OntwerpStandaard",
+        "title": "Applicatieprofiel Openbare Nutsvoorzieningkasten",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -17662,10 +17681,20 @@
         ],
         "publicationDate": "2025-05-26",
         "descriptionFileName": "",
-        "specificationDocuments": [],
-        "documentation": [],
+        "specificationDocuments": [
+            {
+                "name": "Applicatieprofiel Openbare Nutsvoorzieningkasten",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/"
+            }
+        ],
+        "documentation": [
+            {
+                "name": "Vocabularium Openbare Nutsvoorzieningkasten",
+                "resourceReference": "https://data.vlaanderen.be/ns/openbare-nutsvoorzieningkasten/"
+            }
+        ],
         "charter": {
-            "name": "Charter OSLO SHOK",
+            "name": "Charter OSLO Openbare Nutsvoorzieningkasten",
             "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/charter/Charter_OSLO_SHOK.pdf"
         },
         "reports": [
@@ -17704,10 +17733,10 @@
         "endOfPublicationDate": ""
     },
     {
-        "title": "Vocabularium Openbare Kasten",
-        "category": "https://data.vlaanderen.be/doc/concept/StandaardType/Vocabularium",
-        "usage": "https://data.vlaanderen.be/doc/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/doc/concept/StandaardStatus/OntwerpStandaard",
+        "title": "Vocabularium Openbare Nutsvoorzieningkasten",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -17716,10 +17745,20 @@
         ],
         "publicationDate": "2025-05-26",
         "descriptionFileName": "",
-        "specificationDocuments": [],
-        "documentation": [],
+        "specificationDocuments": [
+            {
+                "name": "Vocabularium Openbare Nutsvoorzieningkasten",
+                "resourceReference": "https://data.vlaanderen.be/ns/openbare-nutsvoorzieningkasten/"
+            }
+        ],
+        "documentation": [
+            {
+                "name": "Applicatieprofiel Openbare Nutsvoorzieningkasten",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/"
+            }
+        ],
         "charter": {
-            "name": "Charter OSLO SHOK",
+            "name": "Charter OSLO Openbare Nutsvoorzieningkasten",
             "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/charter/Charter_OSLO_SHOK.pdf"
         },
         "reports": [
@@ -17756,5 +17795,265 @@
         "datePublicReviewStart": "",
         "datePublicReviewEnd": "",
         "endOfPublicationDate": ""
+    },
+    {
+        "title": "Implementatiemodel Smart Innovation Factory",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2025-06-04",
+        "descriptionFileName": "SIF-description.md",
+        "specificationDocuments": [
+            {
+                "name": "Smart Innovation Factory Implementatiemodel",
+                "resourceReference": "https://data.vlaanderen.be/doc/implementatiemodel/SIF"
+            }
+        ],
+        "documentation": [
+            {
+                "name": "Vocabularium Smart Innovation Factory",
+                "resourceReference": "https://data.vlaanderen.be/ns/SIF/"
+            }
+        ],
+        "charter": [
+            {
+                "name": "Charter Smart Innovation Factory",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SmartInnovationFactory/standaardenregister/charter/Charter_OSLO_SIF.pdf"
+            }
+        ],
+        "reports": [
+            {
+                "name": "Verslag Business Werkgroep - 25 maart 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SmartInnovationFactory/standaardenregister/reports/Verslag%20BW%20OSLO%20SIF.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep I - 29 april 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SmartInnovationFactory/standaardenregister/reports/Verslag%20TW1%20OSLO%20SIF.pdf"
+            }
+        ],
+        "presentations": [
+            {
+                "name": "Presentatie Business Werkgroep -  25 maart 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SmartInnovationFactory/standaardenregister/presentations/BW%20Presentatie%20SIF.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep I - 29 april 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SmartInnovationFactory/standaardenregister/presentations/20250429_OSLOSIF_PresentatieThematischeWerkgroep1.pdf"
+            }
+        ],
+        "dateOfRegistration": "TBD",
+        "dateOfAcknowledgementByWorkingGroup": "TBD",
+        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "datePublicReviewStart": "TBD",
+        "datePublicReviewEnd": "TBD",
+        "endOfPublicationDate": "TBD"
+    },
+    {
+        "title": "Vocabularium Smart Innovation factory",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2025-06-04",
+        "descriptionFileName": "SIF-description.md",
+        "specificationDocuments": [
+            {
+                "name": "Smart Innovation Factory Implementatiemodel",
+                "resourceReference": "https://data.vlaanderen.be/doc/implementatiemodel/SIF"
+            }
+        ],
+        "documentation": [
+            {
+                "name": "Vocabularium Smart Innovation Factory",
+                "resourceReference": "https://data.vlaanderen.be/ns/SIF/"
+            }
+        ],
+        "charter": [
+            {
+                "name": "Charter Smart Innovation Factory",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SmartInnovationFactory/blob/standaardenregister/charter/Charter_OSLO_SIF.pdf"
+            }
+        ],
+        "reports": [
+            {
+                "name": "Verslag Business Werkgroep - 25 maart 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SmartInnovationFactory/standaardenregister/reports/Verslag%20BW%20OSLO%20SIF.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep I - 29 april 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SmartInnovationFactory/standaardenregister/reports/Verslag%20TW1%20OSLO%20SIF.pdf"
+            }
+        ],
+        "presentations": [
+            {
+                "name": "Presentatie Business Werkgroep -  25 maart 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SmartInnovationFactory/standaardenregister/presentations/BW%20Presentatie%20SIF.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep I - 29 april 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SmartInnovationFactory/standaardenregister/presentations/20250429_OSLOSIF_PresentatieThematischeWerkgroep1.pdf"
+            }
+        ],
+        "dateOfRegistration": "TBD",
+        "dateOfAcknowledgementByWorkingGroup": "TBD",
+        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "datePublicReviewStart": "TBD",
+        "datePublicReviewEnd": "TBD",
+        "endOfPublicationDate": "TBD"
+    },
+    {
+        "title": "Applicatieprofiel rooilijnplannen",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2025-06-05",
+        "descriptionFileName": "rooilijnplannen-description.md",
+        "specificationDocuments": [
+            {
+                "name": "Applicatieprofiel Rooilijnplannen",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/"
+            }
+        ],
+        "documentation": [
+            {
+                "name": "Vocabularium Rooilijnplannen",
+                "resourceReference": "https://data.vlaanderen.be/ns/rooilijnplannen/"
+            }
+        ],
+        "charter": {
+            "name": "Charter Rooilijnplannen",
+            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/charter/Werkgroep%20charter%20OSLO_Rooilijnplannen1%20(3).pdf"
+        },
+        "reports": [
+            {
+                "name": "Verslag Business Werkgroep - 12 december 2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/reports/Verslag%20Business%20werkgroep%20OSLO%20Rooilijnplannen.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 1 - 23 januari 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/reports/Verslag%20Thematische%20werkgroep%201%20Rooilijnen.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 2 - 20 februari 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/reports/Verslag%20TW2%20OSLO%20Rooilijnen.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 3 - 3 april 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/reports/Verslag%20TW3%20OSLO%20Rooilijnen.pdf"
+            }
+        ],
+        "presentations": [
+            {
+                "name": "Presentatie Business Werkgroep -  12 december 2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/presentations/Business%20Werkgroep%20presentatie%20Rooilijnplannen.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 1 - 23 januari 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%201%20-%20Rooilijnen.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 2 - 20 februari 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%202%20-%20Rooilijnen.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 3 - 3 april 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%203%20-%20Rooilijnen.pdf"
+            }
+        ],
+        "dateOfRegistration": "2025-01-09",
+        "dateOfAcknowledgementByWorkingGroup": "TBD",
+        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "datePublicReviewStart": "TBD",
+        "datePublicReviewEnd": "TBD",
+        "endOfPublicationDate": "TBD"
+    },
+    {
+        "title": "Vocabularium rooilijnplannen",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2025-06-05",
+        "descriptionFileName": "rooilijnplannen-description.md",
+        "specificationDocuments": [
+            {
+                "name": "Vocabularium Rooilijnplannen",
+                "resourceReference": "https://data.vlaanderen.be/ns/rooilijnplannen/"
+            }
+        ],
+        "documentation": [
+            {
+                "name": "Applicatieprofiel Rooilijnplannen",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/rooilijnplannen/"
+            }
+        ],
+        "charter": {
+            "name": "Charter Rooilijnplannen",
+            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/charter/Werkgroep%20charter%20OSLO_Rooilijnplannen1%20(3).pdf"
+        },
+        "reports": [
+            {
+                "name": "Verslag Business Werkgroep - 12 december 2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/reports/Verslag%20Business%20werkgroep%20OSLO%20Rooilijnplannen.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 1 - 23 januari 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/reports/Verslag%20Thematische%20werkgroep%201%20Rooilijnen.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 2 - 20 februari 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/reports/Verslag%20TW2%20OSLO%20Rooilijnen.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 3 - 3 april 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/reports/Verslag%20TW3%20OSLO%20Rooilijnen.pdf"
+            }
+        ],
+        "presentations": [
+            {
+                "name": "Presentatie Business Werkgroep -  12 december 2024",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/presentations/Business%20Werkgroep%20presentatie%20Rooilijnplannen.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 1 - 23 januari 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%201%20-%20Rooilijnen.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 2 - 20 februari 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%202%20-%20Rooilijnen.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 3 - 3 april 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%203%20-%20Rooilijnen.pdf"
+            }
+        ],
+        "dateOfRegistration": "2025-01-09",
+        "dateOfAcknowledgementByWorkingGroup": "TBD",
+        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "datePublicReviewStart": "TBD",
+        "datePublicReviewEnd": "TBD",
+        "endOfPublicationDate": "TBD"
     }
 ]
