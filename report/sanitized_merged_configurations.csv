@@ -1,7 +1,6 @@
 title,responsibleOrganisation,publicationDate,category,descriptionFileName,specificationDocuments,documentation,charter,reports,presentations,dateOfRegistration,dateOfAcknowledgementByWorkingGroup,dateOfAcknowledgementBySteeringCommittee,datePublicReviewStart,datePublicReviewEnd,endOfPublicationDate,usage,status
 Applicatieprofiel Energiemanagementsysteem,true,true,true,true,true,false,true,true,true,true,false,false,false,false,false,true,true
 Applicatieprofiel Thermografische Gebouwanalyse,true,true,true,true,true,true,true,true,true,true,false,false,true,true,false,true,true
-Vocabularium Thermografische Gebouwanalyse,true,true,true,true,true,true,true,true,true,true,false,false,true,true,false,true,true
 Applicatieprofiel Leermiddelen,true,true,true,true,true,true,true,true,true,false,false,false,false,false,false,true,true
 Vocabularium Leermiddelen,true,true,true,true,true,true,true,true,true,false,false,false,false,false,false,true,true
 Applicatieprofiel Energiehuis,true,true,true,true,true,true,true,true,true,true,false,false,true,true,false,true,true
@@ -16,8 +15,8 @@ Applicatieprofiel Omgevingsvergunning,true,true,true,true,true,false,true,true,t
 Vocabularium Omgevingsvergunning,true,true,true,true,true,false,true,true,true,true,true,false,false,false,false,true,true
 Applicatieprofiel Schuldbeheer,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true
 Vocabularium Schuldbeheer,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true
-Applicatieprofiel Kabels en Leidingen,true,false,true,true,true,false,true,true,true,true,false,false,false,false,false,true,true
-Vocabularium Nutsvoorzieningen,true,false,true,true,true,false,true,true,true,true,false,false,false,false,false,true,true
+Applicatieprofiel Kabels en Leidingen,true,true,true,true,true,false,true,true,true,true,false,false,false,false,false,true,true
+Vocabularium Nutsvoorzieningen,true,true,true,true,true,false,true,true,true,true,false,false,false,false,false,true,true
 Applicatieprofiel Vastgoed,true,true,true,true,true,false,true,true,true,true,false,false,false,false,false,true,true
 Vocabularium Vastgoed,true,true,true,true,true,false,true,true,true,true,false,false,false,false,false,true,true
 Applicatieprofiel Ruimtelijke Indicatoren,true,true,true,true,true,false,true,true,true,true,true,true,true,false,false,true,true
@@ -131,8 +130,8 @@ Vocabularium Cultureel Erfgoed,true,true,true,true,true,true,true,true,true,true
 Implementatiemodel Basisregistratie Cultureel Erfgoed,true,true,true,true,true,true,true,true,true,true,false,false,true,false,false,true,true
 Applicatieprofiel Besluit Mobiliteit,true,true,true,true,true,false,true,true,true,true,false,false,false,false,false,true,true
 Vocabularium Mobiliteit,true,true,true,true,true,false,true,false,true,true,false,false,false,false,false,true,true
-Applicatieprofiel Generiek basis,true,true,true,false,true,false,true,false,false,false,false,false,false,false,false,true,false
-Vocabularium Generiek,true,true,true,false,true,false,true,false,false,true,true,true,false,false,false,true,false
+Applicatieprofiel Generiek basis,true,true,true,false,true,false,true,false,false,false,false,false,false,false,false,true,true
+Vocabularium Generiek,true,true,true,false,true,false,true,false,false,true,true,true,false,false,false,true,true
 Openbaar Domein 2.0.0 - Applicatieprofiel Begraafplaatsenbeheer,true,true,true,true,true,false,true,true,true,true,true,true,false,false,false,true,true
 Openbaar Domein 2.0.0 - Applicatieprofiel Begraafplaatsen,true,true,true,true,true,false,true,true,true,true,true,true,false,false,false,true,true
 Openbaar Domein 2.0.0 - Applicatieprofiel Begroeid Voorkomen,true,true,true,true,true,false,true,true,true,true,true,true,false,false,false,true,true
@@ -154,8 +153,8 @@ Openbaar Domein 2.0.0 - Uitbreiding Terreindeel,true,true,true,true,true,false,t
 Openbaar Domein 2.0.0 - Uitbreiding Vegetatie,true,true,true,true,true,false,true,true,true,true,true,true,false,false,false,true,true
 Openbaar Domein 2.0.0 - Uitbreiding Waterdeel,true,true,true,true,true,false,true,true,true,true,true,true,false,false,false,true,true
 Openbaar Domein 2.0.0 - Uitbreiding Watervoorkomen,true,true,true,true,true,false,true,true,true,true,true,true,false,false,false,true,true
-API guidelines,true,false,true,true,false,false,true,true,true,true,false,false,false,false,false,false,true
-Conformiteitsraamwerk voor data standaarden,true,false,true,true,true,false,true,true,true,false,false,false,false,false,false,false,true
+API richtlijnen,true,true,true,true,false,true,true,true,true,true,false,false,false,false,false,true,true
+Conformiteitsraamwerk voor data standaarden,true,true,true,true,true,false,true,true,true,true,false,false,false,false,false,true,true
 Applicatieprofiel metadata DCAT,true,true,true,true,true,false,true,true,true,true,true,true,false,false,false,true,true
 Vocabularium metadata DCAT,true,true,true,true,true,false,true,true,true,true,true,true,false,false,false,true,true
 wegenenverkeer implementatiemodel AIM Object,true,true,true,true,true,false,true,true,true,true,true,true,false,false,false,true,true
@@ -219,7 +218,8 @@ Vocabularium Leercredential,true,true,true,true,true,true,true,true,true,true,fa
 Applicatieprofiel Leerprestatiecredential,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
 Applicatieprofiel Publicatie-Advertentie,true,true,true,true,true,false,true,true,true,true,true,false,false,false,false,true,true
 Vocabularium Publicatie-Advertentie,true,true,true,true,true,false,true,true,true,true,true,false,false,false,false,true,true
-Vocabularium en implementatiemodel IPDC - LPDC,true,false,true,false,true,false,true,false,false,false,false,false,false,false,false,true,true
+Implementatiemodel IPDC - LPDC,true,true,true,true,true,true,true,false,false,true,true,true,true,false,true,true,true
+Geen titel gevonden,true,true,false,true,false,false,true,false,false,true,true,true,true,true,true,false,false
 Applicatieprofiel OSLO Slimme Stadsdistributie,true,true,true,true,true,false,true,true,true,true,false,false,false,false,false,true,true
 Vocabularium OSLO Slimme Stadsdistributie,true,true,true,true,true,false,true,true,true,true,false,false,false,false,false,true,true
 Applicatieprofiel Mobiliteitsbudget,true,true,true,true,true,true,true,true,true,true,true,true,true,false,false,true,true
@@ -249,8 +249,7 @@ Vocabularium Vrachtwagenparkeren,true,true,true,true,true,true,true,true,true,tr
 Applicatieprofiel Zaalreservatie,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
 Vocabularium Zaalreservatie,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
 Applicatieprofiel Openbare Nutsvoorzieningkasten,true,true,true,false,true,true,true,true,true,true,false,false,false,false,false,true,true
-Vocabularium Openbare Nutsvoorzieningkasten,true,true,true,false,true,true,true,true,true,true,false,false,false,false,false,true,true
 Implementatiemodel Smart Innovation Factory,true,true,true,true,true,true,true,true,true,false,false,false,false,false,false,true,true
 Vocabularium Smart Innovation factory,true,true,true,true,true,true,true,true,true,false,false,false,false,false,false,true,true
-Applicatieprofiel rooilijnplannen,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
-Vocabularium rooilijnplannen,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
+Applicatieprofiel Rooilijnplannen,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
+Vocabularium Rooilijnplannen,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true

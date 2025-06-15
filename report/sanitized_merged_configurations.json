@@ -40,26 +40,6 @@
         "status": true
     },
     {
-        "title": "Vocabularium Thermografische Gebouwanalyse",
-        "responsibleOrganisation": true,
-        "publicationDate": true,
-        "category": true,
-        "descriptionFileName": true,
-        "specificationDocuments": true,
-        "documentation": true,
-        "charter": true,
-        "reports": true,
-        "presentations": true,
-        "dateOfRegistration": true,
-        "dateOfAcknowledgementByWorkingGroup": false,
-        "dateOfAcknowledgementBySteeringCommittee": false,
-        "datePublicReviewStart": true,
-        "datePublicReviewEnd": true,
-        "endOfPublicationDate": false,
-        "usage": true,
-        "status": true
-    },
-    {
         "title": "Applicatieprofiel Leermiddelen",
         "responsibleOrganisation": true,
         "publicationDate": true,
@@ -342,7 +322,7 @@
     {
         "title": "Applicatieprofiel Kabels en Leidingen",
         "responsibleOrganisation": true,
-        "publicationDate": false,
+        "publicationDate": true,
         "category": true,
         "descriptionFileName": true,
         "specificationDocuments": true,
@@ -362,7 +342,7 @@
     {
         "title": "Vocabularium Nutsvoorzieningen",
         "responsibleOrganisation": true,
-        "publicationDate": false,
+        "publicationDate": true,
         "category": true,
         "descriptionFileName": true,
         "specificationDocuments": true,
@@ -2657,7 +2637,7 @@
         "datePublicReviewEnd": false,
         "endOfPublicationDate": false,
         "usage": true,
-        "status": false
+        "status": true
     },
     {
         "title": "Vocabularium Generiek",
@@ -2677,7 +2657,7 @@
         "datePublicReviewEnd": false,
         "endOfPublicationDate": false,
         "usage": true,
-        "status": false
+        "status": true
     },
     {
         "title": "Openbaar Domein 2.0.0 - Applicatieprofiel Begraafplaatsenbeheer",
@@ -3100,12 +3080,32 @@
         "status": true
     },
     {
-        "title": "API guidelines",
+        "title": "API richtlijnen",
         "responsibleOrganisation": true,
-        "publicationDate": false,
+        "publicationDate": true,
         "category": true,
         "descriptionFileName": true,
         "specificationDocuments": false,
+        "documentation": true,
+        "charter": true,
+        "reports": true,
+        "presentations": true,
+        "dateOfRegistration": true,
+        "dateOfAcknowledgementByWorkingGroup": false,
+        "dateOfAcknowledgementBySteeringCommittee": false,
+        "datePublicReviewStart": false,
+        "datePublicReviewEnd": false,
+        "endOfPublicationDate": false,
+        "usage": true,
+        "status": true
+    },
+    {
+        "title": "Conformiteitsraamwerk voor data standaarden",
+        "responsibleOrganisation": true,
+        "publicationDate": true,
+        "category": true,
+        "descriptionFileName": true,
+        "specificationDocuments": true,
         "documentation": false,
         "charter": true,
         "reports": true,
@@ -3116,27 +3116,7 @@
         "datePublicReviewStart": false,
         "datePublicReviewEnd": false,
         "endOfPublicationDate": false,
-        "usage": false,
-        "status": true
-    },
-    {
-        "title": "Conformiteitsraamwerk voor data standaarden",
-        "responsibleOrganisation": true,
-        "publicationDate": false,
-        "category": true,
-        "descriptionFileName": true,
-        "specificationDocuments": true,
-        "documentation": false,
-        "charter": true,
-        "reports": true,
-        "presentations": true,
-        "dateOfRegistration": false,
-        "dateOfAcknowledgementByWorkingGroup": false,
-        "dateOfAcknowledgementBySteeringCommittee": false,
-        "datePublicReviewStart": false,
-        "datePublicReviewEnd": false,
-        "endOfPublicationDate": false,
-        "usage": false,
+        "usage": true,
         "status": true
     },
     {
@@ -4400,24 +4380,44 @@
         "status": true
     },
     {
-        "title": "Vocabularium en implementatiemodel IPDC - LPDC",
+        "title": "Implementatiemodel IPDC - LPDC",
         "responsibleOrganisation": true,
-        "publicationDate": false,
+        "publicationDate": true,
         "category": true,
-        "descriptionFileName": false,
+        "descriptionFileName": true,
         "specificationDocuments": true,
+        "documentation": true,
+        "charter": true,
+        "reports": false,
+        "presentations": false,
+        "dateOfRegistration": true,
+        "dateOfAcknowledgementByWorkingGroup": true,
+        "dateOfAcknowledgementBySteeringCommittee": true,
+        "datePublicReviewStart": true,
+        "datePublicReviewEnd": false,
+        "endOfPublicationDate": true,
+        "usage": true,
+        "status": true
+    },
+    {
+        "title": "Geen titel gevonden",
+        "responsibleOrganisation": true,
+        "publicationDate": true,
+        "category": false,
+        "descriptionFileName": true,
+        "specificationDocuments": false,
         "documentation": false,
         "charter": true,
         "reports": false,
         "presentations": false,
-        "dateOfRegistration": false,
-        "dateOfAcknowledgementByWorkingGroup": false,
-        "dateOfAcknowledgementBySteeringCommittee": false,
-        "datePublicReviewStart": false,
-        "datePublicReviewEnd": false,
-        "endOfPublicationDate": false,
-        "usage": true,
-        "status": true
+        "dateOfRegistration": true,
+        "dateOfAcknowledgementByWorkingGroup": true,
+        "dateOfAcknowledgementBySteeringCommittee": true,
+        "datePublicReviewStart": true,
+        "datePublicReviewEnd": true,
+        "endOfPublicationDate": true,
+        "usage": false,
+        "status": false
     },
     {
         "title": "Applicatieprofiel OSLO Slimme Stadsdistributie",
@@ -5000,26 +5000,6 @@
         "status": true
     },
     {
-        "title": "Vocabularium Openbare Nutsvoorzieningkasten",
-        "responsibleOrganisation": true,
-        "publicationDate": true,
-        "category": true,
-        "descriptionFileName": false,
-        "specificationDocuments": true,
-        "documentation": true,
-        "charter": true,
-        "reports": true,
-        "presentations": true,
-        "dateOfRegistration": true,
-        "dateOfAcknowledgementByWorkingGroup": false,
-        "dateOfAcknowledgementBySteeringCommittee": false,
-        "datePublicReviewStart": false,
-        "datePublicReviewEnd": false,
-        "endOfPublicationDate": false,
-        "usage": true,
-        "status": true
-    },
-    {
         "title": "Implementatiemodel Smart Innovation Factory",
         "responsibleOrganisation": true,
         "publicationDate": true,
@@ -5060,7 +5040,7 @@
         "status": true
     },
     {
-        "title": "Applicatieprofiel rooilijnplannen",
+        "title": "Applicatieprofiel Rooilijnplannen",
         "responsibleOrganisation": true,
         "publicationDate": true,
         "category": true,
@@ -5080,7 +5060,7 @@
         "status": true
     },
     {
-        "title": "Vocabularium rooilijnplannen",
+        "title": "Vocabularium Rooilijnplannen",
         "responsibleOrganisation": true,
         "publicationDate": true,
         "category": true,

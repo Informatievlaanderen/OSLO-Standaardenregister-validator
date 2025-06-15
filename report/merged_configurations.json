@@ -122,72 +122,6 @@
         "endOfPublicationDate": ""
     },
     {
-        "title": "Vocabularium Thermografische Gebouwanalyse",
-        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
-        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
-        "responsibleOrganisation": [
-            {
-                "name": "Agentschap Digitaal Vlaanderen",
-                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
-            }
-        ],
-        "publicationDate": "2025-05-22",
-        "descriptionFileName": "thermai-description.md",
-        "specificationDocuments": [
-            {
-                "name": "Thermografische Gebouwanalyse Vocabularium",
-                "resourceReference": "https://data.vlaanderen.be/ns/thermografische-gebouwanalyse"
-            }
-        ],
-        "documentation": [
-            {
-                "name": "Applicatieprofiel Thermografische Gebouwanalyse",
-                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse"
-            }
-        ],
-        "charter": [
-            {
-                "name": "Charter Thermografische Beeldanalyse",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/charter/Charter_OSLO_thermAI.pdf"
-            }
-        ],
-        "reports": [
-            {
-                "name": "Verslag business werkgroep - 18-02-2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/reports/Business%20werkgroep%20CoT%20ThermAI%202025-02-18.pdf"
-            },
-            {
-                "name": "Verslag Thematische Werkgroep 1 - 18-03-2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/reports/Thematische%20werkgroep%201%20-%20CoT%20ThermAI%202025-03-18.pdf"
-            },
-            {
-                "name": "Verslag Thematische Werkgroep 2 - 15-04-2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/reports/Thematische%20werkgroep%202%20-%20CoT%20ThermAI%202025-04-15.pdf"
-            }
-        ],
-        "presentations": [
-            {
-                "name": "Presentatie Business Werkgroep - 18-02-2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/presentations/ThermAI%20Business%20Werkgroep%20(1).pdf"
-            },
-            {
-                "name": "Presentatie Thematische Werkgroep 1 - 18-03-2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/presentations/Thematische%20werkgroep%201%20-%20ThermAI.pdf"
-            },
-            {
-                "name": "Presentatie Thematische Werkgroep 2 - 15-04-2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/presentations/Thematische%20werkgroep%202%20-%20ThermAI.pdf"
-            }
-        ],
-        "dateOfRegistration": "2024-12-1",
-        "dateOfAcknowledgementByWorkingGroup": "",
-        "dateOfAcknowledgementBySteeringCommittee": "",
-        "datePublicReviewStart": "2025-05-22",
-        "datePublicReviewEnd": "2025-09-11",
-        "endOfPublicationDate": ""
-    },
-    {
         "title": "Applicatieprofiel Leermiddelen",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
@@ -1295,7 +1229,7 @@
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "",
+        "publicationDate": "2023-02-17",
         "specificationDocuments": [
             {
                 "name": "Kabels en Leidingen Applicatieprofiel",
@@ -1394,7 +1328,7 @@
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "",
+        "publicationDate": "2023-02-17",
         "specificationDocuments": [
             {
                 "name": "Nutsvoorzieningen Vocabularium",
@@ -10922,7 +10856,7 @@
         "title": "Applicatieprofiel Generiek basis",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ZonderStatus",
         "descriptionFileName": "",
         "responsibleOrganisation": [
             {
@@ -10954,7 +10888,7 @@
         "title": "Vocabularium Generiek",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ZonderStatus",
         "descriptionFileName": "",
         "responsibleOrganisation": [
             {
@@ -12197,10 +12131,10 @@
         "endOfPublicationDate": ""
     },
     {
-        "title": "API guidelines",
+        "title": "API richtlijnen",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/TechnischeStandaard",
-        "usage": "TBD",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/NotaWerkgroep",
         "descriptionFileName": "api-guidelines.md",
         "responsibleOrganisation": [
             {
@@ -12208,9 +12142,14 @@
                 "resourceReference": "http://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "TBD",
+        "publicationDate": "2020-02-01",
         "specificationDocuments": [],
-        "documentation": [],
+        "documentation": [
+            {
+                "name": "Generieke Hypermedia API richtlijnen",
+                "resourceReference": "https://github.com/Informatievlaanderen/generieke-hypermedia-api"
+            }
+        ],
         "reports": [
             {
                 "name": "Thematische Werkgroep API guidelines 1 - 2020-02-18",
@@ -12238,7 +12177,7 @@
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Standaarden/standaardenregister/presentations/09062020 - API guidelines WS3.pptx"
             }
         ],
-        "dateOfRegistration": "TDB",
+        "dateOfRegistration": "2020-02-01",
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLO-Standaarden",
@@ -12247,9 +12186,9 @@
     },
     {
         "title": "Conformiteitsraamwerk voor data standaarden",
-        "category": "Standaard voor technische interoperabiliteit",
-        "usage": "TBD",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "category": "https://data.vlaanderen.be/doc/concept/StandaardType/TechnischeStandaard",
+        "usage": "https://data.vlaanderen.be/doc/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/NotaWerkgroep",
         "descriptionFileName": "conformiteitsraamwerk.md",
         "responsibleOrganisation": [
             {
@@ -12257,7 +12196,7 @@
                 "resourceReference": "http://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "TBD",
+        "publicationDate": "2020-06-07",
         "specificationDocuments": [
             {
                 "name": "Draft conformiteitsraamwerk",
@@ -12280,7 +12219,7 @@
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/presentations/20201130%20Workshop%20conformiteitsraamwerk.pdf"
             }
         ],
-        "dateOfRegistration": "TBD",
+        "dateOfRegistration": "2020-03-11",
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-metadataVoorServices",
@@ -15763,40 +15702,67 @@
         "endOfPublicationDate": ""
     },
     {
-        "title": "Vocabularium en implementatiemodel IPDC - LPDC",
-        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "title": "Implementatiemodel IPDC - LPDC",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
-        "descriptionFileName": "",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/NotaWerkgroep",
+        "descriptionFileName": "ipdc-lpdc-description.md",
         "responsibleOrganisation": [
             {
-                "name": "Agentschap Digitaal Vlaanderen",
-                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+                "name": "Agentschap Binnenlands Bestuur",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO001835"
             }
         ],
-        "publicationDate": "",
+        "publicationDate": "2024-07-04",
         "specificationDocuments": [
             {
                 "name": "Implementatiemodel IPDC - LPDC",
                 "resourceReference": "https://productencatalogus.data.vlaanderen.be/doc/implementatiemodel/ipdc-lpdc"
-            },
+            }
+        ],
+        "documentation": [
             {
                 "name": "Vocabularium IPDC - LPDC",
                 "resourceReference": "https://productencatalogus.data.vlaanderen.be/ns/ipdc-lpdc"
             }
         ],
+        "reports": [],
+        "charter": [],
+        "presentations": [],
+        "dateOfRegistration": "N.v.t.",
+        "dateOfAcknowledgementByWorkingGroup": "N.v.t.",
+        "dateOfAcknowledgementBySteeringCommittee": "N.v.t.",
+        "repository": "ipdc-lpdc",
+        "datePublicReviewStart": "N.v.t.",
+        "endOfPublicationDate": "N.v.t."
+    },
+    {
+        "title": "Geen titel gevonden",
+        "category": "TBD",
+        "usage": "TBD",
+        "status": "TBD",
+        "descriptionFileName": "Geen bestandsnaam gevonden",
+        "responsibleOrganisation": [
+            {
+                "name": "Geen naam gevonden",
+                "resourceReference": "Geen resourceReference gevonden",
+                "uri": "Geen uri gevonden",
+                "description": "Geen beschrijving gevonden"
+            }
+        ],
+        "publicationDate": "Geen publicatiedatum gevonden",
+        "specificationDocuments": [],
         "documentation": [],
         "reports": [],
-        "charter": {
-            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/ipdc-lpdc/standaardenregister/charter/"
-        },
+        "charter": {},
         "presentations": [],
-        "dateOfRegistration": "",
-        "dateOfAcknowledgementByWorkingGroup": "",
-        "dateOfAcknowledgementBySteeringCommittee": "",
-        "repository": "ipdc-lpdc",
-        "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "dateOfRegistration": "Geen datum van aanmelding gevonden",
+        "dateOfAcknowledgementByWorkingGroup": "Geen erkenning werkgroep datastandaarden gevonden",
+        "dateOfAcknowledgementBySteeringCommittee": "Geen erkenning stuurgroep gevonden",
+        "datePublicReviewStart": "Geen startdatum publieke review gevonden",
+        "datePublicReviewEnd": "Geen einddatum publieke review gevonden",
+        "endOfPublicationDate": "Geen einddatum publicatie gevonden",
+        "_path": ""
     },
     {
         "title": "Applicatieprofiel OSLO Slimme Stadsdistributie",
@@ -17555,46 +17521,46 @@
         ],
         "charter": {
             "name": "Charter Zaalreservatie",
-            "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/charter/Charter%20Zaalreservatie.pdf"
+            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-zaalreservatie/standaardenregister/charter/Charter%20Zaalreservatie.pdf"
         },
         "reports": [
             {
                 "name": "Verslag Business Werkgroep - 14 januari 2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20BW%20OSLO%20Zaalreservatie.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-zaalreservatie/standaardenregister/reports/Verslag%20BW%20OSLO%20Zaalreservatie.pdf"
             },
             {
                 "name": "Verslag Thematische Werkgroep 1 - 18 februari 2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20TW1%20OSLO%20Zaalreservatie.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-zaalreservatie/standaardenregister/reports/Verslag%20TW1%20OSLO%20Zaalreservatie.pdf"
             },
             {
                 "name": "Verslag Thematische Werkgroep 2 - 18 maart 2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20TW2%20OSLO%20Zaalreservatie.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-zaalreservatie/standaardenregister/reports/Verslag%20TW2%20OSLO%20Zaalreservatie.pdf"
             },
             {
                 "name": "Verslag Thematische Werkgroep 3 - 22 april 2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20TW3%20OSLO%20Zaalreservatie.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-zaalreservatie/standaardenregister/reports/Verslag%20TW3%20OSLO%20Zaalreservatie.pdf"
             }
         ],
         "presentations": [
             {
                 "name": "Presentatie Business Werkgroep -  14 januari 2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Business%20Werkgroep%20Zaalreservatie.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-zaalreservatie/standaardenregister/presentations/Business%20Werkgroep%20Zaalreservatie.pdf"
             },
             {
                 "name": "Presentatie Thematische Werkgroep 1 - 18 februari 2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Thematische%20werkgroep%201%20OSLO%20Zaalreservatie.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-zaalreservatie/standaardenregister/presentations/Thematische%20werkgroep%201%20OSLO%20Zaalreservatie.pdf"
             },
             {
                 "name": "Presentatie Thematische Werkgroep 2 - 18 maart 2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Thematische%20werkgroep%202%20OSLO%20Zaalreservatie.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-zaalreservatie/standaardenregister/presentations/Thematische%20werkgroep%202%20OSLO%20Zaalreservatie.pdf"
             },
             {
                 "name": "Presentatie Thematische Werkgroep 3 - 22 april 2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Thematische%20werkgroep%203%20OSLO%20Zaalreservatie.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-zaalreservatie/standaardenregister/presentations/Thematische%20werkgroep%203%20OSLO%20Zaalreservatie.pdf"
             },
             {
                 "name": "Presentatie Thematische Werkgroep 4 - 20 mei 2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Thematische%20werkgroep%204%20OSLO%20Zaalreservatie.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-zaalreservatie/standaardenregister/presentations/Thematische%20werkgroep%204%20OSLO%20Zaalreservatie.pdf"
             }
         ],
         "dateOfRegistration": "2025-01-09",
@@ -17636,29 +17602,41 @@
         "reports": [
             {
                 "name": "Verslag Business Werkgroep - 14 januari 2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20BW%20OSLO%20Zaalreservatie.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-zaalreservatie/standaardenregister/reports/Verslag%20BW%20OSLO%20Zaalreservatie.pdf"
             },
             {
                 "name": "Verslag Thematische Werkgroep 1 - 18 februari 2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20TW1%20OSLO%20Zaalreservatie.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-zaalreservatie/standaardenregister/reports/Verslag%20TW1%20OSLO%20Zaalreservatie.pdf"
             },
             {
                 "name": "Verslag Thematische Werkgroep 2 - 18 maart 2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/reports/Verslag%20TW2%20OSLO%20Zaalreservatie.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-zaalreservatie/standaardenregister/reports/Verslag%20TW2%20OSLO%20Zaalreservatie.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 3 - 22 april 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-zaalreservatie/standaardenregister/reports/Verslag%20TW3%20OSLO%20Zaalreservatie.pdf"
             }
         ],
         "presentations": [
             {
                 "name": "Presentatie Business Werkgroep -  14 januari 2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Business%20Werkgroep%20Zaalreservatie.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-zaalreservatie/standaardenregister/presentations/Business%20Werkgroep%20Zaalreservatie.pdf"
             },
             {
                 "name": "Presentatie Thematische Werkgroep 1 - 18 februari 2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Thematische%20werkgroep%201%20OSLO%20Zaalreservatie.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-zaalreservatie/standaardenregister/presentations/Thematische%20werkgroep%201%20OSLO%20Zaalreservatie.pdf"
             },
             {
                 "name": "Presentatie Thematische Werkgroep 2 - 18 maart 2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-zaalreservatie/blob/standaardenregister/presentations/Thematische%20werkgroep%202%20OSLO%20Zaalreservatie.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-zaalreservatie/standaardenregister/presentations/Thematische%20werkgroep%202%20OSLO%20Zaalreservatie.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 3 - 22 april 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-zaalreservatie/standaardenregister/presentations/Thematische%20werkgroep%203%20OSLO%20Zaalreservatie.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 4 - 20 mei 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-zaalreservatie/standaardenregister/presentations/Thematische%20werkgroep%204%20OSLO%20Zaalreservatie.pdf"
             }
         ],
         "dateOfRegistration": "2025-01-09",
@@ -17691,70 +17669,6 @@
             {
                 "name": "Vocabularium Openbare Nutsvoorzieningkasten",
                 "resourceReference": "https://data.vlaanderen.be/ns/openbare-nutsvoorzieningkasten/"
-            }
-        ],
-        "charter": {
-            "name": "Charter OSLO Openbare Nutsvoorzieningkasten",
-            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/charter/Charter_OSLO_SHOK.pdf"
-        },
-        "reports": [
-            {
-                "name": "Verslag Business werkgroep OSLO SHOK",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/reports/Verslag Business werkgroep OSLO SHOK.pdf"
-            },
-            {
-                "name": "Verslag Thematische Werkgroep 1 OSLO SHOK",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/reports/Verslag Thematische Werkgroep 1 - OSLO SHOK.pdf"
-            },
-            {
-                "name": "Verslag Thematische werkgroep 2 OSLO SHOK",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/reports/OSLO SHOK - Verslag Thematische werkgroep 2.pdf"
-            }
-        ],
-        "presentations": [
-            {
-                "name": "Business Werkgroep Presentatie OSLO SHOK",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/presentations/Business Werkgroep presentatie OSLO SHOK.pdf"
-            },
-            {
-                "name": "Presentatie Thematische Werkgroep 1 OSLO SHOK",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/presentations/Presentatie thematische werkgroep 1 - OSLO SHOK.pdf"
-            },
-            {
-                "name": "Presentatie Thematische Werkgroep 2 OSLO SHOK",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/presentations/Presentatie thematische werkgroep 2 OSLO SHOK.pdf"
-            }
-        ],
-        "dateOfRegistration": "2024-12-19",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
-        "datePublicReviewStart": "",
-        "datePublicReviewEnd": "",
-        "endOfPublicationDate": ""
-    },
-    {
-        "title": "Vocabularium Openbare Nutsvoorzieningkasten",
-        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
-        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
-        "responsibleOrganisation": [
-            {
-                "name": "Agentschap Digitaal Vlaanderen",
-                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
-            }
-        ],
-        "publicationDate": "2025-05-26",
-        "descriptionFileName": "",
-        "specificationDocuments": [
-            {
-                "name": "Vocabularium Openbare Nutsvoorzieningkasten",
-                "resourceReference": "https://data.vlaanderen.be/ns/openbare-nutsvoorzieningkasten/"
-            }
-        ],
-        "documentation": [
-            {
-                "name": "Applicatieprofiel Openbare Nutsvoorzieningkasten",
-                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/"
             }
         ],
         "charter": {
@@ -17913,7 +17827,7 @@
         "endOfPublicationDate": "TBD"
     },
     {
-        "title": "Applicatieprofiel rooilijnplannen",
+        "title": "Applicatieprofiel Rooilijnplannen",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
@@ -17985,7 +17899,7 @@
         "endOfPublicationDate": "TBD"
     },
     {
-        "title": "Vocabularium rooilijnplannen",
+        "title": "Vocabularium Rooilijnplannen",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
