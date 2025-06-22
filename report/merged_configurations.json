@@ -82,7 +82,7 @@
         ],
         "charter": [
             {
-                "name": "Charter Thermografische Beeldanalyse",
+                "name": "Charter Thermografische Gebouwanalyse",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/charter/Charter_OSLO_thermAI.pdf"
             }
         ],
@@ -98,6 +98,10 @@
             {
                 "name": "Verslag Thematische Werkgroep 2 - 15-04-2025",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/reports/Thematische%20werkgroep%202%20-%20CoT%20ThermAI%202025-04-15.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 3 - 15-05-2025",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-thermAI/blob/standaardenregister/reports/Verslag%20Thematische%20werkgroep%203%20-%20CoT%20ThermAI%202025-04-15.docx.pdf"
             }
         ],
         "presentations": [
@@ -112,6 +116,10 @@
             {
                 "name": "Presentatie Thematische Werkgroep 2 - 15-04-2025",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/presentations/Thematische%20werkgroep%202%20-%20ThermAI.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 3 - 15-05-2025",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-thermAI/blob/standaardenregister/presentations/Slides%20-%20Thematische%20werkgroep%203%20-%20ThermAI.pdf"
             }
         ],
         "dateOfRegistration": "2024-12-1",
@@ -296,7 +304,7 @@
         ],
         "charter": {
             "name": "Charter OSLO Energiehuis",
-            "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/energiehuis"
+            "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-energiehuis/blob/standaardenregister/Charter%20OSLO_Energiehuis.pdf"
         },
         "documentation": [
             {
@@ -392,7 +400,7 @@
         ],
         "charter": {
             "name": "Charter OSLO Energiehuis",
-            "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/energiehuis"
+            "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-energiehuis/blob/standaardenregister/Charter%20OSLO_Energiehuis.pdf"
         },
         "documentation": [
             {
@@ -17837,7 +17845,7 @@
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "2025-06-05",
+        "publicationDate": "2025-06-01",
         "descriptionFileName": "rooilijnplannen-description.md",
         "specificationDocuments": [
             {
@@ -17853,42 +17861,42 @@
         ],
         "charter": {
             "name": "Charter Rooilijnplannen",
-            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/charter/Werkgroep%20charter%20OSLO_Rooilijnplannen1%20(3).pdf"
+            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/standaardenregister/charter/Werkgroep%20charter%20OSLO_Rooilijnplannen1%20(3).pdf"
         },
         "reports": [
             {
                 "name": "Verslag Business Werkgroep - 12 december 2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/reports/Verslag%20Business%20werkgroep%20OSLO%20Rooilijnplannen.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/standaardenregister/reports/Verslag%20Business%20werkgroep%20OSLO%20Rooilijnplannen.pdf"
             },
             {
                 "name": "Verslag Thematische Werkgroep 1 - 23 januari 2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/reports/Verslag%20Thematische%20werkgroep%201%20Rooilijnen.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/standaardenregister/reports/Verslag%20Thematische%20werkgroep%201%20Rooilijnen.pdf"
             },
             {
                 "name": "Verslag Thematische Werkgroep 2 - 20 februari 2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/reports/Verslag%20TW2%20OSLO%20Rooilijnen.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/standaardenregister/reports/Verslag%20TW2%20OSLO%20Rooilijnen.pdf"
             },
             {
                 "name": "Verslag Thematische Werkgroep 3 - 3 april 2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/reports/Verslag%20TW3%20OSLO%20Rooilijnen.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/standaardenregister/reports/Verslag%20TW3%20OSLO%20Rooilijnen.pdf"
             }
         ],
         "presentations": [
             {
                 "name": "Presentatie Business Werkgroep -  12 december 2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/presentations/Business%20Werkgroep%20presentatie%20Rooilijnplannen.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/standaardenregister/presentations/Business%20Werkgroep%20presentatie%20Rooilijnplannen.pdf"
             },
             {
                 "name": "Presentatie Thematische Werkgroep 1 - 23 januari 2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%201%20-%20Rooilijnen.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%201%20-%20Rooilijnen.pdf"
             },
             {
                 "name": "Presentatie Thematische Werkgroep 2 - 20 februari 2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%202%20-%20Rooilijnen.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%202%20-%20Rooilijnen.pdf"
             },
             {
                 "name": "Presentatie Thematische Werkgroep 3 - 3 april 2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%203%20-%20Rooilijnen.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%203%20-%20Rooilijnen.pdf"
             }
         ],
         "dateOfRegistration": "2025-01-09",
@@ -17909,7 +17917,7 @@
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "2025-06-05",
+        "publicationDate": "2025-06-01",
         "descriptionFileName": "rooilijnplannen-description.md",
         "specificationDocuments": [
             {
@@ -17925,42 +17933,42 @@
         ],
         "charter": {
             "name": "Charter Rooilijnplannen",
-            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/charter/Werkgroep%20charter%20OSLO_Rooilijnplannen1%20(3).pdf"
+            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/standaardenregister/charter/Werkgroep%20charter%20OSLO_Rooilijnplannen1%20(3).pdf"
         },
         "reports": [
             {
                 "name": "Verslag Business Werkgroep - 12 december 2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/reports/Verslag%20Business%20werkgroep%20OSLO%20Rooilijnplannen.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/standaardenregister/reports/Verslag%20Business%20werkgroep%20OSLO%20Rooilijnplannen.pdf"
             },
             {
                 "name": "Verslag Thematische Werkgroep 1 - 23 januari 2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/reports/Verslag%20Thematische%20werkgroep%201%20Rooilijnen.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/standaardenregister/reports/Verslag%20Thematische%20werkgroep%201%20Rooilijnen.pdf"
             },
             {
                 "name": "Verslag Thematische Werkgroep 2 - 20 februari 2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/reports/Verslag%20TW2%20OSLO%20Rooilijnen.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/standaardenregister/reports/Verslag%20TW2%20OSLO%20Rooilijnen.pdf"
             },
             {
                 "name": "Verslag Thematische Werkgroep 3 - 3 april 2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/reports/Verslag%20TW3%20OSLO%20Rooilijnen.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/standaardenregister/reports/Verslag%20TW3%20OSLO%20Rooilijnen.pdf"
             }
         ],
         "presentations": [
             {
                 "name": "Presentatie Business Werkgroep -  12 december 2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/presentations/Business%20Werkgroep%20presentatie%20Rooilijnplannen.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/standaardenregister/presentations/Business%20Werkgroep%20presentatie%20Rooilijnplannen.pdf"
             },
             {
                 "name": "Presentatie Thematische Werkgroep 1 - 23 januari 2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%201%20-%20Rooilijnen.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%201%20-%20Rooilijnen.pdf"
             },
             {
                 "name": "Presentatie Thematische Werkgroep 2 - 20 februari 2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%202%20-%20Rooilijnen.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%202%20-%20Rooilijnen.pdf"
             },
             {
                 "name": "Presentatie Thematische Werkgroep 3 - 3 april 2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/blob/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%203%20-%20Rooilijnen.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%203%20-%20Rooilijnen.pdf"
             }
         ],
         "dateOfRegistration": "2025-01-09",
