@@ -32,6 +32,10 @@
             {
                 "name": "Verslag Thematische Werkgroep II - 28 april 2025",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-EnergieManagementSystem/standaardenregister/reports/Thematische werkgroep 2 - EMS.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep III - 23 juni 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-EnergieManagementSystem/standaardenregister/reports/Verslag thematische werkgroep 3 - EMS.pdf"
             }
         ],
         "presentations": [
@@ -46,6 +50,10 @@
             {
                 "name": "Presentatie Thematische Werkgroep II - 28 april 2025",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-EnergieManagementSystem/standaardenregister/presentations/Thematische werkgroep 2 presentatie EMS.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep III - 23 juni 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-EnergieManagementSystem/standaardenregister/presentations/Thematische werkgroep 3 presentatie EMS.pdf"
             }
         ],
         "dateOfRegistration": "2024-12-16",
@@ -17547,6 +17555,10 @@
             {
                 "name": "Verslag Thematische Werkgroep 3 - 22 april 2025",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-zaalreservatie/standaardenregister/reports/Verslag%20TW3%20OSLO%20Zaalreservatie.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 4 - 20 mei 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-zaalreservatie/standaardenregister/reports/Verslag%20TW4%20OSLO%20Zaalreservatie.pdf"
             }
         ],
         "presentations": [
@@ -17623,6 +17635,10 @@
             {
                 "name": "Verslag Thematische Werkgroep 3 - 22 april 2025",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-zaalreservatie/standaardenregister/reports/Verslag%20TW3%20OSLO%20Zaalreservatie.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 4 - 20 mei 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-zaalreservatie/standaardenregister/reports/Verslag%20TW4%20OSLO%20Zaalreservatie.pdf"
             }
         ],
         "presentations": [
@@ -17824,6 +17840,10 @@
             {
                 "name": "Verslag Thematische Werkgroep 3 - 3 april 2025",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/standaardenregister/reports/Verslag%20TW3%20OSLO%20Rooilijnen.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 4 - 18 juni 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/standaardenregister/reports/Verslag%20TW4%20OSLO%20Rooilijnen.pdf"
             }
         ],
         "presentations": [
@@ -17842,6 +17862,10 @@
             {
                 "name": "Presentatie Thematische Werkgroep 3 - 3 april 2025",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%203%20-%20Rooilijnen.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 4 - 18 juni 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%204%20-%20Rooilijnen.pdf"
             }
         ],
         "dateOfRegistration": "2025-01-09",
@@ -17896,6 +17920,10 @@
             {
                 "name": "Verslag Thematische Werkgroep 3 - 3 april 2025",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/standaardenregister/reports/Verslag%20TW3%20OSLO%20Rooilijnen.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 4 - 18 juni 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/standaardenregister/reports/Verslag%20TW4%20OSLO%20Rooilijnen.pdf"
             }
         ],
         "presentations": [
@@ -17914,6 +17942,10 @@
             {
                 "name": "Presentatie Thematische Werkgroep 3 - 3 april 2025",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%203%20-%20Rooilijnen.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 4 - 18 juni 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-rooilijnplannen/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%204%20-%20Rooilijnen.pdf"
             }
         ],
         "dateOfRegistration": "2025-01-09",
