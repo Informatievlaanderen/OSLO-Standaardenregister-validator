@@ -82,16 +82,18 @@
                 "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/thermografische-gebouwanalyse"
             }
         ],
+        "charter": {
+            "name": "Charter Thermografische Gebouwanalyse",
+            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/charter/Charter_OSLO_thermAI.pdf"
+        },
         "documentation": [
             {
-                "name": "Vocabularium Thermografische Gebouwanalyse",
-                "resourceReference": "https://data.vlaanderen.be/ns/thermografische-gebouwanalyse"
-            }
-        ],
-        "charter": [
+                "name": "Modelleerrapport",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-thermAI/blob/main/resources/ModelleerrapportThermAI.pdf"
+            },
             {
-                "name": "Charter Thermografische Gebouwanalyse",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/charter/Charter_OSLO_thermAI.pdf"
+                "name": "Datavoorbeelden",
+                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-thermAI/tree/main/resources/Datavoorbeelden"
             }
         ],
         "reports": [
@@ -133,7 +135,7 @@
         "dateOfRegistration": "2024-12-1",
         "dateOfAcknowledgementByWorkingGroup": "",
         "dateOfAcknowledgementBySteeringCommittee": "",
-        "datePublicReviewStart": "2025-05-22",
+        "datePublicReviewStart": "2025-07-16",
         "datePublicReviewEnd": "2025-09-11",
         "endOfPublicationDate": ""
     },
@@ -487,14 +489,14 @@
         "title": "Vocabularium Hulp- en Dienstverlening aan Gedetineerden",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Justitie en Handhaving",
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO049152"
             }
         ],
-        "publicationDate": "2024-11-29",
+        "publicationDate": "2025-07-18",
         "descriptionFileName": "description.md",
         "specificationDocuments": [
             {
@@ -567,14 +569,14 @@
         "title": "Applicatieprofiel Hulp- en Dienstverlening aan Gedetineerden",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Justitie en Handhaving",
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO049152"
             }
         ],
-        "publicationDate": "2024-11-29",
+        "publicationDate": "2025-07-18",
         "descriptionFileName": "description.md",
         "specificationDocuments": [
             {
@@ -17776,6 +17778,10 @@
             {
                 "name": "Verslag Thematische Werkgroep 1 - 29 april 2025",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SmartInnovationFactory/standaardenregister/reports/Verslag%20TW1%20OSLO%20SIF.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 2 - 10 juni 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SmartInnovationFactory/standaardenregister/reports/20250610_OSLOSIF_VerslagThematischeWerkgroep2.pdf"
             }
         ],
         "presentations": [
@@ -17786,6 +17792,14 @@
             {
                 "name": "Presentatie Thematische Werkgroep 1 - 29 april 2025",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SmartInnovationFactory/standaardenregister/presentations/20250429_OSLOSIF_PresentatieThematischeWerkgroep1.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 2 - 10 juni 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SmartInnovationFactory/standaardenregister/presentations/20250610_OSLOSIF_PresentatieThematischeWerkgroep2.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 3 - 24 juni 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SmartInnovationFactory/standaardenregister/presentations/20250624_OSLOSIF_PresentatieThematischeWerkgroep3.pdf"
             }
         ],
         "dateOfRegistration": "TBD",
