@@ -1,67 +1,31 @@
 [
     {
-        "title": "Applicatieprofiel Energiemanagementsysteem",
-        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
-        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "title": "Geen titel gevonden",
+        "category": "TBD",
+        "usage": "TBD",
+        "status": "TBD",
+        "descriptionFileName": "Geen bestandsnaam gevonden",
         "responsibleOrganisation": [
             {
-                "name": "Agentschap Digitaal Vlaanderen",
-                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+                "name": "Geen naam gevonden",
+                "resourceReference": "Geen resourceReference gevonden",
+                "uri": "Geen uri gevonden",
+                "description": "Geen beschrijving gevonden"
             }
         ],
-        "publicationDate": "2025-05-14",
-        "descriptionFileName": "energiemanagementsysteem-description.md",
-        "specificationDocuments": [
-            {
-                "name": "Applicatieprofiel Energiemanagementsysteem",
-                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/"
-            }
-        ],
+        "publicationDate": "Geen publicatiedatum gevonden",
+        "specificationDocuments": [],
         "documentation": [],
+        "reports": [],
         "charter": {},
-        "reports": [
-            {
-                "name": "Verslag Business Werkgroep - 24 februari 2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-EnergieManagementSystem/standaardenregister/reports/Verslag Business werkgroep EMS.pdf"
-            },
-            {
-                "name": "Verslag Thematische Werkgroep I - 24 maart 2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-EnergieManagementSystem/standaardenregister/reports/Verslag Thematische werkgroep 1 EMS.pdf"
-            },
-            {
-                "name": "Verslag Thematische Werkgroep II - 28 april 2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-EnergieManagementSystem/standaardenregister/reports/Thematische werkgroep 2 - EMS.pdf"
-            },
-            {
-                "name": "Verslag Thematische Werkgroep III - 23 juni 2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-EnergieManagementSystem/standaardenregister/reports/Verslag thematische werkgroep 3 - EMS.pdf"
-            }
-        ],
-        "presentations": [
-            {
-                "name": "Presentatie Business Werkgroep - 24 februari 2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-EnergieManagementSystem/standaardenregister/presentations/Business Werkgroep presentatie EMS.pdf"
-            },
-            {
-                "name": "Presentatie Thematische Werkgroep I - 24 maart 2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-EnergieManagementSystem/standaardenregister/presentations/Thematische werkgroep 1 presentatie EMS.pdf"
-            },
-            {
-                "name": "Presentatie Thematische Werkgroep II - 28 april 2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-EnergieManagementSystem/standaardenregister/presentations/Thematische werkgroep 2 presentatie EMS.pdf"
-            },
-            {
-                "name": "Presentatie Thematische Werkgroep III - 23 juni 2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-EnergieManagementSystem/standaardenregister/presentations/Thematische werkgroep 3 presentatie EMS.pdf"
-            }
-        ],
-        "dateOfRegistration": "2024-12-16",
-        "dateOfAcknowledgementByWorkingGroup": "",
-        "dateOfAcknowledgementBySteeringCommittee": "",
-        "datePublicReviewStart": "",
-        "datePublicReviewEnd": "",
-        "endOfPublicationDate": ""
+        "presentations": [],
+        "dateOfRegistration": "Geen datum van aanmelding gevonden",
+        "dateOfAcknowledgementByWorkingGroup": "Geen erkenning werkgroep datastandaarden gevonden",
+        "dateOfAcknowledgementBySteeringCommittee": "Geen erkenning stuurgroep gevonden",
+        "datePublicReviewStart": "Geen startdatum publieke review gevonden",
+        "datePublicReviewEnd": "Geen einddatum publieke review gevonden",
+        "endOfPublicationDate": "Geen einddatum publicatie gevonden",
+        "_path": ""
     },
     {
         "title": "Applicatieprofiel Thermografische Gebouwanalyse",
@@ -17588,7 +17552,7 @@
         "dateOfRegistration": "2025-01-09",
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
-        "datePublicReviewStart": "TBD",
+        "datePublicReviewStart": "2025-07-01",
         "datePublicReviewEnd": "TBD",
         "endOfPublicationDate": ""
     },
@@ -17668,7 +17632,7 @@
         "dateOfRegistration": "2025-01-09",
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
-        "datePublicReviewStart": "TBD",
+        "datePublicReviewStart": "2025-07-01",
         "datePublicReviewEnd": "TBD",
         "endOfPublicationDate": ""
     },
@@ -17782,6 +17746,10 @@
             {
                 "name": "Verslag Thematische Werkgroep 2 - 10 juni 2025",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SmartInnovationFactory/standaardenregister/reports/20250610_OSLOSIF_VerslagThematischeWerkgroep2.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 3 - 24 juni 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SmartInnovationFactory/standaardenregister/reports/20250624_OSLOVerkeersmeldingen_VerslagThematischeWerkgroep3.pdf"
             }
         ],
         "presentations": [
@@ -17802,10 +17770,10 @@
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SmartInnovationFactory/standaardenregister/presentations/20250624_OSLOSIF_PresentatieThematischeWerkgroep3.pdf"
             }
         ],
-        "dateOfRegistration": "TBD",
+        "dateOfRegistration": "2025-03-27",
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
-        "datePublicReviewStart": "TBD",
+        "datePublicReviewStart": "2025-07-29",
         "datePublicReviewEnd": "TBD",
         "endOfPublicationDate": "TBD"
     },
