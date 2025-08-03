@@ -101,7 +101,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "",
         "datePublicReviewStart": "2025-07-16",
         "datePublicReviewEnd": "2025-09-11",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend"
     },
     {
         "title": "Applicatieprofiel Leermiddelen",
@@ -178,7 +179,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "",
         "datePublicReviewStart": "",
         "datePublicReviewEnd": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend"
     },
     {
         "title": "Vocabularium Leermiddelen",
@@ -255,7 +257,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "",
         "datePublicReviewStart": "",
         "datePublicReviewEnd": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend"
     },
     {
         "title": "Applicatieprofiel Energiehuis",
@@ -351,7 +354,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2025-06-19",
         "datePublicReviewStart": "2025-02-13",
         "datePublicReviewEnd": "2025-05-12",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Energie"
     },
     {
         "title": "Vocabularium Energiehuis",
@@ -447,7 +451,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2025-06-19",
         "datePublicReviewStart": "2025-02-13",
         "datePublicReviewEnd": "2025-05-12",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Energie"
     },
     {
         "title": "Vocabularium Hulp- en Dienstverlening aan Gedetineerden",
@@ -527,7 +532,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2025-06-20",
         "datePublicReviewStart": "2025-01-09",
         "datePublicReviewEnd": "2025-04-09",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Welzijn"
     },
     {
         "title": "Applicatieprofiel Hulp- en Dienstverlening aan Gedetineerden",
@@ -607,7 +613,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2025-06-20",
         "datePublicReviewStart": "2025-01-09",
         "datePublicReviewEnd": "2025-04-09",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Welzijn"
     },
     {
         "title": "Applicatieprofiel Erosiepoel",
@@ -671,7 +678,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "",
         "datePublicReviewStart": "",
         "datePublicReviewEnd": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Vocabularium Erosiepoel",
@@ -735,7 +743,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "",
         "datePublicReviewStart": "",
         "datePublicReviewEnd": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Applicatieprofiel Mobiliteit: Intelligente Toegang",
@@ -803,7 +812,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "",
         "datePublicReviewStart": "",
         "datePublicReviewEnd": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Vocabularium Mobiliteit: Intelligente Toegang",
@@ -871,7 +881,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "",
         "datePublicReviewStart": "",
         "datePublicReviewEnd": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Applicatieprofiel Omgevingsvergunning",
@@ -946,7 +957,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-omgevingsvergunning",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Vocabularium Omgevingsvergunning",
@@ -1021,7 +1033,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-omgevingsvergunning",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Applicatieprofiel Schuldbeheer",
@@ -1109,7 +1122,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2025-04-24",
         "datePublicReviewStart": "2024-09-05",
         "datePublicReviewEnd": "2025-02-28",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Financien"
     },
     {
         "title": "Vocabularium Schuldbeheer",
@@ -1197,7 +1211,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2025-04-24",
         "datePublicReviewStart": "2024-09-05",
         "datePublicReviewEnd": "2025-02-28",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Financien"
     },
     {
         "title": "Applicatieprofiel Kabels en Leidingen",
@@ -1461,7 +1476,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-vastgoed",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Vocabularium Vastgoed",
@@ -1531,7 +1547,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-vastgoed",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Applicatieprofiel Ruimtelijke Indicatoren",
@@ -1606,7 +1623,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2024-12-05",
         "repository": "OSLOthema-slimRuimtelijkPlannen",
         "datePublicReviewStart": "2024-03-21",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Vocabularium Ruimtelijke Indicatoren",
@@ -1681,7 +1699,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2024-12-05",
         "repository": "OSLOthema-slimRuimtelijkPlannen",
         "datePublicReviewStart": "2024-03-21",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "OSLO Voorwaarden Dienstverlening",
@@ -1756,7 +1775,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-voorwaarden-dienstverlening",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Applicatieprofiel Incentiveringsplatform",
@@ -1828,7 +1848,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2024-10-03",
         "repository": "OSLOthema-incentiveringsplatform",
         "datePublicReviewStart": "2023-11-09",
-        "endOfPublicationDate": "2024-02-28"
+        "endOfPublicationDate": "2024-02-28",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Economie"
     },
     {
         "title": "Vocabularium Incentiveringsplatform",
@@ -1900,7 +1921,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2024-10-03",
         "repository": "OSLOthema-incentiveringsplatform",
         "datePublicReviewStart": "2023-11-09",
-        "endOfPublicationDate": "2024-02-28"
+        "endOfPublicationDate": "2024-02-28",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Financien"
     },
     {
         "title": "Applicatieprofiel Verkeersmetingen",
@@ -1992,7 +2014,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "17/04/2024",
         "repository": "OSLOthema-verkeersmetingen",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Vocabularium Verkeersmetingen",
@@ -2072,7 +2095,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "17/04/2024",
         "repository": "OSLOthema-verkeersmetingen",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Applicatieprofiel Financiële Rapportering",
@@ -2145,7 +2169,8 @@
         "repository": "OSLOthema-FinancieleData",
         "datePublicReviewEnd": "2023-12-26",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Financien"
     },
     {
         "title": "Vocabularium Financiële Rapportering",
@@ -2218,7 +2243,8 @@
         "repository": "OSLOthema-FinancieleData",
         "datePublicReviewEnd": "2023-12-26",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Financien"
     },
     {
         "title": "Applicatieprofiel Bodem",
@@ -2386,7 +2412,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-bodemEnOndergrond",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Vocabularium Bodem",
@@ -2554,7 +2581,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-bodemEnOndergrond",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Applicatieprofiel Bodem en Ondergrond",
@@ -2659,7 +2687,8 @@
         "repository": "OSLOthema-bodemEnOndergrond",
         "datePublicReviewStart": "2024-10-01",
         "datePublicReviewEnd": "2025-10-01",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Vocabularium Bodem en Ondergrond",
@@ -2760,7 +2789,8 @@
         "repository": "OSLOthema-bodemEnOndergrond",
         "datePublicReviewStart": "2024-10-01",
         "datePublicReviewEnd": "2025-10-01",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Applicatieprofiel Bodem en Ondergrond Observaties",
@@ -2865,7 +2895,8 @@
         "repository": "OSLOthema-bodemEnOndergrond",
         "datePublicReviewStart": "2024-10-01",
         "datePublicReviewEnd": "2025-10-01",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Vocabularium Bodem en Ondergrond Observaties",
@@ -2966,7 +2997,8 @@
         "repository": "OSLOthema-bodemEnOndergrond",
         "datePublicReviewStart": "2024-10-01",
         "datePublicReviewEnd": "2025-10-01",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Applicatieprofiel Bodem en Ondergrond Interpretaties",
@@ -3071,7 +3103,8 @@
         "repository": "OSLOthema-bodemEnOndergrond",
         "datePublicReviewStart": "2024-10-01",
         "datePublicReviewEnd": "2025-10-01",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Vocabularium Bodem en Ondergrond Interpretaties",
@@ -3172,7 +3205,8 @@
         "repository": "OSLOthema-bodemEnOndergrond",
         "datePublicReviewStart": "2024-10-01",
         "datePublicReviewEnd": "2025-10-01",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Applicatieprofiel Grondboringen",
@@ -3277,7 +3311,8 @@
         "repository": "OSLOthema-bodemEnOndergrond",
         "datePublicReviewStart": "2024-10-01",
         "datePublicReviewEnd": "2025-10-01",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Vocabularium Grondboringen",
@@ -3378,7 +3413,8 @@
         "repository": "OSLOthema-bodemEnOndergrond",
         "datePublicReviewStart": "2024-10-01",
         "datePublicReviewEnd": "2025-10-01",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Applicatieprofiel Grondwatermeetnet",
@@ -3546,7 +3582,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-bodemEnOndergrond",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Vocabularium Grondboringen",
@@ -3714,7 +3751,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-bodemEnOndergrond",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Applicatieprofiel Ruimtelijke Bereiken",
@@ -3819,7 +3857,8 @@
         "repository": "OSLOthema-bodemEnOndergrond",
         "datePublicReviewStart": "2024-10-01",
         "datePublicReviewEnd": "2025-10-01",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Vocabularium Ruimtelijke Bereiken",
@@ -3920,7 +3959,8 @@
         "repository": "OSLOthema-bodemEnOndergrond",
         "datePublicReviewStart": "2024-10-01",
         "datePublicReviewEnd": "2025-10-01",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Applicatieprofiel Sonderingen",
@@ -4088,7 +4128,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-bodemEnOndergrond",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Vocabularium Sonderingen",
@@ -4256,7 +4297,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-bodemEnOndergrond",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Applicatieprofiel Sensoren en Bemonstering",
@@ -4369,7 +4411,8 @@
         "repository": "OSLOthema-bodemEnOndergrond",
         "datePublicReviewStart": "2024-10-01",
         "datePublicReviewEnd": "2025-10-01",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Vocabularium Sensoren en Bemonstering",
@@ -4470,7 +4513,8 @@
         "repository": "OSLOthema-bodemEnOndergrond",
         "datePublicReviewStart": "2024-10-01",
         "datePublicReviewEnd": "2025-10-01",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Applicatieprofiel Observaties en Metingen",
@@ -4575,7 +4619,8 @@
         "repository": "OSLOthema-bodemEnOndergrond",
         "datePublicReviewStart": "2024-10-01",
         "datePublicReviewEnd": "2025-10-01",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Vocabularium Observaties en Metingen",
@@ -4676,7 +4721,8 @@
         "repository": "OSLOthema-bodemEnOndergrond",
         "datePublicReviewStart": "2024-10-01",
         "datePublicReviewEnd": "2025-10-01",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Applicatieprofiel Cultuurparticipatie",
@@ -4772,7 +4818,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2023-05-11",
         "repository": "OSLOthema-DoelgerichtDigitaalTransformeren",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Cultuur"
     },
     {
         "title": "Vocabularium Cultuurparticipatie",
@@ -4868,7 +4915,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2023-05-11",
         "repository": "OSLOthema-DoelgerichtDigitaalTransformeren",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Cultuur"
     },
     {
         "title": "Vocabularium loongegevens",
@@ -4936,7 +4984,8 @@
         "repository": "OSLOthema-loongegevens",
         "datePublicReviewEnd": "2022-06-18",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Financien"
     },
     {
         "title": "Applicatieprofiel loongegevens",
@@ -5004,7 +5053,8 @@
         "repository": "OSLOthema-loongegevens",
         "datePublicReviewEnd": "2022-06-18",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Financien"
     },
     {
         "title": "Vocabularium Feitelijke Verenigingen",
@@ -5083,7 +5133,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-feitelijkeVerenigingen",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Applicatieprofiel Feitelijke Verenigingen",
@@ -5162,7 +5213,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-feitelijkeVerenigingen",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Applicatieprofiel Mobiliteit: Dienstregeling en Planning Stopplaatsen",
@@ -5229,7 +5281,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2022-04-21",
         "repository": "OSLOthema-mobiliteitDienstregelingEnPlanning",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Applicatieprofiel Mobiliteit: Dienstregeling en Planning Tijdstabellen",
@@ -5296,7 +5349,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2022-04-21",
         "repository": "OSLOthema-mobiliteitDienstregelingEnPlanning",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Applicatieprofiel Mobiliteit: Dienstregeling en Planning Voertuigplanning",
@@ -5363,7 +5417,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2022-04-21",
         "repository": "OSLOthema-mobiliteitDienstregelingEnPlanning",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Vocabularium Mobiliteit: Dienstregeling en Planning",
@@ -5434,7 +5489,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2022-04-21",
         "repository": "OSLOthema-mobiliteitDienstregelingEnPlanning",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Vocabularium Persoon",
@@ -5489,7 +5545,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-07-03",
         "repository": "OSLOthema-persoon",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Applicatieprofiel Persoon basis",
@@ -5544,7 +5601,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-persoon",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Vocabularium Weg",
@@ -5607,7 +5665,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-11-27",
         "repository": "OSLOthema-weg",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Applicatieprofiel Wegenregister",
@@ -5662,7 +5721,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-weg",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Applicatieprofiel Dienst Transactiemodel",
@@ -5707,7 +5767,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2019-02-02",
         "repository": "OSLOthema-dienst",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Vocabularium Transactie",
@@ -5752,7 +5813,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2019-02-02",
         "repository": "OSLOthema-dienst",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Vocabularium Dienst",
@@ -5819,7 +5881,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-07-03",
         "repository": "OSLOthema-dienst",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Applicatieprofiel Dienstencataloog",
@@ -5886,7 +5949,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-dienst",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Applicatieprofiel Vlaamse Codex",
@@ -5941,7 +6005,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2019-02-07",
         "repository": "OSLOthema-VlaamseCodex",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Wetgeving"
     },
     {
         "title": "Vocabularium Organisatie",
@@ -6008,7 +6073,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-06-03",
         "repository": "OSLOthema-organisatie",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Applicatieprofiel Organisatie Basis",
@@ -6075,7 +6141,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-organisatie",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Applicatieprofiel Toeristische Logies Basis",
@@ -6134,7 +6201,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2019-12-05",
         "repository": "OSLOthema-logies",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Cultuur"
     },
     {
         "title": "Vocabularium Toeristische Logies",
@@ -6193,7 +6261,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2019-12-05",
         "repository": "OSLOthema-logies",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Cultuur"
     },
     {
         "title": "Applicatieprofiel Adresregister",
@@ -6230,7 +6299,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-gebouwEnAdres",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Vocabularium Adres",
@@ -6281,7 +6351,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-07-03",
         "repository": "OSLOthema-gebouwEnAdres",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Applicatieprofiel Gebouwenregister",
@@ -6318,7 +6389,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-gebouwEnAdres",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Vocabularium Gebouw",
@@ -6355,7 +6427,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-gebouwEnAdres",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Applicatieprofiel Inname openbaar domein",
@@ -6413,7 +6486,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-innameOpenbaarDomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Applicatieprofiel Notificatie Basis",
@@ -6458,7 +6532,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2019-02-02",
         "repository": "OSLOthema-notificatie",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Vocabularium Notificatie",
@@ -6503,7 +6578,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2019-02-02",
         "repository": "OSLOthema-notificatie",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Vocabularium Melding",
@@ -6548,7 +6624,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2019-02-07",
         "repository": "OSLOthema-melding",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Applicatieprofiel Issue tracking voor burgers en organisaties",
@@ -6593,7 +6670,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2019-02-07",
         "repository": "OSLOthema-melding",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Applicatieprofiel Generieke Terugmeldfaciliteit",
@@ -6638,7 +6716,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2019-02-07",
         "repository": "OSLOthema-melding",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Applicatieprofiel Dossier",
@@ -6726,7 +6805,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2023-09-25",
         "repository": "OSLOthema-dossier",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Wetgeving"
     },
     {
         "title": "Vocabularium Dossier",
@@ -6814,7 +6894,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2023-09-25",
         "repository": "OSLOthema-dossier",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Wetgeving"
     },
     {
         "title": "Applicatieprofiel Besluit Subsidies",
@@ -6909,7 +6990,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-subsidies",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Financien"
     },
     {
         "title": "Vocabularium Subsidies",
@@ -7004,7 +7086,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-subsidies",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Financien"
     },
     {
         "title": "Applicatieprofiel Mobiliteit: Trips en Aanbod",
@@ -7108,7 +7191,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-04-23",
         "repository": "OSLOthema-mobiliteit-trips-en-aanbod",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Vocabularium Mobiliteit Trips en Aanbod",
@@ -7220,7 +7304,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-04-23",
         "repository": "OSLOthema-mobiliteit-trips-en-aanbod",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Vocabularium Netwerk",
@@ -7320,7 +7405,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-04-23",
         "repository": "OSLOthema-mobiliteit-trips-en-aanbod",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Vocabularium Transportnetwerk",
@@ -7420,7 +7506,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-04-23",
         "repository": "OSLOthema-mobiliteit-trips-en-aanbod",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Applicatieprofiel DCAT-AP VL",
@@ -7493,7 +7580,8 @@
         "repository": "OSLOthema-DCATAPVlaanderen",
         "datePublicReviewEnd": "2019-05-15",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Technologie"
     },
     {
         "title": "Generieke Hypermedia API",
@@ -7557,7 +7645,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2019-02-07",
         "repository": "OSLOthema-GeneriekeHypermediaAPI",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Technologie"
     },
     {
         "title": "Vocabularium Toestemming",
@@ -7602,7 +7691,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2019-02-07",
         "repository": "OSLOthema-contactvoorkeuren",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Applicatieprofiel Contactvoorkeuren",
@@ -7647,7 +7737,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2019-02-02",
         "repository": "OSLOthema-contactvoorkeuren",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Vocabularium Perceel",
@@ -7731,7 +7822,8 @@
         "repository": "OSLOthema-perceel",
         "datePublicReviewEnd": "2020-04-15",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Applicatieprofiel Perceel",
@@ -7815,7 +7907,8 @@
         "repository": "OSLOthema-perceel",
         "datePublicReviewEnd": "2020-04-15",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Vocabularium Bedrijventerrein",
@@ -7895,7 +7988,8 @@
         "repository": "OSLOthema-perceel",
         "datePublicReviewEnd": "2020-04-15",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Applicatieprofiel Bedrijventerrein",
@@ -7975,7 +8069,8 @@
         "repository": "OSLOthema-perceel",
         "datePublicReviewEnd": "2020-04-15",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Vocabularium Mandaat",
@@ -8025,7 +8120,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-07-03",
         "repository": "OSLOthema-lokaleBesluiten",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Applicatieprofiel Mandatendatabank",
@@ -8080,7 +8176,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-07-03",
         "repository": "OSLOthema-lokaleBesluiten",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Wetgeving"
     },
     {
         "title": "Vocabularium Besluit",
@@ -8135,7 +8232,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-07-03",
         "repository": "OSLOthema-lokaleBesluiten",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Wetgeving"
     },
     {
         "title": "Applicatieprofiel Besluit Publicatie",
@@ -8190,7 +8288,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-07-03",
         "repository": "OSLOthema-lokaleBesluiten",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Wetgeving"
     },
     {
         "title": "Vocabularium Bestuur",
@@ -8222,7 +8321,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-07-03",
         "repository": "OSLOthema-lokaleBesluiten",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Wetgeving"
     },
     {
         "title": "Proces en methode voor de ontwikkeling en erkenning van data standaarden",
@@ -8268,7 +8368,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-05-22",
         "repository": "OSLOthema-procesEnMethode",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Technologie"
     },
     {
         "title": "Proces en methode voor de ontwikkeling en erkenning van data standaarden voor Agentschap Wegen en Verkeer",
@@ -8300,7 +8401,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-05-22",
         "repository": "OSLOthema-procesEnMethode",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Technologie"
     },
     {
         "title": "Vlaamse URI-Standaard voor Data",
@@ -8351,7 +8453,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-05-22",
         "repository": "OSLOthema-vlaamseUriStandaard",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Technologie"
     },
     {
         "title": "Vocabularium Conceptueel Gegevensmodel Openbaar Domein",
@@ -8461,7 +8564,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-11-27",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein - Uitbreiding Gebieden (Vocabularium)",
@@ -8571,7 +8675,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-11-27",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein - Uitbreiding Infrastructuurelementen (Vocabularium)",
@@ -8681,7 +8786,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-11-27",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein - Uitbreiding Vegetatie-elementen (Vocabularium)",
@@ -8791,7 +8897,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-11-27",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein - Uitbreiding Terreindelen (Vocabularium)",
@@ -8901,7 +9008,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-11-27",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein - Uitbreiding Waterdelen (Vocabularium)",
@@ -9011,7 +9119,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-11-27",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein - Uitbreiding Begraafplaats (Vocabularium)",
@@ -9121,7 +9230,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-11-27",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Applicatieprofiel Openbaar Domein",
@@ -9231,7 +9341,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-11-27",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein - Applicatieprofiel Infrastructuurelementen",
@@ -9341,7 +9452,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-11-27",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein - Applicatieprofiel Vegetatie-elementen",
@@ -9451,7 +9563,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-11-27",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein - Applicatieprofiel Terreindelen",
@@ -9561,7 +9674,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-11-27",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein - Applicatieprofiel Begroeid Voorkomen",
@@ -9671,7 +9785,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-11-27",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein - Applicatieprofiel Onbegroeid Voorkomen",
@@ -9781,7 +9896,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-11-27",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein - Applicatieprofiel Waterdelen",
@@ -9891,7 +10007,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-11-27",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein - Applicatieprofiel Water voorkomen",
@@ -10001,7 +10118,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-11-27",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein - Applicatieprofiel Begraafplaatsenbeheer",
@@ -10111,7 +10229,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-11-27",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Applicatieprofiel Verkeersborden",
@@ -10165,7 +10284,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-verkeersborden",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Applicatieprofiel Besluitvorming",
@@ -10240,7 +10360,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-02-04",
         "repository": "OSLOthema-besluitvorming",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Wetgeving"
     },
     {
         "title": "Vocabularium Besluitvorming",
@@ -10315,7 +10436,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-02-04",
         "repository": "OSLOthema-besluitvorming",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Wetgeving"
     },
     {
         "title": "Applicatieprofiel Cultureel Erfgoed Event",
@@ -10419,7 +10541,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-04-22",
         "repository": "OSLOthema-cultureelErfgoed",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Cultuur"
     },
     {
         "title": "Applicatieprofiel Cultureel Erfgoed Object",
@@ -10523,7 +10646,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-04-22",
         "repository": "OSLOthema-cultureelErfgoed",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Cultuur"
     },
     {
         "title": "Vocabularium Cultureel Erfgoed",
@@ -10627,7 +10751,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-04-22",
         "repository": "OSLOthema-cultureelErfgoed",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Cultuur"
     },
     {
         "title": "Implementatiemodel Basisregistratie Cultureel Erfgoed",
@@ -10715,7 +10840,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-cultureelErfgoed",
         "datePublicReviewStart": "2025-03-27",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Cultuur"
     },
     {
         "title": "Applicatieprofiel Besluit Mobiliteit",
@@ -10782,7 +10908,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-mobiliteit",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Vocabularium Mobiliteit",
@@ -10832,7 +10959,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-mobiliteit",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Applicatieprofiel Generiek basis",
@@ -10864,7 +10992,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-generiek",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Vocabularium Generiek",
@@ -10896,7 +11025,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2018-07-03",
         "repository": "OSLOthema-generiek",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Openbaar Domein 2.0.0 - Applicatieprofiel Begraafplaatsenbeheer",
@@ -10950,7 +11080,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-11-10",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein 2.0.0 - Applicatieprofiel Begraafplaatsen",
@@ -11004,7 +11135,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-11-10",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein 2.0.0 - Applicatieprofiel Begroeid Voorkomen",
@@ -11058,7 +11190,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-11-10",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein 2.0.0 - Applicatieprofiel Gebieden",
@@ -11112,7 +11245,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-11-10",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein 2.0.0 - Applicatieprofiel Infrastructuurelementen",
@@ -11166,7 +11300,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-11-10",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein 2.0.0 - Applicatieprofiel Onbegroeid Voorkomen",
@@ -11220,7 +11355,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-11-10",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein 2.0.0 - Basisprofiel Openbaar Domein",
@@ -11274,7 +11410,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-11-10",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein 2.0.0 - Applicatieprofiel Terreindelen",
@@ -11328,7 +11465,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-11-10",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein 2.0.0 - Applicatieprofiel Vegetatie-elementen",
@@ -11382,7 +11520,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-11-10",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein 2.0.0 - Applicatieprofiel Waterdelen",
@@ -11436,7 +11575,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-11-10",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein 2.0.0 - Applicatieprofiel Watervoorkomen",
@@ -11490,7 +11630,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-11-10",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein 2.0.0",
@@ -11624,7 +11765,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-11-10",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein 2.0.0 - Uitbreiding Begraafplaats",
@@ -11678,7 +11820,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-11-10",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein 2.0.0 - Uitbreiding Begroeid Voorkomen",
@@ -11732,7 +11875,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-11-10",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein 2.0.0 - Uitbreiding Gebied",
@@ -11786,7 +11930,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-11-10",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein 2.0.0 - Uitbreiding Infrastructuur",
@@ -11840,7 +11985,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-11-10",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein 2.0.0 - Uitbreiding Onbegroeid Voorkomen",
@@ -11894,7 +12040,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-11-10",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein 2.0.0 - Uitbreiding Terreindeel",
@@ -11948,7 +12095,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-11-10",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein 2.0.0 - Uitbreiding Vegetatie",
@@ -12002,7 +12150,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-11-10",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein 2.0.0 - Uitbreiding Waterdeel",
@@ -12056,7 +12205,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-11-10",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Openbaar Domein 2.0.0 - Uitbreiding Watervoorkomen",
@@ -12110,7 +12260,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-11-10",
         "repository": "OSLOthema-openbaardomein",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "API richtlijnen",
@@ -12164,7 +12315,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLO-Standaarden",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Technologie"
     },
     {
         "title": "Conformiteitsraamwerk voor data standaarden",
@@ -12206,7 +12358,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-metadataVoorServices",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Technologie"
     },
     {
         "title": "Applicatieprofiel metadata DCAT",
@@ -12293,7 +12446,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-04-22",
         "repository": "OSLOthema-metadataVoorServices",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Technologie"
     },
     {
         "title": "Vocabularium metadata DCAT",
@@ -12380,7 +12534,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2021-04-22",
         "repository": "OSLOthema-metadataVoorServices",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "wegenenverkeer implementatiemodel AIM Object",
@@ -12422,7 +12577,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel ANPR en trajectcontrole",
@@ -12464,7 +12620,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Brandleiding",
@@ -12506,7 +12663,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Camerainstallatie",
@@ -12548,7 +12706,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Complexe datatypes",
@@ -12590,7 +12749,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Draagconstructies",
@@ -12632,7 +12792,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Dynamische borden",
@@ -12674,7 +12835,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Ecologische maatregelen",
@@ -12716,7 +12878,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Eenvoudige datatypes",
@@ -12758,7 +12921,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Elektrische componenten",
@@ -12800,7 +12964,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Fietstelinstallatie",
@@ -12842,7 +13007,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Hulpposten",
@@ -12884,7 +13050,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Inbreuken zwaar vervoer",
@@ -12926,7 +13093,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Kasten, cabines, behuizing",
@@ -12968,7 +13136,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Lijnvormige elementen",
@@ -13010,7 +13179,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Luchtkwaliteit",
@@ -13052,7 +13222,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Luidsprekers en intercom",
@@ -13094,7 +13265,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Master-implementatiemodel",
@@ -13136,7 +13308,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Meten in Vlaanderen",
@@ -13178,7 +13351,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Optisch transport netwerk",
@@ -13220,7 +13394,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Proeven en metingen",
@@ -13262,7 +13437,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Relaties",
@@ -13304,7 +13480,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Riolering",
@@ -13346,7 +13523,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Signalisatie",
@@ -13388,7 +13566,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Slagbomen en doorsteken",
@@ -13430,7 +13609,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Software en hardware",
@@ -13472,7 +13652,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Tunnelevacuatie",
@@ -13514,7 +13695,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Union datatypes",
@@ -13556,7 +13738,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Vegetatie",
@@ -13598,7 +13781,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Ventilatie",
@@ -13640,7 +13824,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Verharding en wegfundering",
@@ -13682,7 +13867,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Verkeersregelinstallatie",
@@ -13724,7 +13910,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Verlichtingsinstallatie",
@@ -13766,7 +13953,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer implementatiemodel Zone 30",
@@ -13808,7 +13996,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer vocabularium abstracten",
@@ -13850,7 +14039,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer vocabularium implementatieelementen",
@@ -13892,7 +14082,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer vocabularium installatie",
@@ -13943,7 +14134,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer vocabularium levenscyclus",
@@ -13994,7 +14186,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer vocabularium onderdeel",
@@ -14036,7 +14229,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "wegenenverkeer vocabularium proefenmeting",
@@ -14078,7 +14272,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Data standaarden wegenenverkeer",
@@ -14153,7 +14348,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2020-05-22",
         "repository": "OSLOthema-wegenenverkeer",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Technologie"
     },
     {
         "title": "Vocabularium en applicatieprofiel air and water",
@@ -14235,7 +14431,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-airandwater",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Applicatieprofiel Fietsinfrastructuur",
@@ -14315,7 +14512,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-fietsinfrastructuur",
         "datePublicReviewStart": "2023-11-09",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Vocabularium Fietsinfrastructuur",
@@ -14395,7 +14593,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-fietsinfrastructuur",
         "datePublicReviewStart": "2023-11-09",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Applicatieprofiel DCAT-AP VL 2.0",
@@ -14472,7 +14671,8 @@
         "repository": "OSLOthema-DCATAPVlaanderen",
         "datePublicReviewEnd": "2021-10-19",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Technologie"
     },
     {
         "title": "Vocabularium en applicatieprofiel OSLO Consent",
@@ -14551,7 +14751,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-consent",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Applicatieprofiel GeoDCAT-AP VL",
@@ -14635,7 +14836,8 @@
         "repository": "OSLOthema-GEODCATAPVlaanderen",
         "datePublicReviewEnd": "2022-02-28",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Technologie"
     },
     {
         "title": "Applicatieprofiel Vervoersknooppunten",
@@ -14719,7 +14921,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2022-12-01",
         "repository": "OSLOthema-hoppinPunten",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Vocabularium Vervoersknooppunten",
@@ -14803,7 +15006,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2022-12-01",
         "repository": "OSLOthema-hoppinPunten",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Applicatieprofiel LDES",
@@ -14878,7 +15082,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2022-12-01",
         "repository": "OSLOthema-ldes",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Technologie"
     },
     {
         "title": "Vocabularium LDES",
@@ -14953,7 +15158,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2022-12-01",
         "repository": "OSLOthema-ldes",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Applicatieprofiel Cultuur- en Jeugdinfrastructuur",
@@ -15033,7 +15239,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-cultuurandjeugdinfrastructuur",
         "datePublicReviewStart": "2022-06-23",
-        "endOfPublicationDate": "TBD"
+        "endOfPublicationDate": "TBD",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Cultuur"
     },
     {
         "title": "Vocabularium Cultuur- en Jeugdinfrastructuur",
@@ -15113,7 +15320,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-cultuurandjeugdinfrastructuur",
         "datePublicReviewStart": "2022-06-23",
-        "endOfPublicationDate": "TBD"
+        "endOfPublicationDate": "TBD",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Cultuur"
     },
     {
         "title": "Applicatieprofiel Bestuurlijk Sanctieregister",
@@ -15177,7 +15385,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-bestuurlijkSanctieregister",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Wetgeving"
     },
     {
         "title": "Vocabularium Bestuurlijke Sancties",
@@ -15241,7 +15450,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-bestuurlijkSanctieregister",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Wetgeving"
     },
     {
         "title": "Applicatieprofiel Passenger Transport Hubs",
@@ -15301,7 +15511,8 @@
         "repository": "OSLOthema-passengerTransportHubs",
         "datePublicReviewEnd": "2022-10-11",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Vocabularium Passenger Transport Hubs",
@@ -15361,7 +15572,8 @@
         "repository": "OSLOthema-passengerTransportHubs",
         "datePublicReviewEnd": "2022-10-11",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Vocabularium Leercredential",
@@ -15467,7 +15679,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-Leercredential",
         "datePublicReviewStart": "2024-05-16",
-        "endOfPublicationDate": "TBD"
+        "endOfPublicationDate": "TBD",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onderwijs"
     },
     {
         "title": "Applicatieprofiel Leerprestatiecredential",
@@ -15539,7 +15752,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-Leercredential",
         "datePublicReviewStart": "TBD",
-        "endOfPublicationDate": "TBD"
+        "endOfPublicationDate": "TBD",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onderwijs"
     },
     {
         "title": "Applicatieprofiel Publicatie-Advertentie",
@@ -15610,7 +15824,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-visualo",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Vocabularium Publicatie-Advertentie",
@@ -15681,7 +15896,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-visualo",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Cultuur"
     },
     {
         "title": "Implementatiemodel IPDC - LPDC",
@@ -15716,7 +15932,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "N.v.t.",
         "repository": "ipdc-lpdc",
         "datePublicReviewStart": "N.v.t.",
-        "endOfPublicationDate": "N.v.t."
+        "endOfPublicationDate": "N.v.t.",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Geen titel gevonden",
@@ -15795,7 +16012,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-slimmeStadsdistributie",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Vocabularium OSLO Slimme Stadsdistributie",
@@ -15846,7 +16064,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-slimmeStadsdistributie",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Applicatieprofiel Mobiliteitsbudget",
@@ -15910,7 +16129,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2025-02-06",
         "repository": "OSLOthema-moBurgers",
         "datePublicReviewStart": "2024-06-18",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Vocabularium Mobiliteitsbudget",
@@ -15974,7 +16194,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2025-02-06",
         "repository": "OSLOthema-moBurgers",
         "datePublicReviewStart": "2024-06-18",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Implementatiemodel Kwaliteit Wegen en Wegmarkeringen",
@@ -16037,7 +16258,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2024-12-05",
         "repository": "OSLOthema-wegenEnWegmarkeringen",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Vocabularium Kwaliteit Wegen en Wegmarkeringen",
@@ -16100,7 +16322,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2024-12-05",
         "repository": "OSLOthema-wegenEnWegmarkeringen",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Applicatieprofiel Slimme Raadpleegomgeving",
@@ -16180,7 +16403,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2024-12-05",
         "repository": "OSLOthema-slimmeRaadpleegOmgeving",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Wetgeving"
     },
     {
         "title": "Vocabularium Slimme Raadpleegomgeving",
@@ -16260,7 +16484,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2024-12-05",
         "repository": "OSLOthema-slimmeRaadpleegOmgeving",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Wetgeving"
     },
     {
         "title": "Applicatieprofiel Lokale Economie",
@@ -16335,7 +16560,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2024-12-05",
         "repository": "OSLOthema-lokaleEconomie",
         "datePublicReviewStart": "2024-03-21",
-        "endOfPublicationDate": "2024-11-06"
+        "endOfPublicationDate": "2024-11-06",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Economie"
     },
     {
         "title": "Vocabularium Lokale Economie",
@@ -16410,7 +16636,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2024-12-05",
         "repository": "OSLOthema-lokaleEconomie",
         "datePublicReviewStart": "2024-03-21",
-        "endOfPublicationDate": "2024-11-06"
+        "endOfPublicationDate": "2024-11-06",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Economie"
     },
     {
         "title": "Applicatieprofiel Overlijdensaangifte",
@@ -16486,7 +16713,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2024-12-05",
         "repository": "OSLOthema-overlijdensaangifte",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Welzijn"
     },
     {
         "title": "Vocabularium Overlijdensaangifte",
@@ -16562,7 +16790,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2024-12-05",
         "repository": "OSLOthema-overlijdensaangifte",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Welzijn"
     },
     {
         "title": "Vocabularium Gezondheidstoestand Persoon",
@@ -16638,7 +16867,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2024-12-05",
         "repository": "OSLOthema-overlijdensaangifte",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Welzijn"
     },
     {
         "title": "Applicatieprofiel Dienstverlening Aan Personen",
@@ -16710,7 +16940,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-kindFiche",
         "datePublicReviewStart": "2024-06-24",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Welzijn"
     },
     {
         "title": "Vocabularium Kindfiche",
@@ -16782,7 +17013,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-kindFiche",
         "datePublicReviewStart": "2024-06-18",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Welzijn"
     },
     {
         "title": "Vocabularium OSLO Statistiek",
@@ -16829,7 +17061,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-Waterkwaliteit",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Applicatieprofiel OSLO Statistiek",
@@ -16876,7 +17109,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-Waterkwaliteit",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Vocabularium OSLO Datakwaliteit",
@@ -16923,7 +17157,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-Waterkwaliteit",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Applicatieprofiel Leerinschrijfcredential",
@@ -16999,7 +17234,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2024-12-05",
         "repository": "OSLOthema-Leercredential",
         "datePublicReviewStart": "2024-05-16",
-        "endOfPublicationDate": "TBD"
+        "endOfPublicationDate": "TBD",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onderwijs"
     },
     {
         "title": "Applicatieprofiel OSLO Datakwaliteit",
@@ -17046,7 +17282,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-Waterkwaliteit",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Generiek"
     },
     {
         "title": "Applicatieprofiel OSLO Waterkwaliteit",
@@ -17125,7 +17362,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-Waterkwaliteit",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Vocabularium OSLO Waterkwaliteit",
@@ -17204,7 +17442,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-Waterkwaliteit",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Applicatieprofiel Digitale Watermeter",
@@ -17284,7 +17523,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2025-02-06",
         "repository": "OSLOthema-DigitaleWatermeter",
         "datePublicReviewStart": "2024-08-30",
-        "datePublicReviewEnd": "2024-12-18"
+        "datePublicReviewEnd": "2024-12-18",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Vocabularium Nutsvoorzieningen Meters",
@@ -17364,7 +17604,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "2025-02-06",
         "repository": "OSLOthema-DigitaleWatermeter",
         "datePublicReviewStart": "2024-08-30",
-        "endOfPublicationDate": "2024-12-18"
+        "endOfPublicationDate": "2024-12-18",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
     {
         "title": "Applicatieprofiel Vrachtwagenparkeren",
@@ -17419,7 +17660,8 @@
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Vocabularium Vrachtwagenparkeren",
@@ -17474,20 +17716,21 @@
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "datePublicReviewStart": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     },
     {
         "title": "Applicatieprofiel Zaalreservatie",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "2025-04-23",
+        "publicationDate": "2025-07-01",
         "descriptionFileName": "zaalreservatie-description.md",
         "specificationDocuments": [
             {
@@ -17554,20 +17797,21 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "datePublicReviewStart": "2025-07-01",
         "datePublicReviewEnd": "TBD",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend"
     },
     {
         "title": "Vocabularium Zaalreservatie",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "2025-04-23",
+        "publicationDate": "2025-07-01",
         "descriptionFileName": "zaalreservatie-description.md",
         "specificationDocuments": [
             {
@@ -17634,7 +17878,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "datePublicReviewStart": "2025-07-01",
         "datePublicReviewEnd": "TBD",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend"
     },
     {
         "title": "Applicatieprofiel Openbare Nutsvoorzieningkasten",
@@ -17706,7 +17951,8 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "datePublicReviewStart": "",
         "datePublicReviewEnd": "",
-        "endOfPublicationDate": ""
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend"
     },
     {
         "title": "Implementatiemodel Verkeersmeldingen",
@@ -17724,7 +17970,7 @@
         "specificationDocuments": [
             {
                 "name": "Implementatiemodel Verkeersmeldingen",
-                "resourceReference": "https://data.vlaanderen.be/doc/implementatiemodel/SIF"
+                "resourceReference": "https://data.vlaanderen.be/doc/implementatiemodel/verkeersmeldingen/"
             }
         ],
         "documentation": [],
@@ -17775,13 +18021,14 @@
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "datePublicReviewStart": "2025-07-29",
         "datePublicReviewEnd": "TBD",
-        "endOfPublicationDate": "TBD"
+        "endOfPublicationDate": "TBD",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend"
     },
     {
         "title": "Applicatieprofiel Rooilijnplannen",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "status": "https://data.vlaanderen.be/doc/concept/StandaardStatus/KandidaatStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -17853,15 +18100,16 @@
         "dateOfRegistration": "2025-01-09",
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
-        "datePublicReviewStart": "TBD",
-        "datePublicReviewEnd": "TBD",
-        "endOfPublicationDate": "TBD"
+        "datePublicReviewStart": "2025-07-20",
+        "datePublicReviewEnd": "2025-11-20",
+        "endOfPublicationDate": "TBD",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend"
     },
     {
         "title": "Vocabularium Rooilijnplannen",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "status": "https://data.vlaanderen.be/doc/concept/StandaardStatus/KandidaatStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -17933,8 +18181,9 @@
         "dateOfRegistration": "2025-01-09",
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
-        "datePublicReviewStart": "TBD",
-        "datePublicReviewEnd": "TBD",
-        "endOfPublicationDate": "TBD"
+        "datePublicReviewStart": "2025-07-20",
+        "datePublicReviewEnd": "2025-11-20",
+        "endOfPublicationDate": "TBD",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend"
     }
 ]

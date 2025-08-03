@@ -5033,8 +5033,8 @@
         "dateOfRegistration": true,
         "dateOfAcknowledgementByWorkingGroup": false,
         "dateOfAcknowledgementBySteeringCommittee": false,
-        "datePublicReviewStart": false,
-        "datePublicReviewEnd": false,
+        "datePublicReviewStart": true,
+        "datePublicReviewEnd": true,
         "endOfPublicationDate": false,
         "usage": true,
         "status": true
@@ -5053,8 +5053,8 @@
         "dateOfRegistration": true,
         "dateOfAcknowledgementByWorkingGroup": false,
         "dateOfAcknowledgementBySteeringCommittee": false,
-        "datePublicReviewStart": false,
-        "datePublicReviewEnd": false,
+        "datePublicReviewStart": true,
+        "datePublicReviewEnd": true,
         "endOfPublicationDate": false,
         "usage": true,
         "status": true
