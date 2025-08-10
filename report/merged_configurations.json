@@ -620,14 +620,14 @@
         "title": "Applicatieprofiel Erosiepoel",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "2024-10-07",
+        "publicationDate": "2025-07-23",
         "descriptionFileName": "description.md",
         "specificationDocuments": [
             {
@@ -675,9 +675,9 @@
         ],
         "dateOfRegistration": "",
         "dateOfAcknowledgementByWorkingGroup": "",
-        "dateOfAcknowledgementBySteeringCommittee": "",
-        "datePublicReviewStart": "",
-        "datePublicReviewEnd": "",
+        "dateOfAcknowledgementBySteeringCommittee": "2025-06-20",
+        "datePublicReviewStart": "2025-01-09",
+        "datePublicReviewEnd": "2025-04-09",
         "endOfPublicationDate": "",
         "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
@@ -685,14 +685,14 @@
         "title": "Vocabularium Erosiepoel",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "2024-10-07",
+        "publicationDate": "2025-07-23",
         "descriptionFileName": "description.md",
         "specificationDocuments": [
             {
@@ -740,9 +740,9 @@
         ],
         "dateOfRegistration": "",
         "dateOfAcknowledgementByWorkingGroup": "",
-        "dateOfAcknowledgementBySteeringCommittee": "",
-        "datePublicReviewStart": "",
-        "datePublicReviewEnd": "",
+        "dateOfAcknowledgementBySteeringCommittee": "2025-06-20",
+        "datePublicReviewStart": "2025-01-09",
+        "datePublicReviewEnd": "2025-04-09",
         "endOfPublicationDate": "",
         "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
@@ -14604,7 +14604,7 @@
         "descriptionFileName": "ap-dcat-ap-vl.md",
         "responsibleOrganisation": [
             {
-                "name": "Digitaal Vlaanderen",
+                "name": "Agentschap Digitaal Vlaanderen",
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
@@ -14762,7 +14762,7 @@
         "descriptionFileName": "ap-geodcat-ap-vl.md",
         "responsibleOrganisation": [
             {
-                "name": "Digitaal Vlaanderen",
+                "name": "Agentschap Digitaal Vlaanderen",
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
@@ -17900,12 +17900,7 @@
                 "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/openbare-nutsvoorzieningkasten/"
             }
         ],
-        "documentation": [
-            {
-                "name": "Vocabularium Openbare Nutsvoorzieningkasten",
-                "resourceReference": "https://data.vlaanderen.be/ns/openbare-nutsvoorzieningkasten/"
-            }
-        ],
+        "documentation": [],
         "charter": {
             "name": "Charter OSLO Openbare Nutsvoorzieningkasten",
             "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/charter/Charter_OSLO_SHOK.pdf"
@@ -17949,7 +17944,7 @@
         "dateOfRegistration": "2024-12-19",
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
-        "datePublicReviewStart": "",
+        "datePublicReviewStart": "2025-07-28",
         "datePublicReviewEnd": "",
         "endOfPublicationDate": "",
         "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend"
