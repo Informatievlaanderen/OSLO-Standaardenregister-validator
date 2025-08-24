@@ -178,7 +178,7 @@
         "dateOfAcknowledgementByWorkingGroup": "",
         "dateOfAcknowledgementBySteeringCommittee": "",
         "datePublicReviewStart": "2025-08-01",
-        "datePublicReviewEnd": "2025-12-19",
+        "datePublicReviewEnd": "2025-11-28",
         "endOfPublicationDate": "",
         "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend"
     },
@@ -256,7 +256,7 @@
         "dateOfAcknowledgementByWorkingGroup": "",
         "dateOfAcknowledgementBySteeringCommittee": "",
         "datePublicReviewStart": "2025-08-01",
-        "datePublicReviewEnd": "2025-12-19",
+        "datePublicReviewEnd": "2025-11-28",
         "endOfPublicationDate": "",
         "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend"
     },
@@ -18023,7 +18023,7 @@
         "title": "Applicatieprofiel Rooilijnplannen",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/doc/concept/StandaardStatus/KandidaatStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
