@@ -4954,7 +4954,7 @@
         "dateOfAcknowledgementByWorkingGroup": false,
         "dateOfAcknowledgementBySteeringCommittee": false,
         "datePublicReviewStart": true,
-        "datePublicReviewEnd": false,
+        "datePublicReviewEnd": true,
         "endOfPublicationDate": false,
         "usage": true,
         "status": true
@@ -4974,7 +4974,7 @@
         "dateOfAcknowledgementByWorkingGroup": false,
         "dateOfAcknowledgementBySteeringCommittee": false,
         "datePublicReviewStart": true,
-        "datePublicReviewEnd": false,
+        "datePublicReviewEnd": true,
         "endOfPublicationDate": false,
         "usage": true,
         "status": true
