@@ -1218,7 +1218,7 @@
         "title": "Applicatieprofiel Kabels en Leidingen",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "kabels-en-leidingen-description.md",
         "responsibleOrganisation": [
             {
@@ -1226,7 +1226,7 @@
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "2023-02-17",
+        "publicationDate": "",
         "specificationDocuments": [
             {
                 "name": "Kabels en Leidingen Applicatieprofiel",

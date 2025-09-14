@@ -322,7 +322,7 @@
     {
         "title": "Applicatieprofiel Kabels en Leidingen",
         "responsibleOrganisation": true,
-        "publicationDate": true,
+        "publicationDate": false,
         "category": true,
         "descriptionFileName": true,
         "specificationDocuments": true,
