@@ -1,31 +1,70 @@
 [
     {
-        "title": "Geen titel gevonden",
-        "category": "TBD",
-        "usage": "TBD",
-        "status": "TBD",
-        "descriptionFileName": "Geen bestandsnaam gevonden",
+        "title": "Applicatieprofiel Energiemanagementsysteem",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "responsibleOrganisation": [
             {
-                "name": "Geen naam gevonden",
-                "resourceReference": "Geen resourceReference gevonden",
-                "uri": "Geen uri gevonden",
-                "description": "Geen beschrijving gevonden"
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "Geen publicatiedatum gevonden",
-        "specificationDocuments": [],
+        "publicationDate": "2025-05-14",
+        "descriptionFileName": "energiemanagementsysteem-description.md",
+        "specificationDocuments": [
+            {
+                "name": "Applicatieprofiel Energiemanagementsysteem",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/energiemanagementsysteem/"
+            }
+        ],
         "documentation": [],
-        "reports": [],
-        "charter": {},
-        "presentations": [],
-        "dateOfRegistration": "Geen datum van aanmelding gevonden",
-        "dateOfAcknowledgementByWorkingGroup": "Geen erkenning werkgroep datastandaarden gevonden",
-        "dateOfAcknowledgementBySteeringCommittee": "Geen erkenning stuurgroep gevonden",
-        "datePublicReviewStart": "Geen startdatum publieke review gevonden",
-        "datePublicReviewEnd": "Geen einddatum publieke review gevonden",
-        "endOfPublicationDate": "Geen einddatum publicatie gevonden",
-        "_path": ""
+        "charter": {
+            "name": "Werkgroep charter OSLO Energiemanagementsysteem (EMS)",
+            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-EnergieManagementSystem/standaardenregister/charter/Werkgroep charter OSLO Energiemanagementsysteem (EMS).pdf"
+        },
+        "reports": [
+            {
+                "name": "Verslag Business Werkgroep - 24 februari 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-EnergieManagementSystem/standaardenregister/reports/Verslag Business werkgroep EMS.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep I - 24 maart 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-EnergieManagementSystem/standaardenregister/reports/Verslag Thematische werkgroep 1 EMS.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep II - 28 april 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-EnergieManagementSystem/standaardenregister/reports/Thematische werkgroep 2 - EMS.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep III - 23 juni 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-EnergieManagementSystem/standaardenregister/reports/Verslag thematische werkgroep 3 - EMS.pdf"
+            }
+        ],
+        "presentations": [
+            {
+                "name": "Presentatie Business Werkgroep - 24 februari 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-EnergieManagementSystem/standaardenregister/presentations/Business Werkgroep presentatie EMS.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep I - 24 maart 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-EnergieManagementSystem/standaardenregister/presentations/Thematische werkgroep 1 presentatie EMS.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep II - 28 april 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-EnergieManagementSystem/standaardenregister/presentations/Thematische werkgroep 2 presentatie EMS.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep III - 23 juni 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-EnergieManagementSystem/standaardenregister/presentations/Thematische werkgroep 3 presentatie EMS.pdf"
+            }
+        ],
+        "dateOfRegistration": "2024-12-16",
+        "dateOfAcknowledgementByWorkingGroup": "",
+        "dateOfAcknowledgementBySteeringCommittee": "",
+        "datePublicReviewStart": "2025-09-11",
+        "datePublicReviewEnd": "2025-11-11",
+        "endOfPublicationDate": ""
     },
     {
         "title": "Applicatieprofiel Thermografische Gebouwanalyse",
@@ -115,7 +154,7 @@
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO000049"
             }
         ],
-        "publicationDate": "2025-08-201",
+        "publicationDate": "2025-08-20",
         "descriptionFileName": "ap-leermiddelen-config.md",
         "specificationDocuments": [
             {
@@ -123,90 +162,7 @@
                 "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen"
             }
         ],
-        "documentation": [
-            {
-                "name": "Vocabularium Leermiddelen",
-                "resourceReference": "https://data.vlaanderen.be/ns/leermiddelen"
-            }
-        ],
-        "charter": {},
-        "reports": [
-            {
-                "name": "Verslag Business werkgroep - 30-09-2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/reports/Verslag Business Werkgroep Leermiddelen.pdf"
-            },
-            {
-                "name": "Verslag Thematische Werkgroep 1 - 04-11-2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/reports/Verslag Thematische Werkgroep 1 - OSLO Leermiddelen.pdf"
-            },
-            {
-                "name": "Verslag Thematische Werkgroep 2 - 19-12-2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/reports/Verslag_Thematische Werkgroep 2_OSLO Leermiddelen.pdf"
-            },
-            {
-                "name": "Verslag Thematische Werkgroep 3 - 17-01-2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/reports/Verslag Thematische Werkgroep 3 - OSLO Leermiddelen.pdf"
-            },
-            {
-                "name": "Verslag Thematische Werkgroep 4 - 26-03-2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/reports/Verslag Thematische Werkgroep 4 - OSLO Leermiddelen.pdf"
-            }
-        ],
-        "presentations": [
-            {
-                "name": "Presentatie Business werkgroep - 30-09-2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/presentations/Presentatie Business Werkgroep Leermiddelen.pdf"
-            },
-            {
-                "name": "Presentatie Thematische Werkgroep 1 - 04-11-2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/presentations/Presentatie Thematische werkgroep 1 - Leermiddelen.pdf"
-            },
-            {
-                "name": "Presentatie Thematische Werkgroep 2 - 19-12-2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/presentations/Presentatie - Thematische werkgroep 2 - Leermiddelen.pdf"
-            },
-            {
-                "name": "Presentatie Thematische Werkgroep 3 - 17-01-2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/presentations/Presentatie thematische werkgroep 3 - Leermiddelen.pdf"
-            },
-            {
-                "name": "Presentatie Thematische Werkgroep 4 - 26-03-2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/presentations/Presentatie thematische werkgroep 4 - Leermiddelen.pdf"
-            }
-        ],
-        "dateOfRegistration": "2024-05-16",
-        "dateOfAcknowledgementByWorkingGroup": "",
-        "dateOfAcknowledgementBySteeringCommittee": "",
-        "datePublicReviewStart": "2025-08-01",
-        "datePublicReviewEnd": "2025-11-28",
-        "endOfPublicationDate": "",
-        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend"
-    },
-    {
-        "title": "Vocabularium Leermiddelen",
-        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
-        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
-        "responsibleOrganisation": [
-            {
-                "name": "Departement Onderwijs en Vorming",
-                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO000049"
-            }
-        ],
-        "publicationDate": "2025-08-01",
-        "descriptionFileName": "voc-leermiddelen-config.md",
-        "specificationDocuments": [
-            {
-                "name": "Vocabularium Leermiddelen",
-                "resourceReference": "https://data.vlaanderen.be/ns/leermiddelen"
-            }
-        ],
-        "documentation": [
-            {
-                "name": "Applicatieprofiel Leermiddelen",
-                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen"
-            }
-        ],
+        "documentation": [],
         "charter": {},
         "reports": [
             {
