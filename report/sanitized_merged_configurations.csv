@@ -154,10 +154,10 @@ Openbaar Domein 2.0.0 - Uitbreiding Terreindeel,true,true,true,true,true,false,t
 Openbaar Domein 2.0.0 - Uitbreiding Vegetatie,true,true,true,true,true,false,true,true,true,true,true,true,false,false,false,true,true
 Openbaar Domein 2.0.0 - Uitbreiding Waterdeel,true,true,true,true,true,false,true,true,true,true,true,true,false,false,false,true,true
 Openbaar Domein 2.0.0 - Uitbreiding Watervoorkomen,true,true,true,true,true,false,true,true,true,true,true,true,false,false,false,true,true
-API richtlijnen,true,true,true,true,false,true,true,true,true,true,false,false,false,false,false,true,true
+Geen titel gevonden,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false
 Conformiteitsraamwerk voor data standaarden,true,true,true,true,true,false,true,true,true,true,false,false,false,false,false,true,true
-Applicatieprofiel metadata DCAT,true,true,true,true,true,false,true,true,true,true,true,true,false,false,false,true,true
-Vocabularium metadata DCAT,true,true,true,true,true,false,true,true,true,true,true,true,false,false,false,true,true
+Applicatieprofiel metadata DCAT-AP 3.0,true,true,true,true,true,false,true,true,true,true,false,false,false,false,false,true,true
+Vocabularium metadata DCAT-AP 3.0,true,true,true,true,true,false,true,true,true,true,false,false,false,false,false,true,true
 wegenenverkeer implementatiemodel AIM Object,true,true,true,true,true,false,true,true,true,true,true,true,false,false,false,true,true
 wegenenverkeer implementatiemodel ANPR en trajectcontrole,true,true,true,true,true,false,true,true,true,true,true,true,false,false,false,true,true
 wegenenverkeer implementatiemodel Brandleiding,true,true,true,true,true,false,true,true,true,true,true,true,false,false,false,true,true
@@ -249,7 +249,7 @@ Applicatieprofiel Vrachtwagenparkeren,true,true,true,true,true,true,true,true,tr
 Vocabularium Vrachtwagenparkeren,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
 Applicatieprofiel Zaalreservatie,true,true,true,true,true,true,true,true,true,true,false,false,true,true,false,true,true
 Vocabularium Zaalreservatie,true,true,true,true,true,true,true,true,true,true,false,false,true,true,false,true,true
-Applicatieprofiel Openbare Nutsvoorzieningkasten,true,true,true,false,true,false,true,true,true,true,false,false,true,false,false,true,true
+Applicatieprofiel Openbare Nutsvoorzieningkasten,true,true,true,false,true,false,true,true,true,true,false,false,true,true,false,true,true
 Implementatiemodel Verkeersmeldingen,true,true,true,true,true,false,true,true,true,true,false,false,true,true,false,true,true
 Applicatieprofiel Rooilijnplannen,true,true,true,true,true,true,true,true,true,true,false,false,true,true,false,true,true
 Vocabularium Rooilijnplannen,true,true,true,true,true,true,true,true,true,true,false,false,true,true,false,true,true

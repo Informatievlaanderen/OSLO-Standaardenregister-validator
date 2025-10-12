@@ -12277,61 +12277,7 @@
         "endOfPublicationDate": "",
         "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     },
-    {
-        "title": "API richtlijnen",
-        "category": "https://data.vlaanderen.be/id/concept/StandaardType/TechnischeStandaard",
-        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/NotaWerkgroep",
-        "descriptionFileName": "api-guidelines.md",
-        "responsibleOrganisation": [
-            {
-                "name": "Agentschap Digitaal Vlaanderen",
-                "resourceReference": "http://data.vlaanderen.be/id/organisatie/OVO002949"
-            }
-        ],
-        "publicationDate": "2020-02-01",
-        "specificationDocuments": [],
-        "documentation": [
-            {
-                "name": "Generieke Hypermedia API richtlijnen",
-                "resourceReference": "https://github.com/Informatievlaanderen/generieke-hypermedia-api"
-            }
-        ],
-        "reports": [
-            {
-                "name": "Thematische Werkgroep API guidelines 1 - 2020-02-18",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Standaarden/standaardenregister/reports/OSLO API Guidelines - Workshop 1 18_02_20 - Verslag.pdf"
-            },
-            {
-                "name": "Thematische Werkgroep API guidelines 2 - 2020-03-19",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Standaarden/standaardenregister/reports/OSLO API Guidelines - Workshop 2 19_03_20 - Verslag.docx"
-            }
-        ],
-        "charter": {
-            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Standaarden/standaardenregister/charter/"
-        },
-        "presentations": [
-            {
-                "name": "Presentatie thematische werkgroep 1 - 18 februari 2020",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Standaarden/standaardenregister/presentations/18022020 - API guidelines WS1.pptx"
-            },
-            {
-                "name": "Presentatie thematische werkgroep 2 - 19 maart 2020",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Standaarden/standaardenregister/presentations/19032020 - API guidelines WS2.pptx"
-            },
-            {
-                "name": "Presentatie thematische werkgroep 3 (herhaling sessie 1, online) - 9 juni 2020",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Standaarden/standaardenregister/presentations/09062020 - API guidelines WS3.pptx"
-            }
-        ],
-        "dateOfRegistration": "2020-02-01",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
-        "repository": "OSLO-Standaarden",
-        "datePublicReviewStart": "",
-        "endOfPublicationDate": "",
-        "domain": "https://data.vlaanderen.be/id/concept/Domein/Technologie"
-    },
+    "{\n  \"title\": \"API richtlijnen\",\n  \"category\": \"https://data.vlaanderen.be/id/concept/StandaardType/TechnischeStandaard\",\n  \"usage\": \"https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen\",\n  \"status\": \"https://data.vlaanderen.be/id/concept/StandaardStatus/NotaWerkgroep\",\n  \"descriptionFileName\": \"api-guidelines.md\",\n  \"responsibleOrganisation\": [\n    {\n      \"name\": \"Agentschap Digitaal Vlaanderen\",\n      \"resourceReference\": \"http://data.vlaanderen.be/id/organisatie/OVO002949\"\n    }\n  ],\n  \"publicationDate\": \"2020-02-01\",\n  \"specificationDocuments\": [\n     \"name\": \"REST API richtlijnen\",\n      \"resourceReference\": \"https://data.vlaanderen.be/doc/richtlijnen/iv-rest-api-richtlijnen/\"\n  ],\n  \"documentation\": [\n     {\n      \"name\": \"Generieke Hypermedia API richtlijnen\",\n      \"resourceReference\": \"https://data.vlaanderen.be/standaarden/generieke-hypermedia-api\"\n    }\n  ],\n  \"reports\": [\n    {\n      \"name\": \"Thematische Werkgroep API guidelines 1 - 2020-02-18\",\n      \"resourceReference\": \"https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Standaarden/standaardenregister/reports/OSLO API Guidelines - Workshop 1 18_02_20 - Verslag.pdf\"\n    },\n    {\n      \"name\": \"Thematische Werkgroep API guidelines 2 - 2020-03-19\",\n      \"resourceReference\": \"https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Standaarden/standaardenregister/reports/OSLO API Guidelines - Workshop 2 19_03_20 - Verslag.docx\"\n    }\n  ],\n  \"charter\": {\n    \"resourceReference\": \"https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Standaarden/standaardenregister/charter/\"\n  },\n  \"presentations\": [\n    {\n      \"name\": \"Presentatie thematische werkgroep 1 - 18 februari 2020\",\n      \"resourceReference\": \"https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Standaarden/standaardenregister/presentations/18022020 - API guidelines WS1.pptx\"\n    },\n    {\n      \"name\": \"Presentatie thematische werkgroep 2 - 19 maart 2020\",\n      \"resourceReference\": \"https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Standaarden/standaardenregister/presentations/19032020 - API guidelines WS2.pptx\"\n    },\n    {\n      \"name\": \"Presentatie thematische werkgroep 3 (herhaling sessie 1, online) - 9 juni 2020\",\n      \"resourceReference\": \"https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Standaarden/standaardenregister/presentations/09062020 - API guidelines WS3.pptx\"\n    }\n  ],\n  \"dateOfRegistration\": \"2020-02-01\",\n  \"dateOfAcknowledgementByWorkingGroup\": \"TBD\",\n  \"dateOfAcknowledgementBySteeringCommittee\": \"TBD\",\n  \"repository\": \"OSLO-Standaarden\",\n  \"datePublicReviewStart\": \"\",\n  \"endOfPublicationDate\": \"\",\n  \"domain\": \"https://data.vlaanderen.be/id/concept/Domein/Technologie\"\n}\n",
     {
         "title": "Conformiteitsraamwerk voor data standaarden",
         "category": "https://data.vlaanderen.be/doc/concept/StandaardType/TechnischeStandaard",
@@ -12376,10 +12322,10 @@
         "domain": "https://data.vlaanderen.be/id/concept/Domein/Technologie"
     },
     {
-        "title": "Applicatieprofiel metadata DCAT",
+        "title": "Applicatieprofiel metadata DCAT-AP 3.0",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "metadata.md",
         "responsibleOrganisation": [
             {
@@ -12387,87 +12333,43 @@
                 "resourceReference": "http://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "2021-04-22",
+        "publicationDate": "2025-09-10",
         "specificationDocuments": [
             {
-                "name": "Applicatieprofiel metadata DCAT",
-                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/metadata-dcat/"
+                "name": "Applicatieprofiel metadata DCAT-AP 3.0",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/metadata-dcat/ontwerpstandaard/2025-09-16/"
             }
         ],
         "documentation": [],
         "reports": [
             {
-                "name": "Verslag business werkgroep - 3 september 2020",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/reports/20200903%20-%20OSLO%20Metadata%20voor%20services%20-%20Business%20Werkgroep%20-%20Verslag.pdf"
-            },
-            {
-                "name": "Verslag thematische werkgroep 1 - 22 september 2020",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/reports/20200922%20-%20OSLO%20Metadata%20voor%20services%20-%20Thematische%20werkgroep%201%20-%20Verslag.pdf"
-            },
-            {
-                "name": "Verwerking thematische werkgroep 1",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/reports/Verwerking%20thematische%20werkgroep%201.pdf"
-            },
-            {
-                "name": "Verslag thematische werkgroep 2 - 13 oktober 2020",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/reports/20201013%20-%20OSLO%20Metadata%20voor%20services%20-%20Thematische%20werkgroep%202%20-%20Verslag.pdf"
-            },
-            {
-                "name": "Verwerking thematische werkgroep 2",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/reports/Verwerking%20thematische%20werkgroep%202.pdf"
-            },
-            {
-                "name": "Verslag thematische werkgroep 3 - 10 november 2020",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/reports/20201110%20-%20OSLO%20Metadata%20voor%20services%20-%20Thematische%20werkgroep%203%20-%20Verslag.pdf"
-            },
-            {
-                "name": "Verslag plenaire sessie - 7 december 2020",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/reports/20201207%20-%20OSLO%20Metadata%20voor%20services%20-%20Plenaire%20sessie%20-%20Verslag.pdf"
+                "name": "Verslag webinar 1 - 17 september 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/reports/Verslag%20webinar%20één%20-%2017%20september%202025.pdf"
             }
         ],
         "charter": {
-            "name": "Charter",
-            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/charter/Werkgroep%20charter%20OSLO%20metadatastandaard%20voor%20services.pdf"
+            "name": "Charter OSLO DCAT-AP 3.0",
+            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/charter/Charter_OSLO_DCAT3.0.pdf"
         },
         "presentations": [
             {
-                "name": "Presentatie business werkgroep - 3 september 2020<",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/presentations/20200903%20-%20OSLO%20Metadata%20voor%20services%20-%20Business%20Werkgroep%20-%20Presentatie.pdf"
-            },
-            {
-                "name": "Presentatie thematische werkgroep 1 - 22 september 2020",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/presentations/20200922%20-%20OSLO%20Metadata%20voor%20services%20-%20Thematische%20Werkgroep%201%20-%20Presentatie.pdf"
-            },
-            {
-                "name": "Presentatie thematische werkgroep 2 - 13 oktober 2020",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/presentations/20201013%20-%20OSLO%20Metadata%20voor%20services%20-%20Thematische%20Werkgroep%202%20-%20Presentatie.pdf"
-            },
-            {
-                "name": "Presentatie thematische werkgroep 3 - 10 november 2020",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/presentations/20201110%20-%20OSLO%20Metadata%20voor%20services%20-%20Thematische%20Werkgroep%203%20-%20Presentatie.pdf"
-            },
-            {
-                "name": "Presentatie plenaire sessie - 7 december 2020",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/presentations/20201207%20-%20OSLO%20Metadata%20voor%20services%20-%20Plenaire%20sessie%20-%20Presentatie.pdf"
-            },
-            {
-                "name": "Presentatie WG datastandaarden - 11 maart 2021",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/presentations/OSLO_MetadataDCAT_WG_Datastandaarden_20210311.pdf"
+                "name": "Presentatie webinar 1 - 17 september 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/presentations/Presentatie%20webinar%20één%20-%2017%20september%202025.pdf"
             }
         ],
-        "dateOfRegistration": "2020-07-20",
-        "dateOfAcknowledgementByWorkingGroup": "2021-03-11",
-        "dateOfAcknowledgementBySteeringCommittee": "2021-04-22",
+        "dateOfRegistration": "2025-09-11",
+        "dateOfAcknowledgementByWorkingGroup": "TBD",
+        "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-metadataVoorServices",
         "datePublicReviewStart": "",
         "endOfPublicationDate": "",
         "domain": "https://data.vlaanderen.be/id/concept/Domein/Technologie"
     },
     {
-        "title": "Vocabularium metadata DCAT",
-        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "title": "Vocabularium metadata DCAT-AP 3.0",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
         "descriptionFileName": "metadata.md",
         "responsibleOrganisation": [
             {
@@ -12475,77 +12377,33 @@
                 "resourceReference": "http://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "2021-04-22",
+        "publicationDate": "2025-09-10",
         "specificationDocuments": [
             {
-                "name": "Vocabularium metadata DCAT",
-                "resourceReference": "https://data.vlaanderen.be/ns/metadata-dcat/"
+                "name": "Vocabularium metadata DCAT-AP 3.0",
+                "resourceReference": "https://data.vlaanderen.be/doc/vocabularium/metadata-dcat/ontwerpstandaard/2025-09-16/"
             }
         ],
         "documentation": [],
         "reports": [
             {
-                "name": "Verslag business werkgroep - 3 september 2020",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/reports/20200903 - OSLO Metadata voor services - Business Werkgroep - Verslag.pdf"
-            },
-            {
-                "name": "Verslag thematische werkgroep 1 - 22 september 2020",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/reports/20200922 - OSLO Metadata voor services - Thematische werkgroep 1 - Verslag.pdf"
-            },
-            {
-                "name": "Verwerking thematische werkgroep 1",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/reports/Verwerking thematische werkgroep 1.pdf"
-            },
-            {
-                "name": "Verslag thematische werkgroep 2 - 13 oktober 2020",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/reports/20201013 - OSLO Metadata voor services - Thematische werkgroep 2 - Verslag.pdf"
-            },
-            {
-                "name": "Verwerking thematische werkgroep 2",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/reports/Verwerking thematische werkgroep 2.pdf"
-            },
-            {
-                "name": "Verslag thematische werkgroep 3 - 10 november 2020",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/reports/20201110 - OSLO Metadata voor services - Thematische werkgroep 3 - Verslag.pdf"
-            },
-            {
-                "name": "Verslag plenaire sessie - 7 december 2020",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/reports/20201207 - OSLO Metadata voor services - Plenaire sessie - Verslag.pdf"
+                "name": "Verslag webinar 1 - 17 september 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/reports/Verslag%20webinar%20één%20-%2017%20september%202025.pdf"
             }
         ],
         "charter": {
-            "name": "Charter",
-            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/charter/Werkgroep charter OSLO metadatastandaard voor services.pdf"
+            "name": "Charter OSLO DCAT-AP 3.0",
+            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/charter/Charter_OSLO_DCAT3.0.pdf"
         },
         "presentations": [
             {
-                "name": "Presentatie business werkgroep - 3 september 2020<",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/presentations/20200903 - OSLO Metadata voor services - Business Werkgroep - Presentatie.pdf"
-            },
-            {
-                "name": "Presentatie thematische werkgroep 1 - 22 september 2020",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/presentations/20200922 - OSLO Metadata voor services - Thematische Werkgroep 1 - Presentatie.pdf"
-            },
-            {
-                "name": "Presentatie thematische werkgroep 2 - 13 oktober 2020",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/presentations/20201013 - OSLO Metadata voor services - Thematische Werkgroep 2 - Presentatie.pdf"
-            },
-            {
-                "name": "Presentatie thematische werkgroep 3 - 10 november 2020",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/presentations/20201110 - OSLO Metadata voor services - Thematische Werkgroep 3 - Presentatie.pdf"
-            },
-            {
-                "name": "Presentatie plenaire sessie - 7 december 2020",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/presentations/20201207 - OSLO Metadata voor services - Plenaire sessie - Presentatie.pdf"
-            },
-            {
-                "name": "Presentatie WG datastandaarden - 11 maart 2021",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/presentations/OSLO_MetadataDCAT_WG_Datastandaarden_20210311.pdf"
+                "name": "Presentatie webinar 1 - 17 september 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/presentations/Presentatie%20webinar%20één%20-%2017%20september%202025.pdf"
             }
         ],
-        "dateOfRegistration": "2021-07-20",
-        "dateOfAcknowledgementByWorkingGroup": "2021-03-11",
-        "dateOfAcknowledgementBySteeringCommittee": "2021-04-22",
+        "dateOfRegistration": "2025-09-11",
+        "dateOfAcknowledgementByWorkingGroup": "TBD",
+        "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-metadataVoorServices",
         "datePublicReviewStart": "",
         "endOfPublicationDate": "",
@@ -17812,7 +17670,8 @@
         "datePublicReviewStart": "2025-07-22",
         "datePublicReviewEnd": "2025-10-22",
         "endOfPublicationDate": "",
-        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend"
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend",
+        "functionalScope": "Uniform beschrijven en uitwisselen van zaal- en infrastructuurreservaties binnen en buiten de publieke dienstverlening."
     },
     {
         "title": "Vocabularium Zaalreservatie",
@@ -17893,7 +17752,8 @@
         "datePublicReviewStart": "2025-07-22",
         "datePublicReviewEnd": "2025-10-22",
         "endOfPublicationDate": "",
-        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend"
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend",
+        "functionalScope": "Uniform beschrijven en uitwisselen van zaal- en infrastructuurreservaties binnen en buiten de publieke dienstverlening."
     },
     {
         "title": "Applicatieprofiel Openbare Nutsvoorzieningkasten",
@@ -17959,9 +17819,10 @@
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "datePublicReviewStart": "2025-07-28",
-        "datePublicReviewEnd": "",
+        "datePublicReviewEnd": "2025-10-28",
         "endOfPublicationDate": "",
-        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend"
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend",
+        "functionalScope": "Semantische standaard voor slimme elektriciteitsvoorziening op het openbaar domein"
     },
     {
         "title": "Implementatiemodel Verkeersmeldingen",
@@ -18031,7 +17892,8 @@
         "datePublicReviewStart": "2025-07-29",
         "datePublicReviewEnd": "2025-10-31",
         "endOfPublicationDate": "TBD",
-        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend"
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend",
+        "functionalScope": "Uniform modelleren en uitwisselen van verkeersmeldingen en -metingen met de klasse Observatie als centrale schakel (over verkeersobjecten, situaties en mobiliteitshinder)."
     },
     {
         "title": "Applicatieprofiel Rooilijnplannen",
@@ -18112,7 +17974,8 @@
         "datePublicReviewStart": "2025-07-20",
         "datePublicReviewEnd": "2025-11-20",
         "endOfPublicationDate": "TBD",
-        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend"
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend",
+        "functionalScope": "Uniform beschrijven en uitwisselen van Rooilijnplannen en bijbehorende gegevens, met de Rooilijn als centrale grens tussen OpenbareWeg en AangelandeEigendommen."
     },
     {
         "title": "Vocabularium Rooilijnplannen",
@@ -18193,6 +18056,7 @@
         "datePublicReviewStart": "2025-07-20",
         "datePublicReviewEnd": "2025-11-20",
         "endOfPublicationDate": "TBD",
-        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend"
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend",
+        "functionalScope": "Uniform beschrijven en uitwisselen van Rooilijnplannen en bijbehorende gegevens, met de Rooilijn als centrale grens tussen OpenbareWeg en AangelandeEigendommen."
     }
 ]
