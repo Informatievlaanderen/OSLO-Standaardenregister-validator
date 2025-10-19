@@ -141,7 +141,7 @@
         "datePublicReviewStart": "2025-07-16",
         "datePublicReviewEnd": "2025-09-11",
         "endOfPublicationDate": "",
-        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend"
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Technologie"
     },
     {
         "title": "Applicatieprofiel Leermiddelen",
@@ -214,7 +214,7 @@
         "datePublicReviewStart": "2025-08-01",
         "datePublicReviewEnd": "2025-11-28",
         "endOfPublicationDate": "",
-        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend"
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onderwijs"
     },
     {
         "title": "Applicatieprofiel Energiehuis",
@@ -17670,7 +17670,7 @@
         "datePublicReviewStart": "2025-07-22",
         "datePublicReviewEnd": "2025-10-22",
         "endOfPublicationDate": "",
-        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend",
+        "domain": "https://data.vlaanderen.be/doc/concept/Domein/Cultuur",
         "functionalScope": "Uniform beschrijven en uitwisselen van zaal- en infrastructuurreservaties binnen en buiten de publieke dienstverlening."
     },
     {
@@ -17752,7 +17752,7 @@
         "datePublicReviewStart": "2025-07-22",
         "datePublicReviewEnd": "2025-10-22",
         "endOfPublicationDate": "",
-        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend",
+        "domain": "https://data.vlaanderen.be/doc/concept/Domein/Cultuur",
         "functionalScope": "Uniform beschrijven en uitwisselen van zaal- en infrastructuurreservaties binnen en buiten de publieke dienstverlening."
     },
     {
@@ -17892,7 +17892,7 @@
         "datePublicReviewStart": "2025-07-29",
         "datePublicReviewEnd": "2025-10-31",
         "endOfPublicationDate": "TBD",
-        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend",
+        "domain": "https://data.vlaanderen.be/doc/concept/Domein/Mobiliteit",
         "functionalScope": "Uniform modelleren en uitwisselen van verkeersmeldingen en -metingen met de klasse Observatie als centrale schakel (over verkeersobjecten, situaties en mobiliteitshinder)."
     },
     {
@@ -17974,7 +17974,7 @@
         "datePublicReviewStart": "2025-07-20",
         "datePublicReviewEnd": "2025-11-20",
         "endOfPublicationDate": "TBD",
-        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/WonenRuimtelijkeOrdening",
         "functionalScope": "Uniform beschrijven en uitwisselen van Rooilijnplannen en bijbehorende gegevens, met de Rooilijn als centrale grens tussen OpenbareWeg en AangelandeEigendommen."
     },
     {
@@ -18056,7 +18056,7 @@
         "datePublicReviewStart": "2025-07-20",
         "datePublicReviewEnd": "2025-11-20",
         "endOfPublicationDate": "TBD",
-        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onbekend",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/WonenRuimtelijkeOrdening",
         "functionalScope": "Uniform beschrijven en uitwisselen van Rooilijnplannen en bijbehorende gegevens, met de Rooilijn als centrale grens tussen OpenbareWeg en AangelandeEigendommen."
     }
 ]
