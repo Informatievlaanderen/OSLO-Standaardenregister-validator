@@ -18061,5 +18061,33 @@
         "endOfPublicationDate": "TBD",
         "domain": "https://data.vlaanderen.be/id/concept/Domein/WonenRuimtelijkeOrdening",
         "functionalScope": "Uniform beschrijven en uitwisselen van Rooilijnplannen en bijbehorende gegevens, met de Rooilijn als centrale grens tussen OpenbareWeg en AangelandeEigendommen."
+    },
+    {
+        "title": "Geen titel gevonden",
+        "category": "TBD",
+        "usage": "TBD",
+        "status": "TBD",
+        "descriptionFileName": "Geen bestandsnaam gevonden",
+        "responsibleOrganisation": [
+            {
+                "name": "Geen naam gevonden",
+                "resourceReference": "Geen resourceReference gevonden",
+                "uri": "Geen uri gevonden",
+                "description": "Geen beschrijving gevonden"
+            }
+        ],
+        "publicationDate": "Geen publicatiedatum gevonden",
+        "specificationDocuments": [],
+        "documentation": [],
+        "reports": [],
+        "charter": {},
+        "presentations": [],
+        "dateOfRegistration": "Geen datum van aanmelding gevonden",
+        "dateOfAcknowledgementByWorkingGroup": "Geen erkenning werkgroep datastandaarden gevonden",
+        "dateOfAcknowledgementBySteeringCommittee": "Geen erkenning stuurgroep gevonden",
+        "datePublicReviewStart": "Geen startdatum publieke review gevonden",
+        "datePublicReviewEnd": "Geen einddatum publieke review gevonden",
+        "endOfPublicationDate": "Geen einddatum publicatie gevonden",
+        "_path": ""
     }
 ]

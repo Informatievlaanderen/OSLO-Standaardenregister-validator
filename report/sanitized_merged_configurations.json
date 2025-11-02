@@ -5078,5 +5078,25 @@
         "endOfPublicationDate": false,
         "usage": true,
         "status": true
+    },
+    {
+        "title": "Geen titel gevonden",
+        "responsibleOrganisation": true,
+        "publicationDate": true,
+        "category": false,
+        "descriptionFileName": true,
+        "specificationDocuments": false,
+        "documentation": false,
+        "charter": true,
+        "reports": false,
+        "presentations": false,
+        "dateOfRegistration": true,
+        "dateOfAcknowledgementByWorkingGroup": true,
+        "dateOfAcknowledgementBySteeringCommittee": true,
+        "datePublicReviewStart": true,
+        "datePublicReviewEnd": true,
+        "endOfPublicationDate": true,
+        "usage": false,
+        "status": false
     }
 ]
