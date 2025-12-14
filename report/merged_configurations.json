@@ -165,7 +165,7 @@
         "documentation": [],
         "charter": {
             "name": "Charter OSLO Leermiddelen",
-            "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-leermiddelen/blob/standaardenregister/charter/Charter_OSLO_Onderwijsdoelen_versie1.docx.pdf"
+            "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-leermiddelen/blob/standaardenregister/charter/Charter_OSLO_Onderwijsdoelen.pdf"
         },
         "reports": [
             {
@@ -217,7 +217,8 @@
         "datePublicReviewStart": "2025-08-01",
         "datePublicReviewEnd": "2025-11-28",
         "endOfPublicationDate": "",
-        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onderwijs"
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Onderwijs",
+        "functionalScope": "Semantische standaard voor informatie met betrekking tot onderwijs."
     },
     {
         "title": "Applicatieprofiel Energiehuis",
