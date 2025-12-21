@@ -144,7 +144,7 @@
         "domain": "https://data.vlaanderen.be/id/concept/Domein/Technologie"
     },
     {
-        "title": "Applicatieprofiel Leermiddelen",
+        "title": "Applicatieprofiel Leermiddelen- en doelen",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
@@ -158,13 +158,13 @@
         "descriptionFileName": "ap-leermiddelen-config.md",
         "specificationDocuments": [
             {
-                "name": "Applicatieprofiel Leermiddelen",
+                "name": "Applicatieprofiel Leermiddelen- en doelen",
                 "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen"
             }
         ],
         "documentation": [],
         "charter": {
-            "name": "Charter OSLO Leermiddelen",
+            "name": "Charter OSLO Leermiddelen- en doelen",
             "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-leermiddelen/blob/standaardenregister/charter/Charter_OSLO_Onderwijsdoelen.pdf"
         },
         "reports": [
@@ -209,6 +209,12 @@
             {
                 "name": "Presentatie Thematische Werkgroep 4 - 26-03-2025",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-leermiddelen/standaardenregister/presentations/Presentatie thematische werkgroep 4 - Leermiddelen.pdf"
+            }
+        ],
+        "implementations": [
+            {
+                "name": "POC Leermiddelen- en doelen",
+                "resourceReference": "https://informatievlaanderen.github.io/oslo-leermiddelen-poc"
             }
         ],
         "dateOfRegistration": "2024-05-16",
@@ -12326,10 +12332,10 @@
         "domain": "https://data.vlaanderen.be/id/concept/Domein/Technologie"
     },
     {
-        "title": "Applicatieprofiel metadata DCAT-AP 3.0",
+        "title": "Applicatieprofiel DCAT-AP VL",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "metadata.md",
         "responsibleOrganisation": [
             {
@@ -12340,8 +12346,8 @@
         "publicationDate": "2025-09-10",
         "specificationDocuments": [
             {
-                "name": "Applicatieprofiel metadata DCAT-AP 3.0",
-                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/metadata-dcat/"
+                "name": "Applicatieprofiel DCAT-AP VL",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09/"
             }
         ],
         "documentation": [],
@@ -12378,10 +12384,10 @@
         "domain": "https://data.vlaanderen.be/id/concept/Domein/Technologie"
     },
     {
-        "title": "Vocabularium metadata DCAT 3.0",
+        "title": "Vocabularium metadata DCAT",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "metadata.md",
         "responsibleOrganisation": [
             {
@@ -12392,8 +12398,8 @@
         "publicationDate": "2025-09-10",
         "specificationDocuments": [
             {
-                "name": "Vocabularium metadata DCAT 3.0",
-                "resourceReference": "https://data.vlaanderen.be/doc/vocabularium/metadata-dcat/"
+                "name": "Vocabularium metadata DCAT",
+                "resourceReference": "https://data.vlaanderen.be/ns/metadata-dcat/"
             }
         ],
         "documentation": [],
@@ -12408,7 +12414,7 @@
             }
         ],
         "charter": {
-            "name": "Charter OSLO DCAT-AP 3.0",
+            "name": "Charter OSLO DCAT-AP",
             "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/charter/Charter_OSLO_DCAT3.0.pdf"
         },
         "presentations": [
@@ -14658,7 +14664,7 @@
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "2022-02-03",
+        "publicationDate": "2025-09-10",
         "specificationDocuments": [
             {
                 "name": "GeoDCAT-AP Vlaanderen",

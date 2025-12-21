@@ -40,7 +40,7 @@
         "status": true
     },
     {
-        "title": "Applicatieprofiel Leermiddelen",
+        "title": "Applicatieprofiel Leermiddelen- en doelen",
         "responsibleOrganisation": true,
         "publicationDate": true,
         "category": true,
@@ -3140,7 +3140,7 @@
         "status": true
     },
     {
-        "title": "Applicatieprofiel metadata DCAT-AP 3.0",
+        "title": "Applicatieprofiel DCAT-AP VL",
         "responsibleOrganisation": true,
         "publicationDate": true,
         "category": true,
@@ -3160,7 +3160,7 @@
         "status": true
     },
     {
-        "title": "Vocabularium metadata DCAT 3.0",
+        "title": "Vocabularium metadata DCAT",
         "responsibleOrganisation": true,
         "publicationDate": true,
         "category": true,
