@@ -144,7 +144,7 @@
         "domain": "https://data.vlaanderen.be/id/concept/Domein/Technologie"
     },
     {
-        "title": "Applicatieprofiel Leermiddelen- en doelen",
+        "title": "Applicatieprofiel Leermiddelen en -doelen",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
@@ -158,7 +158,7 @@
         "descriptionFileName": "ap-leermiddelen-config.md",
         "specificationDocuments": [
             {
-                "name": "Applicatieprofiel Leermiddelen- en doelen",
+                "name": "Applicatieprofiel Leermiddelen en -doelen",
                 "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen"
             }
         ],

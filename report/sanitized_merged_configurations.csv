@@ -1,7 +1,7 @@
 title,responsibleOrganisation,publicationDate,category,descriptionFileName,specificationDocuments,documentation,charter,reports,presentations,dateOfRegistration,dateOfAcknowledgementByWorkingGroup,dateOfAcknowledgementBySteeringCommittee,datePublicReviewStart,datePublicReviewEnd,endOfPublicationDate,usage,status
 Applicatieprofiel Energiemanagementsysteem,true,true,true,true,true,false,true,true,true,true,false,false,true,true,false,true,true
 Applicatieprofiel Thermografische Gebouwanalyse,true,true,true,true,true,true,true,true,true,true,false,false,true,true,false,true,true
-Applicatieprofiel Leermiddelen- en doelen,true,true,true,true,true,false,true,true,true,true,false,false,true,true,false,true,true
+Applicatieprofiel Leermiddelen en -doelen,true,true,true,true,true,false,true,true,true,true,false,false,true,true,false,true,true
 Applicatieprofiel Energiehuis,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true
 Vocabularium Energiehuis,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true
 Vocabularium Hulp- en Dienstverlening aan Gedetineerden,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true
