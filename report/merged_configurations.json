@@ -144,7 +144,7 @@
         "domain": "https://data.vlaanderen.be/id/concept/Domein/Technologie"
     },
     {
-        "title": "Applicatieprofiel Leermiddelen en -doelen",
+        "title": "Applicatieprofiel Leermiddelen en doelen",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
@@ -158,13 +158,13 @@
         "descriptionFileName": "ap-leermiddelen-config.md",
         "specificationDocuments": [
             {
-                "name": "Applicatieprofiel Leermiddelen en -doelen",
+                "name": "Applicatieprofiel Leermiddelen en doelen",
                 "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/leermiddelen"
             }
         ],
         "documentation": [],
         "charter": {
-            "name": "Charter OSLO Leermiddelen- en doelen",
+            "name": "Charter OSLO Leermiddelen en doelen",
             "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-leermiddelen/blob/standaardenregister/charter/Charter_OSLO_Onderwijsdoelen.pdf"
         },
         "reports": [
@@ -213,7 +213,7 @@
         ],
         "implementations": [
             {
-                "name": "POC Leermiddelen- en doelen",
+                "name": "POC Leermiddelen en doelen",
                 "resourceReference": "https://informatievlaanderen.github.io/oslo-leermiddelen-poc"
             }
         ],
@@ -716,7 +716,7 @@
         "title": "Applicatieprofiel Mobiliteit: Intelligente Toegang",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -774,8 +774,8 @@
             }
         ],
         "dateOfRegistration": "",
-        "dateOfAcknowledgementByWorkingGroup": "",
-        "dateOfAcknowledgementBySteeringCommittee": "",
+        "dateOfAcknowledgementByWorkingGroup": "2025-11-13",
+        "dateOfAcknowledgementBySteeringCommittee": "2025-12-11",
         "datePublicReviewStart": "",
         "datePublicReviewEnd": "",
         "endOfPublicationDate": "",
@@ -785,7 +785,7 @@
         "title": "Vocabularium Mobiliteit: Intelligente Toegang",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -843,8 +843,8 @@
             }
         ],
         "dateOfRegistration": "",
-        "dateOfAcknowledgementByWorkingGroup": "",
-        "dateOfAcknowledgementBySteeringCommittee": "",
+        "dateOfAcknowledgementByWorkingGroup": "2025-11-13",
+        "dateOfAcknowledgementBySteeringCommittee": "2025-12-11",
         "datePublicReviewStart": "",
         "datePublicReviewEnd": "",
         "endOfPublicationDate": "",
@@ -1543,19 +1543,19 @@
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - verslag - thematische werkgroep 1 - 25 oktober 2023",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/raw/a53dd0439d01fd35e587c2587c3504fcff5f104c/reports/Verslag%20thematische%20werkgroep%201%20SRP%202023-09-25.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%201%20SRP%202023-10-25.pdf"
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - verslag - thematische werkgroep 2 - 30 november 2023",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/raw/a53dd0439d01fd35e587c2587c3504fcff5f104c/reports/Verslag%20thematische%20werkgroep%202%20SRP%202023-11-30.docx"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/raw/a53dd0439d01fd35e587c2587c3504fcff5f104c/reports/Verslag%20thematische%20werkgroep%202%20SRP%202023-11-30.docx"
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - verslag - thematische werkgroep 3 - 21 december 2023",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/raw/a53dd0439d01fd35e587c2587c3504fcff5f104c/reports/Verslag%20thematische%20werkgroep%203%20SRP%202023-12-21.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/raw/a53dd0439d01fd35e587c2587c3504fcff5f104c/reports/Verslag%20thematische%20werkgroep%203%20SRP%202023-12-21.pdf"
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - verslag - thematische werkgroep 4 - februari 2024",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/raw/a53dd0439d01fd35e587c2587c3504fcff5f104c/reports/Verslag%20thematische%20werkgroep%204%20SRP%202024-02-01.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/raw/a53dd0439d01fd35e587c2587c3504fcff5f104c/reports/Verslag%20thematische%20werkgroep%204%20SRP%202024-02-01.pdf"
             }
         ],
         "charter": {
@@ -1565,23 +1565,23 @@
         "presentations": [
             {
                 "name": "OSLO Ruimtelijke Indicatoren - presentatie - business werkgroep - 27 september 2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/refs/heads/standaardenregister/presentations/Presentatie%20business%20werkgroep%20SRP%202023-09-27.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/presentations/Presentatie%20business%20werkgroep%20SRP%202023-09-27.pdf"
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - presentatie - thematische werkgroep 1 - 25 oktober 2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/refs/heads/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%201%20SRP%202023-10-25.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%201%20SRP%202023-10-25.pdf"
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - presentatie - thematische werkgroep 2 - 30 november 2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/refs/heads/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%202%20SRP%202023-11-30.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%202%20SRP%202023-11-30.pdf"
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - presentatie - thematische werkgroep 3 - 21 december 2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/refs/heads/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%203%20SRP%202023-12-21.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%203%20SRP%202023-12-21.pdf"
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - presentatie - thematische werkgroep 4 - 1 februari 2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/refs/heads/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%204%20SRP%202024-02-01.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%204%20SRP%202024-02-01.pdf"
             }
         ],
         "dateOfRegistration": "2023-11-09",
@@ -1641,23 +1641,23 @@
         "presentations": [
             {
                 "name": "OSLO Ruimtelijke Indicatoren - presentatie - business werkgroep - 27 september 2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/refs/heads/standaardenregister/presentations/Presentatie%20business%20werkgroep%20SRP%202023-09-27.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/presentations/Presentatie%20business%20werkgroep%20SRP%202023-09-27.pdf"
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - presentatie - thematische werkgroep 1 - 25 oktober 2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/refs/heads/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%201%20SRP%202023-10-25.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%201%20SRP%202023-10-25.pdf"
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - presentatie - thematische werkgroep 2 - 30 november 2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/refs/heads/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%202%20SRP%202023-11-30.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%202%20SRP%202023-11-30.pdf"
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - presentatie - thematische werkgroep 3 - 21 december 2023",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/refs/heads/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%203%20SRP%202023-12-21.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%203%20SRP%202023-12-21.pdf"
             },
             {
                 "name": "OSLO Ruimtelijke Indicatoren - presentatie - thematische werkgroep 4 - 1 februari 2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/refs/heads/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%204%20SRP%202024-02-01.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-slimRuimtelijkPlannen/standaardenregister/presentations/Presentatie%20thematische%20werkgroep%204%20SRP%202024-02-01.pdf"
             }
         ],
         "dateOfRegistration": "2023-11-09",
@@ -14656,7 +14656,7 @@
         "title": "Applicatieprofiel GeoDCAT-AP VL",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
         "descriptionFileName": "ap-geodcat-ap-vl.md",
         "responsibleOrganisation": [
             {
@@ -14668,7 +14668,7 @@
         "specificationDocuments": [
             {
                 "name": "GeoDCAT-AP Vlaanderen",
-                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/GEODCAT-AP-VL/"
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/GEODCAT-AP-VL/kandidaatstandaard/2025-12-09/"
             }
         ],
         "documentation": [
@@ -14697,7 +14697,16 @@
                 "resourceReference": "https://semiceu.github.io/GeoDCAT-AP/releases/2.0.0"
             }
         ],
-        "reports": [],
+        "reports": [
+            {
+                "name": "Verslag webinar 1 - 17 september 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/reports/Verslag%20webinar%20één%20-%2017%20september%202025.pdf"
+            },
+            {
+                "name": "Verslag webinar 2 - 21 oktober 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/reports/Verslag_Webinar_2_DCAT-AP.3.0.pdf"
+            }
+        ],
         "charter": {
             "name": "Werkgroep Charter GeoDCAT-AP VL",
             "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-GEODCATAPVlaanderen/standaardenregister/charter/Werkgroep-charter-GeoDCAT-AP-VL-2.0.pdf"
@@ -14726,13 +14735,21 @@
             {
                 "name": "Opname webinar 3",
                 "resourceReference": "https://digitaalvlaanderen.wetransfer.com/downloads/f4fc2e8cbc367b294ba505bd61f7978a20220118122319/e139ac"
+            },
+            {
+                "name": "Presentatie webinar 1 - 17 september 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/presentations/Presentatie%20webinar%20één%20-%2017%20september%202025.pdf"
+            },
+            {
+                "name": "Presentatie webinar 2 - 21 oktober 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/presentations/Presentatie_webinar_2_OLSO_DCAT-AP3.0.pdf"
             }
         ],
-        "dateOfRegistration": "2021-09-16",
+        "dateOfRegistration": "2025-11-13",
         "dateOfAcknowledgementByWorkingGroup": "TBD",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-GEODCATAPVlaanderen",
-        "datePublicReviewEnd": "2022-02-28",
+        "datePublicReviewEnd": "2026-01-07",
         "datePublicReviewStart": "",
         "endOfPublicationDate": "",
         "domain": "https://data.vlaanderen.be/id/concept/Domein/Technologie"
@@ -16772,7 +16789,7 @@
         "title": "Applicatieprofiel Dienstverlening Aan Personen",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "dienstverlening-aan-personen-description.md",
         "responsibleOrganisation": [
             {
@@ -16834,8 +16851,8 @@
             }
         ],
         "dateOfRegistration": "2023-12-19",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "dateOfAcknowledgementByWorkingGroup": "2025-11-13",
+        "dateOfAcknowledgementBySteeringCommittee": "2025-12-11",
         "repository": "OSLOthema-kindFiche",
         "datePublicReviewStart": "2024-06-24",
         "endOfPublicationDate": "",
@@ -17621,7 +17638,7 @@
         "title": "Applicatieprofiel Zaalreservatie",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -17691,11 +17708,11 @@
             }
         ],
         "dateOfRegistration": "2025-01-09",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "dateOfAcknowledgementByWorkingGroup": "2025-13-11",
+        "dateOfAcknowledgementBySteeringCommittee": "2025-11-12",
         "datePublicReviewStart": "2025-07-22",
         "datePublicReviewEnd": "2025-10-22",
-        "endOfPublicationDate": "",
+        "endOfPublicationDate": "2026-01-07",
         "domain": "https://data.vlaanderen.be/doc/concept/Domein/Cultuur",
         "functionalScope": "Uniform beschrijven en uitwisselen van zaal- en infrastructuurreservaties binnen en buiten de publieke dienstverlening."
     },
@@ -17703,7 +17720,7 @@
         "title": "Vocabularium Zaalreservatie",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -17773,11 +17790,11 @@
             }
         ],
         "dateOfRegistration": "2025-01-09",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "dateOfAcknowledgementByWorkingGroup": "2025-13-11",
+        "dateOfAcknowledgementBySteeringCommittee": "2025-11-12",
         "datePublicReviewStart": "2025-07-22",
         "datePublicReviewEnd": "2025-10-22",
-        "endOfPublicationDate": "",
+        "endOfPublicationDate": "2026-01-07",
         "domain": "https://data.vlaanderen.be/doc/concept/Domein/Cultuur",
         "functionalScope": "Uniform beschrijven en uitwisselen van zaal- en infrastructuurreservaties binnen en buiten de publieke dienstverlening."
     },
@@ -17785,15 +17802,15 @@
         "title": "Applicatieprofiel Openbare Nutsvoorzieningkasten",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "2025-05-26",
-        "descriptionFileName": "",
+        "publicationDate": "2025-07-28",
+        "descriptionFileName": "shok-description.md",
         "specificationDocuments": [
             {
                 "name": "Applicatieprofiel Openbare Nutsvoorzieningkasten",
@@ -17825,7 +17842,7 @@
         ],
         "presentations": [
             {
-                "name": "Business Werkgroep Presentatie OSLO SHOK",
+                "name": "Presentatie Business Werkgroep OSLO SHOK",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SHOK/standaardenregister/presentations/Business Werkgroep presentatie OSLO SHOK.pdf"
             },
             {
@@ -17842,8 +17859,8 @@
             }
         ],
         "dateOfRegistration": "2024-12-19",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "dateOfAcknowledgementByWorkingGroup": "2025-11-13",
+        "dateOfAcknowledgementBySteeringCommittee": "2025-12-11",
         "datePublicReviewStart": "2025-07-28",
         "datePublicReviewEnd": "2025-10-28",
         "endOfPublicationDate": "",

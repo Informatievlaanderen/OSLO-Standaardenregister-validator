@@ -1,15 +1,15 @@
 title,responsibleOrganisation,publicationDate,category,descriptionFileName,specificationDocuments,documentation,charter,reports,presentations,dateOfRegistration,dateOfAcknowledgementByWorkingGroup,dateOfAcknowledgementBySteeringCommittee,datePublicReviewStart,datePublicReviewEnd,endOfPublicationDate,usage,status
 Applicatieprofiel Energiemanagementsysteem,true,true,true,true,true,false,true,true,true,true,false,false,true,true,false,true,true
 Applicatieprofiel Thermografische Gebouwanalyse,true,true,true,true,true,true,true,true,true,true,false,false,true,true,false,true,true
-Applicatieprofiel Leermiddelen en -doelen,true,true,true,true,true,false,true,true,true,true,false,false,true,true,false,true,true
+Applicatieprofiel Leermiddelen en doelen,true,true,true,true,true,false,true,true,true,true,false,false,true,true,false,true,true
 Applicatieprofiel Energiehuis,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true
 Vocabularium Energiehuis,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true
 Vocabularium Hulp- en Dienstverlening aan Gedetineerden,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true
 Applicatieprofiel Hulp- en Dienstverlening aan Gedetineerden,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true
 Applicatieprofiel Erosiepoel,true,true,true,true,true,true,true,true,true,false,false,true,true,true,false,true,true
 Vocabularium Erosiepoel,true,true,true,true,true,true,true,true,true,false,false,true,true,true,false,true,true
-Applicatieprofiel Mobiliteit: Intelligente Toegang,true,true,true,true,true,true,true,true,true,false,false,false,false,false,false,true,true
-Vocabularium Mobiliteit: Intelligente Toegang,true,true,true,true,true,true,true,true,true,false,false,false,false,false,false,true,true
+Applicatieprofiel Mobiliteit: Intelligente Toegang,true,true,true,true,true,true,true,true,true,false,true,true,false,false,false,true,true
+Vocabularium Mobiliteit: Intelligente Toegang,true,true,true,true,true,true,true,true,true,false,true,true,false,false,false,true,true
 Applicatieprofiel Omgevingsvergunning,true,true,true,true,true,false,true,true,true,true,true,false,false,false,false,true,true
 Vocabularium Omgevingsvergunning,true,true,true,true,true,false,true,true,true,true,true,false,false,false,false,true,true
 Applicatieprofiel Schuldbeheer,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true
@@ -204,7 +204,7 @@ Applicatieprofiel Fietsinfrastructuur,true,true,true,true,true,true,true,true,tr
 Vocabularium Fietsinfrastructuur,true,true,true,true,true,true,true,true,true,true,false,false,true,false,false,true,true
 Applicatieprofiel DCAT-AP VL 2.0,true,true,true,true,true,true,true,true,true,true,true,true,false,true,false,true,true
 Vocabularium en applicatieprofiel OSLO Consent,true,false,true,true,true,false,true,true,true,true,false,false,false,false,false,true,true
-Applicatieprofiel GeoDCAT-AP VL,true,true,true,true,true,true,true,false,true,true,false,false,false,true,false,true,true
+Applicatieprofiel GeoDCAT-AP VL,true,true,true,true,true,true,true,true,true,true,false,false,false,true,false,true,true
 Applicatieprofiel Vervoersknooppunten,true,true,true,true,true,true,true,true,true,true,true,true,false,false,false,true,true
 Vocabularium Vervoersknooppunten,true,true,true,true,true,true,true,true,true,true,true,true,false,false,false,true,true
 Applicatieprofiel LDES,true,true,true,true,true,false,true,true,true,true,false,true,false,false,false,true,true
@@ -234,7 +234,7 @@ Vocabularium Lokale Economie,true,true,true,true,true,false,true,true,true,true,
 Applicatieprofiel Overlijdensaangifte,true,true,true,true,true,true,true,true,true,true,true,true,false,false,false,true,true
 Vocabularium Overlijdensaangifte,true,true,true,true,true,true,true,true,true,true,true,true,false,false,false,true,true
 Vocabularium Gezondheidstoestand Persoon,true,true,true,true,true,true,true,true,true,true,true,true,false,false,false,true,true
-Applicatieprofiel Dienstverlening Aan Personen,true,true,true,true,true,true,true,true,true,true,false,false,true,false,false,true,true
+Applicatieprofiel Dienstverlening Aan Personen,true,true,true,true,true,true,true,true,true,true,true,true,true,false,false,true,true
 Vocabularium Kindfiche,true,true,true,true,true,true,true,true,true,true,false,false,true,false,false,true,true
 Vocabularium OSLO Statistiek,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
 Applicatieprofiel OSLO Statistiek,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
@@ -247,9 +247,9 @@ Applicatieprofiel Digitale Watermeter,true,true,true,true,true,true,true,true,tr
 Vocabularium Nutsvoorzieningen Meters,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,true
 Applicatieprofiel Vrachtwagenparkeren,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
 Vocabularium Vrachtwagenparkeren,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
-Applicatieprofiel Zaalreservatie,true,true,true,true,true,true,true,true,true,true,false,false,true,true,false,true,true
-Vocabularium Zaalreservatie,true,true,true,true,true,true,true,true,true,true,false,false,true,true,false,true,true
-Applicatieprofiel Openbare Nutsvoorzieningkasten,true,true,true,false,true,false,true,true,true,true,false,false,true,true,false,true,true
+Applicatieprofiel Zaalreservatie,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true
+Vocabularium Zaalreservatie,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true
+Applicatieprofiel Openbare Nutsvoorzieningkasten,true,true,true,true,true,false,true,true,true,true,true,true,true,true,false,true,true
 Implementatiemodel Verkeersmeldingen,true,true,true,true,true,false,true,true,true,true,false,false,true,true,false,true,true
 Applicatieprofiel Rooilijnplannen,true,true,true,true,true,true,true,true,true,true,false,false,true,true,false,true,true
 Vocabularium Rooilijnplannen,true,true,true,true,true,true,true,true,true,true,false,false,true,true,false,true,true
