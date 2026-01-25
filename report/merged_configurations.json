@@ -12289,49 +12289,6 @@
     },
     "{\n  \"title\": \"API richtlijnen\",\n  \"category\": \"https://data.vlaanderen.be/id/concept/StandaardType/TechnischeStandaard\",\n  \"usage\": \"https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen\",\n  \"status\": \"https://data.vlaanderen.be/id/concept/StandaardStatus/NotaWerkgroep\",\n  \"descriptionFileName\": \"api-guidelines.md\",\n  \"responsibleOrganisation\": [\n    {\n      \"name\": \"Agentschap Digitaal Vlaanderen\",\n      \"resourceReference\": \"http://data.vlaanderen.be/id/organisatie/OVO002949\"\n    }\n  ],\n  \"publicationDate\": \"2020-02-01\",\n  \"specificationDocuments\": [\n     \"name\": \"REST API richtlijnen\",\n      \"resourceReference\": \"https://data.vlaanderen.be/doc/richtlijnen/iv-rest-api-richtlijnen/\"\n  ],\n  \"documentation\": [\n     {\n      \"name\": \"Generieke Hypermedia API richtlijnen\",\n      \"resourceReference\": \"https://data.vlaanderen.be/standaarden/generieke-hypermedia-api\"\n    }\n  ],\n  \"reports\": [\n    {\n      \"name\": \"Thematische Werkgroep API guidelines 1 - 2020-02-18\",\n      \"resourceReference\": \"https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Standaarden/standaardenregister/reports/OSLO API Guidelines - Workshop 1 18_02_20 - Verslag.pdf\"\n    },\n    {\n      \"name\": \"Thematische Werkgroep API guidelines 2 - 2020-03-19\",\n      \"resourceReference\": \"https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Standaarden/standaardenregister/reports/OSLO API Guidelines - Workshop 2 19_03_20 - Verslag.docx\"\n    }\n  ],\n  \"charter\": {\n    \"resourceReference\": \"https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Standaarden/standaardenregister/charter/\"\n  },\n  \"presentations\": [\n    {\n      \"name\": \"Presentatie thematische werkgroep 1 - 18 februari 2020\",\n      \"resourceReference\": \"https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Standaarden/standaardenregister/presentations/18022020 - API guidelines WS1.pptx\"\n    },\n    {\n      \"name\": \"Presentatie thematische werkgroep 2 - 19 maart 2020\",\n      \"resourceReference\": \"https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Standaarden/standaardenregister/presentations/19032020 - API guidelines WS2.pptx\"\n    },\n    {\n      \"name\": \"Presentatie thematische werkgroep 3 (herhaling sessie 1, online) - 9 juni 2020\",\n      \"resourceReference\": \"https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Standaarden/standaardenregister/presentations/09062020 - API guidelines WS3.pptx\"\n    }\n  ],\n  \"dateOfRegistration\": \"2020-02-01\",\n  \"dateOfAcknowledgementByWorkingGroup\": \"TBD\",\n  \"dateOfAcknowledgementBySteeringCommittee\": \"TBD\",\n  \"repository\": \"OSLO-Standaarden\",\n  \"datePublicReviewStart\": \"\",\n  \"endOfPublicationDate\": \"\",\n  \"domain\": \"https://data.vlaanderen.be/id/concept/Domein/Technologie\"\n}\n",
     {
-        "title": "Conformiteitsraamwerk voor data standaarden",
-        "category": "https://data.vlaanderen.be/doc/concept/StandaardType/TechnischeStandaard",
-        "usage": "https://data.vlaanderen.be/doc/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/NotaWerkgroep",
-        "descriptionFileName": "conformiteitsraamwerk.md",
-        "responsibleOrganisation": [
-            {
-                "name": "Agentschap Digitaal Vlaanderen",
-                "resourceReference": "http://data.vlaanderen.be/id/organisatie/OVO002949"
-            }
-        ],
-        "publicationDate": "2020-06-07",
-        "specificationDocuments": [
-            {
-                "name": "Draft conformiteitsraamwerk",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/specifications/OSLO%20Conformiteitsraamwerk%20v1.00_DRAFT.pdf"
-            }
-        ],
-        "documentation": [],
-        "reports": [
-            {
-                "name": "Verslag workshop - 30 november 2020",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/reports/Verslag%20werkgroep%20OSLO%20conformiteit.pdf"
-            }
-        ],
-        "charter": {
-            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/charter/"
-        },
-        "presentations": [
-            {
-                "name": "Presentatie workshop - 30 november 2020",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/presentations/20201130%20Workshop%20conformiteitsraamwerk.pdf"
-            }
-        ],
-        "dateOfRegistration": "2020-03-11",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
-        "repository": "OSLOthema-metadataVoorServices",
-        "datePublicReviewStart": "",
-        "endOfPublicationDate": "",
-        "domain": "https://data.vlaanderen.be/id/concept/Domein/Technologie"
-    },
-    {
         "title": "Applicatieprofiel DCAT-AP VL",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
@@ -12347,7 +12304,7 @@
         "specificationDocuments": [
             {
                 "name": "Applicatieprofiel DCAT-AP VL",
-                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/kandidaatstandaard/2025-12-09/"
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/"
             }
         ],
         "documentation": [],
@@ -12376,7 +12333,59 @@
             }
         ],
         "dateOfRegistration": "2025-09-11",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
+        "dateOfAcknowledgementByWorkingGroup": "2026-01-08",
+        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "repository": "OSLOthema-metadataVoorServices",
+        "datePublicReviewStart": "",
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Technologie"
+    },
+    {
+        "title": "Applicatieprofiel DCAT-AP VL",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
+        "descriptionFileName": "metadata.md",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "http://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2025-09-10",
+        "specificationDocuments": [
+            {
+                "name": "Applicatieprofiel DCAT-AP VL",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/DCAT-AP-VL/"
+            }
+        ],
+        "documentation": [],
+        "reports": [
+            {
+                "name": "Verslag webinar 1 - 17 september 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/reports/Verslag%20webinar%20één%20-%2017%20september%202025.pdf"
+            },
+            {
+                "name": "Verslag webinar 2 - 21 oktober 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/reports/Verslag_Webinar_2_DCAT-AP.3.0.pdf"
+            }
+        ],
+        "charter": {
+            "name": "Charter OSLO DCAT-AP 3.0",
+            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/charter/Charter_OSLO_DCAT3.0.pdf"
+        },
+        "presentations": [
+            {
+                "name": "Presentatie webinar 1 - 17 september 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/presentations/Presentatie%20webinar%20één%20-%2017%20september%202025.pdf"
+            },
+            {
+                "name": "Presentatie webinar 2 - 21 oktober 2025",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-metadataVoorServices/standaardenregister/presentations/Presentatie_webinar_2_OLSO_DCAT-AP3.0.pdf"
+            }
+        ],
+        "dateOfRegistration": "2025-09-11",
+        "dateOfAcknowledgementByWorkingGroup": "2026-01-08",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-metadataVoorServices",
         "datePublicReviewStart": "",
@@ -12428,7 +12437,7 @@
             }
         ],
         "dateOfRegistration": "2025-09-11",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
+        "dateOfAcknowledgementByWorkingGroup": "2026-01-08",
         "dateOfAcknowledgementBySteeringCommittee": "TBD",
         "repository": "OSLOthema-metadataVoorServices",
         "datePublicReviewStart": "",
@@ -17713,7 +17722,7 @@
         "datePublicReviewStart": "2025-07-22",
         "datePublicReviewEnd": "2025-10-22",
         "endOfPublicationDate": "2026-01-07",
-        "domain": "https://data.vlaanderen.be/doc/concept/Domein/Cultuur",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Cultuur",
         "functionalScope": "Uniform beschrijven en uitwisselen van zaal- en infrastructuurreservaties binnen en buiten de publieke dienstverlening."
     },
     {
@@ -17795,7 +17804,7 @@
         "datePublicReviewStart": "2025-07-22",
         "datePublicReviewEnd": "2025-10-22",
         "endOfPublicationDate": "2026-01-07",
-        "domain": "https://data.vlaanderen.be/doc/concept/Domein/Cultuur",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Cultuur",
         "functionalScope": "Uniform beschrijven en uitwisselen van zaal- en infrastructuurreservaties binnen en buiten de publieke dienstverlening."
     },
     {
@@ -17935,7 +17944,7 @@
         "datePublicReviewStart": "2025-07-29",
         "datePublicReviewEnd": "2025-10-31",
         "endOfPublicationDate": "TBD",
-        "domain": "https://data.vlaanderen.be/doc/concept/Domein/Mobiliteit",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit",
         "functionalScope": "Uniform modelleren en uitwisselen van verkeersmeldingen en -metingen met de klasse Observatie als centrale schakel (over verkeersobjecten, situaties en mobiliteitshinder)."
     },
     {
