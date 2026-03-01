@@ -12292,7 +12292,7 @@
         "title": "Applicatieprofiel DCAT-AP VL",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "metadata.md",
         "responsibleOrganisation": [
             {
@@ -12334,7 +12334,7 @@
         ],
         "dateOfRegistration": "2025-09-11",
         "dateOfAcknowledgementByWorkingGroup": "2026-01-08",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "dateOfAcknowledgementBySteeringCommittee": "2026-02-20",
         "repository": "OSLOthema-metadataVoorServices",
         "datePublicReviewStart": "",
         "endOfPublicationDate": "",
@@ -12344,7 +12344,7 @@
         "title": "Applicatieprofiel DCAT-AP VL",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "metadata.md",
         "responsibleOrganisation": [
             {
@@ -12386,7 +12386,7 @@
         ],
         "dateOfRegistration": "2025-09-11",
         "dateOfAcknowledgementByWorkingGroup": "2026-01-08",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "dateOfAcknowledgementBySteeringCommittee": "2026-02-20",
         "repository": "OSLOthema-metadataVoorServices",
         "datePublicReviewStart": "",
         "endOfPublicationDate": "",
@@ -12396,7 +12396,7 @@
         "title": "Vocabularium metadata DCAT",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "metadata.md",
         "responsibleOrganisation": [
             {
@@ -12438,7 +12438,7 @@
         ],
         "dateOfRegistration": "2025-09-11",
         "dateOfAcknowledgementByWorkingGroup": "2026-01-08",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "dateOfAcknowledgementBySteeringCommittee": "2026-02-20",
         "repository": "OSLOthema-metadataVoorServices",
         "datePublicReviewStart": "",
         "endOfPublicationDate": "",
@@ -14665,7 +14665,7 @@
         "title": "Applicatieprofiel GeoDCAT-AP VL",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "ap-geodcat-ap-vl.md",
         "responsibleOrganisation": [
             {
@@ -14755,8 +14755,8 @@
             }
         ],
         "dateOfRegistration": "2025-11-13",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "dateOfAcknowledgementByWorkingGroup": "2026-01-08",
+        "dateOfAcknowledgementBySteeringCommittee": "2026-02-20",
         "repository": "OSLOthema-GEODCATAPVlaanderen",
         "datePublicReviewEnd": "2026-01-07",
         "datePublicReviewStart": "",
@@ -17880,7 +17880,7 @@
         "title": "Implementatiemodel Verkeersmeldingen",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -17939,11 +17939,11 @@
             }
         ],
         "dateOfRegistration": "2025-03-27",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "dateOfAcknowledgementByWorkingGroup": "2026-01-08",
+        "dateOfAcknowledgementBySteeringCommittee": "2026-02-12",
         "datePublicReviewStart": "2025-07-29",
         "datePublicReviewEnd": "2025-10-31",
-        "endOfPublicationDate": "TBD",
+        "endOfPublicationDate": " ",
         "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit",
         "functionalScope": "Uniform modelleren en uitwisselen van verkeersmeldingen en -metingen met de klasse Observatie als centrale schakel (over verkeersobjecten, situaties en mobiliteitshinder)."
     },
@@ -17951,7 +17951,7 @@
         "title": "Applicatieprofiel Rooilijnplannen",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -18021,8 +18021,8 @@
             }
         ],
         "dateOfRegistration": "2025-01-09",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "dateOfAcknowledgementByWorkingGroup": "2026-01-08",
+        "dateOfAcknowledgementBySteeringCommittee": "2026-02-12",
         "datePublicReviewStart": "2025-07-20",
         "datePublicReviewEnd": "2025-11-20",
         "endOfPublicationDate": "TBD",
@@ -18033,7 +18033,7 @@
         "title": "Vocabularium Rooilijnplannen",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/doc/concept/StandaardStatus/KandidaatStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
@@ -18103,8 +18103,8 @@
             }
         ],
         "dateOfRegistration": "2025-01-09",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "dateOfAcknowledgementByWorkingGroup": "2026-01-08",
+        "dateOfAcknowledgementBySteeringCommittee": "2026-02-12",
         "datePublicReviewStart": "2025-07-20",
         "datePublicReviewEnd": "2025-11-20",
         "endOfPublicationDate": "TBD",
