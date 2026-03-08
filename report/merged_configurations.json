@@ -12300,7 +12300,7 @@
                 "resourceReference": "http://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "2025-09-10",
+        "publicationDate": "2026-02-20",
         "specificationDocuments": [
             {
                 "name": "Applicatieprofiel DCAT-AP VL",
@@ -12352,7 +12352,7 @@
                 "resourceReference": "http://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "2025-09-10",
+        "publicationDate": "2026-02-20",
         "specificationDocuments": [
             {
                 "name": "Applicatieprofiel DCAT-AP VL",
@@ -12404,7 +12404,7 @@
                 "resourceReference": "http://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "2025-09-10",
+        "publicationDate": "2026-02-20",
         "specificationDocuments": [
             {
                 "name": "Vocabularium metadata DCAT",
@@ -14673,11 +14673,11 @@
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "2025-09-10",
+        "publicationDate": "2026-02-20",
         "specificationDocuments": [
             {
                 "name": "GeoDCAT-AP Vlaanderen",
-                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/GEODCAT-AP-VL/kandidaatstandaard/2025-12-09/"
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/GEODCAT-AP-VL/"
             }
         ],
         "documentation": [
@@ -17954,8 +17954,8 @@
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "responsibleOrganisation": [
             {
-                "name": "Agentschap Digitaal Vlaanderen",
-                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+                "name": "Vereniging van Vlaamse Steden en Gemeenten",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO001989"
             }
         ],
         "publicationDate": "2025-06-01",
@@ -18036,8 +18036,8 @@
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "responsibleOrganisation": [
             {
-                "name": "Agentschap Digitaal Vlaanderen",
-                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+                "name": "Vereniging van Vlaamse Steden en Gemeenten",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO001989"
             }
         ],
         "publicationDate": "2025-06-01",
