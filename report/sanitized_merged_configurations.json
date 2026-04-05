@@ -32,7 +32,7 @@
         "presentations": true,
         "dateOfRegistration": true,
         "dateOfAcknowledgementByWorkingGroup": false,
-        "dateOfAcknowledgementBySteeringCommittee": false,
+        "dateOfAcknowledgementBySteeringCommittee": true,
         "datePublicReviewStart": true,
         "datePublicReviewEnd": true,
         "endOfPublicationDate": false,

@@ -70,14 +70,14 @@
         "title": "Applicatieprofiel Thermografische Gebouwanalyse",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Agentschap Digitaal Vlaanderen",
                 "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
             }
         ],
-        "publicationDate": "2025-05-22",
+        "publicationDate": "2025-12-11",
         "descriptionFileName": "thermai-description.md",
         "specificationDocuments": [
             {
@@ -92,7 +92,7 @@
         "documentation": [
             {
                 "name": "Modelleerrapport",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-thermAI/blob/main/resources/ModelleerrapportThermAI.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/main/resources/ModelleerrapportThermAI.pdf"
             },
             {
                 "name": "Datavoorbeelden",
@@ -114,7 +114,7 @@
             },
             {
                 "name": "Verslag Thematische Werkgroep 3 - 15-05-2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-thermAI/blob/standaardenregister/reports/Verslag%20Thematische%20werkgroep%203%20-%20CoT%20ThermAI%202025-04-15.docx.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/reports/Verslag%20Thematische%20werkgroep%203%20-%20CoT%20ThermAI%202025-04-15.docx.pdf"
             }
         ],
         "presentations": [
@@ -132,12 +132,12 @@
             },
             {
                 "name": "Presentatie Thematische Werkgroep 3 - 15-05-2025",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-thermAI/blob/standaardenregister/presentations/Slides%20-%20Thematische%20werkgroep%203%20-%20ThermAI.pdf"
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-thermAI/standaardenregister/presentations/Slides%20-%20Thematische%20werkgroep%203%20-%20ThermAI.pdf"
             }
         ],
         "dateOfRegistration": "2024-12-1",
         "dateOfAcknowledgementByWorkingGroup": "",
-        "dateOfAcknowledgementBySteeringCommittee": "",
+        "dateOfAcknowledgementBySteeringCommittee": "2025-12-11",
         "datePublicReviewStart": "2025-07-16",
         "datePublicReviewEnd": "2025-09-11",
         "endOfPublicationDate": "",
