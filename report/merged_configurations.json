@@ -18161,7 +18161,7 @@
         ],
         "charter": {
             "name": "Charter SSNSOSAVL",
-            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SSNSOSA-VL/standaardenregister/charter/Template-Werkgroep-Charter-OSLO.docx"
+            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SSNSOSA-VL/standaardenregister/charter/Charter_OSLO_SSN%20SOSA%20VL.docx"
         },
         "reports": [
             {
@@ -18171,6 +18171,10 @@
             {
                 "name": "Verslag Thematische Werkgroep 1 - 14 januari 2026",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SSNSOSA-VL/standaardenregister/reports/Verslag%20Thematische%20werkgroep%201%20-%20SSN%20SOSA%20%202026-02-02.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 2 - 3 april 2026",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SSNSOSA-VL/standaardenregister/reports/Verslag%20Thematische%20werkgroep%202%20-%20SSN%20SOSA%20%202026-03-04.pdf"
             }
         ],
         "presentations": [
@@ -18181,15 +18185,72 @@
             {
                 "name": "Presentatie Thematische Werkgroep 1 - 14 januari 2026",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SSNSOSA-VL/standaardenregister/presentations/Presentatie%20SSN%20SOSA%20VL%20Thematische%20werkgroep%201.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 2 - 3 april 2026",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SSNSOSA-VL/standaardenregister/presentations/Presentatie%20SSN%20SOSA%20VL%20Thematische%20werkgroep%202.pdf"
             }
         ],
+        "implementations": [],
+        "relevantStandards": [],
+        "dataExamples": [],
         "dateOfRegistration": "2025-11-13",
         "dateOfAcknowledgementByWorkingGroup": "",
         "dateOfAcknowledgementBySteeringCommittee": "",
         "datePublicReviewStart": "",
         "datePublicReviewEnd": "",
         "endOfPublicationDate": "",
-        "domain": "https://data.vlaanderen.be/doc/concept/Domein/Omgeving",
-        "functionalScope": "Inspiratiebundel met betrekking tot SSN SOSA VL"
+        "domain": "https://data.vlaanderen.be/doc/concept/Domein/Omgeving"
+    },
+    {
+        "title": "Implementatiemodel Geluidsmeldingen en -metingen",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2026-04-17",
+        "descriptionFileName": "NDNN-description.md",
+        "specificationDocuments": [
+            {
+                "name": "Implementatiemodel Nudging Down Night Noise",
+                "resourceReference": "https://data.vlaanderen.be/doc/implementatiemodel/nudgingdownnightnoise/"
+            }
+        ],
+        "documentation": [],
+        "charter": {
+            "name": "Charter NDNN",
+            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-NDNN/standaardenregister/charter/Werkgroep%20charter%20OSLO_NudgingDownNightNoise.pdf"
+        },
+        "reports": [
+            {
+                "name": "Verslag Business Werkgroep - 5 maart 2026",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-NDNN/standaardenregister/reports/Verslag%20Nuding%20Down%20Night%20Noise%20business%20werkgroep%2005-03-2026%20(1).pdf"
+            }
+        ],
+        "presentations": [
+            {
+                "name": "Presentatie Business Werkgroep -  5 maart 2026",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-NDNN/standaardenregister/presentations/Presentatie%20Business%20Werkgroep%20NDNN%2005-03-2026.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep - 2 April 2026",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-NDNN/standaardenregister/presentations/Presentatie%20Thematische%20werkgroep%201%20NDNN%2002-04-2026.pdf"
+            }
+        ],
+        "implementations": [],
+        "relevantStandards": [],
+        "dataExamples": [],
+        "dateOfRegistration": "2025-10-27",
+        "dateOfAcknowledgementByWorkingGroup": "",
+        "dateOfAcknowledgementBySteeringCommittee": "",
+        "datePublicReviewStart": "",
+        "datePublicReviewEnd": "",
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Werk"
     }
 ]
