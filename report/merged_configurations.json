@@ -4702,7 +4702,7 @@
                 "resourceReference": "http://data.vlaanderen.be/id/organisatie/OVO000067"
             }
         ],
-        "publicationDate": "2022-04-28",
+        "publicationDate": "2024-09-11",
         "specificationDocuments": [
             {
                 "name": "Applicatieprofiel Cultuurparticipatie",
@@ -4790,7 +4790,7 @@
     },
     {
         "title": "Vocabularium Cultuurparticipatie",
-        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
         "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "descriptionFileName": "voc-doelgericht-digitaal-transformeren-config.md",
@@ -4800,7 +4800,7 @@
                 "resourceReference": "http://data.vlaanderen.be/id/organisatie/OVO000067"
             }
         ],
-        "publicationDate": "2022-04-28",
+        "publicationDate": "2024-09-11",
         "specificationDocuments": [
             {
                 "name": "Vocabularium Cultuurparticipatie",
@@ -18218,7 +18218,7 @@
         "specificationDocuments": [
             {
                 "name": "Implementatiemodel Nudging Down Night Noise",
-                "resourceReference": "https://data.vlaanderen.be/doc/implementatiemodel/nudgingdownnightnoise/2026-04-14"
+                "resourceReference": "https://data.vlaanderen.be/doc/implementatiemodel/geluidsmeldingen-en-geluidsmetingen/ontwerpstandaard/2026-05-20"
             }
         ],
         "documentation": [],
@@ -18251,6 +18251,6 @@
         "datePublicReviewStart": "",
         "datePublicReviewEnd": "",
         "endOfPublicationDate": "",
-        "domain": "https://data.vlaanderen.be/id/concept/Domein/Werk"
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Welzijn"
     }
 ]
