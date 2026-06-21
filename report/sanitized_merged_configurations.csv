@@ -3,8 +3,8 @@ Applicatieprofiel Energiemanagementsysteem,true,true,true,true,true,false,true,t
 Applicatieprofiel Thermografische Gebouwanalyse,true,true,true,true,true,true,true,true,true,true,false,true,true,true,false,true,true
 Applicatieprofiel Leermiddelen en doelen,true,true,true,true,true,false,true,true,true,true,false,false,true,true,false,true,true
 Applicatieprofiel Energiehuis,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true
-Vocabularium VKBO - Onderneming,true,true,true,true,true,false,true,false,false,true,false,false,true,false,true,true,true
-Implementatiemodel VKBO - Onderneming,true,true,true,true,true,false,true,false,false,true,false,false,true,false,true,true,true
+Vocabularium VKBO - Onderneming,true,true,true,true,true,false,true,false,false,true,true,true,true,false,true,true,true
+Implementatiemodel VKBO - Onderneming,true,true,true,true,true,false,true,false,false,true,true,true,true,false,true,true,true
 Vocabularium Energiehuis,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true
 Vocabularium Hulp- en Dienstverlening aan Gedetineerden,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true
 Applicatieprofiel Hulp- en Dienstverlening aan Gedetineerden,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true
@@ -77,7 +77,7 @@ Vocabularium Toeristische Logies,true,true,true,true,true,false,true,true,true,t
 Applicatieprofiel Adresregister,true,true,true,true,true,false,true,true,false,true,false,false,false,false,false,true,true
 Vocabularium Adres,true,true,true,true,true,false,true,true,true,true,true,true,false,false,false,true,true
 Applicatieprofiel Gebouwenregister,true,true,true,true,true,false,true,true,false,true,true,false,false,false,false,true,true
-Vocabularium Gebouw,true,true,true,true,true,false,true,true,false,true,true,false,false,false,false,true,true
+Vocabularium Gebouw,true,true,true,true,true,false,true,true,false,true,true,true,false,false,false,true,true
 Applicatieprofiel Inname openbaar domein,true,true,true,true,true,false,true,true,true,true,false,false,false,false,false,true,true
 Applicatieprofiel Notificatie Basis,true,true,true,true,true,false,true,true,false,true,true,true,false,false,false,true,true
 Vocabularium Notificatie,true,true,true,true,true,false,true,true,false,true,true,true,false,false,false,true,true
@@ -237,7 +237,6 @@ Applicatieprofiel Overlijdensaangifte,true,true,true,true,true,true,true,true,tr
 Vocabularium Overlijdensaangifte,true,true,true,true,true,true,true,true,true,true,true,true,false,false,false,true,true
 Vocabularium Gezondheidstoestand Persoon,true,true,true,true,true,true,true,true,true,true,true,true,false,false,false,true,true
 Applicatieprofiel Dienstverlening Aan Personen,true,true,true,true,true,true,true,true,true,true,true,true,true,false,false,true,true
-Vocabularium Kindfiche,true,true,true,true,true,true,true,true,true,true,false,false,true,false,false,true,true
 Vocabularium OSLO Statistiek,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
 Applicatieprofiel OSLO Statistiek,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true
 Vocabularium OSLO Datakwaliteit,true,true,true,true,true,true,true,true,true,true,false,false,false,false,false,true,true

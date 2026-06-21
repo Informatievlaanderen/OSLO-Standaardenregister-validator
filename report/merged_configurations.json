@@ -147,7 +147,7 @@
         "title": "Applicatieprofiel Leermiddelen en doelen",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Applicatieprofiel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
         "responsibleOrganisation": [
             {
                 "name": "Departement Onderwijs en Vorming",
@@ -372,15 +372,23 @@
             {
                 "name": "W3C The Organization Ontology",
                 "resourceReference": "https://www.w3.org/TR/vocab-org/"
+            },
+            {
+                "name": "SEMIC Core Public Organisation Vocabulary",
+                "resourceReference": "https://semiceu.github.io/CPOV/releases/2.1.2/"
+            },
+            {
+                "name": "SEMIC Core Business Vocabulary",
+                "resourceReference": "https://semiceu.github.io/Core-Business-Vocabulary/releases/2.3.0/"
             }
         ],
         "dataExamples": [],
         "dateOfRegistration": "2026-04-21",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "dateOfAcknowledgementByWorkingGroup": "n.v.t.",
+        "dateOfAcknowledgementBySteeringCommittee": "n.v.t.",
         "repository": "OSLOthema-organisatie",
-        "datePublicReviewStart": "nvt",
-        "endOfPublicationDate": "nvt",
+        "datePublicReviewStart": "n.v.t.",
+        "endOfPublicationDate": "n.v.t.",
         "domain": "https://data.vlaanderen.be/id/concept/Domein/Economie"
     },
     {
@@ -432,15 +440,23 @@
             {
                 "name": "W3C The Organization Ontology",
                 "resourceReference": "https://www.w3.org/TR/vocab-org/"
+            },
+            {
+                "name": "SEMIC Core Public Organisation Vocabulary",
+                "resourceReference": "https://semiceu.github.io/CPOV/releases/2.1.2/"
+            },
+            {
+                "name": "SEMIC Core Business Vocabulary",
+                "resourceReference": "https://semiceu.github.io/Core-Business-Vocabulary/releases/2.3.0/"
             }
         ],
         "dataExamples": [],
         "dateOfRegistration": "2026-04-21",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "dateOfAcknowledgementByWorkingGroup": "n.v.t.",
+        "dateOfAcknowledgementBySteeringCommittee": "n.v.t.",
         "repository": "OSLOthema-organisatie",
-        "datePublicReviewStart": "nvt",
-        "endOfPublicationDate": "nvt",
+        "datePublicReviewStart": "n.v.t.",
+        "endOfPublicationDate": "n.v.t.",
         "domain": "https://data.vlaanderen.be/id/concept/Domein/Economie"
     },
     {
@@ -6567,8 +6583,8 @@
         },
         "presentations": [],
         "dateOfRegistration": "2018-04-10",
-        "dateOfAcknowledgementByWorkingGroup": "2018-11-08",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
+        "dateOfAcknowledgementByWorkingGroup": "2018-05-29",
+        "dateOfAcknowledgementBySteeringCommittee": "2018-07-03",
         "repository": "OSLOthema-gebouwEnAdres",
         "datePublicReviewStart": "",
         "endOfPublicationDate": "",
@@ -16988,79 +17004,6 @@
         "domain": "https://data.vlaanderen.be/id/concept/Domein/Welzijn"
     },
     {
-        "title": "Vocabularium Kindfiche",
-        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
-        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
-        "descriptionFileName": "dienstverlening-aan-personen-description.md",
-        "responsibleOrganisation": [
-            {
-                "name": "Agentschap Digitaal Vlaanderen",
-                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
-            }
-        ],
-        "publicationDate": "2024-03-19",
-        "specificationDocuments": [
-            {
-                "name": "Vocabularium Kindfiche",
-                "resourceReference": "https://data.vlaanderen.be/ns/kindfiche/"
-            }
-        ],
-        "documentation": [
-            {
-                "name": "Applicatieprofiel Dienstverlening Aan Personen",
-                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/dienstverlening-aan-personen/"
-            }
-        ],
-        "reports": [
-            {
-                "name": "Verslag Business Werkgroep - 13 februari 2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-kindFiche/standaardenregister/reports/Verslag Business werkgroep Kindfiche 2023-02-13.pdf"
-            },
-            {
-                "name": "Verslag Thematische Werkgroep I - 12 maart 2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-kindFiche/standaardenregister/reports/Verslag Thematische Werkgroep 1 - OSLO Kindfiche (2).pdf"
-            },
-            {
-                "name": "Verslag Thematische Werkgroep II - 9 april 2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-kindFiche/standaardenregister/reports/Verslag Thematische Werkgroep 2 - OSLO Kindfiche.docx.pdf"
-            },
-            {
-                "name": "Verslag Thematische Werkgroep III - 7 mei 2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-kindFiche/standaardenregister/reports/Verslag Thematische Werkgroep 3 - OSLO Kindfiche.pdf"
-            }
-        ],
-        "charter": {
-            "name": "Charter Kindfiche",
-            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-kindFiche/standaardenregister/charter/Werkgroep charter OSLO_Kindfiche.pdf"
-        },
-        "presentations": [
-            {
-                "name": "Presentatie Business Werkgroep -  13 februari 2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-kindFiche/standaardenregister/presentations/2.0 Business Werkgroep presentatie Kindfiche (1).pdf"
-            },
-            {
-                "name": "Presentatie Thematische Werkgroep I - 12 maart 2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-kindFiche/standaardenregister/presentations/Thematische werkgroep 1 presentatie Kindfiche (1).pdf"
-            },
-            {
-                "name": "Presentatie Thematische Werkgroep II - 9 april 2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-kindFiche/standaardenregister/presentations/Thematische werkgroep 2 presentatie Kindfiche.pdf"
-            },
-            {
-                "name": "Presentatie Thematische Werkgroep III - 7 mei 2024",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-kindFiche/standaardenregister/presentations/Thematische werkgroep 3 presentatie OSLO Kindfiche.pdf"
-            }
-        ],
-        "dateOfRegistration": "2023-12-19",
-        "dateOfAcknowledgementByWorkingGroup": "TBD",
-        "dateOfAcknowledgementBySteeringCommittee": "TBD",
-        "repository": "OSLOthema-kindFiche",
-        "datePublicReviewStart": "2024-06-18",
-        "endOfPublicationDate": "",
-        "domain": "https://data.vlaanderen.be/id/concept/Domein/Welzijn"
-    },
-    {
         "title": "Vocabularium OSLO Statistiek",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
@@ -18295,6 +18238,10 @@
             {
                 "name": "Verslag Thematische Werkgroep 2 - 3 april 2026",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SSNSOSA-VL/standaardenregister/reports/Verslag%20Thematische%20werkgroep%202%20-%20SSN%20SOSA%20%202026-03-04.pdf"
+            },
+            {
+                "name": "Verslag Thematische Werkgroep 3 - 29 april 2026",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SSNSOSA-VL/standaardenregister/reports/Verslag%20Thematische%20werkgroep%203%20-%20SSN%20SOSA%20%202026-29-04.pdf"
             }
         ],
         "presentations": [
@@ -18309,6 +18256,10 @@
             {
                 "name": "Presentatie Thematische Werkgroep 2 - 3 april 2026",
                 "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SSNSOSA-VL/standaardenregister/presentations/Presentatie%20SSN%20SOSA%20VL%20Thematische%20werkgroep%202.pdf"
+            },
+            {
+                "name": "Presentatie Thematische Werkgroep 3 - 29 april 2026",
+                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SSNSOSA-VL/standaardenregister/presentations/Presentatie%20SSN%20SOSA%20VL%20Thematische%20werkgroep%203.pdf"
             }
         ],
         "implementations": [],
