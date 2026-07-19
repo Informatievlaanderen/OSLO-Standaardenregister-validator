@@ -5151,10 +5151,10 @@
         "reports": true,
         "presentations": true,
         "dateOfRegistration": true,
-        "dateOfAcknowledgementByWorkingGroup": false,
+        "dateOfAcknowledgementByWorkingGroup": true,
         "dateOfAcknowledgementBySteeringCommittee": false,
-        "datePublicReviewStart": false,
-        "datePublicReviewEnd": false,
+        "datePublicReviewStart": true,
+        "datePublicReviewEnd": true,
         "endOfPublicationDate": false,
         "usage": true,
         "status": true
