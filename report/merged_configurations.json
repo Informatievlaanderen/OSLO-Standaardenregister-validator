@@ -18369,5 +18369,210 @@
         "datePublicReviewEnd": "2026-06-12",
         "endOfPublicationDate": "",
         "domain": "https://data.vlaanderen.be/id/concept/Domein/Welzijn"
+    },
+    {
+        "title": "Implementatiemodel MAGDA - Voertuigregistraties",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ZonderStatus",
+        "descriptionFileName": "impl-magda-voertuigregistraties-im.md",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2026-07-31",
+        "specificationDocuments": [
+            {
+                "name": "Implementatiemodel MAGDA - Voertuigregistraties",
+                "resourceReference": "https://implementatie.data.vlaanderen.be/doc/implementatiemodel/magda/voertuigregistratie"
+            }
+        ],
+        "documentation": [],
+        "reports": [],
+        "charter": {},
+        "presentations": [],
+        "implementations": [],
+        "relevantStandards": [
+            {
+                "name": "Vocabularium MAGDA-Voertuigregistraties",
+                "resourceReference": "https://implementatie.data.vlaanderen.be/ns/voertuigregistratie"
+            },
+            {
+                "name": "Vocabularium Voertuigregistraties",
+                "resourceReference": "https://data.vlaanderen.be/ns/voertuigregistratie"
+            },
+            {
+                "name": "Applicatieprofiel OSLO Persoon",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/persoon-basis"
+            },
+            {
+                "name": "Implementatiemodel OSLO Persoon",
+                "resourceReference": "https://data.vlaanderen.be/ns/persoon#"
+            },
+            {
+                "name": "Applicatieprofiel OSLO Organisatie",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/organisatie-basis"
+            },
+            {
+                "name": "Implementatiemodel OSLO Organisatie",
+                "resourceReference": "https://data.vlaanderen.be/ns/organisatie#"
+            },
+            {
+                "name": "FOAF Vocabulary Specification",
+                "resourceReference": "https://xmlns.com/foaf/spec/"
+            },
+            {
+                "name": "SEMIC Core Person Vocabulary",
+                "resourceReference": "https://semiceu.github.io/Core-Person-Vocabulary/releases/2.1.2/"
+            },
+            {
+                "name": "W3C The Organization Ontology",
+                "resourceReference": "https://www.w3.org/TR/vocab-org/"
+            },
+            {
+                "name": "SEMIC Core Public Organisation Vocabulary",
+                "resourceReference": "https://semiceu.github.io/CPOV/releases/2.1.2/"
+            },
+            {
+                "name": "SEMIC Core Business Vocabulary",
+                "resourceReference": "https://semiceu.github.io/Core-Business-Vocabulary/releases/2.3.0/"
+            }
+        ],
+        "dataExamples": [],
+        "dateOfRegistration": "2026-03-25",
+        "dateOfAcknowledgementByWorkingGroup": "n.v.t.",
+        "dateOfAcknowledgementBySteeringCommittee": "n.v.t.",
+        "repository": "OSLOthema-trajectcontrole",
+        "datePublicReviewStart": "n.v.t.",
+        "endOfPublicationDate": "n.v.t.",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
+    },
+    {
+        "title": "Vocabularium MAGDA - Voertuigregistraties",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ZonderStatus",
+        "descriptionFileName": "voc-magda-voertuigregistraties-im.md",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2026-07-31",
+        "specificationDocuments": [
+            {
+                "name": "Vocabularium MAGDA - Voertuigregistraties",
+                "resourceReference": "https://implementatie.data.vlaanderen.be/ns/magda/voertuigregistratie"
+            }
+        ],
+        "documentation": [],
+        "reports": [],
+        "charter": {},
+        "presentations": [],
+        "implementations": [],
+        "relevantStandards": [
+            {
+                "name": "Implementatiemodel MAGDA-Voertuigregistraties",
+                "resourceReference": "https://implementatie.data.vlaanderen.be/doc/implementatiemodel/magda/voertuigregistratie"
+            },
+            {
+                "name": "Vocabularium Voertuigregistraties",
+                "resourceReference": "https://implementatie.data.vlaanderen.be/ns/voertuigregistratie"
+            },
+            {
+                "name": "Applicatieprofiel OSLO Persoon",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/persoon-basis"
+            },
+            {
+                "name": "Vocabularium OSLO Persoon",
+                "resourceReference": "https://data.vlaanderen.be/ns/persoon#"
+            },
+            {
+                "name": "Applicatieprofiel OSLO Organisatie",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/organisatie-basis"
+            },
+            {
+                "name": "Vocabularium OSLO Organisatie",
+                "resourceReference": "https://data.vlaanderen.be/ns/organisatie#"
+            },
+            {
+                "name": "FOAF Vocabulary Specification",
+                "resourceReference": "https://xmlns.com/foaf/spec/"
+            },
+            {
+                "name": "SEMIC Core Person Vocabulary",
+                "resourceReference": "https://semiceu.github.io/Core-Person-Vocabulary/releases/2.1.2/"
+            },
+            {
+                "name": "W3C The Organization Ontology",
+                "resourceReference": "https://www.w3.org/TR/vocab-org/"
+            },
+            {
+                "name": "SEMIC Core Public Organisation Vocabulary",
+                "resourceReference": "https://semiceu.github.io/CPOV/releases/2.1.2/"
+            },
+            {
+                "name": "SEMIC Core Business Vocabulary",
+                "resourceReference": "https://semiceu.github.io/Core-Business-Vocabulary/releases/2.3.0/"
+            }
+        ],
+        "dataExamples": [],
+        "dateOfRegistration": "2026-03-25",
+        "dateOfAcknowledgementByWorkingGroup": "n.v.t.",
+        "dateOfAcknowledgementBySteeringCommittee": "n.v.t.",
+        "repository": "OSLOthema-trajectcontrole",
+        "datePublicReviewStart": "n.v.t.",
+        "endOfPublicationDate": "n.v.t.",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
+    },
+    {
+        "title": "Vocabularium Voertuigregistraties",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "descriptionFileName": "voc-voertuigregistraties.md",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2026-07-31",
+        "specificationDocuments": [
+            {
+                "name": "Vocabularium Voertuigregistraties",
+                "resourceReference": "https://data.vlaanderen.be/ns/voertuigregistratie"
+            }
+        ],
+        "documentation": [],
+        "reports": [],
+        "charter": {},
+        "presentations": [],
+        "implementations": [],
+        "relevantStandards": [
+            {
+                "name": "Implementatiemodel MAGDA-Voertuigregistraties",
+                "resourceReference": "https://implementatie.data.vlaanderen.be/doc/implementatiemodel/magda/voertuigregistratie"
+            },
+            {
+                "name": "Vocabularium MAGDA-Voertuigregistraties",
+                "resourceReference": "https://implementatie.data.vlaanderen.be/ns/magda/voertuigregistratie"
+            },
+            {
+                "name": "Schema.org",
+                "resourceReference": "https://schema.org"
+            }
+        ],
+        "dataExamples": [],
+        "dateOfRegistration": "2026-03-25",
+        "dateOfAcknowledgementByWorkingGroup": "n.v.t.",
+        "dateOfAcknowledgementBySteeringCommittee": "n.v.t.",
+        "repository": "OSLOthema-trajectcontrole",
+        "datePublicReviewStart": "n.v.t.",
+        "endOfPublicationDate": "n.v.t.",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     }
 ]

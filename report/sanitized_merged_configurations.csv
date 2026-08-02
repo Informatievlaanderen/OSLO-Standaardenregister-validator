@@ -257,3 +257,6 @@ Vocabularium Rooilijnplannen,true,true,true,true,true,true,true,true,true,true,t
 Geen titel gevonden,true,true,false,true,false,false,true,false,false,true,true,true,true,true,true,false,false
 SSN SOSA VL,true,true,true,true,false,true,true,true,true,true,false,false,false,false,false,true,true
 Implementatiemodel Geluidsmeldingen en -metingen,true,true,true,true,true,false,true,true,true,true,true,false,true,true,false,true,true
+Implementatiemodel MAGDA - Voertuigregistraties,true,true,true,true,true,false,true,false,false,true,true,true,true,false,true,true,true
+Vocabularium MAGDA - Voertuigregistraties,true,true,true,true,true,false,true,false,false,true,true,true,true,false,true,true,true
+Vocabularium Voertuigregistraties,true,true,true,true,true,false,true,false,false,true,true,true,true,false,true,true,true
