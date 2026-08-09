@@ -260,3 +260,6 @@ Implementatiemodel Geluidsmeldingen en -metingen,true,true,true,true,true,false,
 Implementatiemodel MAGDA - Voertuigregistraties,true,true,true,true,true,false,true,false,false,true,true,true,true,false,true,true,true
 Vocabularium MAGDA - Voertuigregistraties,true,true,true,true,true,false,true,false,false,true,true,true,true,false,true,true,true
 Vocabularium Voertuigregistraties,true,true,true,true,true,false,true,false,false,true,true,true,true,false,true,true,true
+Implementatiemodel Landbouwgebruiksperceel,true,true,true,true,true,false,true,false,false,true,true,true,true,false,true,true,true
+Vocabularium Landbouwgebruiksperceel,true,true,true,true,true,false,true,false,false,true,true,true,true,false,true,true,true
+Vocabularium Gebruiksperceel,true,true,true,true,true,false,true,false,false,true,true,true,true,false,true,true,true

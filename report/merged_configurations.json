@@ -18574,5 +18574,198 @@
         "datePublicReviewStart": "n.v.t.",
         "endOfPublicationDate": "n.v.t.",
         "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
+    },
+    {
+        "title": "Implementatiemodel Landbouwgebruiksperceel",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ZonderStatus",
+        "descriptionFileName": "impl-lv-landbouwgebruiksperceel.md",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2026-08-03",
+        "specificationDocuments": [
+            {
+                "name": "Implementatiemodel Landbouwgebruiksperceel",
+                "resourceReference": "https://implementatie.data.vlaanderen.be/doc/implementatiemodel/lv/landbouwgebruiksperceel"
+            }
+        ],
+        "documentation": [],
+        "reports": [],
+        "charter": {},
+        "presentations": [],
+        "implementations": [],
+        "relevantStandards": [
+            {
+                "name": "Vocabularium Landbouwgebruiksperceel",
+                "resourceReference": "https://implementatie.data.vlaanderen.be/ns/lv/landbouwgebruiksperceel#"
+            },
+            {
+                "name": "Vocabularium Gebruiksperceel",
+                "resourceReference": "https://data.vlaanderen.be/ns/gebruiksperceel#"
+            },
+            {
+                "name": "Applicatieprofiel OSLO Organisatie",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/organisatie-basis"
+            },
+            {
+                "name": "Vocabularium OSLO Organisatie",
+                "resourceReference": "https://data.vlaanderen.be/ns/organisatie#"
+            },
+            {
+                "name": "Applicatieprofiel OSLO Persoon",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/persoon-basis"
+            },
+            {
+                "name": "Vocabularium OSLO Persoon",
+                "resourceReference": "https://data.vlaanderen.be/ns/persoon#"
+            },
+            {
+                "name": "W3C The Organization Ontology",
+                "resourceReference": "https://www.w3.org/TR/vocab-org/"
+            },
+            {
+                "name": "SEMIC Core Public Organisation Vocabulary",
+                "resourceReference": "https://semiceu.github.io/CPOV/releases/2.1.2/"
+            },
+            {
+                "name": "SEMIC Core Business Vocabulary",
+                "resourceReference": "https://semiceu.github.io/Core-Business-Vocabulary/releases/2.3.0/"
+            },
+            {
+                "name": "SEMIC Core Person Vocabulary",
+                "resourceReference": "https://semiceu.github.io/Core-Person-Vocabulary/releases/2.1.2/"
+            }
+        ],
+        "dataExamples": [],
+        "dateOfRegistration": "2026-06-02",
+        "dateOfAcknowledgementByWorkingGroup": "n.v.t.",
+        "dateOfAcknowledgementBySteeringCommittee": "n.v.t.",
+        "repository": "OSLOthema-landbouwgebruiksperceel",
+        "datePublicReviewStart": "n.v.t.",
+        "endOfPublicationDate": "n.v.t.",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
+    },
+    {
+        "title": "Vocabularium Landbouwgebruiksperceel",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ZonderStatus",
+        "descriptionFileName": "voc-lv-landbouwgebruiksperceel.md",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2026-08-03",
+        "specificationDocuments": [
+            {
+                "name": "Vocabularium Landbouwgebruiksperceel",
+                "resourceReference": "https://implementatie.data.vlaanderen.be/ns/lv/landbouwgebruiksperceel#"
+            }
+        ],
+        "documentation": [],
+        "reports": [],
+        "charter": {},
+        "presentations": [],
+        "implementations": [],
+        "relevantStandards": [
+            {
+                "name": "Implementatiemodel Landbouwgebruiksperceel",
+                "resourceReference": "https://implementatie.data.vlaanderen.be/doc/implementatiemodel/lv/landbouwgebruiksperceel"
+            },
+            {
+                "name": "Vocabularium Gebruiksperceel",
+                "resourceReference": "https://data.vlaanderen.be/ns/gebruiksperceel#"
+            },
+            {
+                "name": "Applicatieprofiel OSLO Organisatie",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/organisatie-basis"
+            },
+            {
+                "name": "Vocabularium OSLO Organisatie",
+                "resourceReference": "https://data.vlaanderen.be/ns/organisatie#"
+            },
+            {
+                "name": "Applicatieprofiel OSLO Persoon",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/persoon-basis"
+            },
+            {
+                "name": "Vocabularium OSLO Persoon",
+                "resourceReference": "https://data.vlaanderen.be/ns/persoon#"
+            },
+            {
+                "name": "W3C The Organization Ontology",
+                "resourceReference": "https://www.w3.org/TR/vocab-org/"
+            },
+            {
+                "name": "SEMIC Core Public Organisation Vocabulary",
+                "resourceReference": "https://semiceu.github.io/CPOV/releases/2.1.2/"
+            },
+            {
+                "name": "SEMIC Core Business Vocabulary",
+                "resourceReference": "https://semiceu.github.io/Core-Business-Vocabulary/releases/2.3.0/"
+            },
+            {
+                "name": "SEMIC Core Person Vocabulary",
+                "resourceReference": "https://semiceu.github.io/Core-Person-Vocabulary/releases/2.1.2/"
+            }
+        ],
+        "dataExamples": [],
+        "dateOfRegistration": "2026-06-02",
+        "dateOfAcknowledgementByWorkingGroup": "n.v.t.",
+        "dateOfAcknowledgementBySteeringCommittee": "n.v.t.",
+        "repository": "OSLOthema-landbouwgebruiksperceel",
+        "datePublicReviewStart": "n.v.t.",
+        "endOfPublicationDate": "n.v.t.",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
+    },
+    {
+        "title": "Vocabularium Gebruiksperceel",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "descriptionFileName": "voc-gebruiksperceel.md",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2026-08-03",
+        "specificationDocuments": [
+            {
+                "name": "Vocabularium Gebruiksperceel",
+                "resourceReference": "https://data.vlaanderen.be/ns/gebruiksperceel#"
+            }
+        ],
+        "documentation": [],
+        "reports": [],
+        "charter": {},
+        "presentations": [],
+        "implementations": [],
+        "relevantStandards": [
+            {
+                "name": "Implementatiemodel Landbouwgebruiksperceel",
+                "resourceReference": "https://implementatie.data.vlaanderen.be/doc/implementatiemodel/lv/landbouwgebruiksperceel"
+            },
+            {
+                "name": "Vocabularium Landbouwgebruiksperceel",
+                "resourceReference": "https://implementatie.data.vlaanderen.be/ns/lv/landbouwgebruiksperceel#"
+            }
+        ],
+        "dataExamples": [],
+        "dateOfRegistration": "2026-06-02",
+        "dateOfAcknowledgementByWorkingGroup": "n.v.t.",
+        "dateOfAcknowledgementBySteeringCommittee": "n.v.t.",
+        "repository": "OSLOthema-landbouwgebruiksperceel",
+        "datePublicReviewStart": "n.v.t.",
+        "endOfPublicationDate": "n.v.t.",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
     }
 ]
