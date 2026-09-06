@@ -18203,77 +18203,6 @@
         "_path": ""
     },
     {
-        "title": "SSN SOSA VL",
-        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Interoperabiliteit",
-        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
-        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ZonderStatus",
-        "responsibleOrganisation": [
-            {
-                "name": "Agentschap Digitaal Vlaanderen",
-                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
-            }
-        ],
-        "publicationDate": "2026-02-19",
-        "descriptionFileName": "SSNSOSA-description.md",
-        "specificationDocuments": [],
-        "documentation": [
-            {
-                "name": "Datavoorbeelden SSN SOSA VL",
-                "resourceReference": "https://github.com/Informatievlaanderen/OSLOthema-SSNSOSA-VL/tree/main/resources"
-            }
-        ],
-        "charter": {
-            "name": "Charter SSNSOSAVL",
-            "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SSNSOSA-VL/standaardenregister/charter/Charter_OSLO_SSN%20SOSA%20VL.docx"
-        },
-        "reports": [
-            {
-                "name": "Verslag Business Werkgroep - 3 december 2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SSNSOSA-VL/standaardenregister/reports/Verslag%20-%20Business%20werkgroep%20SSN%20SOSA%20VL.pdf"
-            },
-            {
-                "name": "Verslag Thematische Werkgroep 1 - 14 januari 2026",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SSNSOSA-VL/standaardenregister/reports/Verslag%20Thematische%20werkgroep%201%20-%20SSN%20SOSA%20%202026-02-02.pdf"
-            },
-            {
-                "name": "Verslag Thematische Werkgroep 2 - 3 april 2026",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SSNSOSA-VL/standaardenregister/reports/Verslag%20Thematische%20werkgroep%202%20-%20SSN%20SOSA%20%202026-03-04.pdf"
-            },
-            {
-                "name": "Verslag Thematische Werkgroep 3 - 29 april 2026",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SSNSOSA-VL/standaardenregister/reports/Verslag%20Thematische%20werkgroep%203%20-%20SSN%20SOSA%20%202026-29-04.pdf"
-            }
-        ],
-        "presentations": [
-            {
-                "name": "Presentatie Business Werkgroep -  3 december 2025",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SSNSOSA-VL/standaardenregister/presentations/SSN%20SOSA%20VL%20Business%20Werkgroep.pdf"
-            },
-            {
-                "name": "Presentatie Thematische Werkgroep 1 - 14 januari 2026",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SSNSOSA-VL/standaardenregister/presentations/Presentatie%20SSN%20SOSA%20VL%20Thematische%20werkgroep%201.pdf"
-            },
-            {
-                "name": "Presentatie Thematische Werkgroep 2 - 3 april 2026",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SSNSOSA-VL/standaardenregister/presentations/Presentatie%20SSN%20SOSA%20VL%20Thematische%20werkgroep%202.pdf"
-            },
-            {
-                "name": "Presentatie Thematische Werkgroep 3 - 29 april 2026",
-                "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-SSNSOSA-VL/standaardenregister/presentations/Presentatie%20SSN%20SOSA%20VL%20Thematische%20werkgroep%203.pdf"
-            }
-        ],
-        "implementations": [],
-        "relevantStandards": [],
-        "dataExamples": [],
-        "dateOfRegistration": "2025-11-13",
-        "dateOfAcknowledgementByWorkingGroup": "",
-        "dateOfAcknowledgementBySteeringCommittee": "",
-        "datePublicReviewStart": "",
-        "datePublicReviewEnd": "",
-        "endOfPublicationDate": "",
-        "domain": "https://data.vlaanderen.be/doc/concept/Domein/Omgeving"
-    },
-    {
         "title": "Implementatiemodel Geluidsmeldingen en -metingen",
         "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
         "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
@@ -18602,11 +18531,11 @@
         "relevantStandards": [
             {
                 "name": "Vocabularium Landbouwgebruiksperceel",
-                "resourceReference": "https://implementatie.data.vlaanderen.be/ns/lv/landbouwgebruiksperceel#"
+                "resourceReference": "https://implementatie.data.vlaanderen.be/ns/lv/landbouwgebruiksperceel"
             },
             {
                 "name": "Vocabularium Gebruiksperceel",
-                "resourceReference": "https://data.vlaanderen.be/ns/gebruiksperceel#"
+                "resourceReference": "https://data.vlaanderen.be/ns/gebruiksperceel"
             },
             {
                 "name": "Applicatieprofiel OSLO Organisatie",
@@ -18614,7 +18543,7 @@
             },
             {
                 "name": "Vocabularium OSLO Organisatie",
-                "resourceReference": "https://data.vlaanderen.be/ns/organisatie#"
+                "resourceReference": "https://data.vlaanderen.be/ns/organisatie"
             },
             {
                 "name": "Applicatieprofiel OSLO Persoon",
@@ -18622,7 +18551,7 @@
             },
             {
                 "name": "Vocabularium OSLO Persoon",
-                "resourceReference": "https://data.vlaanderen.be/ns/persoon#"
+                "resourceReference": "https://data.vlaanderen.be/ns/persoon"
             },
             {
                 "name": "W3C The Organization Ontology",
@@ -18666,7 +18595,7 @@
         "specificationDocuments": [
             {
                 "name": "Vocabularium Landbouwgebruiksperceel",
-                "resourceReference": "https://implementatie.data.vlaanderen.be/ns/lv/landbouwgebruiksperceel#"
+                "resourceReference": "https://implementatie.data.vlaanderen.be/ns/lv/landbouwgebruiksperceel"
             }
         ],
         "documentation": [],
@@ -18681,7 +18610,7 @@
             },
             {
                 "name": "Vocabularium Gebruiksperceel",
-                "resourceReference": "https://data.vlaanderen.be/ns/gebruiksperceel#"
+                "resourceReference": "https://data.vlaanderen.be/ns/gebruiksperceel"
             },
             {
                 "name": "Applicatieprofiel OSLO Organisatie",
@@ -18689,7 +18618,7 @@
             },
             {
                 "name": "Vocabularium OSLO Organisatie",
-                "resourceReference": "https://data.vlaanderen.be/ns/organisatie#"
+                "resourceReference": "https://data.vlaanderen.be/ns/organisatie"
             },
             {
                 "name": "Applicatieprofiel OSLO Persoon",
@@ -18697,7 +18626,7 @@
             },
             {
                 "name": "Vocabularium OSLO Persoon",
-                "resourceReference": "https://data.vlaanderen.be/ns/persoon#"
+                "resourceReference": "https://data.vlaanderen.be/ns/persoon"
             },
             {
                 "name": "W3C The Organization Ontology",
@@ -18741,7 +18670,7 @@
         "specificationDocuments": [
             {
                 "name": "Vocabularium Gebruiksperceel",
-                "resourceReference": "https://data.vlaanderen.be/ns/gebruiksperceel#"
+                "resourceReference": "https://data.vlaanderen.be/ns/gebruiksperceel"
             }
         ],
         "documentation": [],
@@ -18756,7 +18685,7 @@
             },
             {
                 "name": "Vocabularium Landbouwgebruiksperceel",
-                "resourceReference": "https://implementatie.data.vlaanderen.be/ns/lv/landbouwgebruiksperceel#"
+                "resourceReference": "https://implementatie.data.vlaanderen.be/ns/lv/landbouwgebruiksperceel"
             }
         ],
         "dataExamples": [],
