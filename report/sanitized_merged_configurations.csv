@@ -262,3 +262,7 @@ Vocabularium Voertuigregistraties,true,true,true,true,true,false,true,false,fals
 Implementatiemodel Landbouwgebruiksperceel,true,true,true,true,true,false,true,false,false,true,true,true,true,false,true,true,true
 Vocabularium Landbouwgebruiksperceel,true,true,true,true,true,false,true,false,false,true,true,true,true,false,true,true,true
 Vocabularium Gebruiksperceel,true,true,true,true,true,false,true,false,false,true,true,true,true,false,true,true,true
+Implementatiemodel zwangerschapsregistratie,true,true,true,true,true,false,true,false,false,true,false,false,false,false,false,true,true
+Vocabularium zwangerschapsregistratie,true,true,true,true,true,false,true,false,false,true,false,false,false,false,false,true,true
+Implementatiemodel wegenvignetregistratie,true,true,true,true,true,false,true,false,false,true,false,false,false,false,false,true,true
+Vocabularium wegenvignetregistratie,true,true,true,true,true,false,true,false,false,true,false,false,false,false,false,true,true

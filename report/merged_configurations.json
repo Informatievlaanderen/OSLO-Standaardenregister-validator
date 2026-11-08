@@ -18696,5 +18696,257 @@
         "datePublicReviewStart": "n.v.t.",
         "endOfPublicationDate": "n.v.t.",
         "domain": "https://data.vlaanderen.be/id/concept/Domein/Omgeving"
+    },
+    {
+        "title": "Implementatiemodel zwangerschapsregistratie",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "descriptionFileName": "impl-vitalink-zwangerschapsregistratie.md",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2026-10-23",
+        "specificationDocuments": [
+            {
+                "name": "Implementatiemodel zwangerschapsregistratie",
+                "resourceReference": "https://implementatie.data.vlaanderen.be/doc/implementatiemodel/vitalink/zwangerschapsregistratie"
+            }
+        ],
+        "documentation": [],
+        "reports": [],
+        "charter": {},
+        "presentations": [],
+        "implementations": [],
+        "relevantStandards": [
+            {
+                "name": "Vocabularium zwangerschapsregistratie",
+                "resourceReference": "https://implementatie.data.vlaanderen.be/ns/vitalink/zwangerschapsregistratie"
+            },
+            {
+                "name": "Applicatieprofiel OSLO Persoon",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/persoon-basis"
+            },
+            {
+                "name": "Vocabularium OSLO Persoon",
+                "resourceReference": "https://data.vlaanderen.be/ns/persoon"
+            },
+            {
+                "name": "Applicatieprofiel OSLO Organisatie",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/organisatie-basis"
+            },
+            {
+                "name": "Vocabularium OSLO Organisatie",
+                "resourceReference": "https://data.vlaanderen.be/ns/organisatie"
+            },
+            {
+                "name": "Vocabularium OSLO Generiek",
+                "resourceReference": "https://data.vlaanderen.be/ns/generiek"
+            },
+            {
+                "name": "Vocabularium OSLO Gezondheidstoestand",
+                "resourceReference": "https://data.vlaanderen.be/ns/gezondheidstoestand"
+            }
+        ],
+        "dataExamples": [],
+        "dateOfRegistration": "2026-11-03",
+        "dateOfAcknowledgementByWorkingGroup": "",
+        "dateOfAcknowledgementBySteeringCommittee": "",
+        "datePublicReviewStart": "",
+        "datePublicReviewEnd": "",
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Welzijn"
+    },
+    {
+        "title": "Vocabularium zwangerschapsregistratie",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+        "descriptionFileName": "voc-vitalink-zwangerschapsregistratie.md",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2026-10-23",
+        "specificationDocuments": [
+            {
+                "name": "Vocabularium zwangerschapsregistratie",
+                "resourceReference": "https://implementatie.data.vlaanderen.be/ns/vitalink/zwangerschapsregistratie"
+            }
+        ],
+        "documentation": [],
+        "reports": [],
+        "charter": {},
+        "presentations": [],
+        "implementations": [],
+        "relevantStandards": [
+            {
+                "name": "Implementatiemodel zwangerschapsregistratie",
+                "resourceReference": "https://implementatie.data.vlaanderen.be/doc/implementatiemodel/vitalink/zwangerschapsregistratie"
+            },
+            {
+                "name": "Applicatieprofiel OSLO Persoon",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/persoon-basis"
+            },
+            {
+                "name": "Vocabularium OSLO Persoon",
+                "resourceReference": "https://data.vlaanderen.be/ns/persoon"
+            },
+            {
+                "name": "Applicatieprofiel OSLO Organisatie",
+                "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/organisatie-basis"
+            },
+            {
+                "name": "Vocabularium OSLO Organisatie",
+                "resourceReference": "https://data.vlaanderen.be/ns/organisatie"
+            },
+            {
+                "name": "Vocabularium OSLO Generiek",
+                "resourceReference": "https://data.vlaanderen.be/ns/generiek"
+            },
+            {
+                "name": "Vocabularium OSLO Gezondheidstoestand",
+                "resourceReference": "https://data.vlaanderen.be/ns/gezondheidstoestand"
+            }
+        ],
+        "dataExamples": [],
+        "dateOfRegistration": "2026-11-03",
+        "dateOfAcknowledgementByWorkingGroup": "",
+        "dateOfAcknowledgementBySteeringCommittee": "",
+        "datePublicReviewStart": "",
+        "datePublicReviewEnd": "",
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Welzijn"
+    },
+    {
+        "title": "Implementatiemodel wegenvignetregistratie",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Implementatiemodel",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ZonderStatus",
+        "descriptionFileName": "impl-magda-wegenvignetregistratie.md",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2026-10-09",
+        "specificationDocuments": [
+            {
+                "name": "Implementatiemodel wegenvignetregistratie",
+                "resourceReference": "https://implementatie.data.vlaanderen.be/doc/implementatiemodel/magda/wegenvignetregistratie"
+            }
+        ],
+        "documentation": [],
+        "reports": [],
+        "charter": {},
+        "presentations": [],
+        "implementations": [],
+        "relevantStandards": [
+            {
+                "name": "Vocabularium wegenvignetregistratie",
+                "resourceReference": "https://implementatie.data.vlaanderen.be/ns/magda/wegenvignetregistratie"
+            },
+            {
+                "name": "Implementatiemodel MAGDA-Voertuigregistratie",
+                "resourceReference": "https://implementatie.data.vlaanderen.be/doc/implementatiemodel/magda/voertuigregistratie"
+            },
+            {
+                "name": "Vocabularium OSLO Voertuigregistratie",
+                "resourceReference": "https://data.vlaanderen.be/ns/voertuigregistratie"
+            },
+            {
+                "name": "Vocabularium OSLO Generiek",
+                "resourceReference": "https://data.vlaanderen.be/ns/generiek"
+            },
+            {
+                "name": "Schema.org",
+                "resourceReference": "https://schema.org/"
+            },
+            {
+                "name": "W3C Asset Description Metadata Schema (ADMS)",
+                "resourceReference": "https://www.w3.org/TR/vocab-adms/"
+            },
+            {
+                "name": "W3C Simple Knowledge Organization System (SKOS)",
+                "resourceReference": "https://www.w3.org/TR/skos-reference/"
+            }
+        ],
+        "dataExamples": [],
+        "dateOfRegistration": "2026-11-03",
+        "dateOfAcknowledgementByWorkingGroup": "",
+        "dateOfAcknowledgementBySteeringCommittee": "",
+        "datePublicReviewStart": "",
+        "datePublicReviewEnd": "",
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
+    },
+    {
+        "title": "Vocabularium wegenvignetregistratie",
+        "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
+        "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
+        "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ZonderStatus",
+        "descriptionFileName": "voc-magda-wegenvignetregistratie.md",
+        "responsibleOrganisation": [
+            {
+                "name": "Agentschap Digitaal Vlaanderen",
+                "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+            }
+        ],
+        "publicationDate": "2026-10-09",
+        "specificationDocuments": [
+            {
+                "name": "Vocabularium wegenvignetregistratie",
+                "resourceReference": "https://implementatie.data.vlaanderen.be/ns/magda/wegenvignetregistratie"
+            }
+        ],
+        "documentation": [],
+        "reports": [],
+        "charter": {},
+        "presentations": [],
+        "implementations": [],
+        "relevantStandards": [
+            {
+                "name": "Implementatiemodel wegenvignetregistratie",
+                "resourceReference": "https://implementatie.data.vlaanderen.be/doc/implementatiemodel/magda/wegenvignetregistratie"
+            },
+            {
+                "name": "Implementatiemodel MAGDA-Voertuigregistratie",
+                "resourceReference": "https://implementatie.data.vlaanderen.be/doc/implementatiemodel/magda/voertuigregistratie"
+            },
+            {
+                "name": "Vocabularium OSLO Voertuigregistratie",
+                "resourceReference": "https://data.vlaanderen.be/ns/voertuigregistratie"
+            },
+            {
+                "name": "Vocabularium OSLO Generiek",
+                "resourceReference": "https://data.vlaanderen.be/ns/generiek"
+            },
+            {
+                "name": "Schema.org",
+                "resourceReference": "https://schema.org/"
+            },
+            {
+                "name": "W3C Asset Description Metadata Schema (ADMS)",
+                "resourceReference": "https://www.w3.org/TR/vocab-adms/"
+            },
+            {
+                "name": "W3C Simple Knowledge Organization System (SKOS)",
+                "resourceReference": "https://www.w3.org/TR/skos-reference/"
+            }
+        ],
+        "dataExamples": [],
+        "dateOfRegistration": "2026-11-03",
+        "dateOfAcknowledgementByWorkingGroup": "",
+        "dateOfAcknowledgementBySteeringCommittee": "",
+        "datePublicReviewStart": "",
+        "datePublicReviewEnd": "",
+        "endOfPublicationDate": "",
+        "domain": "https://data.vlaanderen.be/id/concept/Domein/Mobiliteit"
     }
 ]
